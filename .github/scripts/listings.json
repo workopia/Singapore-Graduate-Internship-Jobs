@@ -8,10 +8,11 @@
   "segment": "sg",
   "site_slug": "singapore",
   "lang": "en",
+  "site_live": true,
   "as_of": "2026-07-10",
   "window_days": 60,
   "total_site_jobs_str": "7.3M+",
-  "generated_at": "2026-07-10T05:04:52.013Z"
+  "generated_at": "2026-07-10T05:20:59.711Z"
  },
  "categories": [
   {
@@ -4302,6 +4303,22 @@
    "date_posted": "2026-06-07T04:08:20.473Z",
    "active": true,
    "url": "https://workopia.io/jobs/b65c19fcae2ab1467fd69b8b05db9841",
+   "category": "finance",
+   "tier": "Graduate"
+  },
+  {
+   "id": "2ccb21c21d74fcad3d1d46e1ca2d33ae",
+   "source": "Workopia",
+   "company_name": "Singapore Land Authority",
+   "company_hi_slug": "singapore-land-authority",
+   "title": "[grit@gov]",
+   "location": "Singapore",
+   "skills": "Background in Accounti, Strong communication s",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-06-06T03:51:00.187Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/2ccb21c21d74fcad3d1d46e1ca2d33ae",
    "category": "finance",
    "tier": "Graduate"
   },

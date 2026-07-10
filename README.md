@@ -1,6 +1,6 @@
 # Singapore Graduate, Entry-Level & Internship Jobs 2026 — Updated Daily
 
-Track the latest Singapore **graduate schemes, entry-level roles, apprenticeships and internships** across Tech, Finance, Healthcare, Trades, Sales & Retail and Business & Admin. 674 hand-picked roles below — part of **7.3M+ active job ads sourced straight from employer career pages, refreshed daily, zero third-party scraping.**
+Track the latest Singapore **graduate schemes, entry-level roles, apprenticeships and internships** across Tech, Finance, Healthcare, Trades, Sales & Retail and Business & Admin. 675 hand-picked roles below — part of **7.3M+ active job ads sourced straight from employer career pages, refreshed daily, zero third-party scraping.**
 
 Maintained by [**Workopia**](https://workopia.io/browsejobs/sg?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs) — the world's 2nd largest job database, 94 countries, 2,517 cities.
 
@@ -8,11 +8,11 @@ Maintained by [**Workopia**](https://workopia.io/browsejobs/sg?utm_source=github
 
 ---
 
-### Browse 674 Roles by Category
+### Browse 675 Roles by Category
 
 - 🎓 **[Graduate & Trainee Programs](#graduate-trainee-programs)** (133) — Internships 80 · Graduate 53 · Entry-level 0
 - 💻 **[Tech](#tech)** (97) — Internships 14 · Graduate 3 · Entry-level 80
-- 💷 **[Finance & Accounting](#finance-accounting)** (124) — Internships 29 · Graduate 15 · Entry-level 80
+- 💷 **[Finance & Accounting](#finance-accounting)** (125) — Internships 29 · Graduate 16 · Entry-level 80
 - 🏥 **[Healthcare](#healthcare)** (80) — Entry-level 80
 - 🔧 **[Trades & Apprenticeships](#trades-apprenticeships)** (80) — Entry-level 80
 - 🛍️ **[Sales & Retail](#sales-retail)** (80) — Entry-level 80
@@ -45,7 +45,7 @@ Maintained by [**Workopia**](https://workopia.io/browsejobs/sg?utm_source=github
 
 > **Looking for something else?**
 > 🔒 Closed/older roles → [Inactive Listings](./README-Inactive.md)
-> 🌍 Other countries → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs)
+> 🌍 Other countries → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs) · [Germany](https://github.com/workopia/Germany-Graduate-Jobs) · [Canada](https://github.com/workopia/Canada-New-Grad-Internship-Jobs) · [Spain](https://github.com/workopia/Spain-Graduate-Internship-Jobs) · [Netherlands](https://github.com/workopia/Netherlands-Graduate-Jobs)
 > 🔎 The full live list → [all Singapore jobs on Workopia](https://workopia.io/browsejobs/sg?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs)
 
 ## FAQs
@@ -390,7 +390,7 @@ Set a job alert on Workopia by role + city and we'll email you when new Singapor
 </tbody>
 </table>
 
-### Graduate (15)
+### Graduate (16)
 
 <table>
 <thead><tr><th width="18%">Company</th><th width="30%">Role</th><th width="13%">Location</th><th width="25%">Key skills</th><th width="8%">Apply</th><th width="6%">Age</th></tr></thead>
@@ -401,7 +401,8 @@ Set a job alert on Workopia by role + city and we'll email you when new Singapor
 <tr><td><strong><a href="https://workopia.io/hi/companies/kpmg-services-pte-ltd?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">KPMG Services Pte Ltd</a></strong></td><td>Audit - Middle Markets / Graduate Associate 2026</td><td>Singapore</td><td>Team collaboration, Audit planning</td><td><a href="https://workopia.io/jobs/5d8bf6d7dcc20a5b499ef347803f2d1c?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2w</td></tr>
 <tr><td>↳</td><td>Audit - Graduate Associate 2026</td><td>Singapore</td><td>Cooperative teamwork, High quality work</td><td><a href="https://workopia.io/jobs/0b9dbe2eaa79801ebbf3dbf8f54d1806?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2w</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/deloitte?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Deloitte</a></strong></td><td>T&l: Associate - Merger And Acquisition Tax (2026…</td><td>Singapore</td><td>0 to 1 year corporate , Bachelor's degree in A</td><td><a href="https://workopia.io/jobs/b65c19fcae2ab1467fd69b8b05db9841?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
-<tr><td>↳</td><td>T&l: Associate - Global Investment & Innovation I…</td><td>Singapore</td><td>Strong written and ver, Analytical mind with m</td><td><a href="https://workopia.io/jobs/2ae8859942bb77fe06bf4cff27596614?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/singapore-land-authority?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Singapore Land Authority</a></strong></td><td>[grit@gov]</td><td>Singapore</td><td>Background in Accounti, Strong communication s</td><td><a href="https://workopia.io/jobs/2ccb21c21d74fcad3d1d46e1ca2d33ae?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/deloitte?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Deloitte</a></strong></td><td>T&l: Associate - Global Investment & Innovation I…</td><td>Singapore</td><td>Strong written and ver, Analytical mind with m</td><td><a href="https://workopia.io/jobs/2ae8859942bb77fe06bf4cff27596614?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
 <tr><td>↳</td><td>T&l: Associate - Business Tax (2026 Graduate)</td><td>Singapore</td><td>Fluent in English comm, Analytical and meticul</td><td><a href="https://workopia.io/jobs/ead201033e905a63b9e32343c52ca1b3?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
 <tr><td>↳</td><td>T&l: Associate - International Tax Advisory (2026…</td><td>Singapore</td><td>Bachelor's degree in A, 0 to 1 year corporate </td><td><a href="https://workopia.io/jobs/6880376b4a8c819d76c62e1e2556b2a1?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
 <tr><td>↳</td><td>T&l: Associate - Business Process Solutions (2026…</td><td>Singapore</td><td>Degree in Accountancy , Fluent English verbal </td><td><a href="https://workopia.io/jobs/1f665de8224ebad25fef572bc18c1835?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>5w</td></tr>
@@ -817,7 +818,7 @@ Set a job alert on Workopia by role + city and we'll email you when new Singapor
 <tr><td>↳</td><td>💫Event Service Executive [Travelling opportunities] 🆕</td><td>Singapore</td><td>Leadership, Interpersonal Skills</td><td><a href="https://workopia.io/jobs/12e36b629dc938be?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>1d</td></tr>
 <tr><td>↳</td><td>🎉Events Assistant [1 to 1 coaching] 🆕</td><td>Singapore</td><td>Leadership, Internal Communication</td><td><a href="https://workopia.io/jobs/d254aa9aa9f67798?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>1d</td></tr>
 <tr><td>↳</td><td>🌈 (TRAINING PROVIDED) BRAND MARKETING ASSISTANT 🌈 🆕</td><td>Singapore</td><td>Leadership, Interpersonal Skills</td><td><a href="https://workopia.io/jobs/5d4885e13cc23064?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>1d</td></tr>
-<tr><td><strong><a href="https://workopia.io/hi/companies/surbana-jurong?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Surbana Jurong</a></strong></td><td>Junior Programme Executive (community Wellness) 🆕</td><td>Singapore</td><td>Community engagement, Client liaison</td><td><a href="https://workopia.io/jobs/8f0f211ae559e8273ded7737e88ddb5c?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>1d</td></tr>
+<tr><td><strong><a href="https://workopia.io/hi/companies/surbana-jurong?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Surbana Jurong</a></strong></td><td>Junior Programme Executive (community Wellness)</td><td>Singapore</td><td>Community engagement, Client liaison</td><td><a href="https://workopia.io/jobs/8f0f211ae559e8273ded7737e88ddb5c?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/eminence-organization-pte-ltd?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">EMINENCE ORGANIZATION PTE. LTD.</a></strong></td><td>🌈 Events Assistant [Travel Opportunities / Train…</td><td>Singapore</td><td>Interpersonal Skills, Having Fun</td><td><a href="https://workopia.io/jobs/bae0d9921bad5a01?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
 <tr><td>↳</td><td>Marketing Associate</td><td>D01 Marina</td><td>Mentoring, Marketing</td><td><a href="https://workopia.io/jobs/ae40db8ebca3b66d?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
 <tr><td><strong><a href="https://workopia.io/hi/companies/audere-marketing?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">AUDERE MARKETING</a></strong></td><td>🚀 Marketing & Events Associate (Full-Time / Week…</td><td>D01 Marina</td><td>People Development, Enthusiasm To Learn</td><td><a href="https://workopia.io/jobs/5f1cb9c01342252a?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs">Apply →</a></td><td>2d</td></tr>
