@@ -32,6 +32,7 @@ Maintained by [**Workopia**](https://workopia.io/browsejobs/sg?utm_source=github
   <h3>🔔 Tired of checking every day?</h3>
   <a href="https://workopia.io/browsejobs/positions/sg/graduate-program?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs"><img src="./static/btn-subscribe.svg" alt="Subscribe for new-job alerts" width="360"></a>
   <p><sub><i>Get alerted when new Singapore graduate & entry-level roles go live.</i></sub></p>
+  <p><sub>Or <b>Watch → Custom → Releases</b> on this repo for a weekly email digest of new roles.</sub></p>
 </div>
 
 ---
@@ -44,7 +45,7 @@ Maintained by [**Workopia**](https://workopia.io/browsejobs/sg?utm_source=github
 
 > **Looking for something else?**
 > 🔒 Closed/older roles → [Inactive Listings](./README-Inactive.md)
-> 🌍 Other countries → UK · US · Australia · Singapore · France
+> 🌍 Other countries → [UK](https://github.com/workopia/UK-Graduate-Jobs) · [US](https://github.com/workopia/US-New-Grad-Internship-Jobs) · [Australia](https://github.com/workopia/Australia-Graduate-Jobs) · [France](https://github.com/workopia/France-Graduate-Apprenticeship-Jobs)
 > 🔎 The full live list → [all Singapore jobs on Workopia](https://workopia.io/browsejobs/sg?utm_source=github&utm_medium=repo&utm_campaign=singapore-graduate-internship-jobs)
 
 ## FAQs
