@@ -329,4 +329,5 @@
 <tr><td>↳</td><td>� Events & Campaign Executive</td><td>D01 Marina</td><td>2026-07-10</td></tr>
 <tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>�⭐️[Entry-Level] Events and roadshow (Training P…</td><td>D01 Marina</td><td>2026-07-10</td></tr>
 <tr><td>↳</td><td>[✈️NEW OPENING✈️] EVENTS SPECIALIST</td><td>Singapore</td><td>2026-07-10</td></tr>
+<tr><td>HARTREE PARTNERS SINGAPORE PTE. LIMITED</td><td>Accounting Intern (Jul to Dec 2026)</td><td>Singapore</td><td>2026-07-11</td></tr>
 </table>
