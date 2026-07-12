@@ -12,7 +12,7 @@
   "as_of": "2026-07-12",
   "window_days": 60,
   "total_site_jobs_str": "7.4M+",
-  "generated_at": "2026-07-12T00:49:35.901Z"
+  "generated_at": "2026-07-12T05:26:49.479Z"
  },
  "categories": [
   {
@@ -38,7 +38,7 @@
   },
   {
    "key": "finance",
-   "name": "Finance & Accounting",
+   "name": "Finance, Consulting & Accounting",
    "icon": "💷",
    "mode": "tiered",
    "l4slug": "graduate-analyst"
@@ -74,6 +74,7 @@
  ],
  "listings": [
   {
+   "salary_display": null,
    "id": "9a74e0ac7b228ae1842cddfcc19d9180",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -90,6 +91,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c47a714e14df7b8bf175bea5c7f84e43",
    "source": "Workopia",
    "company_name": "Amgen Australia Pty Ltd",
@@ -106,6 +108,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "fbf0b7788bf1f3d0",
    "source": "Workopia",
    "company_name": "VENUEXPLORER PTE. LTD.",
@@ -122,6 +125,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "df26a9399f86ad87997f890b079fe56a",
    "source": "Workopia",
    "company_name": "idsMED Group",
@@ -138,6 +142,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "45abcc48d1e50f74236d8b8ba0609d8c",
    "source": "Workopia",
    "company_name": "Lubrizol",
@@ -154,6 +159,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c17c6055ff472285921b20f98b793828",
    "source": "Workopia",
    "company_name": "Dyson",
@@ -170,6 +176,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9d355fe2cddedca53e653c4357b1b256",
    "source": "Workopia",
    "company_name": "CapitaLand",
@@ -186,6 +193,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "aec1dfce8478eeadf9d8ad4507c4581f",
    "source": "Workopia",
    "company_name": "944game Inc",
@@ -202,6 +210,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2ba0667e0be43bc161fa5e9512120234",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -218,6 +227,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "711a4b0a69c95ef49d39b895cef014f3",
    "source": "Workopia",
    "company_name": "Coty",
@@ -234,6 +244,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "58d196c62c521de463b8c9330a9c88be",
    "source": "Workopia",
    "company_name": "Coty",
@@ -250,6 +261,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4433623179b613905ca07988f261eecf",
    "source": "Workopia",
    "company_name": "Coty",
@@ -266,6 +278,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9a9b9b3f35c074d9333a8245e9565abd",
    "source": "Workopia",
    "company_name": "Sanofi UK",
@@ -282,6 +295,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c0c9f8a2a65614752a49b63cb8ea1802",
    "source": "Workopia",
    "company_name": "Deutsche Boerse AG",
@@ -298,6 +312,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b58b0bcc8cd47d89df3878777a7dc76a",
    "source": "Workopia",
    "company_name": "Deutsche Boerse AG",
@@ -314,6 +329,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "eefb95869c262fc0188a321dd90d70fb",
    "source": "Workopia",
    "company_name": "Deutsche Boerse AG",
@@ -330,6 +346,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5c3d943f58350caa",
    "source": "Workopia",
    "company_name": "LAI GAMES PTE. LTD.",
@@ -346,6 +363,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d961b32aeae18b80",
    "source": "Workopia",
    "company_name": "PACIFICLIGHT POWER PTE. LTD.",
@@ -362,6 +380,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2269d3d0ec914eab",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -378,6 +397,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "aff9d3ac20a31def",
    "source": "Workopia",
    "company_name": "OJJ FOODS PTE. LTD.",
@@ -394,6 +414,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f02b5052125ee601",
    "source": "Workopia",
    "company_name": "CHINA TAIPING INSURANCE (SINGAPORE) PTE. LTD.",
@@ -410,6 +431,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "14429a42883825b6ac2afb81457bcd14",
    "source": "Workopia",
    "company_name": "W Brisbane",
@@ -426,6 +448,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c8da43f778e6ef378f747e8414f0f469",
    "source": "Workopia",
    "company_name": "GSK",
@@ -442,6 +465,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "29dc4d88bf9bcf975c45b7422782eb06",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -458,6 +482,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "55c162b40f3a51ef4ca31c6eee334d93",
    "source": "Workopia",
    "company_name": "GSK",
@@ -474,6 +499,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "24d17b0626097f994e059cec4868d487",
    "source": "Workopia",
    "company_name": "GSK",
@@ -490,6 +516,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "920a378901bad29e726e68ee30d7817e",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -506,6 +533,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f7d421b4ba3559e5d6fcf8e73e7ca291",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -522,6 +550,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "cc23fbb87f1abd5c7c3937ca41d310c1",
    "source": "Workopia",
    "company_name": "Gsicareers",
@@ -538,6 +567,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d605dce0c550d1a8e8fa6265b1bbd14b",
    "source": "Workopia",
    "company_name": "Gsicareers",
@@ -554,6 +584,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "025ab5d58ed5ecb77ae9c9001c713bbd",
    "source": "Workopia",
    "company_name": "GSK",
@@ -570,6 +601,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9e96d7aa0626ddffe20c10ef35d1c6d9",
    "source": "Workopia",
    "company_name": "GSK",
@@ -586,6 +618,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "296973a25dd4cdc2784f946c296b11c5",
    "source": "Workopia",
    "company_name": "GSK",
@@ -602,6 +635,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "cd7e87b868870726de3eabd9eb243e58",
    "source": "Workopia",
    "company_name": "GSK",
@@ -618,6 +652,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5a19cbd5985883928fa9a83c004a23c1",
    "source": "Workopia",
    "company_name": "GSK",
@@ -634,6 +669,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5ca65b434479dd9b5d254e45e7202f77",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -650,6 +686,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "02206a6466538a5b6dad808bd24d65fe",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -666,6 +703,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d7e7ee10c07a9ff67be0e17b8b7aafd2",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -682,6 +720,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "84d1625b3ff00cc57be13120ac111edc",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -698,6 +737,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8f915e443a6251143db5c131125de9ee",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -714,6 +754,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "602eeac488c28342dba235796bccb696",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -730,6 +771,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "23c1acf6afe2e877b9267422fc6a5377",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -746,6 +788,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "6e4f8b65937d36989f5e9a1bd2265066",
    "source": "Workopia",
    "company_name": "GSK",
@@ -762,6 +805,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c1e112ed9e7a4b11cf4f18988e3bce6b",
    "source": "Workopia",
    "company_name": "GSK",
@@ -778,6 +822,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8215c372790d5f28aaca59a15fd2fcb6",
    "source": "Workopia",
    "company_name": "GSK",
@@ -794,6 +839,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "51b3f9b3af98c0a270841e3688816354",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -810,6 +856,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7e5e4e65e34a61db",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -826,6 +873,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e860cce04fd6ee4c2a61c999c871f763",
    "source": "Workopia",
    "company_name": "YouTrip",
@@ -842,6 +890,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9c9b7df7b9e38d3b",
    "source": "Workopia",
    "company_name": "NIMISSKI FASHION PTE. LTD.",
@@ -858,6 +907,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "dc9fec43a7e5ff74",
    "source": "Workopia",
    "company_name": "AGROCORP INTERNATIONAL PTE LTD",
@@ -874,6 +924,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "803acb0ecd827634",
    "source": "Workopia",
    "company_name": "A LOOP PTE. LTD.",
@@ -890,6 +941,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7f500d123deb5c1ea43f92ee431b3678",
    "source": "Workopia",
    "company_name": "OCBC Bank",
@@ -906,6 +958,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a99b5759f82fc6a6a2e52ea5c88b3961",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -922,6 +975,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7fb80ab345a1981fff02010b0cdc956c",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -938,6 +992,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c521144368d70e37ad4fe6df7fc9b10c",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -954,6 +1009,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "25226c762c37b0d1ccf9bd28f86849e9",
    "source": "Workopia",
    "company_name": "Takeda UK",
@@ -970,6 +1026,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c62ae22cc679c8f7ba97ac30cfcdafdd",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -986,6 +1043,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "36999fef7732e570389220ff49c40925",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -1002,6 +1060,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a03f4370ed8f389c6681fe6962ef2930",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -1018,6 +1077,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4ca5c752b7ed9d66",
    "source": "Workopia",
    "company_name": "ABUNDUS CAPITAL PTE. LTD.",
@@ -1034,6 +1094,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "bf56050134b5d849",
    "source": "Workopia",
    "company_name": "CINTRA CONSULTANCY PTE. LTD.",
@@ -1050,6 +1111,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "b367a8259c655122",
    "source": "Workopia",
    "company_name": "HYPERSCAL SOLUTIONS PTE. LTD.",
@@ -1066,6 +1128,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "12f0d2db22efe638",
    "source": "Workopia",
    "company_name": "TOP VISION AGENCY",
@@ -1082,6 +1145,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "e531fe72a66e8317",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -1098,6 +1162,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c5ede8bcf0e7d852",
    "source": "Workopia",
    "company_name": "PETS' STATION HOLDING PTE LTD",
@@ -1114,6 +1179,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ac3ddeab438e2b9b",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -1130,6 +1196,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "82ef6e5edd6b221bb06e048899c0f39a",
    "source": "Workopia",
    "company_name": "Micron",
@@ -1146,6 +1213,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "73e922a4381ca448df6ed55730257e36",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -1162,6 +1230,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "528cd6898a3a81288addfde2e4b4072f",
    "source": "Workopia",
    "company_name": "GSK",
@@ -1178,6 +1247,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5958ec7f2cc491b687f2b4de9826e68c",
    "source": "Workopia",
    "company_name": "IHG (InterContinental Hotels Group)",
@@ -1194,6 +1264,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "49f2020f7acbb684ae556536fa31f8ac",
    "source": "Workopia",
    "company_name": "Delivery Hero (foodpanda)",
@@ -1210,6 +1281,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "a4d5fcf2e77c20da0ad274acda4a2399",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -1226,6 +1298,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9bcb342a2a2952e0709ab5bb9a95adfc",
    "source": "Workopia",
    "company_name": "GSK plc",
@@ -1242,6 +1315,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1648452",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1258,6 +1332,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1692955",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1274,6 +1349,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1693408",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1290,6 +1366,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1667037",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1306,6 +1383,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1702086",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -1322,6 +1400,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "aa21d19947464088837c6a00540be5d8",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -1338,6 +1417,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d9ec1b8adadc4c860b40b76520ab057d",
    "source": "Workopia",
    "company_name": "Seamanapplyan",
@@ -1354,6 +1434,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "cc75ec586e64ad11",
    "source": "Workopia",
    "company_name": "PURE K PRIVATE LIMITED",
@@ -1370,6 +1451,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d0f6b4c905774d93",
    "source": "Workopia",
    "company_name": "LE JARDIN FORT CANNING PTE. LTD.",
@@ -1386,6 +1468,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9c1a6cef31ff49fb",
    "source": "Workopia",
    "company_name": "EQUE PTE. LTD.",
@@ -1402,6 +1485,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "0fda1f72a701a57e",
    "source": "Workopia",
    "company_name": "AJUMMA'S TWO PRIVATE LIMITED",
@@ -1418,6 +1502,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "924216ba9d0d93f6",
    "source": "Workopia",
    "company_name": "TELUS HOLDINGS PTE. LTD.",
@@ -1434,6 +1519,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "5f1d5f13bb41c59e",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -1450,6 +1536,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "033d4e47099a0353",
    "source": "Workopia",
    "company_name": "ASCEND MARKETING SOLUTIONS",
@@ -1466,6 +1553,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "0db11eece95802a3",
    "source": "Workopia",
    "company_name": "THE ONE PERCENT SG PTE. LTD.",
@@ -1482,6 +1570,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "e02cab683463d9b7",
    "source": "Workopia",
    "company_name": "IPPUDO SINGAPORE PTE. LTD.",
@@ -1498,6 +1587,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$3,500–6,000/mo",
    "id": "af20e97ad6194da4",
    "source": "Workopia",
    "company_name": "RGP CONSULTANCY",
@@ -1514,6 +1604,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2ae745167ccdea0c",
    "source": "Workopia",
    "company_name": "E&L KITCHEN PTE. LTD.",
@@ -1530,6 +1621,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "a7fe0032243851b2",
    "source": "Workopia",
    "company_name": "WILMAR DISTRIBUTION PTE. LTD.",
@@ -1546,6 +1638,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "24ef35efffc3baaa",
    "source": "Workopia",
    "company_name": "FORT FINANCIAL PTE. LTD.",
@@ -1562,6 +1655,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$36k–44k*",
    "id": "5170e26f9335e22a",
    "source": "Workopia",
    "company_name": "TREE ART INTERNATIONAL PTE. LTD.",
@@ -1578,6 +1672,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "bbb8770a82f16b95",
    "source": "Workopia",
    "company_name": "JAPAN FOODS BRIDGE PTE. LTD.",
@@ -1594,6 +1689,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "b58f11a6e0dd0cdc",
    "source": "Workopia",
    "company_name": "MINOR FOOD GROUP (SINGAPORE) PTE. LTD.",
@@ -1610,6 +1706,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$38k–54k*",
    "id": "a98cd39f56550288",
    "source": "Workopia",
    "company_name": "AUDERE MARKETING",
@@ -1626,6 +1723,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "b58351f7c041ebc6",
    "source": "Workopia",
    "company_name": "QUALITY MEAT PTE. LTD.",
@@ -1642,6 +1740,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2b0c6527387f12ae",
    "source": "Workopia",
    "company_name": "TECKWAH INDUSTRIAL CORPORATION PTE. LTD.",
@@ -1658,6 +1757,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d9ecc8c7827f4ab8",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -1674,6 +1774,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,500/mo",
    "id": "56e5dee5f2ae837c",
    "source": "Workopia",
    "company_name": "HAN'S CAFE & CAKE HOUSE PTE. LTD.",
@@ -1690,6 +1791,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,500/mo",
    "id": "4e6015c3c0ccebee",
    "source": "Workopia",
    "company_name": "HAN'S (S) PTE. LTD.",
@@ -1706,6 +1808,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,500/mo",
    "id": "409704333eafceb9",
    "source": "Workopia",
    "company_name": "HAN'S UNION PTE. LTD.",
@@ -1722,6 +1825,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,500/mo",
    "id": "90695213319bd520",
    "source": "Workopia",
    "company_name": "HANIS (F&B) PTE. LTD.",
@@ -1738,6 +1842,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,500/mo",
    "id": "3dd96851eb3297e2",
    "source": "Workopia",
    "company_name": "HANIS CAFE & BAKERY PTE. LTD.",
@@ -1754,6 +1859,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "fbf8d143a10d9013",
    "source": "Workopia",
    "company_name": "D AURELIUS GROUP PTE. LTD.",
@@ -1770,6 +1876,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,600–4,200/mo",
    "id": "6c9ca1eece596290",
    "source": "Workopia",
    "company_name": "KIM ANN ENGINEERING PRIVATE LIMITED",
@@ -1786,6 +1893,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9e1f1cc2f3eb3bb6",
    "source": "Workopia",
    "company_name": "CREMER SINGAPORE PTE. LTD.",
@@ -1802,6 +1910,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$102k*",
    "id": "4e46bc9611055b87",
    "source": "Workopia",
    "company_name": "ABUNDANT LIFE PLANNERS PTE LTD",
@@ -1818,6 +1927,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "ea1120af26d39430",
    "source": "Workopia",
    "company_name": "ONE PLUS ONE HUMAN RESOURCES PTE. LTD.",
@@ -1834,6 +1944,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "ab6f48db251d8a25",
    "source": "Workopia",
    "company_name": "HUNAN TRADITIONAL CUISINE PTE. LTD.",
@@ -1850,6 +1961,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,000/mo",
    "id": "9a69a8107361f195",
    "source": "Workopia",
    "company_name": "SUNNYSTEP PTE. LTD.",
@@ -1866,6 +1978,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,200–4,400/mo",
    "id": "ea62682215f6db9e",
    "source": "Workopia",
    "company_name": "WAVEWORKS",
@@ -1882,6 +1995,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,500/mo",
    "id": "39159f1a3ea9a755",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -1898,6 +2012,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "2a6f8479cc102713",
    "source": "Workopia",
    "company_name": "INNOVATION ORGANIZATION PTE. LTD.",
@@ -1914,6 +2029,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "5e844baea79dc075",
    "source": "Workopia",
    "company_name": "DELIBOWL PTE. LTD.",
@@ -1930,6 +2046,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–3,800/mo",
    "id": "f5167b5d466ff832",
    "source": "Workopia",
    "company_name": "S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED",
@@ -1946,6 +2063,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,200–4,800/mo",
    "id": "291041e1992eedb1",
    "source": "Workopia",
    "company_name": "VA ORGANIZATION",
@@ -1962,6 +2080,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,200–4,500/mo",
    "id": "e3b54c94f9754373",
    "source": "Workopia",
    "company_name": "EQUE PTE. LTD.",
@@ -1978,6 +2097,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,600–4,800/mo",
    "id": "8578eaa43e5f8c99",
    "source": "Workopia",
    "company_name": "EQUE PTE. LTD.",
@@ -1994,6 +2114,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–4,500/mo",
    "id": "46f3ccca1d24d1f7",
    "source": "Workopia",
    "company_name": "AUDERE MARKETING",
@@ -2010,6 +2131,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,000/mo",
    "id": "78f376e2601d73b0",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -2026,6 +2148,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,000–4,000/mo",
    "id": "7d66baff55c3cbbc",
    "source": "Workopia",
    "company_name": "SKILMATCH RECRUIMENT",
@@ -2042,6 +2165,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "97ed8c862a3fd725",
    "source": "Workopia",
    "company_name": "SKILMATCH RECRUIMENT",
@@ -2058,6 +2182,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "67665e5650090541",
    "source": "Workopia",
    "company_name": "SKILMATCH RECRUIMENT",
@@ -2074,6 +2199,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,000–6,000/mo",
    "id": "3a0d07907597bc05",
    "source": "Workopia",
    "company_name": "BLOOM TO SUCCESS",
@@ -2090,6 +2216,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–5,000/mo",
    "id": "8b1fd0063e87ca14",
    "source": "Workopia",
    "company_name": "ASCEND MARKETING SOLUTIONS",
@@ -2106,6 +2233,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,000–2,700/mo",
    "id": "f4ff908d08ab635f",
    "source": "Workopia",
    "company_name": "BECTON DICKINSON MEDICAL (S) PTE LTD",
@@ -2122,6 +2250,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,000/mo",
    "id": "f9305df7fdfbf4fe",
    "source": "Workopia",
    "company_name": "SIRIUS STAR MARKETING PTE. LTD.",
@@ -2138,6 +2267,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,800/mo",
    "id": "54cf072e081feab5",
    "source": "Workopia",
    "company_name": "CHYE THIAM MAINTENANCE PTE LTD",
@@ -2154,6 +2284,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,000–10,000/mo",
    "id": "06093b17ba68768f",
    "source": "Workopia",
    "company_name": "JDS EXECUTIVE SERVICES",
@@ -2170,6 +2301,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "3bb8d08df403beb5",
    "source": "Workopia",
    "company_name": "HIPPOT PTE. LTD.",
@@ -2186,6 +2318,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "292e1127c9398d21",
    "source": "Workopia",
    "company_name": "EDEN CUBE MARKETING GROUP PTE. LTD.",
@@ -2202,6 +2335,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "712acea20a10f897",
    "source": "Workopia",
    "company_name": "PSA CORPORATION LIMITED",
@@ -2218,6 +2352,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,000/mo",
    "id": "c1ebe2500c1efd27",
    "source": "Workopia",
    "company_name": "FORT FINANCIAL PTE. LTD.",
@@ -2234,6 +2369,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,500/mo",
    "id": "9fd605df5789524a",
    "source": "Workopia",
    "company_name": "THRIVE ORGANIZATION PTE. LTD.",
@@ -2250,6 +2386,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "64d78326e8ec0647",
    "source": "Workopia",
    "company_name": "FORAGERS PTE. LTD.",
@@ -2266,6 +2403,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "faf60ace081fcdbc",
    "source": "Workopia",
    "company_name": "RN CARE PTE. LTD.",
@@ -2282,6 +2420,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "18c985b56c03f94a",
    "source": "Workopia",
    "company_name": "TEMBUSU GARDENS PTE. LTD.",
@@ -2298,6 +2437,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "411bd1cec9c33834",
    "source": "Workopia",
    "company_name": "ALTIUS ORG",
@@ -2314,6 +2454,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "$3,500–5,000/mo",
    "id": "6fb82c8fcf88344a",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -2330,6 +2471,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9ed9741732307633",
    "source": "Workopia",
    "company_name": "SGFR PTE. LTD.",
@@ -2346,6 +2488,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "70e146f5d4df0469",
    "source": "Workopia",
    "company_name": "FORT FINANCIAL PTE. LTD.",
@@ -2362,6 +2505,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,800–4,000/mo",
    "id": "4afc2142686426f6",
    "source": "Workopia",
    "company_name": "SOUP RESTAURANT SINGAPORE PTE. LTD.",
@@ -2378,6 +2522,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,500–5,000/mo",
    "id": "148ab25d247b367d",
    "source": "Workopia",
    "company_name": "SINGFIRE ASIA PTE. LTD.",
@@ -2394,6 +2539,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$2,500–5,000/mo",
    "id": "6b9341e36523f268",
    "source": "Workopia",
    "company_name": "SINGFIRE CAPITAL PTE. LTD.",
@@ -2410,6 +2556,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–5,000/mo",
    "id": "0be348d8d6342bfd",
    "source": "Workopia",
    "company_name": "ATRIX MARKETING SOLUTIONS",
@@ -2426,6 +2573,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$4,000–5,000/mo",
    "id": "6d3d7d4911be813b",
    "source": "Workopia",
    "company_name": "CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.",
@@ -2442,6 +2590,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "cbd3a299cb3dab3d",
    "source": "Workopia",
    "company_name": "POT LUCK F & B SINGAPORE PTE. LTD.",
@@ -2458,6 +2607,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "483f71769bdf9978",
    "source": "Workopia",
    "company_name": "SOUP RESTAURANT SINGAPORE PTE. LTD.",
@@ -2474,6 +2624,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "820ab236466aa497",
    "source": "Workopia",
    "company_name": "LUCKIN COFFEE (SGP) PTE. LTD.",
@@ -2490,6 +2641,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "70922d1a4c13ce52",
    "source": "Workopia",
    "company_name": "ONE PLUS ONE HUMAN RESOURCES PTE. LTD.",
@@ -2506,6 +2658,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "f0b2ea404ee1c316",
    "source": "Workopia",
    "company_name": "FOCUS MANPOWER PTE. LTD.",
@@ -2522,6 +2675,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "57581fe1a7baa473",
    "source": "Workopia",
    "company_name": "TOTAL MANPOWER PTE. LTD.",
@@ -2538,6 +2692,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–5,000/mo",
    "id": "7b1f3d0de8067558",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -2554,6 +2709,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$5,000–10,000/mo",
    "id": "e2a80a0945237679",
    "source": "Workopia",
    "company_name": "FIRST FRONTIER FOOD PTE. LTD.",
@@ -2570,6 +2726,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,000/mo",
    "id": "ef97a54c0a053278",
    "source": "Workopia",
    "company_name": "TACHIHARA SINGAPORE PTE. LTD.",
@@ -2586,6 +2743,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,500–4,000/mo",
    "id": "fa152e78117f8db4",
    "source": "Workopia",
    "company_name": "PULLMAN SINGAPORE PTE. LTD.",
@@ -2602,6 +2760,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$3,000–4,500/mo",
    "id": "366bda854f86b836",
    "source": "Workopia",
    "company_name": "KAFFE GLOBAL PTE. LTD.",
@@ -2618,6 +2777,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$4,500–8,000/mo",
    "id": "d2f4290c25b4ad78",
    "source": "Workopia",
    "company_name": "INVICTUS ADVISORY PTE. LTD.",
@@ -2634,6 +2794,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "c6ed625cc4dc6626",
    "source": "Workopia",
    "company_name": "SILESIA FLAVOURS SOUTH EAST ASIA PTE LTD",
@@ -2650,6 +2811,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "146e0efbb285e67deeb6d6986bdd72b7",
    "source": "Workopia",
    "company_name": "Thales Group",
@@ -2666,6 +2828,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "67abeba0620dcead",
    "source": "Workopia",
    "company_name": "CYBER8 PROFESSIONAL SERVICES PTE. LTD.",
@@ -2682,6 +2845,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "dd8157a0d3d4951c949b007a4ca8648d",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -2698,6 +2862,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "d42340d557d71451",
    "source": "Workopia",
    "company_name": "OLA PARTY PTE. LTD.",
@@ -2714,6 +2879,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "78d5e7f6544ce1a6",
    "source": "Workopia",
    "company_name": "DELIVERY HERO APAC PTE. LIMITED",
@@ -2730,6 +2896,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "a9b586b9ab16ba4e",
    "source": "Workopia",
    "company_name": "DELIVERY HERO APAC PTE. LIMITED",
@@ -2746,6 +2913,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "63cab561db3fce643332c6271285570d",
    "source": "Workopia",
    "company_name": "Delivery Hero (foodpanda)",
@@ -2762,6 +2930,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "ce575e1cd7c13a20",
    "source": "Workopia",
    "company_name": "DXC TECHNOLOGY SERVICES SINGAPORE PTE. LTD.",
@@ -2778,6 +2947,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "5efab7ef2ed1fca0",
    "source": "Workopia",
    "company_name": "KOH INFRASTRUCTURE SERVICES PTE. LTD.",
@@ -2794,6 +2964,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cbb7ed0865a7428b",
    "source": "Workopia",
    "company_name": "NEXTLABS INTERNATIONAL PRIVATE LIMITED",
@@ -2810,6 +2981,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d4c5a29176ae89e09638683f09669770",
    "source": "Workopia",
    "company_name": "Arthrex",
@@ -2826,6 +2998,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "210bef184bb1fdc6abac75e8c0d0aaa0",
    "source": "Workopia",
    "company_name": "Halfspace ApS",
@@ -2842,6 +3015,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8a89358857f120da1445ba536c713cf8",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -2858,6 +3032,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1ef2ab8a80bf235075ded94992b7ea3",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -2874,6 +3049,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a3950d759d3ceca02dc614ef41a4001e",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -2890,6 +3066,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "50253dd38751a315643eedd57e796f63",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -2906,6 +3083,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "22e8f15bbbf8c054ab45fb06e0fdb8f6",
    "source": "Workopia",
    "company_name": "Building and Construction Authority (Singapore)",
@@ -2922,6 +3100,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e358b4af4b4ffda035d024ce13bce36c",
    "source": "Workopia",
    "company_name": "tech.gov.sg",
@@ -2938,6 +3117,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "74dcdd017504a20d",
    "source": "Workopia",
    "company_name": "DCONSTRUCT ROBOTICS PTE. LTD.",
@@ -2954,6 +3134,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d30d4a8b17d744a8",
    "source": "Workopia",
    "company_name": "SINGAPORE MARITIME INSTITUTE",
@@ -2970,6 +3151,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "13dc9492f17260c0",
    "source": "Workopia",
    "company_name": "ETHOS SEARCH ASSOCIATES PTE. LTD.",
@@ -2986,6 +3168,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "37eda16c29b6ca79",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -3002,6 +3185,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5730165b20389373",
    "source": "Workopia",
    "company_name": "VERTEX GAMES PTE. LTD.",
@@ -3018,6 +3202,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "841b7962cf13c0e7",
    "source": "Workopia",
    "company_name": "VERTEX GAMES PTE. LTD.",
@@ -3034,6 +3219,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c9af56edef61121f",
    "source": "Workopia",
    "company_name": "NEWBRIDGE ALLIANCE PTE. LTD.",
@@ -3050,6 +3236,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c1c32975b72f4e76",
    "source": "Workopia",
    "company_name": "QRINNO PTE. LTD.",
@@ -3066,6 +3253,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2f1769d29d7c9cfe",
    "source": "Workopia",
    "company_name": "NEWBRIDGE ALLIANCE PTE. LTD.",
@@ -3082,6 +3270,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e892d939fe2d1093",
    "source": "Workopia",
    "company_name": "STARHUB LTD.",
@@ -3098,6 +3287,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "11d61c0f6fb59d04",
    "source": "Workopia",
    "company_name": "DCONSTRUCT ROBOTICS PTE. LTD.",
@@ -3114,6 +3304,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "23e8af561b292dda",
    "source": "Workopia",
    "company_name": "HELIUS TECHNOLOGIES PTE. LTD.",
@@ -3130,6 +3321,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9f66f6d5ede2c61a",
    "source": "Workopia",
    "company_name": "SATAIR PTE. LTD.",
@@ -3146,6 +3338,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0ceae60183ebbca5",
    "source": "Workopia",
    "company_name": "ALPHAEUS PTE. LTD.",
@@ -3162,6 +3355,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cbcf90cf830d5838",
    "source": "Workopia",
    "company_name": "THINKT PTE. LTD.",
@@ -3178,6 +3372,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "38ec5cf658f497c3",
    "source": "Workopia",
    "company_name": "KDDI ASIA PACIFIC PTE. LTD.",
@@ -3194,6 +3389,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e49da8bddacdc029",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -3210,6 +3406,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f42baaaf7fdcb3ba",
    "source": "Workopia",
    "company_name": "PERCEPT SOLUTIONS PTE. LTD.",
@@ -3226,6 +3423,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c343279fbfc39e72",
    "source": "Workopia",
    "company_name": "QUESS SELECTION & SERVICES PTE. LTD.",
@@ -3242,6 +3440,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "baed1bf3c4668f71",
    "source": "Workopia",
    "company_name": "STEFANINI SINGAPORE PTE. LTD.",
@@ -3258,6 +3457,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "47701d9b210e3c24",
    "source": "Workopia",
    "company_name": "ALPHAEUS PTE. LTD.",
@@ -3274,6 +3474,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2ecca1cceb5f3e58",
    "source": "Workopia",
    "company_name": "REALTEK SINGAPORE PRIVATE LIMITED",
@@ -3290,6 +3491,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c08cb1e3a237f0d3",
    "source": "Workopia",
    "company_name": "REALTEK SINGAPORE PRIVATE LIMITED",
@@ -3306,6 +3508,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "24923bda15d7b24f",
    "source": "Workopia",
    "company_name": "EDGEMATRIX COMPUTING PTE. LIMITED",
@@ -3322,6 +3525,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1df0c21f66aafba2",
    "source": "Workopia",
    "company_name": "INTELLECT MINDS PTE. LTD.",
@@ -3338,6 +3542,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "426d691a56de030c",
    "source": "Workopia",
    "company_name": "PADLET PTE. LTD.",
@@ -3354,6 +3559,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2b9a9a079a4eec15",
    "source": "Workopia",
    "company_name": "ALTROCKS TECH PTE. LTD.",
@@ -3370,6 +3576,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "66105b32b6f912f7",
    "source": "Workopia",
    "company_name": "PERCEPT SOLUTIONS PTE. LTD.",
@@ -3386,6 +3593,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "66aa7070dc514ce5",
    "source": "Workopia",
    "company_name": "DC DIGITAL PTE. LTD.",
@@ -3402,6 +3610,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "47ad6980e1a7a599",
    "source": "Workopia",
    "company_name": "ITCAN PTE. LIMITED",
@@ -3418,6 +3627,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5a9da561e838a127",
    "source": "Workopia",
    "company_name": "NEUTRON PTE. LTD.",
@@ -3434,6 +3644,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5d4df8d3abbbbd23",
    "source": "Workopia",
    "company_name": "AT&S PTE. LTD.",
@@ -3450,6 +3661,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9ac52914a86cb999",
    "source": "Workopia",
    "company_name": "LAI GAMES PTE. LTD.",
@@ -3466,6 +3678,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "68000635e357e483386f9bbdc8c4f0aa",
    "source": "Workopia",
    "company_name": "Google",
@@ -3482,6 +3695,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6f7648cb2230bf2e",
    "source": "Workopia",
    "company_name": "36TY CONSULTANCY PTE. LTD.",
@@ -3498,6 +3712,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c9fca93efdb1d0c9",
    "source": "Workopia",
    "company_name": "QUALENTS PROCONNECT PTE. LTD.",
@@ -3514,6 +3729,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$1,800–2,000/mo",
    "id": "854ef56fb11ef88e",
    "source": "Workopia",
    "company_name": "ABSOLUT POH TEO INVESTMENT HOLDING LLP",
@@ -3530,6 +3746,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9ca7069d918f48f9",
    "source": "Workopia",
    "company_name": "ENCORA TECHNOLOGIES PTE. LTD.",
@@ -3546,6 +3763,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$1,800–2,000/mo",
    "id": "d973592384f2221d",
    "source": "Workopia",
    "company_name": "ACP COMPUTER TRAINING SCHOOL PTE. LTD.",
@@ -3562,6 +3780,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a463d80d082e35c3",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -3578,6 +3797,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2fed1d2cf4ff7cf4",
    "source": "Workopia",
    "company_name": "RAPSYS TECHNOLOGIES PTE. LTD.",
@@ -3594,6 +3814,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b94a76ea62255d3e",
    "source": "Workopia",
    "company_name": "SCIENTEC CONSULTING PTE. LTD.",
@@ -3610,6 +3831,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c50fafa92f7a31ca",
    "source": "Workopia",
    "company_name": "HOY DW PTE. LTD.",
@@ -3626,6 +3848,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4b6f3d316e7e28b3",
    "source": "Workopia",
    "company_name": "STAFFLINK SERVICES PRIVATE LIMITED",
@@ -3642,6 +3865,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "849ba73a2d566a92",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -3658,6 +3882,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e576a0586bed1469",
    "source": "Workopia",
    "company_name": "AURIONPRO MARKET SYSTEMS PTE. LTD.",
@@ -3674,6 +3899,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0e1ce6bd70a1b237a7d13db18efb53a3",
    "source": "Workopia",
    "company_name": "Google",
@@ -3690,6 +3916,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "37cc30e2d1c4799be2f98c550ab61edc",
    "source": "Workopia",
    "company_name": "Google",
@@ -3706,6 +3933,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "63e621a10645f3a949ca4fd994454c1f",
    "source": "Workopia",
    "company_name": "Google",
@@ -3722,6 +3950,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dd829e76ff2edd28bc1fe4a3c36906ce",
    "source": "Workopia",
    "company_name": "Google",
@@ -3738,6 +3967,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0b39d9336625f13857dd5e061b947c53",
    "source": "Workopia",
    "company_name": "Google",
@@ -3754,6 +3984,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5a029d970e76f38cc4e55eebcd35286e",
    "source": "Workopia",
    "company_name": "Google",
@@ -3770,6 +4001,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "601ff31044c3f8a745b6cfffd71ca977",
    "source": "Workopia",
    "company_name": "Google",
@@ -3786,6 +4018,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ba405797bb08c67cba60365ad785c717",
    "source": "Workopia",
    "company_name": "Google",
@@ -3802,6 +4035,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "eb409c22ff2f1851479776743eb83adc",
    "source": "Workopia",
    "company_name": "Google",
@@ -3818,6 +4052,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d9c25daded0b7a059a8f45dcaff80b03",
    "source": "Workopia",
    "company_name": "Google",
@@ -3834,6 +4069,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2ee0ad4261a78bba9323efe2cd900042",
    "source": "Workopia",
    "company_name": "Google",
@@ -3850,6 +4086,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe84a7f406244ff35a484d66308483f9",
    "source": "Workopia",
    "company_name": "Google",
@@ -3866,6 +4103,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bb839df84b9742afffc353b6f64125e3",
    "source": "Workopia",
    "company_name": "Google",
@@ -3882,6 +4120,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "15ae71196676d6089182e6757d70d99f",
    "source": "Workopia",
    "company_name": "Google",
@@ -3898,6 +4137,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a2a0838bbdc60ff2bd093c5ad6488a8",
    "source": "Workopia",
    "company_name": "Google",
@@ -3914,6 +4154,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e03379c272a56dec141d7f64a44cdd4a",
    "source": "Workopia",
    "company_name": "Google",
@@ -3930,6 +4171,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b677f93c929e82cefe22b563c0272c10",
    "source": "Workopia",
    "company_name": "Google",
@@ -3946,6 +4188,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "87d3d3f1036dd2c6",
    "source": "Workopia",
    "company_name": "STRIDES TECHNOLOGIES PTE. LTD.",
@@ -3962,6 +4205,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,800–4,500/mo",
    "id": "6159c1027acdc952",
    "source": "Workopia",
    "company_name": "COMBUILDER PTE LTD",
@@ -3978,6 +4222,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a589e6f8e166192f",
    "source": "Workopia",
    "company_name": "ADECCO PERSONNEL PTE LTD",
@@ -3994,6 +4239,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "16d620c38fde3ff0",
    "source": "Workopia",
    "company_name": "BLUESHEETS PTE. LTD.",
@@ -4010,6 +4256,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f54715fd3bfd0a20",
    "source": "Workopia",
    "company_name": "VINOVA PTE. LTD.",
@@ -4026,6 +4273,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "84d8b56d6c440f55",
    "source": "Workopia",
    "company_name": "FPT ASIA PACIFIC PTE. LTD.",
@@ -4042,6 +4290,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "116aff474cd2ec8b",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -4058,6 +4307,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "581c24579974b709",
    "source": "Workopia",
    "company_name": "MIKOMIKO PTE. LTD.",
@@ -4074,6 +4324,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "878d593fdcd3dc5b0afdb659f7117900",
    "source": "Workopia",
    "company_name": "NBC UNIVERSAL",
@@ -4090,6 +4341,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "f62e6e37021d5fab",
    "source": "Workopia",
    "company_name": "LUMENS PTE. LTD.",
@@ -4106,6 +4358,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1695372",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -4122,6 +4375,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,100–1,500/mo",
    "id": "1a90ac4d2391c25f",
    "source": "Workopia",
    "company_name": "CYNAPSE PTE. LTD.",
@@ -4138,6 +4392,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "HRC1682556",
    "source": "Workopia",
    "company_name": "Infineon",
@@ -4154,6 +4409,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "317faf32b82922da4a36ceb7c15e0d5d",
    "source": "Workopia",
    "company_name": "CapitaLand",
@@ -4170,6 +4426,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "688216bc8186444039c334bb4d341554",
    "source": "Workopia",
    "company_name": "Doctor Anywhere Pte Ltd",
@@ -4186,6 +4443,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9d6a5d3903715438",
    "source": "Workopia",
    "company_name": "SIMPSON SPENCE YOUNG LLP",
@@ -4202,6 +4460,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "cd3c5e46639a9466",
    "source": "Workopia",
    "company_name": "SIMPSON SPENCE YOUNG LLP",
@@ -4218,6 +4477,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "50eda4a6e3e517c3da45c99e92e21c12",
    "source": "Workopia",
    "company_name": "doctoranywhere.my",
@@ -4234,6 +4494,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2d4634380f17be40dd29e706e8092131",
    "source": "Workopia",
    "company_name": "Doctor Anywhere Pte Ltd",
@@ -4250,6 +4511,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "455d437ce072a0d25e6dbed195cad43d",
    "source": "Workopia",
    "company_name": "DOCTOR ANYWHERE PHILIPPINES Inc",
@@ -4266,6 +4528,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "7c30e4a85c030e4b9cf513799789d155",
    "source": "Workopia",
    "company_name": "Coda Payments Pte. Ltd",
@@ -4282,6 +4545,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d457c6a0238bef705f49352c33660a62",
    "source": "Workopia",
    "company_name": "KPMG Services Pte Ltd",
@@ -4298,6 +4562,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$80k–133k*",
    "id": "55aa1eb86c955cdf",
    "source": "Workopia",
    "company_name": "SHOPEE SINGAPORE PRIVATE LIMITED",
@@ -4314,6 +4579,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2d0d8f1db954dc37a8614c3305209617",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -4330,6 +4596,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a498b7d851fe1971",
    "source": "Workopia",
    "company_name": "PEOPLE PROFILERS PTE. LTD.",
@@ -4346,6 +4613,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1f3d8ec9df116704",
    "source": "Workopia",
    "company_name": "VERTEX GAMES PTE. LTD.",
@@ -4362,6 +4630,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e92db80acf69f46d",
    "source": "Workopia",
    "company_name": "PEBBLEROAD PTE. LTD.",
@@ -4378,6 +4647,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8ebb7ff30ef7d83c",
    "source": "Workopia",
    "company_name": "HELIUS TECHNOLOGIES PTE. LTD.",
@@ -4394,6 +4664,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1ee61e4e2b5a1f6c",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -4410,6 +4681,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0a19ba2b8044a33a",
    "source": "Workopia",
    "company_name": "AMBITION GROUP SINGAPORE PTE. LTD.",
@@ -4426,6 +4698,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "61c3330575bc34c7",
    "source": "Workopia",
    "company_name": "SERVICE CONNECTIONS HR CONSULTANCY PTE. LTD.",
@@ -4442,6 +4715,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a61825f523bab3cb",
    "source": "Workopia",
    "company_name": "6ESTATES PTE. LTD.",
@@ -4458,6 +4732,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f9ddb956b84559ff",
    "source": "Workopia",
    "company_name": "PENTAS VISION PTE. LTD.",
@@ -4474,6 +4749,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a72d5522917a6a15",
    "source": "Workopia",
    "company_name": "ALPHA Z PTE. LTD.",
@@ -4490,6 +4766,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4d5026b3c0b89788",
    "source": "Workopia",
    "company_name": "ALPHA Z PTE. LTD.",
@@ -4506,6 +4783,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "062b30738f84502c",
    "source": "Workopia",
    "company_name": "REOLINK TECHNOLOGY PTE. LTD.",
@@ -4522,6 +4800,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b5175d04e935381c",
    "source": "Workopia",
    "company_name": "APAR TECHNOLOGIES PTE. LTD.",
@@ -4538,6 +4817,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f60fe48d1973710015a4c42c30eeafab",
    "source": "Workopia",
    "company_name": "tech.gov.sg",
@@ -4554,6 +4834,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6427c829f7f56642112c5ca09a3a3bde",
    "source": "Workopia",
    "company_name": "tech.gov.sg",
@@ -4570,6 +4851,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7fd1ae47c4c96acb54ab90ec1c5b6d88",
    "source": "Workopia",
    "company_name": "tech.gov.sg",
@@ -4586,6 +4868,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b201fafe4d9ace6271f0ec52e09444e6",
    "source": "Workopia",
    "company_name": "Building and Construction Authority (Singapore)",
@@ -4602,6 +4885,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3de01fc3c661963a91a676880ee79899",
    "source": "Workopia",
    "company_name": "Thales",
@@ -4618,6 +4902,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "38d475df515b62be",
    "source": "Workopia",
    "company_name": "HANSING RECRUITMENT PTE. LTD.",
@@ -4634,6 +4919,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ff7bfcda5b52cfbd",
    "source": "Workopia",
    "company_name": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
@@ -4650,6 +4936,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "27afe64d827dbb8e",
    "source": "Workopia",
    "company_name": "TRULYYY PTE. LTD.",
@@ -4666,6 +4953,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "587573e08c91bda6",
    "source": "Workopia",
    "company_name": "NORGES BANK Singapore Branch",
@@ -4682,6 +4970,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c37296d7d194ec17d9ff22c3eca462c0",
    "source": "Workopia",
    "company_name": "Thales Group",
@@ -4698,6 +4987,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1b2bfcce1c87d76708f412dca0b25a1",
    "source": "Workopia",
    "company_name": "THALES",
@@ -4714,6 +5004,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a3d905e746a1246b",
    "source": "Workopia",
    "company_name": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
@@ -4730,6 +5021,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cf2157fc51eb56f5",
    "source": "Workopia",
    "company_name": "SKILLS AND WORKFORCE DEVELOPMENT AGENCY (FORMER SSG)",
@@ -4746,6 +5038,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "800c6242715ff4c3",
    "source": "Workopia",
    "company_name": "SKILLS AND WORKFORCE DEVELOPMENT AGENCY (FORMER SSG)",
@@ -4762,6 +5055,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fb923a8749632618",
    "source": "Workopia",
    "company_name": "AVN DIGITAL PTE. LTD.",
@@ -4778,6 +5072,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "adf4377827b5a002",
    "source": "Workopia",
    "company_name": "AVENSYS CONSULTING PTE. LTD.",
@@ -4794,6 +5089,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8f83100cab9e9d13",
    "source": "Workopia",
    "company_name": "SPARROW OPERATIONS PRIVATE LIMITED",
@@ -4810,6 +5106,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a15633b2daedca52",
    "source": "Workopia",
    "company_name": "FUTURE ELECTRONICS INC. (DISTRIBUTION) PTE LTD",
@@ -4826,6 +5123,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6be07fc609eb407ca074f1b8d5742a5d",
    "source": "Workopia",
    "company_name": "Reolink",
@@ -4842,6 +5140,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "34e77cee33946b1ca5c37394a4ea6be2",
    "source": "Workopia",
    "company_name": "Reolink",
@@ -4858,6 +5157,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$6,000–9,000/mo",
    "id": "a16e801a17b6bda4",
    "source": "Workopia",
    "company_name": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
@@ -4874,6 +5174,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "68231e1a219c3358",
    "source": "Workopia",
    "company_name": "ASMPT SINGAPORE PTE. LTD.",
@@ -4890,6 +5191,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "237cc9f7124c60db",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -4906,6 +5208,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–5,000/mo",
    "id": "860c13a94c61b939",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -4922,6 +5225,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–8,000/mo",
    "id": "6d1ff360c85c162b",
    "source": "Workopia",
    "company_name": "XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD.",
@@ -4938,6 +5242,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–8,000/mo",
    "id": "b0f5e50ee52db8d4",
    "source": "Workopia",
    "company_name": "XIAOMI TECHNOLOGIES SINGAPORE PTE. LTD.",
@@ -4954,6 +5259,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$5,000–7,000/mo",
    "id": "793dd8af1642cae8",
    "source": "Workopia",
    "company_name": "ZENITH INFOTECH (S) PTE LTD.",
@@ -4970,6 +5276,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,500–5,600/mo",
    "id": "81328fc76c82a056",
    "source": "Workopia",
    "company_name": "PHILLIP NOVA PTE. LTD.",
@@ -4986,6 +5293,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,800–3,000/mo",
    "id": "8f5ad67be72b5933",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -5002,6 +5310,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "76d624d44ca268cb",
    "source": "Workopia",
    "company_name": "SIMPLIFIED TECHNOLOGY PTE. LTD.",
@@ -5018,6 +5327,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,500–4,500/mo",
    "id": "5e6e46e6c014fc21",
    "source": "Workopia",
    "company_name": "O. F. TECHNOLOGY PTE. LTD.",
@@ -5034,6 +5344,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$6,000–8,000/mo",
    "id": "9e3f63fbd76a76f7",
    "source": "Workopia",
    "company_name": "GARENA ONLINE PRIVATE LIMITED",
@@ -5050,6 +5361,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,500–3,000/mo",
    "id": "c2d8c425fa6f10d8",
    "source": "Workopia",
    "company_name": "VITOL ASIA PTE LTD",
@@ -5066,6 +5378,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "120afd1dbf4f8255",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5082,6 +5395,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "79a1e86e49957b69",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5098,6 +5412,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "287d835b6b1571f0",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5114,6 +5429,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,000–6,000/mo",
    "id": "bb53c286cc45ed4a",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5130,6 +5446,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,500–6,000/mo",
    "id": "ec5c4f350f9a6a5d",
    "source": "Workopia",
    "company_name": "DISCOVERMARKET ASIA PTE. LTD.",
@@ -5146,6 +5463,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,800–3,200/mo",
    "id": "19716c5d3d92f626",
    "source": "Workopia",
    "company_name": "VQ PRO PTE. LTD.",
@@ -5162,6 +5480,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$4,500–7,500/mo",
    "id": "42053468f6865ac2",
    "source": "Workopia",
    "company_name": "VISIONPOWER SEMICONDUCTOR MANUFACTURING COMPANY PTE. LTD.",
@@ -5178,6 +5497,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b9220f5e65aed117c498b044b93ca874",
    "source": "Workopia",
    "company_name": "AIG Inc",
@@ -5194,6 +5514,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–6,000/mo",
    "id": "4a970a3949c12407",
    "source": "Workopia",
    "company_name": "8HEXA FINANCIAL PTE. LTD.",
@@ -5210,6 +5531,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$3,000/mo",
    "id": "06f11a9d34267e58",
    "source": "Workopia",
    "company_name": "APBA TG HUMAN RESOURCE PTE. LTD.",
@@ -5226,6 +5548,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–6,000/mo",
    "id": "40d61e21974753ca",
    "source": "Workopia",
    "company_name": "D L RESOURCES PTE LTD",
@@ -5242,6 +5565,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,800–4,200/mo",
    "id": "921b7e083de4ac76",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5258,6 +5582,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–3,300/mo",
    "id": "1c3493f65616a5d7",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -5274,6 +5599,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$5,000–6,100/mo",
    "id": "27afc85a20978b99",
    "source": "Workopia",
    "company_name": "A-IT SOFTWARE SERVICES PTE LTD",
@@ -5290,6 +5616,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "53d0d199e1e3a03f5353317d58f5432b",
    "source": "Workopia",
    "company_name": "PropertyGuru",
@@ -5306,6 +5633,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–4,400/mo",
    "id": "5d2628179ccc549a",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -5322,6 +5650,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f24e5dd76b4580c6",
    "source": "Workopia",
    "company_name": "BEATHCHAPMAN (PTE. LTD.)",
@@ -5338,6 +5667,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3e2eef75ca8d4a8ba4969f763e076af5",
    "source": "Workopia",
    "company_name": "Singapore LNG Corporation Pte Ltd",
@@ -5354,6 +5684,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1c5d752f051f3f71d00ae43565786999",
    "source": "Workopia",
    "company_name": "RELX (Singapore) Pte Ltd",
@@ -5370,6 +5701,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89334517070d6d5f08f9321a278feaff",
    "source": "Workopia",
    "company_name": "Ibstock",
@@ -5386,6 +5718,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2c37072db9dd36a6",
    "source": "Workopia",
    "company_name": "BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD.",
@@ -5402,6 +5735,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "53856df5ca94f2a2",
    "source": "Workopia",
    "company_name": "SMART FORTE CONSULTING LLP",
@@ -5418,6 +5752,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "261873f323f90241",
    "source": "Workopia",
    "company_name": "ITCAN PTE. LIMITED",
@@ -5434,6 +5769,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d26b5a17ff267b18aca097f48e259fba",
    "source": "Workopia",
    "company_name": "SEA",
@@ -5450,6 +5786,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "006e3b3f6b5de69f",
    "source": "Workopia",
    "company_name": "AUDIT ALLIANCE LLP",
@@ -5466,6 +5803,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c7b31c803826e9cd5df6456ed28f9d39",
    "source": "Workopia",
    "company_name": "Barclays",
@@ -5482,6 +5820,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "895808c4e51e0030c45e1eda961cd673",
    "source": "Workopia",
    "company_name": "jobs.barclays",
@@ -5498,6 +5837,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8304f853513bb9d32dc215808c409d10",
    "source": "Workopia",
    "company_name": "gssi.world",
@@ -5514,6 +5854,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "33526746980f20d7b2a8e52d7e3d006a",
    "source": "Workopia",
    "company_name": "Pharmajobber",
@@ -5530,6 +5871,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "4312376fa647f8ad6a63519ce04c5962",
    "source": "Workopia",
    "company_name": "GSK",
@@ -5546,6 +5888,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$3,000–5,000/mo",
    "id": "f42a9b5a48270b9e",
    "source": "Workopia",
    "company_name": "CATALYST RECRUITMENT AGENCY PTE. LTD.",
@@ -5562,6 +5905,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$2,000–3,000/mo",
    "id": "da00a7e08716f131",
    "source": "Workopia",
    "company_name": "CATALYST RECRUITMENT AGENCY PTE. LTD.",
@@ -5578,6 +5922,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$2,000–3,000/mo",
    "id": "aa030f079f5c29bb",
    "source": "Workopia",
    "company_name": "CATALYST RECRUITMENT AGENCY PTE. LTD.",
@@ -5594,6 +5939,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,000–1,400/mo",
    "id": "46abcaadb7a8fc97",
    "source": "Workopia",
    "company_name": "THE BETTER KOMPANY PTE. LTD.",
@@ -5610,6 +5956,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "5368bd353bfb1442",
    "source": "Workopia",
    "company_name": "BARCLAYS BANK PLC",
@@ -5626,6 +5973,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "ac3a562e29d8601f",
    "source": "Workopia",
    "company_name": "SHIPSFOCUS VENTURES PTE. LTD.",
@@ -5642,6 +5990,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,200–1,800/mo",
    "id": "a44f36bebb96d0b5",
    "source": "Workopia",
    "company_name": "MSI GLOBAL PRIVATE LIMITED",
@@ -5658,6 +6007,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$800–1,000/mo",
    "id": "7c85b3f317c881a5",
    "source": "Workopia",
    "company_name": "HYPERSCAL SOLUTIONS PTE. LTD.",
@@ -5674,6 +6024,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,000–1,800/mo",
    "id": "1f1c4872d46c0d13",
    "source": "Workopia",
    "company_name": "MORGAN FUND PTE. LTD.",
@@ -5690,6 +6041,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$3,300–4,000/mo",
    "id": "836cefa1e0218b2c",
    "source": "Workopia",
    "company_name": "FLOWDESK ASIA PTE. LTD.",
@@ -5706,6 +6058,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,000/mo",
    "id": "2648640",
    "source": "Workopia",
    "company_name": "Shipping World Logistics Pte Ltd",
@@ -5722,6 +6075,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "82e29ec1160722c7c9c24fc723bf77de",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -5738,6 +6092,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": "S$1,000–1,200/mo",
    "id": "884685bd0bd6d2d5",
    "source": "Workopia",
    "company_name": "SMCC OVERSEAS SINGAPORE PTE. LTD.",
@@ -5754,6 +6109,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "c1cd8f40f915e297f0fe7034a58fbfd2",
    "source": "Workopia",
    "company_name": "OCBC Bank",
@@ -5770,6 +6126,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d15cdbfd22261f5b394793d85f8afe8b",
    "source": "Workopia",
    "company_name": "EssilorLuxottica SA",
@@ -5786,6 +6143,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2c68b7a5f17f815c4858bfd24faf0762",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -5802,6 +6160,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "fad7d6a42a73e2d5639f60d0b88e4340",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -5818,6 +6177,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "79952e76ebffb475b4c8f0d5b5b41046",
    "source": "Workopia",
    "company_name": "Medtronic",
@@ -5834,6 +6194,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "1a6ca2d82f73f2f532cb7d751e2e5215",
    "source": "Workopia",
    "company_name": "ING",
@@ -5850,6 +6211,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "9c8f51bc348e0460746977f6e2fdb809",
    "source": "Workopia",
    "company_name": "Prudential",
@@ -5866,6 +6228,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "8ba2364377572ed07ebb2f6da980e2be",
    "source": "Workopia",
    "company_name": "Circles.Life",
@@ -5882,6 +6245,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "2c7846440a0b74f519cdc4034a299d64",
    "source": "Workopia",
    "company_name": "224",
@@ -5898,6 +6262,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "63e023bb6a0431a308c1440f7928ba45",
    "source": "Workopia",
    "company_name": "282",
@@ -5914,6 +6279,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "faf2ade3a3720235e6c47182f5850644",
    "source": "Workopia",
    "company_name": "ING Group",
@@ -5930,6 +6296,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "d56d14330b13ec4d",
    "source": "Workopia",
    "company_name": "NICE MINIMART PTE. LTD.",
@@ -5946,6 +6313,7 @@
    "tier": "Intern"
   },
   {
+   "salary_display": null,
    "id": "cf97b4eda9626a824e58d12a966f915a",
    "source": "Workopia",
    "company_name": "AIG Inc",
@@ -5962,6 +6330,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "a8c803bfe26be40480bc57931503b90c",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -5978,6 +6347,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$4,800–6,000/mo",
    "id": "ae09be48197f4d32",
    "source": "Workopia",
    "company_name": "SHOPEE SINGAPORE PRIVATE LIMITED",
@@ -5994,6 +6364,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "5d8bf6d7dcc20a5b499ef347803f2d1c",
    "source": "Workopia",
    "company_name": "KPMG Services Pte Ltd",
@@ -6010,6 +6381,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "0b9dbe2eaa79801ebbf3dbf8f54d1806",
    "source": "Workopia",
    "company_name": "KPMG Services Pte Ltd",
@@ -6026,6 +6398,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "b65c19fcae2ab1467fd69b8b05db9841",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6042,6 +6415,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "2ccb21c21d74fcad3d1d46e1ca2d33ae",
    "source": "Workopia",
    "company_name": "Singapore Land Authority",
@@ -6058,6 +6432,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "2ae8859942bb77fe06bf4cff27596614",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6074,6 +6449,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "ead201033e905a63b9e32343c52ca1b3",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6090,6 +6466,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "6880376b4a8c819d76c62e1e2556b2a1",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6106,6 +6483,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "1f665de8224ebad25fef572bc18c1835",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6122,6 +6500,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "6eb056ede2fccefedc468b298e3e7ed7",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6138,6 +6517,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "6bffe37fb17a732224add16c8ebe61e6",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6154,6 +6534,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "5410992b52cafd34ca2f4c0fe3a575a0",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6170,6 +6551,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "99245b17e7acc3a501613ab2b75d8b57",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6186,6 +6568,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": "S$49k–54k*",
    "id": "f19e83a2bacb117f108ca28e554c4215",
    "source": "Workopia",
    "company_name": "Deloitte",
@@ -6202,6 +6585,7 @@
    "tier": "Graduate"
   },
   {
+   "salary_display": null,
    "id": "9e576dd7ceabdfa4bb82b3afcd77a11f",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -6218,6 +6602,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "07e520a83e8f454b",
    "source": "Workopia",
    "company_name": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
@@ -6234,6 +6619,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7ed6010372975e173b9673ccaf17d757",
    "source": "Workopia",
    "company_name": "Exxon Mobil",
@@ -6250,6 +6636,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "aade4382acebfec3ab7c78e4892199f4",
    "source": "Workopia",
    "company_name": "Exxon Mobil",
@@ -6266,6 +6653,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b49f6635ef543c594f26f9a91e7fa115",
    "source": "Workopia",
    "company_name": "Julius Baer",
@@ -6282,6 +6670,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "654f94f2828c228a990ba9c46c272abc",
    "source": "Workopia",
    "company_name": "Sumitomo Mitsui Banking Corporation",
@@ -6298,6 +6687,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b47039eafc2aaef0fb00e2bf5cf49865",
    "source": "Workopia",
    "company_name": "Sumitomo Mitsui Banking Corporation",
@@ -6314,6 +6704,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0066172aeb5f680052366d508a8a8bb3",
    "source": "Workopia",
    "company_name": "Intesa Sanpaolo S.p.A",
@@ -6330,6 +6721,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$50k–58k*",
    "id": "d24f01a14d3d61972c941c188371039b",
    "source": "Workopia",
    "company_name": "OCBC Bank",
@@ -6346,6 +6738,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c2cb05461352a0f307a517e14e99aca1",
    "source": "Workopia",
    "company_name": "Deutsche Boerse AG",
@@ -6362,6 +6755,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$37k–38k*",
    "id": "ef12f5b30012130a",
    "source": "Workopia",
    "company_name": "TGS C&T PARTNERS PAC",
@@ -6378,6 +6772,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f5508e27bd7be118",
    "source": "Workopia",
    "company_name": "ASSENTSURE ADVISORY PTE. LTD.",
@@ -6394,6 +6789,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1387bd713c28b774",
    "source": "Workopia",
    "company_name": "SIN ASSURANCE PAC",
@@ -6410,6 +6806,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "893e7ae7e8454580",
    "source": "Workopia",
    "company_name": "BLACKWELL GLOBAL SERVICES PTE. LTD.",
@@ -6426,6 +6823,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "88f8ae11e177f08a",
    "source": "Workopia",
    "company_name": "HUDSON RPO (SINGAPORE) PTE. LTD.",
@@ -6442,6 +6840,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f026e9f85a73ae45",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -6458,6 +6857,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "42976655a2168f43",
    "source": "Workopia",
    "company_name": "ASSEMBLY WORKS (PTE. LTD.)",
@@ -6474,6 +6874,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3911a1b9aaf0bc7c",
    "source": "Workopia",
    "company_name": "SCIENTEC CONSULTING PTE. LTD.",
@@ -6490,6 +6891,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f77e9abf2bfe84f5",
    "source": "Workopia",
    "company_name": "ITCAN PTE. LIMITED",
@@ -6506,6 +6908,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6cee25a04502e207",
    "source": "Workopia",
    "company_name": "MICHAEL PAGE INTERNATIONAL PTE LTD",
@@ -6522,6 +6925,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e896c5239d91bd7c",
    "source": "Workopia",
    "company_name": "KAISHI PARTNERS PTE. LTD.",
@@ -6538,6 +6942,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "aa9db1c2abadbfad",
    "source": "Workopia",
    "company_name": "0 COMPROMISE RECRUITMENT PTE. LTD.",
@@ -6554,6 +6959,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0ed5569603140c10",
    "source": "Workopia",
    "company_name": "PROTEGE FUND SERVICES PTE. LTD.",
@@ -6570,6 +6976,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5a67f77d0c1b2fbf",
    "source": "Workopia",
    "company_name": "JP INTERNATIONAL (SG) PTE. LTD.",
@@ -6586,6 +6993,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "55d5dbc7d8a89a9e",
    "source": "Workopia",
    "company_name": "S C TEO PAC",
@@ -6602,6 +7010,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "646cb2edb5b4ad8a",
    "source": "Workopia",
    "company_name": "HALL CHADWICK ASSURANCE PAC",
@@ -6618,6 +7027,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7d3c2f9c4ac5400d",
    "source": "Workopia",
    "company_name": "ADECCO PERSONNEL PTE LTD",
@@ -6634,6 +7044,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a14b65a0d1d19f01",
    "source": "Workopia",
    "company_name": "EY CORPORATE ADVISORS PTE. LTD.",
@@ -6650,6 +7061,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "43f380e656205e14",
    "source": "Workopia",
    "company_name": "ONEBERRY TECHNOLOGIES PTE. LTD.",
@@ -6666,6 +7078,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "37349e2f56227a9f",
    "source": "Workopia",
    "company_name": "JP INTERNATIONAL (SG) PTE. LTD.",
@@ -6682,6 +7095,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "51c78816866b16e4",
    "source": "Workopia",
    "company_name": "MAVENTREE TECHNOLOGY PTE. LTD.",
@@ -6698,6 +7112,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$36k–69k*",
    "id": "c1fa7142b0991521",
    "source": "Workopia",
    "company_name": "WEBSPARKS PTE. LTD.",
@@ -6714,6 +7129,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bfcb5445006fd4bf",
    "source": "Workopia",
    "company_name": "MALTEM ASIA PTE. LTD.",
@@ -6730,6 +7146,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "295df4e90f8dae36",
    "source": "Workopia",
    "company_name": "KEYRUS SINGAPORE PTE. LTD.",
@@ -6746,6 +7163,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "149ec18eebb0a587",
    "source": "Workopia",
    "company_name": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
@@ -6762,6 +7180,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "15306726b51298a0",
    "source": "Workopia",
    "company_name": "ANRADUS PTE. LTD.",
@@ -6778,6 +7197,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4a93c4f9cebf74f9",
    "source": "Workopia",
    "company_name": "MMT GLOBAL TECHNOLOGIES PTE. LTD.",
@@ -6794,6 +7214,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bf69660de3d85da6",
    "source": "Workopia",
    "company_name": "COREE TECH SOLUTION PTE. LTD.",
@@ -6810,6 +7231,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "473423114e9397b3",
    "source": "Workopia",
    "company_name": "MENCAST OFFSHORE & MARINE PTE. LTD.",
@@ -6826,6 +7248,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "74d6488a2e424044",
    "source": "Workopia",
    "company_name": "RECRUITPEDIA PTE. LTD.",
@@ -6842,6 +7265,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "93cd32a802836857",
    "source": "Workopia",
    "company_name": "BRIGHT POINT CAPITAL PTE. LTD.",
@@ -6858,6 +7282,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7b1c61a9d5d45f04",
    "source": "Workopia",
    "company_name": "ZAGRO SINGAPORE PTE LTD",
@@ -6874,6 +7299,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2e3b3f5aaa8b2f82",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -6890,6 +7316,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "09ca5853de1d268b",
    "source": "Workopia",
    "company_name": "SURIYA TRADING ENTERPRISES (S) PTE LTD",
@@ -6906,6 +7333,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1e91b24edfeeec685bfa0f96d8ba00b6",
    "source": "Workopia",
    "company_name": "Google",
@@ -6922,6 +7350,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "beae24fe41c19ad7",
    "source": "Workopia",
    "company_name": "WECRUIT PTE. LTD.",
@@ -6938,6 +7367,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$28k–50k*",
    "id": "e70d43a7ec968840",
    "source": "Workopia",
    "company_name": "LO HOCK LING & CO.",
@@ -6954,6 +7384,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b133ef0492231abd",
    "source": "Workopia",
    "company_name": "HOI HUP NOVENA PTE. LTD.",
@@ -6970,6 +7401,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9149c201e6bdb3a0",
    "source": "Workopia",
    "company_name": "COFACE SERVICES SOUTH ASIA PACIFIC PTE. LTD.",
@@ -6986,6 +7418,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "acedf85716c0980b",
    "source": "Workopia",
    "company_name": "GRANDLINK INTERNATIONAL (SG) PTE. LTD.",
@@ -7002,6 +7435,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3c7070764e2716c6",
    "source": "Workopia",
    "company_name": "GOLDEN BEN PRINTER PTE LTD",
@@ -7018,6 +7452,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "aec284343a205886e02a760156372fd1",
    "source": "Workopia",
    "company_name": "William Grant & Sons Ltd",
@@ -7034,6 +7469,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bea8f9eb73c7d283",
    "source": "Workopia",
    "company_name": "AAA ASSURANCE PAC",
@@ -7050,6 +7486,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f48d4f0f4b99699a",
    "source": "Workopia",
    "company_name": "GRANDWAY FAMILY OFFICE PTE. LTD.",
@@ -7066,6 +7503,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8e16d80ca05cfebb",
    "source": "Workopia",
    "company_name": "NOVEXX PTE. LTD.",
@@ -7082,6 +7520,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2fa421e8958e2a1",
    "source": "Workopia",
    "company_name": "U3 INFOTECH PTE. LTD.",
@@ -7098,6 +7537,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e3cfeb35b3a92eef",
    "source": "Workopia",
    "company_name": "NSEARCH GLOBAL PTE. LTD.",
@@ -7114,6 +7554,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2c175a286dbd7cf0",
    "source": "Workopia",
    "company_name": "IDC TECHNOLOGIES (SINGAPORE) PTE. LTD.",
@@ -7130,6 +7571,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "21f0b15958940b8c",
    "source": "Workopia",
    "company_name": "SHELL INFOTECH PTE. LTD.",
@@ -7146,6 +7588,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4d22a3cfc184f134",
    "source": "Workopia",
    "company_name": "HYPERSCAL SOLUTIONS PTE. LTD.",
@@ -7162,6 +7605,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "157cf023fe389d7e",
    "source": "Workopia",
    "company_name": "LYNEER CORP (SINGAPORE) PTE. LTD.",
@@ -7178,6 +7622,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c77464b141dd7751",
    "source": "Workopia",
    "company_name": "RANDSTAD PTE. LIMITED",
@@ -7194,6 +7639,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$16,000–22,500/mo",
    "id": "dff51a69ac8ffa21",
    "source": "Workopia",
    "company_name": "SQUAREPOINT SERVICES SINGAPORE PTE. LTD.",
@@ -7210,6 +7656,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$8,000–12,000/mo",
    "id": "03529d2a9d980826",
    "source": "Workopia",
    "company_name": "SQUAREPOINT SERVICES SINGAPORE PTE. LTD.",
@@ -7226,6 +7673,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b5d9bd2a27b765af",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7242,6 +7690,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2d325f578dea9a25",
    "source": "Workopia",
    "company_name": "SKILLSFORCE MANAGEMENT CONSULTANCY PTE LTD",
@@ -7258,6 +7707,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d8551d69f6dc8ec4",
    "source": "Workopia",
    "company_name": "PINPOINT ASIA INFOTECH PTE. LTD.",
@@ -7274,6 +7724,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "85a70fa09b6213af",
    "source": "Workopia",
    "company_name": "WILLIE SECRETARIAL SERVICES PTE LTD",
@@ -7290,6 +7741,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6a814239b4539f8a0e4e74c87cd68ff2",
    "source": "Workopia",
    "company_name": "Google",
@@ -7306,6 +7758,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "37438ffca0ef4c03f56fe14a0f054b1b",
    "source": "Workopia",
    "company_name": "Jetstar Airways",
@@ -7322,6 +7775,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,500–4,000/mo",
    "id": "5977efdbb7b10d4d",
    "source": "Workopia",
    "company_name": "PKF-CAP LLP",
@@ -7338,6 +7792,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$30k–48k*",
    "id": "8ef560cc8996c76a",
    "source": "Workopia",
    "company_name": "TRUST RECRUIT PTE. LTD.",
@@ -7354,6 +7809,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e335a0adfebc1750",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7370,6 +7826,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c607c78500302cf6",
    "source": "Workopia",
    "company_name": "INTERLOCK SECURITY AND INVESTIGATION SERVICES PTE LTD",
@@ -7386,6 +7843,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$83k–143k*",
    "id": "afbf6c5aa775a0f0",
    "source": "Workopia",
    "company_name": "GOLDMAN SACHS (SINGAPORE) PTE.",
@@ -7402,6 +7860,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "71577bb6c7ac1aca",
    "source": "Workopia",
    "company_name": "AMBITION GROUP SINGAPORE PTE. LTD.",
@@ -7418,6 +7877,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "eec9e979e209809c",
    "source": "Workopia",
    "company_name": "BDO TAX ADVISORY PTE. LTD.",
@@ -7434,6 +7894,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4f623c5fbaf2664b",
    "source": "Workopia",
    "company_name": "BDO TAX ADVISORY PTE. LTD.",
@@ -7450,6 +7911,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0c031b08560a84a7",
    "source": "Workopia",
    "company_name": "TALENTVUE PTE. LTD.",
@@ -7466,6 +7928,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$66k–70k*",
    "id": "a92ecff7177333f9",
    "source": "Workopia",
    "company_name": "BASIL TECHNOLOGIES PTE. LTD.",
@@ -7482,6 +7945,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "88ae235d04b7e6e5",
    "source": "Workopia",
    "company_name": "ANRADUS PTE. LTD.",
@@ -7498,6 +7962,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7465f9bdbb58f065",
    "source": "Workopia",
    "company_name": "GENTLE SMILE PTE. LTD.",
@@ -7514,6 +7979,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "20c29a347ee00975",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -7530,6 +7996,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "594a49b9ebe113a524c77ca15ff6ed39",
    "source": "Workopia",
    "company_name": "ERI@N",
@@ -7546,6 +8013,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$38k–82k*",
    "id": "184b324a80be65b9b764de5424f9a913",
    "source": "Workopia",
    "company_name": "SAP SE",
@@ -7562,6 +8030,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "37585fe85e0bcd301e172c678e3a1c46",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -7578,6 +8047,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "33300164815ba5f0eac78a7afd30125a",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -7594,6 +8064,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e901b119518e85fb484c37c211f9299b",
    "source": "Workopia",
    "company_name": "S. Rajaratnam School of International Studies (RSIS)",
@@ -7610,6 +8081,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b2a3c18b9b8133e26feafe9ba3770414",
    "source": "Workopia",
    "company_name": "S. Rajaratnam School of International Studies (RSIS)",
@@ -7626,6 +8098,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0536611da37f17f2fa94773231d8603e",
    "source": "Workopia",
    "company_name": "International Flavors & Fragrances",
@@ -7642,6 +8115,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5c43d43fca0b466d",
    "source": "Workopia",
    "company_name": "ABER CARE PTE. LTD.",
@@ -7658,6 +8132,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9b94d8c1e87e6a7c",
    "source": "Workopia",
    "company_name": "SINGAPORE BREAST SURGERY CENTER PTE. LTD.",
@@ -7674,6 +8149,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$30/hr",
    "id": "e116802ea544549d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7690,6 +8166,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6bfb8445d2516eca",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7706,6 +8183,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f9d4287430629e46",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY HEALTH SERVICES GROUP PTE. LTD.",
@@ -7722,6 +8200,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "686b7069cfcefd26",
    "source": "Workopia",
    "company_name": "JOBSTUDIO PTE. LTD.",
@@ -7738,6 +8217,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "75046565076a98a8",
    "source": "Workopia",
    "company_name": "St. Hilda's Community Services Centre",
@@ -7754,6 +8234,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ae0fb20391893203",
    "source": "Workopia",
    "company_name": "CRAWFURD HOSPITAL PTE. LTD.",
@@ -7770,6 +8251,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "11d98eedcbbe34fb",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7786,6 +8268,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$20/hr",
    "id": "54395f28c655fb0a",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -7802,6 +8285,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f854aee28fbe0321",
    "source": "Workopia",
    "company_name": "PACIFIC MEDICAL RECRUITMENT & CONSULTANCY PTE. LTD.",
@@ -7818,6 +8302,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2a8e483012f69676",
    "source": "Workopia",
    "company_name": "ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED",
@@ -7834,6 +8319,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c624ca62fdad2cb6",
    "source": "Workopia",
    "company_name": "WORQ PTE. LTD.",
@@ -7850,6 +8336,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "77d9b1d77b0e2b1d",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY HEALTH SERVICES GROUP PTE. LTD.",
@@ -7866,6 +8353,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f16cf622fac49f06",
    "source": "Workopia",
    "company_name": "St. Hilda's Community Services Centre",
@@ -7882,6 +8370,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "2852672f50a1d6a4",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -7898,6 +8387,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "c43b1e79a517aa81",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -7914,6 +8404,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1f3a82ae2fbd24cb",
    "source": "Workopia",
    "company_name": "PACIFIC MEDICAL RECRUITMENT & CONSULTANCY PTE. LTD.",
@@ -7930,6 +8421,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b27bf2a0058d2d11",
    "source": "Workopia",
    "company_name": "HYPERSCAL SOLUTIONS PTE. LTD.",
@@ -7946,6 +8438,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "168c2cdbcce32b1d",
    "source": "Workopia",
    "company_name": "GM MANPOWER SERVICE PTE. LTD.",
@@ -7962,6 +8455,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "a18364efd40cb80b",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -7978,6 +8472,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cf2b9b0a8d7e1f26",
    "source": "Workopia",
    "company_name": "IDS CLINIC PTE. LTD.",
@@ -7994,6 +8489,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "45b730ff8d7f6451",
    "source": "Workopia",
    "company_name": "KIM'S DENTAL CLINIC PTE. LTD.",
@@ -8010,6 +8506,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "17e40551aec54bff",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8026,6 +8523,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0131cd452b56a747",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8042,6 +8540,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "52361c6800b8cb6e",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8058,6 +8557,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$18/hr",
    "id": "10a96241e906c790",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8074,6 +8574,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,000–3,500/mo",
    "id": "5fd1788ac8368b30",
    "source": "Workopia",
    "company_name": "DENTALIS PTE. LTD.",
@@ -8090,6 +8591,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "52bc677b888edff0",
    "source": "Workopia",
    "company_name": "UNITED DENTAL SURGERY",
@@ -8106,6 +8608,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c9fe66309c32ed9a",
    "source": "Workopia",
    "company_name": "SINGAPORE-MIT ALLIANCE FOR RESEARCH AND TECHNOLOGY CENTRE",
@@ -8122,6 +8625,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e600132fd7a25acf",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8138,6 +8642,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "140c90ee3f929d26",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8154,6 +8659,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "20de03a5787ed1e4",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8170,6 +8676,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "485acadc09a6407a",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8186,6 +8693,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fc949884775fced5",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8202,6 +8710,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a682046f2faf2fa4",
    "source": "Workopia",
    "company_name": "FURRYTAILS VETERINARY CLINIC PTE. LTD.",
@@ -8218,6 +8727,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "311013e79236ab42",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8234,6 +8744,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d6bbe60fefeffde5",
    "source": "Workopia",
    "company_name": "LONZA BIOLOGICS TUAS PTE. LTD.",
@@ -8250,6 +8761,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "69795ce9cdea4336",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -8266,6 +8778,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "453b9daf99819032",
    "source": "Workopia",
    "company_name": "INTERNATIONAL FRENCH SCHOOL (SINGAPORE) LTD.",
@@ -8282,6 +8795,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9514cfbb8256a354c49eb4887f95c4fb",
    "source": "Workopia",
    "company_name": "Google",
@@ -8298,6 +8812,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "14315060524b182d",
    "source": "Workopia",
    "company_name": "BEYOND MEDICAL GROUP PTE. LTD.",
@@ -8314,6 +8829,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "410de0bcbe0bb33f",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8330,6 +8846,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a479aa383d710bf",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8346,6 +8863,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$15–16/hr",
    "id": "7e70f994a48f2fc2",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8362,6 +8880,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$11/hr",
    "id": "239d6abba701c958",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8378,6 +8897,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "32ac212d0c79f3e8",
    "source": "Workopia",
    "company_name": "PEOPLESOLVE PTE. LTD.",
@@ -8394,6 +8914,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$20/hr",
    "id": "c538d6cc2e4b2de9",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8410,6 +8931,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3fa4c44193e92b9d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8426,6 +8948,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6d307e9800a4147d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8442,6 +8965,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "45bf8c6fc5833ed3",
    "source": "Workopia",
    "company_name": "SMILEPOINT DENTAL CENTRE PTE. LTD.",
@@ -8458,6 +8982,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2d3140b2ff54214f",
    "source": "Workopia",
    "company_name": "PRECIOUS SPECIALIST CENTRE PTE. LTD.",
@@ -8474,6 +8999,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "01b8821e548e14a1",
    "source": "Workopia",
    "company_name": "DENTALPLUS CLINIC PTE. LTD.",
@@ -8490,6 +9016,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a079762c96bbb4e9",
    "source": "Workopia",
    "company_name": "DENTALPLUS CLINIC PTE. LTD.",
@@ -8506,6 +9033,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "78427c59e8a73d8d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8522,6 +9050,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a316f8c9372c1053",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8538,6 +9067,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$10.5–13/hr",
    "id": "12962e010c10ff8f",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -8554,6 +9084,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "21b96b7ccafa792b",
    "source": "Workopia",
    "company_name": "SEARCH AVENUE PRIVATE LIMITED",
@@ -8570,6 +9101,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "811834dffbf21288",
    "source": "Workopia",
    "company_name": "SMILEPOINT DENTAL CENTRE PTE. LTD.",
@@ -8586,6 +9118,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "02f49d5776570626",
    "source": "Workopia",
    "company_name": "SMILEPOINT DENTAL CENTRE PTE. LTD.",
@@ -8602,6 +9135,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bb156b55d27b5b30",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8618,6 +9152,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cb6bf0c52cbe44f2",
    "source": "Workopia",
    "company_name": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -8634,6 +9169,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a96b3eb89c0d3dfc",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8650,6 +9186,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c07a0dec8eb4e40c",
    "source": "Workopia",
    "company_name": "TUM CREATE LIMITED",
@@ -8666,6 +9203,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "57d75168f583af81",
    "source": "Workopia",
    "company_name": "TUM CREATE LIMITED",
@@ -8682,6 +9220,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "990ab2e956277251",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8698,6 +9237,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e17212adab741ed3",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8714,6 +9254,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$4,900/mo",
    "id": "9915c81339b454fe",
    "source": "Workopia",
    "company_name": "SCIENTEC CONSULTING PTE. LTD.",
@@ -8730,6 +9271,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e831332def417963",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8746,6 +9288,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3b4f49d3879d5518",
    "source": "Workopia",
    "company_name": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -8762,6 +9305,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "69db0b90cb1e9fa69e09b35a80274a1d",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8778,6 +9322,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "76872851917d848082c5e0183fdaaadc",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8794,6 +9339,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f08bf7493ac79d2b2e67e58de047b536",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8810,6 +9356,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d9bff6b4a66fffbe9ad97489d90c216a",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8826,6 +9373,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8513534744e395a00ea7be02da3c0bd2",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8842,6 +9390,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "80086305ee7d534c3b6a3cc695aafb36",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -8858,6 +9407,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "736c805af840d2ab258eabc33577fe19",
    "source": "Workopia",
    "company_name": "Teradyne, Inc.",
@@ -8874,6 +9424,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "63f67e09ef36cad0f0bf01f8d4d3ae2d",
    "source": "Workopia",
    "company_name": "dormakaba International Holding AG",
@@ -8890,6 +9441,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "792ac01e6bd1e3099758a239b15d45b6",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -8906,6 +9458,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe29f225f0b9475edd3bcf0718045b13",
    "source": "Workopia",
    "company_name": "ST Engineering",
@@ -8922,6 +9475,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3ff865dbb8ebd43b7df7bdcff8aecfd0",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -8938,6 +9492,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8f461fb9cac2d392b8c1f3ff05ff1eba",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -8954,6 +9509,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "be6eeb520b63687928495ee9ecc84e04",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -8970,6 +9526,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c361e7e4162dfe97b69e980584a53ed3",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -8986,6 +9543,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d6d944b49e8874c8f3f7a114e9e90d90",
    "source": "Workopia",
    "company_name": "Otisjob",
@@ -9002,6 +9560,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,500/mo",
    "id": "a79efe7891176ecb",
    "source": "Workopia",
    "company_name": "BRILLIANT ENGINEERING PTE. LTD.",
@@ -9018,6 +9577,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "01ad0f4b78d74e15",
    "source": "Workopia",
    "company_name": "CROWNE PLAZA CHANGI AIRPORT",
@@ -9034,6 +9594,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a5f1c1f0b15bbec9",
    "source": "Workopia",
    "company_name": "SUCCESS RESOURCE CENTRE PTE. LTD.",
@@ -9050,6 +9611,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1e00208635adb8b",
    "source": "Workopia",
    "company_name": "ARMOR ASIA IMAGING SUPPLIES PTE LTD",
@@ -9066,6 +9628,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,300/mo",
    "id": "62e1bb8ffa038842",
    "source": "Workopia",
    "company_name": "TSTAR RECRUIT PTE. LTD.",
@@ -9082,6 +9645,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4644e01d5233cafa",
    "source": "Workopia",
    "company_name": "FIRSTCOM ENGINEERING PTE LTD",
@@ -9098,6 +9662,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3bd87744a9c321a6",
    "source": "Workopia",
    "company_name": "PAN PACIFIC RETAIL MANAGEMENT (SINGAPORE) PTE. LTD.",
@@ -9114,6 +9679,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d0c1a18fb5c643b0",
    "source": "Workopia",
    "company_name": "The Management Corporation - Strata Title Plan No. 1849",
@@ -9130,6 +9696,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "da44ebd9b174d2e9",
    "source": "Workopia",
    "company_name": "PRESCIENT SYSTEMS & TECHNOLOGIES PTE. LTD.",
@@ -9146,6 +9713,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3e95ee3d8b6fc355",
    "source": "Workopia",
    "company_name": "Talent Recruitment Pte Ltd",
@@ -9162,6 +9730,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a75cd3100c9ed9b9",
    "source": "Workopia",
    "company_name": "RENDER PRIVATE LIMITED",
@@ -9178,6 +9747,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "20cb39269e6386aa",
    "source": "Workopia",
    "company_name": "ORION SYSTEMS INTEGRATION PTE. LTD.",
@@ -9194,6 +9764,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4e015b3a20536f49",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -9210,6 +9781,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "235c48c586620310",
    "source": "Workopia",
    "company_name": "OCEANDA HR PTE. LTD.",
@@ -9226,6 +9798,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "57ebf73bb2619f9b",
    "source": "Workopia",
    "company_name": "OTSAW DIGITAL PTE. LTD.",
@@ -9242,6 +9815,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "15cbff5701d5394f",
    "source": "Workopia",
    "company_name": "TALENT TRADER GROUP PTE. LTD.",
@@ -9258,6 +9832,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ee3966247e5b9182",
    "source": "Workopia",
    "company_name": "ALIGN RECRUITMENT PTE. LTD.",
@@ -9274,6 +9849,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cbffb3ec4f7a8fc6",
    "source": "Workopia",
    "company_name": "KLA-TENCOR (SINGAPORE) PTE. LTD.",
@@ -9290,6 +9866,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b60759ab970b8c2c",
    "source": "Workopia",
    "company_name": "WANCO MANPOWER PTE LTD",
@@ -9306,6 +9883,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c7c09cc3fb2d14ca",
    "source": "Workopia",
    "company_name": "JIA YUE ELECTRICAL, PLUMBING & AIR-CON SERVICING",
@@ -9322,6 +9900,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c64be70a7c012ad8",
    "source": "Workopia",
    "company_name": "ACTIVE MANPOWER RESOURCES PTE. LTD.",
@@ -9338,6 +9917,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1035ffb1d90c89cd",
    "source": "Workopia",
    "company_name": "TREETOPS EXECUTIVE RESIDENCES",
@@ -9354,6 +9934,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "de7f8525874a40ec",
    "source": "Workopia",
    "company_name": "RENDER PRIVATE LIMITED",
@@ -9370,6 +9951,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a37908adf4a54443",
    "source": "Workopia",
    "company_name": "JOB EXPRESS SERVICES PTE. LTD.",
@@ -9386,6 +9968,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "277a0f419614073a",
    "source": "Workopia",
    "company_name": "THE SINGAPORE RESORT & SPA",
@@ -9402,6 +9985,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "47538ad5cc3dc3a7",
    "source": "Workopia",
    "company_name": "CHAMBERS PROPERTY MANAGEMENT SERVICES PTE LTD",
@@ -9418,6 +10002,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "031c185c0f6526ad",
    "source": "Workopia",
    "company_name": "EXO DESIGNS PTE. LTD.",
@@ -9434,6 +10019,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8d8ba7530b7a819e",
    "source": "Workopia",
    "company_name": "WHIZ LINK MANPOWER",
@@ -9450,6 +10036,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6d6837fd32038f26",
    "source": "Workopia",
    "company_name": "BLUE STAR SYSTEM PTE. LTD.",
@@ -9466,6 +10053,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7724fe87c5601570",
    "source": "Workopia",
    "company_name": "ONE CONSULTING (GLOBAL) PTE. LTD.",
@@ -9482,6 +10070,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e4bdf5b23d8fc53d",
    "source": "Workopia",
    "company_name": "REVCON ASIA PACIFIC PTE. LTD.",
@@ -9498,6 +10087,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a48145732a2f520e",
    "source": "Workopia",
    "company_name": "GRIFFIN HR CONSULTANCY PTE. LTD.",
@@ -9514,6 +10104,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4acc3fa14d38b028",
    "source": "Workopia",
    "company_name": "AVALANCHE MECHTRONICS PTE LTD",
@@ -9530,6 +10121,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "76949963b5f4d536",
    "source": "Workopia",
    "company_name": "POLYGON SERVICE PTE. LTD.",
@@ -9546,6 +10138,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fb3bf63261a5b105",
    "source": "Workopia",
    "company_name": "AGIS MEDICAL SUPPLIES PTE. LTD.",
@@ -9562,6 +10155,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fcfa622c4c425256",
    "source": "Workopia",
    "company_name": "FORTE BUILDING SERVICES PTE. LTD.",
@@ -9578,6 +10172,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6f0b600f355e4350",
    "source": "Workopia",
    "company_name": "XPERT EMPLOYMENT PTE. LTD.",
@@ -9594,6 +10189,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c2c4c46718465585c5df63509e9bba73",
    "source": "Workopia",
    "company_name": "Rolls-Royce Motor Cars",
@@ -9610,6 +10206,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "170538990f129c51",
    "source": "Workopia",
    "company_name": "GRIFFIN HR CONSULTANCY PTE. LTD.",
@@ -9626,6 +10223,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d42686995dfdcef1",
    "source": "Workopia",
    "company_name": "ALL BEST LANDSCAPE & AUTOMATION ENGINEERING PTE. LTD.",
@@ -9642,6 +10240,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "92cab11473a60ddc",
    "source": "Workopia",
    "company_name": "VIEWQWEST PRIVATE LIMITED",
@@ -9658,6 +10257,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7bb79c12fffdec73",
    "source": "Workopia",
    "company_name": "OAKTREE CONSULTING",
@@ -9674,6 +10274,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ccf9ad15d99f2ec3",
    "source": "Workopia",
    "company_name": "GRIFFIN HR CONSULTANCY PTE. LTD.",
@@ -9690,6 +10291,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d981ea8bbc6962f",
    "source": "Workopia",
    "company_name": "GOODWOOD PARK HOTEL PRIVATE LIMITED",
@@ -9706,6 +10308,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–3,500/mo",
    "id": "21b2969162f32819",
    "source": "Workopia",
    "company_name": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
@@ -9722,6 +10325,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b0abba166f173f0e",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -9738,6 +10342,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0f14eeaa008927de",
    "source": "Workopia",
    "company_name": "NANYANG EQUIPMENT PTE LTD",
@@ -9754,6 +10359,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "476772e9f9779fdb",
    "source": "Workopia",
    "company_name": "ALS TECHNICHEM (SINGAPORE) PTE LTD",
@@ -9770,6 +10376,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b5137590b56ec68c",
    "source": "Workopia",
    "company_name": "THAWE MARINE PTE. LTD.",
@@ -9786,6 +10393,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,800–3,600/mo",
    "id": "b80e384f1a361182",
    "source": "Workopia",
    "company_name": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
@@ -9802,6 +10410,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a744865b3d497106",
    "source": "Workopia",
    "company_name": "LINKEDCORP HR CONSULTANCY PTE. LTD.",
@@ -9818,6 +10427,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3959c1c5c0f1cad9",
    "source": "Workopia",
    "company_name": "KLENCO (SINGAPORE) PRIVATE LIMITED",
@@ -9834,6 +10444,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e9ebdaa835ebcc11",
    "source": "Workopia",
    "company_name": "TCS JOHN HUXLEY SINGAPORE PTE. LTD.",
@@ -9850,6 +10461,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f4380dcb38326234",
    "source": "Workopia",
    "company_name": "TOSHIBA TEC SINGAPORE PTE. LTD.",
@@ -9866,6 +10478,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "04424afccc0e9fe6",
    "source": "Workopia",
    "company_name": "STYL SOLUTIONS PTE. LTD.",
@@ -9882,6 +10495,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0d32c47b9bb37e58",
    "source": "Workopia",
    "company_name": "FUJITSU ASIA PTE LTD",
@@ -9898,6 +10512,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "077732034d2d65e1",
    "source": "Workopia",
    "company_name": "MERRIES EMPLOYMENT LLP",
@@ -9914,6 +10529,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "478e6c880805eb63",
    "source": "Workopia",
    "company_name": "SKYWORKS GLOBAL PTE. LTD.",
@@ -9930,6 +10546,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$800–3,600/mo",
    "id": "d11d1c5bcbe5d406",
    "source": "Workopia",
    "company_name": "OCTOMATE STAFFING PTE. LTD.",
@@ -9946,6 +10563,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "321bcd6df79352bd",
    "source": "Workopia",
    "company_name": "SLEEKWORKS PTE. LTD.",
@@ -9962,6 +10580,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8653a33fb1f39a0e",
    "source": "Workopia",
    "company_name": "DAY ONE PTE. LTD.",
@@ -9978,6 +10597,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "33fe3aabb89a95f1",
    "source": "Workopia",
    "company_name": "LINKEDCORP HR CONSULTANCY PTE. LTD.",
@@ -9994,6 +10614,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,500–3,500/mo",
    "id": "86c83ec8df3b7344",
    "source": "Workopia",
    "company_name": "ASE SINGAPORE PTE. LTD.",
@@ -10010,6 +10631,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,500–4,500/mo",
    "id": "6d1d00eafca09951",
    "source": "Workopia",
    "company_name": "ASE SINGAPORE PTE. LTD.",
@@ -10026,6 +10648,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "14b7360702bd43e6",
    "source": "Workopia",
    "company_name": "JJ CONSULTING SERVICES",
@@ -10042,6 +10665,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "574afa97c73faaae03d0b71ac525eaa1",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -10058,6 +10682,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$38k–54k*",
    "id": "20c4717d51bd407e",
    "source": "Workopia",
    "company_name": "AUDERE MARKETING",
@@ -10074,6 +10699,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$38k–54k*",
    "id": "c8c79f740e5a87da",
    "source": "Workopia",
    "company_name": "AUDERE MARKETING",
@@ -10090,6 +10716,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "abcd752f1d30d739",
    "source": "Workopia",
    "company_name": "RAFFLES EMPLOYMENT PTE. LTD.",
@@ -10106,6 +10733,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8b33c59aa6363237",
    "source": "Workopia",
    "company_name": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
@@ -10122,6 +10750,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9e567d42367c15bb",
    "source": "Workopia",
    "company_name": "ANRADUS PTE. LTD.",
@@ -10138,6 +10767,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3999500bfbc627c2",
    "source": "Workopia",
    "company_name": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
@@ -10154,6 +10784,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe76191d1d10e03a",
    "source": "Workopia",
    "company_name": "CAREER PRODUCTIONS",
@@ -10170,6 +10801,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8afa015d5056fa55",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -10186,6 +10818,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6e41349dfd341794",
    "source": "Workopia",
    "company_name": "WINTER TIME PTE. LTD.",
@@ -10202,6 +10835,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6fea877ab0918aec",
    "source": "Workopia",
    "company_name": "MST GOLF (SINGAPORE) PTE LTD",
@@ -10218,6 +10852,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f0fd4247e4e37c55",
    "source": "Workopia",
    "company_name": "VASARI (SINGAPORE) PTE. LTD.",
@@ -10234,6 +10869,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "46d8846cc18d58ba",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -10250,6 +10886,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "c28968c85706e9b0",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10266,6 +10903,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,200/mo",
    "id": "791eab93ac303b7f",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10282,6 +10920,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "19ed92dd9d27aef3",
    "source": "Workopia",
    "company_name": "BAN LEONG PAWNSHOP PTE. LTD.",
@@ -10298,6 +10937,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "e8b265a12a79f9cb",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10314,6 +10954,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "da90e3b09ddb2907",
    "source": "Workopia",
    "company_name": "CALS BRAND SOLUTIONS PTE. LTD.",
@@ -10330,6 +10971,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cdae9fbf55db1881",
    "source": "Workopia",
    "company_name": "GAVILA DOME PTE. LTD.",
@@ -10346,6 +10988,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a0ec817fd6b7a32e",
    "source": "Workopia",
    "company_name": "GAVILA DOME PTE. LTD.",
@@ -10362,6 +11005,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "252f88ea1e8738ec",
    "source": "Workopia",
    "company_name": "COMFY PTE. LTD.",
@@ -10378,6 +11022,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bc5cb517d1248fec",
    "source": "Workopia",
    "company_name": "LIFE IDEAS PTE. LTD.",
@@ -10394,6 +11039,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "19ae017b0ef1e2b9",
    "source": "Workopia",
    "company_name": "QUEEN C (PRM) PTE. LTD.",
@@ -10410,6 +11056,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,000–2,800/mo",
    "id": "517149ef907727df",
    "source": "Workopia",
    "company_name": "ACTIVE HR MANAGEMENT PTE. LTD.",
@@ -10426,6 +11073,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3520a88958081761",
    "source": "Workopia",
    "company_name": "MST GOLF (SINGAPORE) PTE LTD",
@@ -10442,6 +11090,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$11/hr",
    "id": "6b38cfd87d9fb3e0",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -10458,6 +11107,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "25dcff00f12aed18",
    "source": "Workopia",
    "company_name": "EM S HAFSA PTE. LTD.",
@@ -10474,6 +11124,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c879c59cd9d91634",
    "source": "Workopia",
    "company_name": "GOODCROP PTE LTD",
@@ -10490,6 +11141,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2377284c898b69fb",
    "source": "Workopia",
    "company_name": "CACAO SOCIAL PTE. LTD.",
@@ -10506,6 +11158,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f4f4b3a4cd384b7b",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -10522,6 +11175,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "929a774ce2ea2741",
    "source": "Workopia",
    "company_name": "MCI CONSULTING PTE. LTD.",
@@ -10538,6 +11192,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "98bca29304073b84",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -10554,6 +11209,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9fdcf08003e4137d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -10570,6 +11226,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "14a6c634c4f721d0",
    "source": "Workopia",
    "company_name": "IDS CLINIC PTE. LTD.",
@@ -10586,6 +11243,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a3ecc34be833b75f",
    "source": "Workopia",
    "company_name": "FAR EAST HOSPITALITY MANAGEMENT (S) PTE. LTD.",
@@ -10602,6 +11260,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "db471586277b5164",
    "source": "Workopia",
    "company_name": "ALLIANCE GLOBAL DISTRIBUTION PTE. LTD.",
@@ -10618,6 +11277,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e93b6e4d69dd26b2",
    "source": "Workopia",
    "company_name": "CELLVEC PTE. LTD.",
@@ -10634,6 +11294,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3ea5eaf6fc6095e2",
    "source": "Workopia",
    "company_name": "TVS SCS SINGAPORE PTE. LTD.",
@@ -10650,6 +11311,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9f97d56dbcce1bd2",
    "source": "Workopia",
    "company_name": "ALEPH LOGISTICS PTE. LTD.",
@@ -10666,6 +11328,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "e2bd051057eb3e73",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10682,6 +11345,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2f2dc86b42ca0902",
    "source": "Workopia",
    "company_name": "FUTURE ELECTRONICS INC. (DISTRIBUTION) PTE LTD",
@@ -10698,6 +11362,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ad632cda6c81d915",
    "source": "Workopia",
    "company_name": "TOTAL MANPOWER PTE. LTD.",
@@ -10714,6 +11379,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9669cd7c73f0894d",
    "source": "Workopia",
    "company_name": "RECRUITFLASH PTE. LTD.",
@@ -10730,6 +11396,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "30a694f3fb605d26",
    "source": "Workopia",
    "company_name": "WINTER TIME PTE. LTD.",
@@ -10746,6 +11413,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "056e52b6201257b9",
    "source": "Workopia",
    "company_name": "SG SAGAWA AMEROID PTE. LTD.",
@@ -10762,6 +11430,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "93a896190fbe965b",
    "source": "Workopia",
    "company_name": "SEARCH PERSONNEL PRIVATE LIMITED",
@@ -10778,6 +11447,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$13/hr",
    "id": "f332c1fe83638bad",
    "source": "Workopia",
    "company_name": "SEMIKO RECRUITMENT & CONSULTANTS PTE LTD",
@@ -10794,6 +11464,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e173478dc5af8118",
    "source": "Workopia",
    "company_name": "TOTAL MANPOWER PTE. LTD.",
@@ -10810,6 +11481,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,800–4,200/mo",
    "id": "23df65de0b8225e0",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -10826,6 +11498,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,200–4,800/mo",
    "id": "a324b19bb0373dee",
    "source": "Workopia",
    "company_name": "ATRIX MARKETING SOLUTIONS",
@@ -10842,6 +11515,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$4,500/mo",
    "id": "1b6c6e695c4178aa",
    "source": "Workopia",
    "company_name": "WAVEWORKS",
@@ -10858,6 +11532,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6e40e1b8d22c74e6",
    "source": "Workopia",
    "company_name": "NOVARA GLOBAL",
@@ -10874,6 +11549,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$36k–96k*",
    "id": "b1400a465112cf42",
    "source": "Workopia",
    "company_name": "WAVEWORKS",
@@ -10890,6 +11566,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$36k–96k*",
    "id": "1fc2961777986261",
    "source": "Workopia",
    "company_name": "WAVEWORKS",
@@ -10906,6 +11583,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d223ceedd595cdb9",
    "source": "Workopia",
    "company_name": "LVMG PTE. LTD.",
@@ -10922,6 +11600,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1af578e01392f98f",
    "source": "Workopia",
    "company_name": "YONG KANG TCM CLINIC PTE. LTD.",
@@ -10938,6 +11617,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9db1f1a3142fec7c",
    "source": "Workopia",
    "company_name": "REFRESH GROUP PTE. LTD.",
@@ -10954,6 +11634,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "f46482bf4f98f200",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10970,6 +11651,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,200/mo",
    "id": "6395f58a4ab5d88d",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -10986,6 +11668,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,200/mo",
    "id": "8d835ec1472e3db6",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11002,6 +11685,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8f2c2bd14e09b533",
    "source": "Workopia",
    "company_name": "8 SERVICE CENTRE PTE. LTD.",
@@ -11018,6 +11702,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3206ade53eeab5ee",
    "source": "Workopia",
    "company_name": "NIMISSKI FASHION PTE. LTD.",
@@ -11034,6 +11719,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "fe87b6b847fbd533",
    "source": "Workopia",
    "company_name": "WOLA RECRUITMENT PTE. LTD.",
@@ -11050,6 +11736,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "824265c38bfebabd",
    "source": "Workopia",
    "company_name": "SEUNG TAE INTERNATIONAL PTE. LTD.",
@@ -11066,6 +11753,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8b0fe5f3aeb764a0",
    "source": "Workopia",
    "company_name": "NIMISSKI MANUFACTURING PTE. LTD.",
@@ -11082,6 +11770,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e70eae14d4a92cf7",
    "source": "Workopia",
    "company_name": "SIA HUAT PRIVATE LIMITED",
@@ -11098,6 +11787,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,200/mo",
    "id": "a84ada100e7e581f",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11114,6 +11804,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$2,200/mo",
    "id": "50014aa868418d0d",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11130,6 +11821,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$12/hr",
    "id": "8dc84959e5544f34",
    "source": "Workopia",
    "company_name": "F J BENJAMIN (SINGAPORE) PTE LTD",
@@ -11146,6 +11838,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6cbbfcfe093ad073",
    "source": "Workopia",
    "company_name": "JML SINGAPORE PTE. LTD.",
@@ -11162,6 +11855,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bb9f0b0c18768bdf",
    "source": "Workopia",
    "company_name": "STIGIOUS PTE. LTD.",
@@ -11178,6 +11872,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$14–16/hr",
    "id": "ba1ddb7f469f0140",
    "source": "Workopia",
    "company_name": "LUXURY VENTURES PTE. LTD.",
@@ -11194,6 +11889,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "06f620f8555592a1",
    "source": "Workopia",
    "company_name": "LEATHERSOLUTION PTE. LTD.",
@@ -11210,6 +11906,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dfeafb8123090504",
    "source": "Workopia",
    "company_name": "ZAHRA SG PTE. LTD.",
@@ -11226,6 +11923,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e2f085ef9c50bea9",
    "source": "Workopia",
    "company_name": "SRI ABHIRAMA ENTERPRISES PRIVATE LIMITED",
@@ -11242,6 +11940,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "3cc4f9ef21aa7af0",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -11258,6 +11957,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$3,000–4,500/mo",
    "id": "cf72b4de14b80654",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11274,6 +11974,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bc4ad4efa0f52f2d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -11290,6 +11991,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$2,600–3,400/mo",
    "id": "47eef66ac4d98a4f",
    "source": "Workopia",
    "company_name": "ARCADIA HEALTH CONSULTANCY PTE. LTD.",
@@ -11306,6 +12008,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "12c6f4d5df4ef3ec",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -11322,6 +12025,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d1cc1bfea98a02afa44c8cd347cbfd03",
    "source": "Workopia",
    "company_name": "Applied Materials Inc",
@@ -11338,6 +12042,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f1a14b0ec7979691",
    "source": "Workopia",
    "company_name": "DAEWOO-DONGAH JOINT VENTURE",
@@ -11354,6 +12059,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7f9fae75a2a370b4",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11370,6 +12076,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bae0d9921bad5a01",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11386,6 +12093,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f541757025e9a689",
    "source": "Workopia",
    "company_name": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
@@ -11402,6 +12110,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dc41642c3c7a303e",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11418,6 +12127,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4adaafcbf3849ea7",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11434,6 +12144,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2b22fecdf0994bac",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11450,6 +12161,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "d4046ebd7a5294c1",
    "source": "Workopia",
    "company_name": "PERSOL SINGAPORE PTE. LTD.",
@@ -11466,6 +12178,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$38k–54k*",
    "id": "88005f8c3621e173",
    "source": "Workopia",
    "company_name": "AUDERE MARKETING",
@@ -11482,6 +12195,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7160a64ded8fbfb200d28685240e4a78",
    "source": "Workopia",
    "company_name": "AGGREKO",
@@ -11498,6 +12212,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "825ae2ccd13b9e2706a0f5ac8c5951fc",
    "source": "Workopia",
    "company_name": "RTX Corporation",
@@ -11514,6 +12229,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bb4be57d8b4968722455b6687a0c2a74",
    "source": "Workopia",
    "company_name": "Toll Group",
@@ -11530,6 +12246,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "6bbcf3715d8aa457",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11546,6 +12263,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "5d0eda9f53cb9de8",
    "source": "Workopia",
    "company_name": "WECRUIT PTE. LTD.",
@@ -11562,6 +12280,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a2ba6e552e53942",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -11578,6 +12297,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0e1e9e71d158ae3b",
    "source": "Workopia",
    "company_name": "RECRUIT INC PRIVATE LIMITED",
@@ -11594,6 +12314,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "cb5a8d1d342eddf1",
    "source": "Workopia",
    "company_name": "PHOON HUAT PTE. LTD.",
@@ -11610,6 +12331,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "43411eb07e5ac7fd",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -11626,6 +12348,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e5713e589c9d133b",
    "source": "Workopia",
    "company_name": "PHOON HUAT PTE. LTD.",
@@ -11642,6 +12365,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "60744df8f8be9511",
    "source": "Workopia",
    "company_name": "PHOON HUAT PTE. LTD.",
@@ -11658,6 +12382,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8af18ca131fa4c96",
    "source": "Workopia",
    "company_name": "AMBITION GROUP SINGAPORE PTE. LTD.",
@@ -11674,6 +12399,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "564a4bd88b83363a",
    "source": "Workopia",
    "company_name": "LEON EXHIBITION PTE. LTD.",
@@ -11690,6 +12416,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "eec00836f3e0c99e",
    "source": "Workopia",
    "company_name": "PRESTIGE OCEAN PTE. LTD.",
@@ -11706,6 +12433,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dce47b074f46b19d",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11722,6 +12450,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e9fe731c899d0d68",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -11738,6 +12467,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "4762711e7f009cd1",
    "source": "Workopia",
    "company_name": "LIM TRADERS PTE. LTD.",
@@ -11754,6 +12484,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7d604e99751ebc1c",
    "source": "Workopia",
    "company_name": "TOTAL MANPOWER PTE. LTD.",
@@ -11770,6 +12501,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "475491a287a1ba90",
    "source": "Workopia",
    "company_name": "SHEER TECHNOLOGY PTE. LTD.",
@@ -11786,6 +12518,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2f20afc649e67410",
    "source": "Workopia",
    "company_name": "SLAB SERVICES PRIVATE LIMITED",
@@ -11802,6 +12535,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f44ca6eb9d718ba3",
    "source": "Workopia",
    "company_name": "BSG LANDSCAPE & CONSTRUCTION PTE. LTD.",
@@ -11818,6 +12552,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "976310366f85f44e",
    "source": "Workopia",
    "company_name": "CLEAN NOW PTE. LTD.",
@@ -11834,6 +12569,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1ca2e0304a31047c",
    "source": "Workopia",
    "company_name": "HOMEWORKS CONSULTANCY PTE. LTD.",
@@ -11850,6 +12586,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "8ee6ecb5ae0b9f83",
    "source": "Workopia",
    "company_name": "PHOON HUAT PTE. LTD.",
@@ -11866,6 +12603,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$13–20/hr",
    "id": "ee4498183a123dd7",
    "source": "Workopia",
    "company_name": "BGC GROUP PTE. LTD.",
@@ -11882,6 +12620,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "7d32b0acace1ff08",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11898,6 +12637,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89741b31a0384854",
    "source": "Workopia",
    "company_name": "ZEN CAREER PTE. LTD.",
@@ -11914,6 +12654,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$27k–37k*",
    "id": "9a883395797ed8d4",
    "source": "Workopia",
    "company_name": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -11930,6 +12671,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0fac9a6377c720ef",
    "source": "Workopia",
    "company_name": "RONGHONG POSITIVE MONTESSORI KINDERGARTEN (BUKIT TIMAH) PTE. LTD.",
@@ -11946,6 +12688,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c55338a983cb7fbe",
    "source": "Workopia",
    "company_name": "CL TAMPINES PTE. LTD.",
@@ -11962,6 +12705,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89b3edf2d47f53dd",
    "source": "Workopia",
    "company_name": "MEGALOW CONTRACTOR PTE. LTD.",
@@ -11978,6 +12722,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c30416467c18dafb",
    "source": "Workopia",
    "company_name": "TECH-LINK STORAGE ENGINEERING PTE LTD",
@@ -11994,6 +12739,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f4b5d5cf92a5a33c",
    "source": "Workopia",
    "company_name": "INTUIT RECRUITMENT PTE. LTD.",
@@ -12010,6 +12756,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "857b7645deb462cc",
    "source": "Workopia",
    "company_name": "STAG MATCH PRIVATE LIMITED",
@@ -12026,6 +12773,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2860584e0ccc08be",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12042,6 +12790,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dc07bc7d2a76e043",
    "source": "Workopia",
    "company_name": "BRANDOVA",
@@ -12058,6 +12807,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "55c1c0030e7799c3",
    "source": "Workopia",
    "company_name": "ALWAYSHIRED PTE. LTD.",
@@ -12074,6 +12824,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a1e5c40ac1b9b6c0",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -12090,6 +12841,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a92f9eda0b0e0351",
    "source": "Workopia",
    "company_name": "RECRUITFLASH PTE. LTD.",
@@ -12106,6 +12858,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "6e908c9284bd0ed0",
    "source": "Workopia",
    "company_name": "MITCHVILLE RELOPET PTE. LTD.",
@@ -12122,6 +12875,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "e2e8e3e79dc8dbd9",
    "source": "Workopia",
    "company_name": "ALIGN RECRUITMENT PTE. LTD.",
@@ -12138,6 +12892,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7a25e6228e5d2c34",
    "source": "Workopia",
    "company_name": "FUTURE ELECTRONICS INC. (DISTRIBUTION) PTE LTD",
@@ -12154,6 +12909,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "89cde9fff9f308f3",
    "source": "Workopia",
    "company_name": "NACT ENGINEERING PTE. LTD.",
@@ -12170,6 +12926,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "93faebcf3fe756e8",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -12186,6 +12943,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "eacfe842fe7a8f6f",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -12202,6 +12960,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "dea14d94d921ce93",
    "source": "Workopia",
    "company_name": "ROYAL ORG PTE. LTD.",
@@ -12218,6 +12977,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "7596f5fd1061e89e",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12234,6 +12994,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "948fe31cd6dc2775",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12250,6 +13011,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ceeea87566628f0d",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12266,6 +13028,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a2837cf64c925966",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12282,6 +13045,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "ba9654d9cfa77f95",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12298,6 +13062,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "9a16796873fbff47",
    "source": "Workopia",
    "company_name": "TTG ASIA MEDIA PTE LTD",
@@ -12314,6 +13079,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "763926cd0c7ea015",
    "source": "Workopia",
    "company_name": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -12330,6 +13096,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0a29127c3317287a",
    "source": "Workopia",
    "company_name": "TEMP-TEAM PTE LTD",
@@ -12346,6 +13113,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "bff38f725b1562fa",
    "source": "Workopia",
    "company_name": "PROSKILL WORKFORCE PTE. LTD.",
@@ -12362,6 +13130,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "c2f67c98baf9a5a6",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -12378,6 +13147,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "2d22a5fe8d627d8d",
    "source": "Workopia",
    "company_name": "RECRUIT EXPRESS PTE LTD",
@@ -12394,6 +13164,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "0539b3dd84cd144b",
    "source": "Workopia",
    "company_name": "ORCHID LAUNDRY",
@@ -12410,6 +13181,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "S$30k–48k*",
    "id": "24a462e36535fbea",
    "source": "Workopia",
    "company_name": "TRUST RECRUIT PTE. LTD.",
@@ -12426,6 +13198,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "78bd8518d1ef52d6",
    "source": "Workopia",
    "company_name": "VOUS SOLUTIONS",
@@ -12442,6 +13215,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f5562396f34eb580",
    "source": "Workopia",
    "company_name": "EQUE PTE. LTD.",
@@ -12458,6 +13232,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "f1a89ef3e2f90310",
    "source": "Workopia",
    "company_name": "MCKIN TALENT SOLUTIONS PTE. LTD.",
@@ -12474,6 +13249,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "1a56110fd4853e0b",
    "source": "Workopia",
    "company_name": "HOTEL NUVE PTE. LTD.",
@@ -12490,6 +13266,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "a1310685d49d1b02",
    "source": "Workopia",
    "company_name": "WINTER TIME PTE. LTD.",
@@ -12506,6 +13283,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$1,800/mo",
    "id": "0da1ae4f4a321d1d",
    "source": "Workopia",
    "company_name": "YOUNG (YANG) TCMWELLNESS PTE. LTD.",
@@ -12522,6 +13300,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": "$1,800/mo",
    "id": "1231d05df8f8ac75",
    "source": "Workopia",
    "company_name": "DI YI TCM PTE. LTD.",
@@ -12538,6 +13317,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "be0173d925bc95d4",
    "source": "Workopia",
    "company_name": "INTMEDIA PTE. LTD.",
@@ -12554,6 +13334,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "22a3ccde57d634f8",
    "source": "Workopia",
    "company_name": "NUVE HOLDINGS PTE. LTD.",
@@ -12570,6 +13351,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "b37f69c9e3eb409e",
    "source": "Workopia",
    "company_name": "HK MARINE PTE. LTD.",
@@ -12586,6 +13368,7 @@
    "tier": "Entry-level"
   },
   {
+   "salary_display": null,
    "id": "902cfcb59c0f3ed3",
    "source": "Workopia",
    "company_name": "HK SEATRANS PTE. LTD.",
