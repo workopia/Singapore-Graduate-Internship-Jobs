@@ -712,4 +712,63 @@
 <tr><td>Sian Chay Medical Institution</td><td>event & media executive</td><td>Singapore</td><td>2026-07-12</td></tr>
 <tr><td>LIMELITE PRODUCTIONS PTE. LTD.</td><td>Safety Officer</td><td>Kranji +3</td><td>2026-07-12</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Assistant - Up to $2500 #HAC</td><td>Islandwide</td><td>2026-07-12</td></tr>
+<tr><td>ABUNDUS CAPITAL PTE. LTD.</td><td>Intern</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>CINTRA CONSULTANCY PTE. LTD.</td><td>Business Development Intern</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Intern, Talent Attraction, Campus Recruitment</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>TOP VISION AGENCY</td><td>Kickstart Your Marketing Career🚀</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Trainee: Entry Level + Development Opportunities</td><td>Marina +4</td><td>2026-07-13</td></tr>
+<tr><td>PETS' STATION HOLDING PTE LTD</td><td>E-commerce & Marketing Intern</td><td>Kranji +3</td><td>2026-07-13</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Trainee: Entry Level + Career Development</td><td>Marina +4</td><td>2026-07-13</td></tr>
+<tr><td>Micron</td><td>Intern - Pee Operations Development Team (photolithography)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>gssi.world</td><td>Internship - Gsk Production System, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>GSK</td><td>Internship - Gsk Production System, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>IHG (InterContinental Hotels Group)</td><td>Corporate Intern - F&b - Singapore - Able To Start August 2026</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Marketing & Growth Trainee (6 Months)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>gssi.world</td><td>Internship - Global Engineering And Tech, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>GSK plc</td><td>Internship - Global Engineering And Tech, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Infineon</td><td>Internship - Tax</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Integration</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Infineon</td><td>Internship – Regional Distribution Centre Logistics Management</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Infineon</td><td>Internship - Transit Management</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Infineon</td><td>Internship - Digital Marketing & Marcom</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>gssi.world</td><td>Internship – Supply Chain, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Seamanapplyan</td><td>Intern - Hr</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Google</td><td>Software Engineer, Open Source Security</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Business Mobile App, Google Pay</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>STRIDES TECHNOLOGIES PTE. LTD.</td><td>Software Engineer</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>COMBUILDER PTE LTD</td><td>Software Engineer (Unity)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Software Engineer (IOT Backend Engineer)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>BLUESHEETS PTE. LTD.</td><td>Full Stack Engineer</td><td>Marina +4</td><td>2026-07-13</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Full Stack Engineer</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>M40 - Full Stack Engineer (AI)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>IT Support (West/ comes with completion bonus)</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>Tableau Developer</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>TALENTVUE PTE. LTD.</td><td>Inventory Analyst (Manufacturing)</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>BASIL TECHNOLOGIES PTE. LTD.</td><td>Business Analyst</td><td>Bukit Merah</td><td>2026-07-13</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Physical Geography/Geology/Environmental Science)</td><td>Jurong Island +2</td><td>2026-07-13</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Communication Studies/Social Science)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Research Officer</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Communication Studies/Psychology/Social Science)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Singapore Centre for Character and Citizenship Education) [NIE]</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>ASE SINGAPORE PTE. LTD.</td><td>Associate Engineer - Test Maintenance</td><td>D25 Kranji</td><td>2026-07-13</td></tr>
+<tr><td>ASE SINGAPORE PTE. LTD.</td><td>Engineer - Test Maintenance (Wafer Sort)</td><td>D25 Kranji</td><td>2026-07-13</td></tr>
+<tr><td>JJ CONSULTING SERVICES</td><td>Warehouse Technician</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Assistant & Marketing (No experience needed, Entry-level)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>⚡Sales Assistant [Travelling opportunities]</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT* 3-6 Months Temp Patient Service Associate Needed! (Healthcare, Hospital, Up to $12/H) #HCGT</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>ARCADIA HEALTH CONSULTANCY PTE. LTD.</td><td>Customer Service & Operations Assistant</td><td>Orchard</td><td>2026-07-13</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Customer Service Assistant (5 days/Shift) - East</td><td>Marina +4</td><td>2026-07-13</td></tr>
+<tr><td>ORCHID LAUNDRY</td><td>Recruitment cum HR Admin Assistant</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Human Resource Assistant (On the job training provided) (YS81)</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>VOUS SOLUTIONS</td><td>*URGENT HIRE* Junior Marketing Associate</td><td>Sentosa Island +1</td><td>2026-07-13</td></tr>
+<tr><td>EQUE PTE. LTD.</td><td>MARKETING ASSISTANT [PPA2-001-06]</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>MCKIN TALENT SOLUTIONS PTE. LTD.</td><td>MARKETING ASSOCIATE /MK-INX-A-B16</td><td>Islandwide</td><td>2026-07-13</td></tr>
+<tr><td>HOTEL NUVE PTE. LTD.</td><td>Marketing Assistant</td><td>Sentosa Island +2</td><td>2026-07-13</td></tr>
+<tr><td>WINTER TIME PTE. LTD.</td><td>MARKETING TEAM ASSISTANT</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>YOUNG (YANG) TCMWELLNESS PTE. LTD.</td><td>Marketing & Events Assistant</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>DI YI TCM PTE. LTD.</td><td>Marketing & Events Assistant</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>INTMEDIA PTE. LTD.</td><td>Marketing & Events Assistant</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>NUVE HOLDINGS PTE. LTD.</td><td>Marketing Assistant</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>HK MARINE PTE. LTD.</td><td>Purchaser Assistance</td><td>Singapore</td><td>2026-07-13</td></tr>
+<tr><td>HK SEATRANS PTE. LTD.</td><td>Purchaser Assistance</td><td>Singapore</td><td>2026-07-13</td></tr>
 </table>
