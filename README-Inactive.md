@@ -934,4 +934,77 @@
 <tr><td>PROSKILL WORKFORCE PTE. LTD.</td><td>WSHC Safety Coordinator</td><td>Singapore</td><td>2026-07-14</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp HR Assistant (North/ 3 months) #HZO</td><td>Canberra +1</td><td>2026-07-14</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Up to $3800! – HR Assistant needed (Mon to Fri, Office hours!) #HCGE</td><td>Islandwide</td><td>2026-07-14</td></tr>
+<tr><td>LAI GAMES PTE. LTD.</td><td>Electronics Engineer Intern</td><td>Pasir Panjang +3</td><td>2026-07-15</td></tr>
+<tr><td>PACIFICLIGHT POWER PTE. LTD.</td><td>Intern, Corporate Communications</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Intern, 6 Month Contract (MNC, West) - #HMZ</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>OJJ FOODS PTE. LTD.</td><td>Finance Intern</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>CHINA TAIPING INSURANCE (SINGAPORE) PTE. LTD.</td><td>Intern, Finance</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>W Brisbane</td><td>B&f Trainee</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Global Manufacturing Science And Technology (msat) Analytical Sciences, Singapore (january To June/december 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Global Manufacturing Science And Technology (msat) Analytical Sciences, Singapore (january To June/december 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Strategy And Business Excellence, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Alliance Business, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Strategy And Business Excellence, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Alliance Business, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Gsicareers</td><td>Internship - Operational Excellence & Smart Manufacturing, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Gsicareers</td><td>Internship - Quality Control (projects), Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Npi & Facility Commissioning (value Stream 2), Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Operational Improvement (value Stream 2), Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Smart Manufacturing, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Lab Safety & 5s Governance, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Lab Productivity And Performance, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Msat Materials Science, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Site Communications, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Lab Safety & 5s Governance, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Lab Productivity And Performance, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Quality Process Improvement, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Operational Improvement (value Stream 2), Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>gssi.world</td><td>Internship - Smart Manufacturing, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Quality Process Improvement, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>GSK</td><td>Internship - Msat Materials Science, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer Ii, Google Pay And Wallet</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer, Android Trust</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Google Pay And Wallet</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer Iii, Debug</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer, Finance And Growth Platform, Payments</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer Ii, Enterprise Data Protection</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer, Acceleration Platform</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Software Engineer, Information Security Engineering</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Accounts Assistant - Partial Set / Macpherson [2683]</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Finance Analyst, Devices And Services</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>UNITED DENTAL SURGERY</td><td>Dental Assistant</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>SINGAPORE-MIT ALLIANCE FOR RESEARCH AND TECHNOLOGY CENTRE</td><td>Postdoctoral Associate (Acoustic Metamaterials)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL CANCER CENTRE OF SINGAPORE PTE LTD</td><td>Research Officer (CMROCK)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (ROBUST SPLATTING)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant, BAC Agentic AI and Decentralized Finance</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Asia Competitiveness Institute) (33658)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Life Science)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Innovation Commercialisation & Market Intelligence)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>FURRYTAILS VETERINARY CLINIC PTE. LTD.</td><td>Furrytails Vet Clinic is seeking Full/Part Time Veterinary Technician</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Part Time Lab Technician ($20 / 3-4 days) #HJOT</td><td>Islandwide</td><td>2026-07-15</td></tr>
+<tr><td>LONZA BIOLOGICS TUAS PTE. LTD.</td><td>QC Analyst</td><td>Jurong Island</td><td>2026-07-15</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Lab Technician (Woodlands/1 Year Contract/Up to $3000)</td><td>Islandwide</td><td>2026-07-15</td></tr>
+<tr><td>INTERNATIONAL FRENCH SCHOOL (SINGAPORE) LTD.</td><td>Laboratory Technician - Biology</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>Google</td><td>Life Sciences Research Associate, Debug</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>BEYOND MEDICAL GROUP PTE. LTD.</td><td>STAFF NURSE</td><td>Islandwide</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurse for TCF project (FLEXI SHIFT) #HJOT</td><td>Islandwide</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Ward Enrolled Nurse / Govt Hospital / West / Permanent #HYT</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Locum Healthcare Assistant *15/$16 an hour*- HSN</td><td>Orchard</td><td>2026-07-15</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Technician</td><td>Seletar</td><td>2026-07-15</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Preventive Maintenance Technician/ Gross salary up to $3500 / 3-4 days /North West -QQ</td><td>North West -QQ</td><td>2026-07-15</td></tr>
+<tr><td>ALL BEST LANDSCAPE & AUTOMATION ENGINEERING PTE. LTD.</td><td>BUILDING TECHNICIAN</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>VIEWQWEST PRIVATE LIMITED</td><td>Utilities Technician</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>MCI CONSULTING PTE. LTD.</td><td>Sales Assistant (West) / CHS</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year contract Patient Service Associate (Pasir Ris / Marine Parade / Outram / Punggol) - $2500 Fixed #HKH</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>IDS CLINIC PTE. LTD.</td><td>Customer Service Officer (Junior)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>FAR EAST HOSPITALITY MANAGEMENT (S) PTE. LTD.</td><td>Guest Service Officer (Village Residence Hougang)</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Warehouse Assistant #82924</td><td>Tuas</td><td>2026-07-15</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🎉Brand Marketing Assistant🎉(Training Provided)</td><td>Marina +4</td><td>2026-07-15</td></tr>
+<tr><td>PHOON HUAT PTE. LTD.</td><td>Retail Assistant (The Star Vista)</td><td>Islandwide</td><td>2026-07-15</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Administrative Assistant *Entry Level*</td><td>Singapore</td><td>2026-07-15</td></tr>
+<tr><td>LEON EXHIBITION PTE. LTD.</td><td>Admin Project Exec</td><td>Jurong +2</td><td>2026-07-15</td></tr>
+<tr><td>PRESTIGE OCEAN PTE. LTD.</td><td>Admin Assistant</td><td>Pasir Panjang +3</td><td>2026-07-15</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Customer Service Coordinator #78565</td><td>West - Tuas Crescent</td><td>2026-07-15</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Accounts cum Admin Assistant #10043</td><td>Upper Thomson</td><td>2026-07-15</td></tr>
+<tr><td>ZEN CAREER PTE. LTD.</td><td>Retail Assistant (5 days)</td><td>Jurong +2</td><td>2026-07-15</td></tr>
 </table>
