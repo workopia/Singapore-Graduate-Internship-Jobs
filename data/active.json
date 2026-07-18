@@ -1,11 +1,29 @@
 {
- "asOf": "2026-07-17",
- "count": 817,
+ "asOf": "2026-07-18",
+ "count": 818,
  "jobs": {
   "2648640": {
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "7f500d123deb5c1ea43f92ee431b3678": {
+   "id": "7f500d123deb5c1ea43f92ee431b3678",
+   "company": "OCBC Bank",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "c100c2b421d35cd15baa7324cc387a8e": {
+   "id": "c100c2b421d35cd15baa7324cc387a8e",
+   "company": "Mercer",
+   "role": "Intern, Talent & Transformation (aug 2026 Intake)",
+   "location": "Singapore"
+  },
+  "c17c6055ff472285921b20f98b793828": {
+   "id": "c17c6055ff472285921b20f98b793828",
+   "company": "Dyson",
+   "role": "Intern",
    "location": "Singapore"
   },
   "794524b67844e923826798818afeba4b": {
@@ -114,6 +132,18 @@
    "id": "1b419aa71d9d8e932eef506a6717da48",
    "company": "Legg Mason",
    "role": "Intern",
+   "location": "Singapore"
+  },
+  "2e9395e949cf8f5f8e55baf99d84d03e": {
+   "id": "2e9395e949cf8f5f8e55baf99d84d03e",
+   "company": "Franklin Templeton",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "b1b520547e583a3ea92f74ebd2fae2b6": {
+   "id": "b1b520547e583a3ea92f74ebd2fae2b6",
+   "company": "Medtronic Diabetes",
+   "role": "Finance Intern",
    "location": "Singapore"
   },
   "54ca1cf18703b6cb548f4f383eca40fa": {
@@ -456,36 +486,6 @@
    "id": "75a9a3d6677bda35d5b9b33c14a44c7b",
    "company": "Synapxe Pte Ltd",
    "role": "Uni Internship Jan To July 2027 - Ai & Eprocurement Internship",
-   "location": "Singapore"
-  },
-  "ba8f3a953a776267ef60f66ecb5bc3a1": {
-   "id": "ba8f3a953a776267ef60f66ecb5bc3a1",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai Strategy & Innovation Internship",
-   "location": "Singapore"
-  },
-  "f8d7649b49f38b6f7840a9c145aadd71": {
-   "id": "f8d7649b49f38b6f7840a9c145aadd71",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Early Careers Talent Acquisition",
-   "location": "Singapore"
-  },
-  "78db636854bfcd1dd364feb36673eb76": {
-   "id": "78db636854bfcd1dd364feb36673eb76",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Queue Management System (qms) Integration With Ngemr",
-   "location": "Singapore"
-  },
-  "a8725332ac586362c3eceb8d423c2926": {
-   "id": "a8725332ac586362c3eceb8d423c2926",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Intern, Brand And Marketing",
-   "location": "Singapore"
-  },
-  "91f2e8b3ed61bb5c8cfe354496e5c476": {
-   "id": "91f2e8b3ed61bb5c8cfe354496e5c476",
-   "company": "GovTech Singapore",
-   "role": "Nparks Intern",
    "location": "Singapore"
   },
   "47dd8879832a0f26": {
@@ -1190,6 +1190,12 @@
    "role": "Systems Analyst",
    "location": "Singapore"
   },
+  "3017683d832244f984c38953f5074d7e": {
+   "id": "3017683d832244f984c38953f5074d7e",
+   "company": "Monetary Authority of Singapore (MAS)",
+   "role": "Systems Analyst",
+   "location": "Singapore"
+  },
   "d086d99ffae69d0a11ec981db97eb192": {
    "id": "d086d99ffae69d0a11ec981db97eb192",
    "company": "Coach (Tapestry, Inc.)",
@@ -1538,11 +1544,11 @@
    "role": "Technical Support Engineer - Customer Support",
    "location": "Singapore"
   },
-  "d4c5a29176ae89e09638683f09669770": {
-   "id": "d4c5a29176ae89e09638683f09669770",
-   "company": "Arthrex",
-   "role": "It Support Specialist",
-   "location": "Biopolis"
+  "70242b9ce6b57612c81adcc368cf6804": {
+   "id": "70242b9ce6b57612c81adcc368cf6804",
+   "company": "Coherent Corp. Singapore",
+   "role": "Intern - Data Analyst (store)",
+   "location": "Singapore"
   },
   "b05c5d47d3c9274917c48cfe37590ae4": {
    "id": "b05c5d47d3c9274917c48cfe37590ae4",
@@ -1704,6 +1710,12 @@
    "id": "55aa1eb86c955cdf",
    "company": "SHOPEE SINGAPORE PRIVATE LIMITED",
    "role": "Business Intelligence Analyst, Regional Business Intelligence & Planning (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "dfc18a1d2a76063580daa51703b7adac": {
+   "id": "dfc18a1d2a76063580daa51703b7adac",
+   "company": "S. Rajaratnam School of International Studies (RSIS)",
+   "role": "Ai Engineer (ai Products)",
    "location": "Singapore"
   },
   "33932f327babef09": {
@@ -2180,12 +2192,6 @@
    "role": "AI Engineer (6-month Contract)",
    "location": "Singapore"
   },
-  "120afd1dbf4f8255": {
-   "id": "120afd1dbf4f8255",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Data Analyst (6 months) #ESY",
-   "location": "D09 Cairnhill"
-  },
   "8bde67fc298057cf28f85b470c848f79": {
    "id": "8bde67fc298057cf28f85b470c848f79",
    "company": "Fortive Corporation",
@@ -2556,6 +2562,18 @@
    "id": "a4f5fd972b05676f",
    "company": "UNITED OVERSEAS INSURANCE LIMITED",
    "role": "Business Analyst",
+   "location": "Singapore"
+  },
+  "fe8d7a0716f6c41c1a0e874bcb64c1e4": {
+   "id": "fe8d7a0716f6c41c1a0e874bcb64c1e4",
+   "company": "GIC",
+   "role": "Associate/avp, Quantitative Strategist, Private Equity",
+   "location": "Singapore"
+  },
+  "e8c665305f178ee7a61818096edfd885": {
+   "id": "e8c665305f178ee7a61818096edfd885",
+   "company": "Fastly",
+   "role": "Threat Detection Analyst (japanese & English Speaking)",
    "location": "Singapore"
   },
   "e54a9ba242f6583ab033dd9a3b7dcc39": {
@@ -2972,17 +2990,41 @@
    "role": "Business Architect / Business Analyst, Technology Solutions (loans, Origination, And Credit Processing)",
    "location": "Singapore"
   },
-  "c2cb05461352a0f307a517e14e99aca1": {
-   "id": "c2cb05461352a0f307a517e14e99aca1",
-   "company": "Deutsche Boerse AG",
-   "role": "Analyst, Funds Operations",
+  "26404fcee9bb3fdb725687b8ad6b6bd2": {
+   "id": "26404fcee9bb3fdb725687b8ad6b6bd2",
+   "company": "ERI@N",
+   "role": "Research Associate (spatial Environmental Health And Ai-based Exposure Modelling)",
    "location": "Singapore"
   },
-  "ef12f5b30012130a": {
-   "id": "ef12f5b30012130a",
-   "company": "TGS C&T PARTNERS PAC",
-   "role": "Audit Associate",
-   "location": "Marina +4"
+  "b0abd0309fa7988d879201cb217614e8": {
+   "id": "b0abd0309fa7988d879201cb217614e8",
+   "company": "ERI@N",
+   "role": "Research Engineer Ii (computer Science / Cyber Security / Artificial Intelligence)",
+   "location": "Singapore"
+  },
+  "8b8ed1a318ddc95111c30d5bf835a93b": {
+   "id": "8b8ed1a318ddc95111c30d5bf835a93b",
+   "company": "ERI@N",
+   "role": "Research Associate (centre For Research In Pedagogy & Practice) [nie]",
+   "location": "Singapore"
+  },
+  "d04545374d9c77e72c5bd5e934f5db10": {
+   "id": "d04545374d9c77e72c5bd5e934f5db10",
+   "company": "ERI@N",
+   "role": "Research Assistant (environmental Microbiology)",
+   "location": "Singapore"
+  },
+  "8a76e587664a9bd3121a07736ab0f948": {
+   "id": "8a76e587664a9bd3121a07736ab0f948",
+   "company": "NTU",
+   "role": "Research Associate (quantum Information And Thermodynamics)",
+   "location": "Singapore"
+  },
+  "ec54455fea5c78e6dd4725b947ca1d8f": {
+   "id": "ec54455fea5c78e6dd4725b947ca1d8f",
+   "company": "S. Rajaratnam School of International Studies (RSIS)",
+   "role": "Research Associate (qkd Security System Engineer And Security Evaluation)",
+   "location": "Singapore"
   },
   "6bc2aedf9b0572a9": {
    "id": "6bc2aedf9b0572a9",
@@ -3025,6 +3067,12 @@
    "company": "EUROFINS MECHEM PTE. LTD.",
    "role": "Assistant Chemist (Maritime Service)",
    "location": "Singapore"
+  },
+  "0536611da37f17f2fa94773231d8603e": {
+   "id": "0536611da37f17f2fa94773231d8603e",
+   "company": "International Flavors & Fragrances",
+   "role": "Application Technician",
+   "location": "Biopolis"
   },
   "d19df4806d1740f10d2a5a9ac7352cbd": {
    "id": "d19df4806d1740f10d2a5a9ac7352cbd",
@@ -3422,47 +3470,11 @@
    "role": "Locum Pharmacy Technician (up to $35/hr) #HGNT",
    "location": "Islandwide"
   },
-  "b6fcd0a67d51365b": {
-   "id": "b6fcd0a67d51365b",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "3 months Pharmacy Technician (Up to $25/hr) #HJOT",
-   "location": "Islandwide"
-  },
-  "62f3dc3f4bad3201": {
-   "id": "62f3dc3f4bad3201",
-   "company": "NATIONAL UNIVERSITY HEALTH SYSTEM PTE. LTD.",
-   "role": "Pharmacy Technician*(9995) - Alexandra Hospital",
+  "8c99a2210491b13dea9e0e812dee481d": {
+   "id": "8c99a2210491b13dea9e0e812dee481d",
+   "company": "Coherent Corp. Singapore",
+   "role": "Diamond Turning Technician",
    "location": "Singapore"
-  },
-  "f854aee28fbe0321": {
-   "id": "f854aee28fbe0321",
-   "company": "PACIFIC MEDICAL RECRUITMENT & CONSULTANCY PTE. LTD.",
-   "role": "Permanent Pharmacy Technician - Packing Services (Community Hospital, Simei / Tampines)",
-   "location": "Singapore"
-  },
-  "f20778390737c90e": {
-   "id": "f20778390737c90e",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[Immediate] 3 Months Temp Pharmacy Technicians - $15/hr (Dip in Pharmaceutical Science, Office Hours) #HCY",
-   "location": "Singapore"
-  },
-  "25273ead73f0568b": {
-   "id": "25273ead73f0568b",
-   "company": "YAN SANG TANG TCM PTE. LTD.",
-   "role": "Traditional Chinese Medicine (TCM) Physician (FT/PT)",
-   "location": "Islandwide"
-  },
-  "c9131a66fd3f4621": {
-   "id": "c9131a66fd3f4621",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Locum Phlebotomist / Nurses ($23 to $26/Hr) - Half day #HKH",
-   "location": "Singapore"
-  },
-  "40b3651335e4a542": {
-   "id": "40b3651335e4a542",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Dental Assistants ($2K - $3K / Entry Level) #HJOT",
-   "location": "Islandwide"
   },
   "32265963ce541c1707caf31572b78ff6": {
    "id": "32265963ce541c1707caf31572b78ff6",
@@ -3528,6 +3540,12 @@
    "id": "2d3bcc818998ce2b",
    "company": "MAKINO ASIA PTE LTD",
    "role": "Machining Technician",
+   "location": "Singapore"
+  },
+  "2fcd40d7e0cef109fce04fe495ba70b1": {
+   "id": "2fcd40d7e0cef109fce04fe495ba70b1",
+   "company": "Skyworks Solutions Inc",
+   "role": "Process Technician 5",
    "location": "Singapore"
   },
   "14b7360702bd43e6": {
@@ -3932,18 +3950,6 @@
    "role": "Technicians / Engineering Assistants (West)",
    "location": "Singapore"
   },
-  "a767691a919cd8d3": {
-   "id": "a767691a919cd8d3",
-   "company": "PEOPLE PROFILERS (SERVICES) PTE. LTD.",
-   "role": "Service Technician/ Engineer",
-   "location": "Singapore"
-  },
-  "d477f83a4157908d": {
-   "id": "d477f83a4157908d",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "6723 - Marine Air-Conditioning Technician (Class 3) [Jurong East / 5.5days]",
-   "location": "Singapore"
-  },
   "aab004b2bf035d97": {
    "id": "aab004b2bf035d97",
    "company": "EMINENCE ORGANIZATION PTE. LTD.",
@@ -3955,6 +3961,12 @@
    "company": "WECRUIT PTE. LTD.",
    "role": "Retail Sales Associates (Islandwide) [SL]",
    "location": "Islandwide"
+  },
+  "533710e293af659b1a7a9aa9f1068602": {
+   "id": "533710e293af659b1a7a9aa9f1068602",
+   "company": "Cotton On",
+   "role": "Full Time Retail - Cotton On Suntec City Mall",
+   "location": "Suntec"
   },
   "a0638624fde9e4b2": {
    "id": "a0638624fde9e4b2",
@@ -4014,6 +4026,18 @@
    "id": "55e09dc76803df4e",
    "company": "CITY ENERGY PTE. LTD.",
    "role": "Sales Support Co-ordinator",
+   "location": "Singapore"
+  },
+  "72958a5fd6d8a8d91cef74002fda055a": {
+   "id": "72958a5fd6d8a8d91cef74002fda055a",
+   "company": "Roche UK",
+   "role": "Warehouse Technician (one Year Contract)",
+   "location": "Singapore Tuas Bay Link"
+  },
+  "d14c45eca14d428a5e46124df30c0477": {
+   "id": "d14c45eca14d428a5e46124df30c0477",
+   "company": "Institutehumanbiology",
+   "role": "Warehouse Technician (one Year Contract)",
    "location": "Singapore"
   },
   "23df65de0b8225e0": {
@@ -4406,23 +4430,11 @@
    "role": "Customer Support Associate - Healthcare",
    "location": "Singapore"
   },
-  "5531310136e9daa9": {
-   "id": "5531310136e9daa9",
-   "company": "NEW POWER WORLDWIDE PTE. LTD.",
-   "role": "Warehouse & Testing Specialist",
-   "location": "Kallang Way"
-  },
-  "9c3b2aef161887ff": {
-   "id": "9c3b2aef161887ff",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Warehouse Assistant (Islandwide) [SL]",
-   "location": "Islandwide"
-  },
-  "1297ea509047fabe": {
-   "id": "1297ea509047fabe",
-   "company": "RECRUIT EXPERT PTE. LTD.",
-   "role": "Warehouse Assistant (Tuas, Logistics)",
-   "location": "Marina +4"
+  "36ec01657abd2ebbb6438a449d3adddf": {
+   "id": "36ec01657abd2ebbb6438a449d3adddf",
+   "company": "Legocareersvirginia",
+   "role": "Project Support Intern",
+   "location": "Singapore"
   },
   "f8af0b81fea6eba79b4276243d6dae70": {
    "id": "f8af0b81fea6eba79b4276243d6dae70",
@@ -4897,12 +4909,6 @@
    "company": "EA RECRUITMENT PTE. LTD.",
    "role": "Admin Assistant / HR Assistant (5 Days / West)",
    "location": "Tuas"
-  },
-  "9100cbefa6f2ae35": {
-   "id": "9100cbefa6f2ae35",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "HR & Corporate Branding Intern",
-   "location": "Orchard"
   }
  }
 }

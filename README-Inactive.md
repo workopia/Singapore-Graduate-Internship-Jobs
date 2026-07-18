@@ -1653,4 +1653,26 @@
 <tr><td>MONDIALE VGL SINGAPORE PTE. LTD.</td><td>Logistic Officer</td><td>Singapore</td><td>2026-07-17</td></tr>
 <tr><td>GRAEBEL APAC CENTER PTE. LTD.</td><td>Global Household Goods Coordinator (1-Year Contract)</td><td>Singapore</td><td>2026-07-17</td></tr>
 <tr><td>DOVRE GROUP (SINGAPORE) PTE. LTD.</td><td>Shipment Coordinator</td><td>Singapore</td><td>2026-07-17</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai Strategy & Innovation Internship</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Early Careers Talent Acquisition</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Queue Management System (qms) Integration With Ngemr</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Intern, Brand And Marketing</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>GovTech Singapore</td><td>Nparks Intern</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>Arthrex</td><td>It Support Specialist</td><td>Biopolis</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Data Analyst (6 months) #ESY</td><td>D09 Cairnhill</td><td>2026-07-18</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Analyst, Funds Operations</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>TGS C&T PARTNERS PAC</td><td>Audit Associate</td><td>Marina +4</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 months Pharmacy Technician (Up to $25/hr) #HJOT</td><td>Islandwide</td><td>2026-07-18</td></tr>
+<tr><td>NATIONAL UNIVERSITY HEALTH SYSTEM PTE. LTD.</td><td>Pharmacy Technician*(9995) - Alexandra Hospital</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>PACIFIC MEDICAL RECRUITMENT & CONSULTANCY PTE. LTD.</td><td>Permanent Pharmacy Technician - Packing Services (Community Hospital, Simei / Tampines)</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Immediate] 3 Months Temp Pharmacy Technicians - $15/hr (Dip in Pharmaceutical Science, Office Hours) #HCY</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>YAN SANG TANG TCM PTE. LTD.</td><td>Traditional Chinese Medicine (TCM) Physician (FT/PT)</td><td>Islandwide</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Phlebotomist / Nurses ($23 to $26/Hr) - Half day #HKH</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistants ($2K - $3K / Entry Level) #HJOT</td><td>Islandwide</td><td>2026-07-18</td></tr>
+<tr><td>PEOPLE PROFILERS (SERVICES) PTE. LTD.</td><td>Service Technician/ Engineer</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>6723 - Marine Air-Conditioning Technician (Class 3) [Jurong East / 5.5days]</td><td>Singapore</td><td>2026-07-18</td></tr>
+<tr><td>NEW POWER WORLDWIDE PTE. LTD.</td><td>Warehouse & Testing Specialist</td><td>Kallang Way</td><td>2026-07-18</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Warehouse Assistant (Islandwide) [SL]</td><td>Islandwide</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPERT PTE. LTD.</td><td>Warehouse Assistant (Tuas, Logistics)</td><td>Marina +4</td><td>2026-07-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR & Corporate Branding Intern</td><td>Orchard</td><td>2026-07-18</td></tr>
 </table>
