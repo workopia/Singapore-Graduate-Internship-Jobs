@@ -2069,4 +2069,37 @@
 <tr><td>THRIVE ORGANIZATION PTE. LTD.</td><td>(ENTRY-LEVEL) EVENTS MARKETING</td><td>Singapore</td><td>2026-07-19</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>*ENTRY LEVEL* 4-6 months Part time HR Assistant (3 days a week, Up to $11/hr) #HCG</td><td>Islandwide</td><td>2026-07-19</td></tr>
 <tr><td>EA RECRUITMENT PTE. LTD.</td><td>Admin Assistant / HR Assistant (5 Days / West)</td><td>Tuas</td><td>2026-07-19</td></tr>
+<tr><td>Temasek Holdings Private Ltd</td><td>Temasek Summer Internship Programme 2027 - Investment Group (singapore)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>Internship - Food Regulatory & Compliance Intern (6 Months)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>TEMASEK LIFE SCIENCES LABORATORY LIMITED</td><td>Programme Coordination Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>MASTERMARK PTE LTD</td><td>Marketing Intern (6-months)</td><td>Marina +4</td><td>2026-07-20</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing and Sales Trainee: Personal Development and Growth</td><td>Marina +4</td><td>2026-07-20</td></tr>
+<tr><td>LEATHERSOLUTION PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>ITLINK BUSINESS SOLUTIONS (S) PTE LTD</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>MIGHTY JAXX INTERNATIONAL PTE. LTD.</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>CATALYST MARKETING SOLUTIONS PTE. LTD.</td><td>Sales & Business Development Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>BIZSAVER PTE. LTD.</td><td>Bank Sales Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>solaebelgiumcareers.be</td><td>Bbc Ingredients Intern</td><td>Biopolis</td><td>2026-07-20</td></tr>
+<tr><td>International Flavors & Fragrances</td><td>Bbc Ingredients Intern</td><td>Biopolis</td><td>2026-07-20</td></tr>
+<tr><td>TV SD</td><td>Marketing Internships (jul - Dec)</td><td>South West</td><td>2026-07-20</td></tr>
+<tr><td>Takeda Pharmaceutical Company Limited</td><td>Manufacturing Services Intern</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>SHOPEE SINGAPORE PRIVATE LIMITED</td><td>Business Intelligence Analyst, Regional Business Intelligence & Planning (2026 Graduate)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Data Analyst (Business Intelligence & Analytics) #BLM</td><td>D09 Cairnhill</td><td>2026-07-20</td></tr>
+<tr><td>Deloitte</td><td>A&a - Associate - External Audit (2026 Graduate)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Global Trade Advisory (2026 Graduate)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>Deloitte</td><td>A&a - Sg - Internal Audit ( Analyst)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Associate (CBmE)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (NIE-CRPP)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Associate (LKYSPP)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Clinical Research Assistant (2-years / GOVT Hospital)</td><td>Orchard</td><td>2026-07-20</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Research Assistant</td><td>Pasir Panjang +3</td><td>2026-07-20</td></tr>
+<tr><td>ST Engineering</td><td>Maintenance Engineer (mechanical)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Technical Officer, Iscs & Comms</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>OUE LIMITED</td><td>Facilities Technician (Hilton Singapore Orchard)</td><td>Orchard</td><td>2026-07-20</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Service Technician [Electrical - Refrigeration / Kitchen Equipment] - 5 days!!! / $2.5k + OT / 0580</td><td>Kwong Min Road +5</td><td>2026-07-20</td></tr>
+<tr><td>THE FULLERTON HOTEL</td><td>Maintenance Engineer</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>SINGAPORE MEDICAL GROUP LIMITED</td><td>Patient Service Associate (6 months Contract)</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>Wise</td><td>Executive Assistant</td><td>Singapore</td><td>2026-07-20</td></tr>
+<tr><td>ALTIUS ORG</td><td>Sales & Marketing Specialist 💰</td><td>Islandwide</td><td>2026-07-20</td></tr>
 </table>

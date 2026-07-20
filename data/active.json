@@ -1,5 +1,5 @@
 {
- "asOf": "2026-07-19",
+ "asOf": "2026-07-20",
  "count": 829,
  "jobs": {
   "10295": {
@@ -13,6 +13,54 @@
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
    "location": "Singapore"
+  },
+  "1f6555a9a3f5a4b03810188b77daf3c1": {
+   "id": "1f6555a9a3f5a4b03810188b77daf3c1",
+   "company": "NETS",
+   "role": "Intern, Merchant Business, Business Product Management 1",
+   "location": "Braddell"
+  },
+  "1df6d0c9509e0b133e9a3ec2d80a09b9": {
+   "id": "1df6d0c9509e0b133e9a3ec2d80a09b9",
+   "company": "NETS",
+   "role": "It Security Intern",
+   "location": "Braddell"
+  },
+  "9253ff4a2289f7fe8f73e696cbe20152": {
+   "id": "9253ff4a2289f7fe8f73e696cbe20152",
+   "company": "NETS",
+   "role": "Merchant Business (product) Intern",
+   "location": "Braddell"
+  },
+  "210140c853a2a05529c874fe4bd19101": {
+   "id": "210140c853a2a05529c874fe4bd19101",
+   "company": "NETS",
+   "role": "Intern, Consumer Business",
+   "location": "Braddell"
+  },
+  "579019cfd8c6136ee90b45260f6b6705": {
+   "id": "579019cfd8c6136ee90b45260f6b6705",
+   "company": "NETS",
+   "role": "Intern, Financial Crime Compliance",
+   "location": "Braddell"
+  },
+  "114bec0d5aa8a8737fdfae95cef1825c": {
+   "id": "114bec0d5aa8a8737fdfae95cef1825c",
+   "company": "Coty Inc.",
+   "role": "Marketing Intern, Domestic Market",
+   "location": "Singapore"
+  },
+  "d99a839ee3ea7870563d2eab777b7fa8": {
+   "id": "d99a839ee3ea7870563d2eab777b7fa8",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Temasek Summer Internship Programme 2027 - Investment Group (singapore)",
+   "location": "Singapore"
+  },
+  "9bb613525195c3b9ff2bfb125a306699": {
+   "id": "9bb613525195c3b9ff2bfb125a306699",
+   "company": "olam food ingredients (ofi)",
+   "role": "Internship - Food Regulatory & Compliance Intern (6 Months)",
+   "location": "Biopolis"
   },
   "6fdeeb6011366ddf3644afccbf5e5390": {
    "id": "6fdeeb6011366ddf3644afccbf5e5390",
@@ -30,6 +78,18 @@
    "id": "77a8225608f11983eda241177d8b1bad",
    "company": "CMA CGM Group",
    "role": "Marketing, Data & Insights Commercial Intern",
+   "location": "Singapore"
+  },
+  "df62774a9d63e642d451179a2c90feb4": {
+   "id": "df62774a9d63e642d451179a2c90feb4",
+   "company": "OCBC",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "eaf152202537ce20bb256d855c0d4588": {
+   "id": "eaf152202537ce20bb256d855c0d4588",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Regional Brand & Communications Intern",
    "location": "Singapore"
   },
   "948b07032e96a1ef767c9e2520415f55": {
@@ -122,6 +182,36 @@
    "role": "T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)",
    "location": "Singapore"
   },
+  "8d9e8fa51a906e901dd603298c60a6ae": {
+   "id": "8d9e8fa51a906e901dd603298c60a6ae",
+   "company": "sea",
+   "role": "T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)",
+   "location": "Singapore"
+  },
+  "71fea6f543fe2b4edb1e91f53fb79c6c": {
+   "id": "71fea6f543fe2b4edb1e91f53fb79c6c",
+   "company": "sea",
+   "role": "Growth Intern - Clients & Industries (summer 2026)",
+   "location": "Singapore"
+  },
+  "55a542c32df6f37e234764bbc651ded8": {
+   "id": "55a542c32df6f37e234764bbc651ded8",
+   "company": "sea",
+   "role": "A&a - External Audit Intern - Audit & Assurance (winter 2026 Internship)",
+   "location": "Singapore"
+  },
+  "ea2b34073ec5bdfdd1d1cc160b338bed": {
+   "id": "ea2b34073ec5bdfdd1d1cc160b338bed",
+   "company": "sea",
+   "role": "T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)",
+   "location": "Singapore"
+  },
+  "5f36e4b43d13ee57f6939362bb321684": {
+   "id": "5f36e4b43d13ee57f6939362bb321684",
+   "company": "sea",
+   "role": "T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)",
+   "location": "Singapore"
+  },
   "f1956f5c8acab24855eea250c115adf5": {
    "id": "f1956f5c8acab24855eea250c115adf5",
    "company": "Thales Group",
@@ -138,12 +228,6 @@
    "id": "077af9b73cda7dbae718ec7b23399aa3",
    "company": "Thales Group",
    "role": "Apu-flx Intern",
-   "location": "Singapore"
-  },
-  "894f137f2dd456983152c9180245e55d": {
-   "id": "894f137f2dd456983152c9180245e55d",
-   "company": "Temasek Holdings Private Ltd",
-   "role": "Temasek Summer Internship Programme 2027 - Investment Group (singapore)",
    "location": "Singapore"
   },
   "b379ff7b86a2f564061d63058762c50a": {
@@ -246,12 +330,6 @@
    "id": "268c03085521a3ac7b3d75b485bf1529",
    "company": "Dev in Asia",
    "role": "Marketing Intern, Marketing & Corporate Solutions",
-   "location": "Singapore"
-  },
-  "0d458e5ba49695f63d2c0cc91029680e": {
-   "id": "0d458e5ba49695f63d2c0cc91029680e",
-   "company": "olam food ingredients (ofi)",
-   "role": "Internship - Food Regulatory & Compliance Intern (6 Months)",
    "location": "Singapore"
   },
   "72b2ca96a6dbdb218db4feaff456f528": {
@@ -414,84 +492,6 @@
    "id": "7dffd698fc7b7b22",
    "company": "TOLARAM PTE. LTD.",
    "role": "Sustainability Intern",
-   "location": "Singapore"
-  },
-  "4fbbdf9816594095": {
-   "id": "4fbbdf9816594095",
-   "company": "TEMASEK LIFE SCIENCES LABORATORY LIMITED",
-   "role": "Programme Coordination Intern",
-   "location": "Singapore"
-  },
-  "f0e3f3ed51fec26a": {
-   "id": "f0e3f3ed51fec26a",
-   "company": "MASTERMARK PTE LTD",
-   "role": "Marketing Intern (6-months)",
-   "location": "Marina +4"
-  },
-  "99ed733c56f926d8": {
-   "id": "99ed733c56f926d8",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Marketing and Sales Trainee: Personal Development and Growth",
-   "location": "Marina +4"
-  },
-  "8058b91738842b9e": {
-   "id": "8058b91738842b9e",
-   "company": "LEATHERSOLUTION PTE. LTD.",
-   "role": "Marketing Intern",
-   "location": "Singapore"
-  },
-  "589632f21f12b439": {
-   "id": "589632f21f12b439",
-   "company": "ITLINK BUSINESS SOLUTIONS (S) PTE LTD",
-   "role": "Digital Marketing Intern",
-   "location": "Singapore"
-  },
-  "4d2812d28d9e3418": {
-   "id": "4d2812d28d9e3418",
-   "company": "MIGHTY JAXX INTERNATIONAL PTE. LTD.",
-   "role": "Digital Marketing Intern",
-   "location": "Singapore"
-  },
-  "2df141d62727b9c7": {
-   "id": "2df141d62727b9c7",
-   "company": "CATALYST MARKETING SOLUTIONS PTE. LTD.",
-   "role": "Sales & Business Development Intern",
-   "location": "Singapore"
-  },
-  "ad44af49282833cd": {
-   "id": "ad44af49282833cd",
-   "company": "BIZSAVER PTE. LTD.",
-   "role": "Bank Sales Intern",
-   "location": "Singapore"
-  },
-  "1c99ab64f6bfc59a0440d48eb6d59527": {
-   "id": "1c99ab64f6bfc59a0440d48eb6d59527",
-   "company": "DSV Panalpina AS",
-   "role": "Intern",
-   "location": "Singapore"
-  },
-  "5816e0ed01e02faf00553789541ab16d": {
-   "id": "5816e0ed01e02faf00553789541ab16d",
-   "company": "solaebelgiumcareers.be",
-   "role": "Bbc Ingredients Intern",
-   "location": "Biopolis"
-  },
-  "7b8ad54a71d270d8b11cf257cc1853cd": {
-   "id": "7b8ad54a71d270d8b11cf257cc1853cd",
-   "company": "International Flavors & Fragrances",
-   "role": "Bbc Ingredients Intern",
-   "location": "Biopolis"
-  },
-  "23b5daab6ff297dc6767747db0731703": {
-   "id": "23b5daab6ff297dc6767747db0731703",
-   "company": "TV SD",
-   "role": "Marketing Internships (jul - Dec)",
-   "location": "South West"
-  },
-  "81fdd04375bb8ee8b2a5ebd78627cda4": {
-   "id": "81fdd04375bb8ee8b2a5ebd78627cda4",
-   "company": "Takeda Pharmaceutical Company Limited",
-   "role": "Manufacturing Services Intern",
    "location": "Singapore"
   },
   "c356053e5eba7b91": {
@@ -1562,6 +1562,12 @@
    "role": "Intern - Data Analyst (store)",
    "location": "Singapore"
   },
+  "092a61710559acb797eec30fa839674e": {
+   "id": "092a61710559acb797eec30fa839674e",
+   "company": "DuPont",
+   "role": "Data Analytics Internship (6 Month Program)",
+   "location": "Singapore"
+  },
   "b05c5d47d3c9274917c48cfe37590ae4": {
    "id": "b05c5d47d3c9274917c48cfe37590ae4",
    "company": "Synapxe Pte Ltd",
@@ -1718,10 +1724,10 @@
    "role": "AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)",
    "location": "Marina"
   },
-  "55aa1eb86c955cdf": {
-   "id": "55aa1eb86c955cdf",
-   "company": "SHOPEE SINGAPORE PRIVATE LIMITED",
-   "role": "Business Intelligence Analyst, Regional Business Intelligence & Planning (2026 Graduate)",
+  "3bd599a48ac716cbe858193836595ca2": {
+   "id": "3bd599a48ac716cbe858193836595ca2",
+   "company": "RELX (Singapore) Pte Ltd",
+   "role": "Data Analyst Iii",
    "location": "Singapore"
   },
   "2d0d8f1db954dc37a8614c3305209617": {
@@ -2198,12 +2204,6 @@
    "role": "Vision Engineer",
    "location": "Singapore"
   },
-  "237cc9f7124c60db": {
-   "id": "237cc9f7124c60db",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Contract Data Analyst (Business Intelligence & Analytics) #BLM",
-   "location": "D09 Cairnhill"
-  },
   "9583ffa7ad1f2de6": {
    "id": "9583ffa7ad1f2de6",
    "company": "CLEANTECH SOLAR DEVELOPMENT COMPANY PTE. LTD.",
@@ -2420,6 +2420,24 @@
    "role": "Intern, Financial Accounting (group Reporting)",
    "location": "Singapore"
   },
+  "a8c803bfe26be40480bc57931503b90c": {
+   "id": "a8c803bfe26be40480bc57931503b90c",
+   "company": "Deloitte",
+   "role": "A&a - Associate - External Audit (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "ead201033e905a63b9e32343c52ca1b3": {
+   "id": "ead201033e905a63b9e32343c52ca1b3",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Business Tax (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "6bffe37fb17a732224add16c8ebe61e6": {
+   "id": "6bffe37fb17a732224add16c8ebe61e6",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Global Trade Advisory (2026 Graduate)",
+   "location": "Singapore"
+  },
   "0c92f6ceae2603d8ef0b950f09c78a88": {
    "id": "0c92f6ceae2603d8ef0b950f09c78a88",
    "company": "sea",
@@ -2430,18 +2448,6 @@
    "id": "4aaabafa5fdda15de3b7b2935d1c823e",
    "company": "sea",
    "role": "T&l: Associate - Business Tax (2026 Graduate)",
-   "location": "Singapore"
-  },
-  "ba43e9aab9f6093d7213ac01ee547d9c": {
-   "id": "ba43e9aab9f6093d7213ac01ee547d9c",
-   "company": "Deloitte",
-   "role": "A&a - Associate - External Audit (2026 Graduate)",
-   "location": "Singapore"
-  },
-  "3c6b86d591da5f1416e06ff9c1a0737b": {
-   "id": "3c6b86d591da5f1416e06ff9c1a0737b",
-   "company": "Deloitte",
-   "role": "T&l: Associate - Global Trade Advisory (2026 Graduate)",
    "location": "Singapore"
   },
   "e1889f6d0250f191e8162fc6b50d0677": {
@@ -2552,12 +2558,6 @@
    "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2026 Graduate)",
    "location": "Singapore"
   },
-  "ead201033e905a63b9e32343c52ca1b3": {
-   "id": "ead201033e905a63b9e32343c52ca1b3",
-   "company": "Deloitte",
-   "role": "T&l: Associate - Business Tax (2026 Graduate)",
-   "location": "Singapore"
-  },
   "6880376b4a8c819d76c62e1e2556b2a1": {
    "id": "6880376b4a8c819d76c62e1e2556b2a1",
    "company": "Deloitte",
@@ -2574,6 +2574,12 @@
    "id": "99245b17e7acc3a501613ab2b75d8b57",
    "company": "Deloitte",
    "role": "T&l: Associate - Business Tax Financial Services (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "63bbf86b4aab7f1fea59014e9054925c": {
+   "id": "63bbf86b4aab7f1fea59014e9054925c",
+   "company": "Deloitte",
+   "role": "A&a - Sg - Internal Audit ( Analyst)",
    "location": "Singapore"
   },
   "62f727050e9a8712acf48eaa63bd45a7": {
@@ -2598,12 +2604,6 @@
    "id": "53182907cbaba7e31befe9b3afeaa232",
    "company": "Deloitte",
    "role": "Sg - A&a - Ca (investment Management) - Analyst",
-   "location": "Singapore"
-  },
-  "cc6c004e37d9e013190ff1fb94f109c4": {
-   "id": "cc6c004e37d9e013190ff1fb94f109c4",
-   "company": "Deloitte",
-   "role": "A&a - Sg - Internal Audit ( Analyst)",
    "location": "Singapore"
   },
   "1b76a2e10e339b54": {
@@ -3056,6 +3056,18 @@
    "role": "Finance Analyst (FP&A /Woodlands / 6 Months)",
    "location": "Singapore"
   },
+  "5d5724bbce976589ebf42b41fdc12dac": {
+   "id": "5d5724bbce976589ebf42b41fdc12dac",
+   "company": "NTU (Nanyang Technological University)",
+   "role": "Research Assistant (office Of Teacher Education & Undergraduate Programmes) [nie]",
+   "location": "Singapore"
+  },
+  "1862df3685a89a02a9e9c7fd87ae0098": {
+   "id": "1862df3685a89a02a9e9c7fd87ae0098",
+   "company": "Ntuitive Pte Ltd",
+   "role": "Research Assistant (office Of Teacher Education & Undergraduate Programmes) [nie]",
+   "location": "Singapore"
+  },
   "1afddfeeef577e98": {
    "id": "1afddfeeef577e98",
    "company": "I.DENTAL INVISIBLE BRACES PTE. LTD.",
@@ -3374,10 +3386,28 @@
    "role": "Research Engineer Ii (computer Science / Cyber Security / Artificial Intelligence)",
    "location": "Singapore"
   },
+  "62761972e04900710f9a7a37f452e8b5": {
+   "id": "62761972e04900710f9a7a37f452e8b5",
+   "company": "NTU",
+   "role": "Research Engineer Ii (computer Science / Cyber Security / Artificial Intelligence)",
+   "location": "Singapore"
+  },
+  "2abd78258142acdfaa31c385bb4d60e1": {
+   "id": "2abd78258142acdfaa31c385bb4d60e1",
+   "company": "NTU (Nanyang Technological University)",
+   "role": "Research Associate (centre For Research In Pedagogy & Practice) [nie]",
+   "location": "Singapore"
+  },
   "19d3a350265bae50d30521eb5b2a2a90": {
    "id": "19d3a350265bae50d30521eb5b2a2a90",
    "company": "Ntuitive Pte Ltd",
    "role": "Research Associate (spatial Environmental Health And Ai-based Exposure Modelling)",
+   "location": "Singapore"
+  },
+  "9f42f0698c488a9a6805a30a660669f2": {
+   "id": "9f42f0698c488a9a6805a30a660669f2",
+   "company": "NTU",
+   "role": "Research Assistant (environmental Microbiology)",
    "location": "Singapore"
   },
   "d04545374d9c77e72c5bd5e934f5db10": {
@@ -3506,35 +3536,29 @@
    "role": "Research Associate (Psychology)",
    "location": "Singapore"
   },
-  "221963a57a8174c3": {
-   "id": "221963a57a8174c3",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Associate (CBmE)",
+  "f4722c362e3afd9c6d3dbda26c3bba0c": {
+   "id": "f4722c362e3afd9c6d3dbda26c3bba0c",
+   "company": "ST Engineering",
+   "role": "Maintenance Engineer (mechanical)",
    "location": "Singapore"
   },
-  "8e42ce2fa9f580bc": {
-   "id": "8e42ce2fa9f580bc",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (NIE-CRPP)",
+  "135da406104bd0a3d6203306da6e8f3f": {
+   "id": "135da406104bd0a3d6203306da6e8f3f",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Iscs & Comms",
    "location": "Singapore"
   },
-  "8b7856ee2d7563f5": {
-   "id": "8b7856ee2d7563f5",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Associate (LKYSPP)",
+  "3f641f56f6c6ca95d1c2795b990b25e2": {
+   "id": "3f641f56f6c6ca95d1c2795b990b25e2",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Train Maintenance (ccl)",
    "location": "Singapore"
   },
-  "bf36f5a2061ee735": {
-   "id": "bf36f5a2061ee735",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Clinical Research Assistant (2-years / GOVT Hospital)",
-   "location": "Orchard"
-  },
-  "22c0653b95e3e6e5": {
-   "id": "22c0653b95e3e6e5",
-   "company": "JTA CONSULTANCY",
-   "role": "Finance Research Assistant",
-   "location": "Pasir Panjang +3"
+  "59adc95ae2fe07b729a705e9537353a4": {
+   "id": "59adc95ae2fe07b729a705e9537353a4",
+   "company": "Wartsila Oyj Abp",
+   "role": "Service Technician",
+   "location": "Singapore"
   },
   "b80e384f1a361182": {
    "id": "b80e384f1a361182",
@@ -3565,12 +3589,6 @@
    "company": "ST Engineering",
    "role": "Assistant Mechanical Engineer - Diesel & Ship Repairs (pioneer)",
    "location": "Pioneer Sector"
-  },
-  "e98538fdc216164ca815fcbe577d810c": {
-   "id": "e98538fdc216164ca815fcbe577d810c",
-   "company": "ST Engineering",
-   "role": "Maintenance Engineer (mechanical)",
-   "location": "Singapore"
   },
   "4ba857c1a690024a871297c7978227fd": {
    "id": "4ba857c1a690024a871297c7978227fd",
@@ -3746,10 +3764,10 @@
    "role": "Diamond Turning Technician",
    "location": "Singapore"
   },
-  "32265963ce541c1707caf31572b78ff6": {
-   "id": "32265963ce541c1707caf31572b78ff6",
-   "company": "SMRT Corporation Ltd",
-   "role": "Technical Officer, Iscs & Comms",
+  "6d82f355629fa6329823464cd37ec92d": {
+   "id": "6d82f355629fa6329823464cd37ec92d",
+   "company": "122",
+   "role": "Facilities Technician",
    "location": "Singapore"
   },
   "45792ab8fe5bfee8f6a346409996ab69": {
@@ -3998,23 +4016,11 @@
    "role": "Facility Maintenance Engineer",
    "location": "Singapore"
   },
-  "e857b7094250c14e": {
-   "id": "e857b7094250c14e",
-   "company": "OUE LIMITED",
-   "role": "Facilities Technician (Hilton Singapore Orchard)",
-   "location": "Orchard"
-  },
-  "fbc1535b62ee757e": {
-   "id": "fbc1535b62ee757e",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Service Technician [Electrical - Refrigeration / Kitchen Equipment] - 5 days!!! / $2.5k + OT / 0580",
-   "location": "Kwong Min Road +5"
-  },
-  "98ed28a0ce21b890": {
-   "id": "98ed28a0ce21b890",
-   "company": "THE FULLERTON HOTEL",
-   "role": "Maintenance Engineer",
-   "location": "Singapore"
+  "98f04b2bbaf87abe6b80f51dc44d38a9": {
+   "id": "98f04b2bbaf87abe6b80f51dc44d38a9",
+   "company": "NETS",
+   "role": "Service Management Associate",
+   "location": "Braddell"
   },
   "aab004b2bf035d97": {
    "id": "aab004b2bf035d97",
@@ -4490,11 +4496,11 @@
    "role": "[🤝URGENT HIRING🤝] EVENTS CUSTOMER SERVICE",
    "location": "Singapore"
   },
-  "e845be47910172d0": {
-   "id": "e845be47910172d0",
-   "company": "SINGAPORE MEDICAL GROUP LIMITED",
-   "role": "Patient Service Associate (6 months Contract)",
-   "location": "Singapore"
+  "86c373b1f535f2660699b11946554255": {
+   "id": "86c373b1f535f2660699b11946554255",
+   "company": "NETS",
+   "role": "It Project Coordinator (intern)",
+   "location": "Braddell"
   },
   "0fc5ba8558a8166c": {
    "id": "0fc5ba8558a8166c",
@@ -4590,6 +4596,12 @@
    "id": "1d638598e60235c7da2b20d80db97db0",
    "company": "Sea Deloitte",
    "role": "Talent & Hr Intern",
+   "location": "Singapore"
+  },
+  "292c36af5c9ff95449eab7afe00381d9": {
+   "id": "292c36af5c9ff95449eab7afe00381d9",
+   "company": "BP",
+   "role": "Trading Operator",
    "location": "Singapore"
   },
   "7f9fae75a2a370b4": {
@@ -4963,18 +4975,6 @@
    "company": "Cytiva",
    "role": "Qa Operations Coordinator",
    "location": "Central Singapore"
-  },
-  "a628289833e91fe783a968f44952d196": {
-   "id": "a628289833e91fe783a968f44952d196",
-   "company": "Wise",
-   "role": "Executive Assistant",
-   "location": "Singapore"
-  },
-  "d0825b05e974688c": {
-   "id": "d0825b05e974688c",
-   "company": "ALTIUS ORG",
-   "role": "Sales & Marketing Specialist 💰",
-   "location": "Islandwide"
   }
  }
 }
