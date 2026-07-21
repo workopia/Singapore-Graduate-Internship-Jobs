@@ -2102,4 +2102,49 @@
 <tr><td>SINGAPORE MEDICAL GROUP LIMITED</td><td>Patient Service Associate (6 months Contract)</td><td>Singapore</td><td>2026-07-20</td></tr>
 <tr><td>Wise</td><td>Executive Assistant</td><td>Singapore</td><td>2026-07-20</td></tr>
 <tr><td>ALTIUS ORG</td><td>Sales & Marketing Specialist 💰</td><td>Islandwide</td><td>2026-07-20</td></tr>
+<tr><td>KINO BIOTECH PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Franklintempletoncareers</td><td>Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Legg Mason</td><td>Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Franklin Templeton</td><td>Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Medtronic Diabetes</td><td>Finance Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>tech.gov.sg</td><td>Intern, Geospatial Systems & Solutions</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>RECRUITFIRST PTE. LTD.</td><td>HR RECRUITMENT TEMP SUPPORT</td><td>Orchard</td><td>2026-07-21</td></tr>
+<tr><td>HRNET ONE PTE LTD</td><td>Human Resources Intern</td><td>Orchard</td><td>2026-07-21</td></tr>
+<tr><td>THE SINGAPORE RESORT & SPA</td><td>E-Commerce & Digital Marketing Intern</td><td>Sentosa Island +2</td><td>2026-07-21</td></tr>
+<tr><td>LHN GROUP PTE. LTD.</td><td>Lease (Intern)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>TOLARAM PTE. LTD.</td><td>Sustainability Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>ERNST & YOUNG LLP</td><td>Audit Executive</td><td>Marina +4</td><td>2026-07-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Bank Analyst (For Sales Incentives) #ESY</td><td>Orchard</td><td>2026-07-21</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Finance Analyst (FP&A /Woodlands / 6 Months)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>EASTERN DENTAL CENTRE PTE. LTD.</td><td>Front Desk/ Dental Assistant</td><td>Islandwide</td><td>2026-07-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT* Dental Assistant (Hougang/Choa Chu Kang) #HRY</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>BEAM DENTAL PTE. LTD.</td><td>Dental assistant</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistant (Hougang, training provided) #HTJ</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>LABCORP DEVELOPMENT (ASIA) PTE. LTD.</td><td>Associate Scientist (ImmunoChemistry)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Psychology)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>XEBEC CLEAN ENERGY PTE. LTD.</td><td>Service Technician</td><td>Islandwide</td><td>2026-07-21</td></tr>
+<tr><td>OCEANDA HR PTE. LTD.</td><td>TECHNICIAN</td><td>Little India</td><td>2026-07-21</td></tr>
+<tr><td>CRESTAR ENTERPRISE PTE. LTD.</td><td>Technicians</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>CMA ENGINEERING SINGAPORE PTE LTD</td><td>SERVICE ENGINEER -PROJECTS</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Service Technician (Marine Aircon/HVAC) - Class3 / West</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>MENICON SINGAPORE PTE. LTD.</td><td>Technical Services Technician</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>GOLDEN CENTURY ENGINEERING PTE. LTD.</td><td>Air conditioning Technician</td><td>Islandwide</td><td>2026-07-21</td></tr>
+<tr><td>AVIATION LABOUR GROUP PTE. LTD.</td><td>Facility Maintenance Engineer</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>THOMSON MEDICAL PTE. LTD.</td><td>Retail Associate</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>FILMEASY PTE. LTD.</td><td>Retail Assistant (8hours/5days/week)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>RITUALS COSMETICS SINGAPORE PTE. LTD.</td><td>Retail Associate ( Beauty and Lifestyle )</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>MISTER MOBILE HOUGANG PTE. LTD.</td><td>Retail Advisor</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>GEMS PARTNERS NETWORK PTE. LTD.</td><td>Sales Assistant/Coordinator (West) Up to $2500</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year contract Patient Service Associate (Outram / Pasir Ris / Punggol) - $2500 Fixed #HKH</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>[🤝URGENT HIRING🤝] EVENTS CUSTOMER SERVICE</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>ONE NORTH MARKETING</td><td>Junior Marketing Associate (Build Your Portfolio & Skillset 🚀)</td><td>Islandwide</td><td>2026-07-21</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>Junior Marketing Associate</td><td>Marina +4</td><td>2026-07-21</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>HIRING: 🎉Brand Marketing Assistant🎉(Training Provided)</td><td>Marina +4</td><td>2026-07-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>🤩Marketing Assistant (Overseas Travelling Opportunities)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>SUCCESS HUMAN RESOURCE CENTRE PTE. LTD.</td><td>Permanent Marketing Assistant, Up to $2,000 (Remote/ WFH)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>ELEVATEH ORG</td><td>🔥 Marketing and Sales Assistant</td><td>Marina</td><td>2026-07-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Ready for Your Next Career Move? Marketing & Sales Assistant (Entry-level)</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>OCML SINGAPORE PTE. LTD.</td><td>Marketing Assistant</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Legocareersvirginia</td><td>Project Support Intern</td><td>Singapore</td><td>2026-07-21</td></tr>
+<tr><td>Cytiva</td><td>Qa Operations Coordinator</td><td>Central Singapore</td><td>2026-07-21</td></tr>
 </table>
