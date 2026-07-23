@@ -2479,4 +2479,17 @@
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 months Temp HR Assistant ($12) #HJOT</td><td>Islandwide</td><td>2026-07-22</td></tr>
 <tr><td>ON ENGINEERS PTE. LTD.</td><td>HR Assistant</td><td>Jurong +3</td><td>2026-07-22</td></tr>
 <tr><td>LUCKY JOINT CONSTRUCTION PTE. LTD.</td><td>HR Admin Officer</td><td>Singapore</td><td>2026-07-22</td></tr>
+<tr><td>THRIVE ORGANIZATION PTE. LTD.</td><td>One Career Decision Can Change Your Next Five Years.</td><td>Marina +4</td><td>2026-07-23</td></tr>
+<tr><td>TOD'S SINGAPORE PTE. LIMITED</td><td>Communications & Marketing Intern (Singapore)</td><td>Orchard</td><td>2026-07-23</td></tr>
+<tr><td>ETIQA INSURANCE PTE. LTD.</td><td>Marketing and Content Intern</td><td>Marina</td><td>2026-07-23</td></tr>
+<tr><td>KAROOOOO MANAGEMENT COMPANY PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-07-23</td></tr>
+<tr><td>OCBC Bank</td><td>Intern</td><td>Singapore</td><td>2026-07-23</td></tr>
+<tr><td>TALENTSIS PTE. LTD.</td><td>Software Engineer (Simulation / Game Development)</td><td>Islandwide</td><td>2026-07-23</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - International Tax Advisory (2026 Graduate)</td><td>Singapore</td><td>2026-07-23</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Cyber Risk Engineer</td><td>Singapore</td><td>2026-07-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>💊 Pharmacy Technician (2-Year Contract) / Hospital #HMS</td><td>Islandwide</td><td>2026-07-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Temp Pharmacy Assistant #HGAT</td><td>Singapore</td><td>2026-07-23</td></tr>
+<tr><td>ROLLS-ROYCE SOLUTIONS ASIA PTE. LTD.</td><td>Service Engineer, DRUPS (Dynamic Rotating UPS)</td><td>Jurong Island +2</td><td>2026-07-23</td></tr>
+<tr><td>TALENT TRADER GROUP PTE. LTD.</td><td>Service Engineer (Valve/ North)</td><td>Islandwide</td><td>2026-07-23</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Service Engineer (ACMV/ CRAC/ Cooling Systems - No Exp Required) #83561</td><td>Singapore</td><td>2026-07-23</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-22",
- "count": 840,
+ "asOf": "2026-07-23",
+ "count": 841,
  "jobs": {
   "10295": {
    "id": "10295",
@@ -26,6 +26,18 @@
    "role": "College Intern – Industrial Designer",
    "location": "South West"
   },
+  "af845f4478fcd7f75c224e68bb38c097": {
+   "id": "af845f4478fcd7f75c224e68bb38c097",
+   "company": "Investor Partner",
+   "role": "Apac Corporate Intern",
+   "location": "Singapore"
+  },
+  "851573b07029f0826242ce73ebfcb784": {
+   "id": "851573b07029f0826242ce73ebfcb784",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Intern, Purchasing",
+   "location": "Singapore"
+  },
   "d91661e5d69f1b46811d63aa2ee72989": {
    "id": "d91661e5d69f1b46811d63aa2ee72989",
    "company": "SAP SE",
@@ -48,6 +60,24 @@
    "id": "b4f35ee93445b785",
    "company": "GOOD PHARMA DERMATOLOGY PTE. LTD.",
    "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "0e882d799cfae4e14dfabfc4cb26e5ab": {
+   "id": "0e882d799cfae4e14dfabfc4cb26e5ab",
+   "company": "Deloitte",
+   "role": "Growth Intern - Deloitte Greenhouse (2026)",
+   "location": "Singapore"
+  },
+  "5a2e4dccf63371c0254d2055bc402554": {
+   "id": "5a2e4dccf63371c0254d2055bc402554",
+   "company": "Nestle Ltd",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "efc9278e60931a1a5f3d07703743cd81": {
+   "id": "efc9278e60931a1a5f3d07703743cd81",
+   "company": "tech.gov.sg",
+   "role": "Intern, Heartbeat@bedok",
    "location": "Singapore"
   },
   "7a7e69def8366ea5128a18fb4380158b": {
@@ -462,36 +492,6 @@
    "id": "0e9ba9d224ac715422c4cef94c2b2751",
    "company": "Sea Deloitte",
    "role": "T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)",
-   "location": "Singapore"
-  },
-  "1c56ea2824ecf100": {
-   "id": "1c56ea2824ecf100",
-   "company": "THRIVE ORGANIZATION PTE. LTD.",
-   "role": "One Career Decision Can Change Your Next Five Years.",
-   "location": "Marina +4"
-  },
-  "d50f31e641ebc2f7": {
-   "id": "d50f31e641ebc2f7",
-   "company": "TOD'S SINGAPORE PTE. LIMITED",
-   "role": "Communications & Marketing Intern (Singapore)",
-   "location": "Orchard"
-  },
-  "1e76640404d47e3d": {
-   "id": "1e76640404d47e3d",
-   "company": "ETIQA INSURANCE PTE. LTD.",
-   "role": "Marketing and Content Intern",
-   "location": "Marina"
-  },
-  "b867f71e495facde": {
-   "id": "b867f71e495facde",
-   "company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
-   "role": "Marketing Intern",
-   "location": "Singapore"
-  },
-  "7f500d123deb5c1ea43f92ee431b3678": {
-   "id": "7f500d123deb5c1ea43f92ee431b3678",
-   "company": "OCBC Bank",
-   "role": "Intern",
    "location": "Singapore"
   },
   "4c22a0b7aac1fe82": {
@@ -1124,6 +1124,12 @@
    "role": "IT Support / Desktop Engineer #IFL",
    "location": "Islandwide"
   },
+  "34cd3cb5cc7d09f01d3addf3132238ba": {
+   "id": "34cd3cb5cc7d09f01d3addf3132238ba",
+   "company": "AvePoint",
+   "role": "Salesforce Support Specialist",
+   "location": "Singapore"
+  },
   "a6780f703b8242e8": {
    "id": "a6780f703b8242e8",
    "company": "GOLDTECH RESOURCES PTE LTD",
@@ -1573,12 +1579,6 @@
    "company": "Coach (Tapestry, Inc.)",
    "role": "Cybersecurity Analyst-2",
    "location": "Singapore"
-  },
-  "5b1fa7ad3b678447": {
-   "id": "5b1fa7ad3b678447",
-   "company": "TALENTSIS PTE. LTD.",
-   "role": "Software Engineer (Simulation / Game Development)",
-   "location": "Islandwide"
   },
   "HRC1704521": {
    "id": "HRC1704521",
@@ -2486,6 +2486,24 @@
    "role": "Intern, Financial Accounting (group Reporting)",
    "location": "Singapore"
   },
+  "6880376b4a8c819d76c62e1e2556b2a1": {
+   "id": "6880376b4a8c819d76c62e1e2556b2a1",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - International Tax Advisory (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "6eb056ede2fccefedc468b298e3e7ed7": {
+   "id": "6eb056ede2fccefedc468b298e3e7ed7",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Transfer Pricing (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "f19e83a2bacb117f108ca28e554c4215": {
+   "id": "f19e83a2bacb117f108ca28e554c4215",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Tax Technology Consulting (2026 Graduate)",
+   "location": "Singapore"
+  },
   "a8c803bfe26be40480bc57931503b90c": {
    "id": "a8c803bfe26be40480bc57931503b90c",
    "company": "Deloitte",
@@ -2544,12 +2562,6 @@
    "id": "c2d26866243ac024232af334cbb53cba",
    "company": "Deloitte",
    "role": "T&l: Associate - Business Process Solutions (2026 Graduate)",
-   "location": "Singapore"
-  },
-  "e2b6dcb305225d3dab71311924c14149": {
-   "id": "e2b6dcb305225d3dab71311924c14149",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - International Tax Advisory (2026 Graduate)",
    "location": "Singapore"
   },
   "a1fe41600f0655432e65c4700411dbb1": {
@@ -2624,12 +2636,6 @@
    "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2026 Graduate)",
    "location": "Singapore"
   },
-  "6880376b4a8c819d76c62e1e2556b2a1": {
-   "id": "6880376b4a8c819d76c62e1e2556b2a1",
-   "company": "Deloitte",
-   "role": "T&l: Associate - International Tax Advisory (2026 Graduate)",
-   "location": "Singapore"
-  },
   "5410992b52cafd34ca2f4c0fe3a575a0": {
    "id": "5410992b52cafd34ca2f4c0fe3a575a0",
    "company": "Deloitte",
@@ -2640,6 +2646,12 @@
    "id": "99245b17e7acc3a501613ab2b75d8b57",
    "company": "Deloitte",
    "role": "T&l: Associate - Business Tax Financial Services (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "403731b7e7f6f0554cafeee94c84f227": {
+   "id": "403731b7e7f6f0554cafeee94c84f227",
+   "company": "Bord Gais Energy Ltd",
+   "role": "Lng Trading Analyst",
    "location": "Singapore"
   },
   "fb62d1846113b1ea": {
@@ -3116,10 +3128,10 @@
    "role": "Threat Detection Analyst (japanese & English Speaking)",
    "location": "Singapore"
   },
-  "e54a9ba242f6583ab033dd9a3b7dcc39": {
-   "id": "e54a9ba242f6583ab033dd9a3b7dcc39",
-   "company": "Zurich Insurance Company Ltd",
-   "role": "Cyber Risk Engineer",
+  "8a76e587664a9bd3121a07736ab0f948": {
+   "id": "8a76e587664a9bd3121a07736ab0f948",
+   "company": "NTU",
+   "role": "Research Associate (electrical And Electronic Engineering/ Computer Science)",
    "location": "Singapore"
   },
   "3adb32e4b23b17a9": {
@@ -3167,6 +3179,12 @@
   "48c95fd3307f2943e55da14c4173dc36": {
    "id": "48c95fd3307f2943e55da14c4173dc36",
    "company": "NTU (Nanyang Technological University)",
+   "role": "Research Assistant/associate, Artificial Intelligence/neuroscience [lkcmedicine]",
+   "location": "Singapore"
+  },
+  "dfd0bd77674f1edbfe3b62a47d81030f": {
+   "id": "dfd0bd77674f1edbfe3b62a47d81030f",
+   "company": "Ntuitive Pte Ltd",
    "role": "Research Assistant/associate, Artificial Intelligence/neuroscience [lkcmedicine]",
    "location": "Singapore"
   },
@@ -3590,16 +3608,10 @@
    "role": "*URGENT* 6 months Contract Locum Pharmacy Technician ($20/hr) #HCGT",
    "location": "Islandwide"
   },
-  "918eb5af0e30e0ed": {
-   "id": "918eb5af0e30e0ed",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "💊 Pharmacy Technician (2-Year Contract) / Hospital #HMS",
-   "location": "Islandwide"
-  },
-  "06bbfd50ce4c24e8": {
-   "id": "06bbfd50ce4c24e8",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "3 Months Temp Pharmacy Assistant #HGAT",
+  "fd1aa35872a411adc9a052333a4724c2": {
+   "id": "fd1aa35872a411adc9a052333a4724c2",
+   "company": "AGGREKO",
+   "role": "Service Technician - Electrical",
    "location": "Singapore"
   },
   "5418e1c453ff94980c7dfd96e70fd6f8": {
@@ -3631,6 +3643,18 @@
    "company": "SCREEN SPE SINGAPORE PTE. LTD.",
    "role": "Field Service Engineer",
    "location": "Singapore"
+  },
+  "38cbe0b4b7042a85494f0830443f3178": {
+   "id": "38cbe0b4b7042a85494f0830443f3178",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Bplrt Rolling Stock",
+   "location": "Singapore"
+  },
+  "3a0ca0772d9e02fee3fbb8818eee22e1": {
+   "id": "3a0ca0772d9e02fee3fbb8818eee22e1",
+   "company": "944game Inc",
+   "role": "Process Technician (shift)",
+   "location": "Fusionopolis"
   },
   "515da5b3f05f5cc27777203d587bffec": {
    "id": "515da5b3f05f5cc27777203d587bffec",
@@ -4063,24 +4087,6 @@
    "company": "ALIGN RECRUITMENT PTE. LTD.",
    "role": "Service Technician",
    "location": "Islandwide"
-  },
-  "413f406cdc334ae3": {
-   "id": "413f406cdc334ae3",
-   "company": "ROLLS-ROYCE SOLUTIONS ASIA PTE. LTD.",
-   "role": "Service Engineer, DRUPS (Dynamic Rotating UPS)",
-   "location": "Jurong Island +2"
-  },
-  "e479932f5b3c1860": {
-   "id": "e479932f5b3c1860",
-   "company": "TALENT TRADER GROUP PTE. LTD.",
-   "role": "Service Engineer (Valve/ North)",
-   "location": "Islandwide"
-  },
-  "876d1862821cd82f": {
-   "id": "876d1862821cd82f",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "Service Engineer (ACMV/ CRAC/ Cooling Systems - No Exp Required) #83561",
-   "location": "Singapore"
   },
   "0dbc2d9923f96340": {
    "id": "0dbc2d9923f96340",
