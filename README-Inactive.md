@@ -2887,4 +2887,49 @@
 <tr><td>OUS GROUP PTE. LTD.</td><td>Project Executive (0-1 Year Experience)</td><td>Geylang +2</td><td>2026-07-24</td></tr>
 <tr><td>EPIQ CONCEPT PTE. LTD.</td><td>Project Coordinator (Exhibition & Interior Focus)</td><td>Islandwide</td><td>2026-07-24</td></tr>
 <tr><td>AMAZING RENO PTE. LTD.</td><td>PROJECT COORDINATOR</td><td>Joo Chiat +4</td><td>2026-07-24</td></tr>
+<tr><td>Firmenich</td><td>Perfumery - Fine Fragrance Marketing Intern</td><td>Singapore Ascent</td><td>2026-07-25</td></tr>
+<tr><td>HP</td><td>College Intern – Industrial Designer</td><td>South West</td><td>2026-07-25</td></tr>
+<tr><td>MAXHUNT RESOURCE PTE. LTD.</td><td>Sales Executive(Internship)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>TRINAX PRIVATE LIMITED</td><td>Sales & Business Development Intern</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>NETS</td><td>Intern, Merchant Business, Business Product Management 1</td><td>Braddell</td><td>2026-07-25</td></tr>
+<tr><td>NETS</td><td>It Security Intern</td><td>Braddell</td><td>2026-07-25</td></tr>
+<tr><td>NETS</td><td>Merchant Business (product) Intern</td><td>Braddell</td><td>2026-07-25</td></tr>
+<tr><td>NETS</td><td>Intern, Consumer Business</td><td>Braddell</td><td>2026-07-25</td></tr>
+<tr><td>NETS</td><td>Intern, Financial Crime Compliance</td><td>Braddell</td><td>2026-07-25</td></tr>
+<tr><td>Coty Inc.</td><td>Marketing Intern, Domestic Market</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>APBA TG HUMAN RESOURCE PTE. LTD.</td><td>Temp HR Intern II 6 Months Contract II Central</td><td>Tanjong Pagar</td><td>2026-07-25</td></tr>
+<tr><td>ORCHIRO PTE. LTD.</td><td>Marketing Intern</td><td>Orchard</td><td>2026-07-25</td></tr>
+<tr><td>olam food ingredients (ofi)</td><td>Internship - Food Regulatory & Compliance Intern (6 Months)</td><td>Biopolis</td><td>2026-07-25</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai-powered Procurement Transformation</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Intern, Ficc Trading</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>CMA CGM Group</td><td>Marketing, Data & Insights Commercial Intern</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>OCBC</td><td>Intern</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Regional Brand & Communications Intern</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>Management Trainee (Sales & Marketing)</td><td>Marina +4</td><td>2026-07-25</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>IT Support Temp / 1.5 months contract</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>GP HOTEL MANAGEMENT PTE. LTD.</td><td>IT Executive</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>ALPHA Z PTE. LTD.</td><td>AI Engineer</td><td>Middle Road +2</td><td>2026-07-25</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Global Trade Advisory (2026 Graduate)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Business Tax (2026 Graduate)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Analyst/avp, Corporate Compliance (cpdap)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>DELOITTE SINGAPORE ASSURANCE PTE. LTD.</td><td>Analyst</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>TAN,CHAN & PARTNERS</td><td>Audit Executive</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>WE ARE CARING PTE. LTD.</td><td>Financial Analyst</td><td>Orchard +3</td><td>2026-07-25</td></tr>
+<tr><td>TAY DENTAL SURGERY PTE. LTD.</td><td>dental assistant</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistant / Office Hours / East Polyclinic / Training Provided #HYT</td><td>Orchard</td><td>2026-07-25</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Perm Dental Surgery Assistant - $2.5K to $3.2K (No exp needed) #HKH</td><td>Islandwide</td><td>2026-07-25</td></tr>
+<tr><td>SMILE DESIGN DENTAL PRACTICE PTE. LTD.</td><td>Dental Clinic Assistant</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>PERSONNEL LINK JOBHUB PTE. LTD.</td><td>Support Engineer (Display products)</td><td>Islandwide</td><td>2026-07-25</td></tr>
+<tr><td>STULZ SINGAPORE PTE. LTD.</td><td>Service Engineer</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>ACCRETE TECHNOLOGY (S) PTE. LTD.</td><td>Service Engineer</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>W.H. BRENNAN & COMPANY (PRIVATE) LIMITED</td><td>Marine Safety Assistant Technician (Up to $5K/month, 5 day work)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>PRESTIGE SOLUTIONS PTE. LTD.</td><td>Technician</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>AMBER MARINE SUPPLIES PTE. LTD.</td><td>Sales Assistant (Invoicing)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>ORIENTAL HARDWARE & MARINE PTE. LTD.</td><td>Sales Assistant (Invoicing)</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>PGS LOGISTICS (S) PTE. LTD.</td><td>Customer Service/Sales Support</td><td>Changi +2</td><td>2026-07-25</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🌈 Fun Events Executive 🌈 (Training Provided - Entry Level)</td><td>Marina +4</td><td>2026-07-25</td></tr>
+<tr><td>FOOD CONCEPTS STEAK PTE. LTD.</td><td>Events Executive</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🌈 Events Management & Sales (Entry Level - Training Provided) 🌈</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>OR KIM PEOW CONTRACTORS (PRIVATE) LIMITED</td><td>Workplace Safety and Health Coordinator</td><td>Singapore</td><td>2026-07-25</td></tr>
+<tr><td>RIBAR INDUSTRIES PTE. LTD.</td><td>HR Assistant</td><td>Jurong Island</td><td>2026-07-25</td></tr>
 </table>
