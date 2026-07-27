@@ -3322,4 +3322,43 @@
 <tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>[🔮IMMEDIATE START🔮] EVENT MARKETING</td><td>Marina +4</td><td>2026-07-26</td></tr>
 <tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>[💙HIRING💙] EVENT SALES COORDINATOR</td><td>Marina +4</td><td>2026-07-26</td></tr>
 <tr><td>ZENITH MARKETING SOLUTIONS PTE. LTD.</td><td>Events & Promotions Specialist</td><td>Islandwide</td><td>2026-07-26</td></tr>
+<tr><td>sea</td><td>T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Investor Partner</td><td>Apac Corporate Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Intermediate Capital Group</td><td>Apac Corporate Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Icgbuilds</td><td>Apac Corporate Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Intern, Purchasing</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Bosch Group</td><td>Intern, Purchasing</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>nlb.gov.sg</td><td>Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>OCBC Bank</td><td>Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>HACHEM SINGAPORE PTE. LTD.</td><td>Interior Design Internship l 6 months</td><td>Marina +4</td><td>2026-07-27</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Intern (10 to 12 Weeks) #NJN</td><td>Orchard</td><td>2026-07-27</td></tr>
+<tr><td>UNITED ENERGY (SINGAPORE) RESOURCES PTE. LTD.</td><td>Intern</td><td>Marina +4</td><td>2026-07-27</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Intern, Org, Board & Leadership Services</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>DELOITTE SINGAPORE ASSURANCE PTE. LTD.</td><td>Amplify Program Audit & Assurance Graduate Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>MEINHARDT (SINGAPORE) PTE LTD</td><td>Architectural Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>CHARSLTON TECHNOLOGIES PTE LTD</td><td>Marketing Intern</td><td>Hillview</td><td>2026-07-27</td></tr>
+<tr><td>NPS INTERNATIONAL SCHOOL PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>IFAST FINANCIAL PTE. LTD.</td><td>iFAST TV Content Marketing Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>SKYWORKS CONSULTING PTE. LTD.</td><td>Growth Marketing Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>OLA PARTY PTE. LTD.</td><td>Marketing Intern (Japanese Market)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Regional Brand Business Manager Intern, Seak (luxury Portfolio)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Singtel</td><td>Ap Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Singtel</td><td>Cyber Security Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Singtel</td><td>Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Singtel</td><td>Analyst (intern)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>SAP SE</td><td>Diploma Student / Intern</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Geotab</td><td>Marketing Intern - Southeast Asia. (remote)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>LOBB HENG PTE LTD</td><td>Trading Intern</td><td>Marina</td><td>2026-07-27</td></tr>
+<tr><td>MSIG ASIA PTE. LTD.</td><td>Intern, Brand & Communications</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>TWG TEA COMPANY PTE. LTD.</td><td>IT Support Officer/ Executive</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>JJ CONSULTING SERVICES</td><td>Threat Intel Analyst</td><td>Islandwide</td><td>2026-07-27</td></tr>
+<tr><td>ETHOS SEARCH ASSOCIATES PTE. LTD.</td><td>Semiconductor Software Test Engineer (Automation, Data Analytics & AI)</td><td>Islandwide</td><td>2026-07-27</td></tr>
+<tr><td>IMMORTAL DRAGONS PRIVATE LIMITED</td><td>AI Research Engineer</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>282</td><td>Intern, Financial Accounting (group Reporting)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>ALPHA PORTER PTE. LTD.</td><td>junior investment analyst</td><td>Islandwide</td><td>2026-07-27</td></tr>
+<tr><td>AVRA INTERNATIONAL PTE. LTD.</td><td>Risk Analyst</td><td>Marina +4</td><td>2026-07-27</td></tr>
+<tr><td>NTU</td><td>Research Associate (electrical And Electronic Engineering/ Computer Science)</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>SOLIDHEAT INDUSTRIES PTE LTD</td><td>Service Engineer</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>Arthrex Inc</td><td>It Support Specialist</td><td>Singapore</td><td>2026-07-27</td></tr>
 </table>

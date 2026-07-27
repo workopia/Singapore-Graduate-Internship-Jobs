@@ -1,6 +1,6 @@
 {
- "asOf": "2026-07-26",
- "count": 851,
+ "asOf": "2026-07-27",
+ "count": 850,
  "jobs": {
   "10295": {
    "id": "10295",
@@ -12,6 +12,174 @@
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "8c147daf1fa0063606815233450b0da7": {
+   "id": "8c147daf1fa0063606815233450b0da7",
+   "company": "Lam Research",
+   "role": "Business Function Intern 1",
+   "location": "Singapore"
+  },
+  "fc260289b98e3a2331b7d5e414412c35": {
+   "id": "fc260289b98e3a2331b7d5e414412c35",
+   "company": "Synapxe Pte Ltd",
+   "role": "Ite Internship Oct'26 To Sep'27 - National Harmonised Integrated Pharmacy System (nhips) Internship",
+   "location": "Singapore"
+  },
+  "9731b94d454faee034355af95f61f556": {
+   "id": "9731b94d454faee034355af95f61f556",
+   "company": "Synapxe Pte Ltd",
+   "role": "Ite Internship Oct'26 To Sep'27 - Smart Incident Management",
+   "location": "Singapore"
+  },
+  "cd03ebc1e70ba9025fa161aa0cc18052": {
+   "id": "cd03ebc1e70ba9025fa161aa0cc18052",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Ai & Automation, Operational Efficiency & Incident Management",
+   "location": "Singapore"
+  },
+  "1c224de431b07632135277c7afe32050": {
+   "id": "1c224de431b07632135277c7afe32050",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Legal Process And Automation",
+   "location": "Singapore"
+  },
+  "f874666622363fdd5aabdfcf9b18ede6": {
+   "id": "f874666622363fdd5aabdfcf9b18ede6",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Ai Power Enterprise Architecture Repository For Mohh",
+   "location": "Singapore"
+  },
+  "fac526e5bacee7c5c6d67062d4079ad1": {
+   "id": "fac526e5bacee7c5c6d67062d4079ad1",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Nhg Digital Transformation - Automation Internship",
+   "location": "Singapore"
+  },
+  "a464d1c3f0e51d91e566476f9b268fe5": {
+   "id": "a464d1c3f0e51d91e566476f9b268fe5",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Cybersecurity Operations, Analysis & Response",
+   "location": "Singapore"
+  },
+  "f7be231fd5ea05b89bfb56d48a896d61": {
+   "id": "f7be231fd5ea05b89bfb56d48a896d61",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Cybersecurity, Ai-driven Threat Intelligence Workload Optimization",
+   "location": "Singapore"
+  },
+  "7105282f45fa4cae3bba835b409e201b": {
+   "id": "7105282f45fa4cae3bba835b409e201b",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Backend Developer, Python & Microservices",
+   "location": "Singapore"
+  },
+  "cf7cc9b34202f957fff8c6d5eb7fdb7f": {
+   "id": "cf7cc9b34202f957fff8c6d5eb7fdb7f",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - It Audit Management",
+   "location": "Singapore"
+  },
+  "085b6e3794a66c27b2527d1e2dc37c41": {
+   "id": "085b6e3794a66c27b2527d1e2dc37c41",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Penetration Testing",
+   "location": "Singapore"
+  },
+  "2662cf33c99cc62c21f14b32cbf3efd3": {
+   "id": "2662cf33c99cc62c21f14b32cbf3efd3",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Microsoft Dynamics Crm System Implementation & Testing",
+   "location": "Singapore"
+  },
+  "f2f9395b2783952da6e98e9847a43972": {
+   "id": "f2f9395b2783952da6e98e9847a43972",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Talent Management",
+   "location": "Singapore"
+  },
+  "ea89acc9439891017e5f8048b8f2ee2e": {
+   "id": "ea89acc9439891017e5f8048b8f2ee2e",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Learning Systems & Programme Management",
+   "location": "Singapore"
+  },
+  "9e5c486726b8baf88581c52c6cf10a06": {
+   "id": "9e5c486726b8baf88581c52c6cf10a06",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - National Billing System Support & Operations",
+   "location": "Singapore"
+  },
+  "e01aebce62485b0415fdd241c757f2c3": {
+   "id": "e01aebce62485b0415fdd241c757f2c3",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - National Billing System Deployment",
+   "location": "Singapore"
+  },
+  "f0e32d368d6b1ec04a23e7d34506af64": {
+   "id": "f0e32d368d6b1ec04a23e7d34506af64",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Learning & Capability Management",
+   "location": "Singapore"
+  },
+  "75a9a3d6677bda35d5b9b33c14a44c7b": {
+   "id": "75a9a3d6677bda35d5b9b33c14a44c7b",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Ai & Eprocurement Internship",
+   "location": "Singapore"
+  },
+  "ba8f3a953a776267ef60f66ecb5bc3a1": {
+   "id": "ba8f3a953a776267ef60f66ecb5bc3a1",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Ai Strategy & Innovation Internship",
+   "location": "Singapore"
+  },
+  "f8d7649b49f38b6f7840a9c145aadd71": {
+   "id": "f8d7649b49f38b6f7840a9c145aadd71",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Early Careers Talent Acquisition",
+   "location": "Singapore"
+  },
+  "78db636854bfcd1dd364feb36673eb76": {
+   "id": "78db636854bfcd1dd364feb36673eb76",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Queue Management System (qms) Integration With Ngemr",
+   "location": "Singapore"
+  },
+  "833bec30af1e88c19392e2ec57eb9707": {
+   "id": "833bec30af1e88c19392e2ec57eb9707",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Cybersecurity, Ai Threat Intelligence & Hunting",
+   "location": "Singapore"
+  },
+  "db2a3443dc2c72a8f9874c9aebbd4cd3": {
+   "id": "db2a3443dc2c72a8f9874c9aebbd4cd3",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Healthcare Projects Financial Dashboard Reporting & Analysis",
+   "location": "Singapore"
+  },
+  "e1688f19e2a0eb9835d73111d7a38e61": {
+   "id": "e1688f19e2a0eb9835d73111d7a38e61",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Business Analyst, Hsg Analytics",
+   "location": "Singapore"
+  },
+  "5c00779f11b28764927c9bc6e9a90cc7": {
+   "id": "5c00779f11b28764927c9bc6e9a90cc7",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Healthhub Digital Marketing Internship",
+   "location": "Singapore"
+  },
+  "a8725332ac586362c3eceb8d423c2926": {
+   "id": "a8725332ac586362c3eceb8d423c2926",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Intern, Brand And Marketing",
+   "location": "Singapore"
+  },
+  "7c311bb4f0fdf80a929720d88cddc06b": {
+   "id": "7c311bb4f0fdf80a929720d88cddc06b",
+   "company": "Singapore LNG Corporation Pte Ltd",
+   "role": "Intern (it)",
    "location": "Singapore"
   },
   "d705c6f1a4042fe801c636285393f8f0": {
@@ -212,6 +380,12 @@
    "role": "Temasek Summer Internship Programme 2027 - Investment Group (singapore)",
    "location": "Singapore"
   },
+  "fa989e57a54ff21dfba1beb1005e8d96": {
+   "id": "fa989e57a54ff21dfba1beb1005e8d96",
+   "company": "Nestle SA",
+   "role": "Intern",
+   "location": "Singapore"
+  },
   "8ade116751edaa66": {
    "id": "8ade116751edaa66",
    "company": "RECRUIT EXPRESS PTE LTD",
@@ -318,180 +492,6 @@
    "id": "226a2c9a78b16685fb1bc40eaf6452ae",
    "company": "sea",
    "role": "T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)",
-   "location": "Singapore"
-  },
-  "e338aa0093258c77c0f973ee5561e6f9": {
-   "id": "e338aa0093258c77c0f973ee5561e6f9",
-   "company": "sea",
-   "role": "T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)",
-   "location": "Singapore"
-  },
-  "af845f4478fcd7f75c224e68bb38c097": {
-   "id": "af845f4478fcd7f75c224e68bb38c097",
-   "company": "Investor Partner",
-   "role": "Apac Corporate Intern",
-   "location": "Singapore"
-  },
-  "4708e17ed9a694243771c13be4e48d95": {
-   "id": "4708e17ed9a694243771c13be4e48d95",
-   "company": "Intermediate Capital Group",
-   "role": "Apac Corporate Intern",
-   "location": "Singapore"
-  },
-  "26d1e9d7a5003cb2065b4c1edc5b5e74": {
-   "id": "26d1e9d7a5003cb2065b4c1edc5b5e74",
-   "company": "Icgbuilds",
-   "role": "Apac Corporate Intern",
-   "location": "Singapore"
-  },
-  "851573b07029f0826242ce73ebfcb784": {
-   "id": "851573b07029f0826242ce73ebfcb784",
-   "company": "Bosch Rexroth Pty. Ltd.",
-   "role": "Intern, Purchasing",
-   "location": "Singapore"
-  },
-  "b032b7a7bcc5d13d8462a10ddf6695aa": {
-   "id": "b032b7a7bcc5d13d8462a10ddf6695aa",
-   "company": "Bosch Group",
-   "role": "Intern, Purchasing",
-   "location": "Singapore"
-  },
-  "dae5f9ebfae601ce2c89e9e84a339539": {
-   "id": "dae5f9ebfae601ce2c89e9e84a339539",
-   "company": "nlb.gov.sg",
-   "role": "Intern",
-   "location": "Singapore"
-  },
-  "7f500d123deb5c1ea43f92ee431b3678": {
-   "id": "7f500d123deb5c1ea43f92ee431b3678",
-   "company": "OCBC Bank",
-   "role": "Intern",
-   "location": "Singapore"
-  },
-  "311dd1a71942f754": {
-   "id": "311dd1a71942f754",
-   "company": "HACHEM SINGAPORE PTE. LTD.",
-   "role": "Interior Design Internship l 6 months",
-   "location": "Marina +4"
-  },
-  "715c190bbc7dc550": {
-   "id": "715c190bbc7dc550",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "HR Intern (10 to 12 Weeks) #NJN",
-   "location": "Orchard"
-  },
-  "c1f9961425c1f492": {
-   "id": "c1f9961425c1f492",
-   "company": "UNITED ENERGY (SINGAPORE) RESOURCES PTE. LTD.",
-   "role": "Intern",
-   "location": "Marina +4"
-  },
-  "dfb0dc5e198ac80e": {
-   "id": "dfb0dc5e198ac80e",
-   "company": "JTA CONSULTANCY",
-   "role": "Finance Intern",
-   "location": "Singapore"
-  },
-  "3d404b9eea220819": {
-   "id": "3d404b9eea220819",
-   "company": "HYPERSCAL SOLUTIONS PTE. LTD.",
-   "role": "Intern, Org, Board & Leadership Services",
-   "location": "Singapore"
-  },
-  "50b4d4c257994f14": {
-   "id": "50b4d4c257994f14",
-   "company": "DELOITTE SINGAPORE ASSURANCE PTE. LTD.",
-   "role": "Amplify Program Audit & Assurance Graduate Intern",
-   "location": "Singapore"
-  },
-  "cdaa9b2f286ab001": {
-   "id": "cdaa9b2f286ab001",
-   "company": "MEINHARDT (SINGAPORE) PTE LTD",
-   "role": "Architectural Intern",
-   "location": "Singapore"
-  },
-  "870c1956ff72a1d1": {
-   "id": "870c1956ff72a1d1",
-   "company": "CHARSLTON TECHNOLOGIES PTE LTD",
-   "role": "Marketing Intern",
-   "location": "Hillview"
-  },
-  "a0d0e3e85b7ad831": {
-   "id": "a0d0e3e85b7ad831",
-   "company": "NPS INTERNATIONAL SCHOOL PTE. LTD.",
-   "role": "Marketing Intern",
-   "location": "Singapore"
-  },
-  "79f797259712ff2a": {
-   "id": "79f797259712ff2a",
-   "company": "IFAST FINANCIAL PTE. LTD.",
-   "role": "iFAST TV Content Marketing Intern",
-   "location": "Singapore"
-  },
-  "b2a3274b8a71b83d": {
-   "id": "b2a3274b8a71b83d",
-   "company": "SKYWORKS CONSULTING PTE. LTD.",
-   "role": "Growth Marketing Intern",
-   "location": "Singapore"
-  },
-  "906de6bf134b08a6": {
-   "id": "906de6bf134b08a6",
-   "company": "OLA PARTY PTE. LTD.",
-   "role": "Marketing Intern (Japanese Market)",
-   "location": "Singapore"
-  },
-  "53d6c6c8fb99303f7bba71d1ff05671d": {
-   "id": "53d6c6c8fb99303f7bba71d1ff05671d",
-   "company": "EssilorLuxottica SA",
-   "role": "Regional Brand Business Manager Intern, Seak (luxury Portfolio)",
-   "location": "Singapore"
-  },
-  "bfad2414eb01a131bde5d2cfa6588bff": {
-   "id": "bfad2414eb01a131bde5d2cfa6588bff",
-   "company": "Singtel",
-   "role": "Ap Intern",
-   "location": "Singapore"
-  },
-  "ea0433fe6fd85080e33152f0e282a9c7": {
-   "id": "ea0433fe6fd85080e33152f0e282a9c7",
-   "company": "Singtel",
-   "role": "Cyber Security Intern",
-   "location": "Singapore"
-  },
-  "bd0505b563e4339f47d29d8e51bee3a9": {
-   "id": "bd0505b563e4339f47d29d8e51bee3a9",
-   "company": "Singtel",
-   "role": "Intern",
-   "location": "Singapore"
-  },
-  "2a7ced8ee67c510ddbd4067124d7f9c3": {
-   "id": "2a7ced8ee67c510ddbd4067124d7f9c3",
-   "company": "Singtel",
-   "role": "Analyst (intern)",
-   "location": "Singapore"
-  },
-  "d91661e5d69f1b46811d63aa2ee72989": {
-   "id": "d91661e5d69f1b46811d63aa2ee72989",
-   "company": "SAP SE",
-   "role": "Diploma Student / Intern",
-   "location": "Singapore"
-  },
-  "4dbeac76c945d0f39997f1f9668fb815": {
-   "id": "4dbeac76c945d0f39997f1f9668fb815",
-   "company": "Geotab",
-   "role": "Marketing Intern - Southeast Asia. (remote)",
-   "location": "Singapore"
-  },
-  "c493c5ce71f8fe2b": {
-   "id": "c493c5ce71f8fe2b",
-   "company": "LOBB HENG PTE LTD",
-   "role": "Trading Intern",
-   "location": "Marina"
-  },
-  "3bf0f5b746a65ced": {
-   "id": "3bf0f5b746a65ced",
-   "company": "MSIG ASIA PTE. LTD.",
-   "role": "Intern, Brand & Communications",
    "location": "Singapore"
   },
   "996150e8deb43b50": {
@@ -974,6 +974,12 @@
    "role": "MANAGEMENT TRAINING EXECUTIVE /MK-INJ-A-B18",
    "location": "Islandwide"
   },
+  "916f3f52ed0b65fdb70f2931b7217555": {
+   "id": "916f3f52ed0b65fdb70f2931b7217555",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - System Analyst - Visitor Management System Rollout",
+   "location": "Singapore"
+  },
   "e480de24a1a8b9f96c57e7c9662adf32": {
    "id": "e480de24a1a8b9f96c57e7c9662adf32",
    "company": "Singtel",
@@ -1002,12 +1008,6 @@
    "id": "70fdea1171f24752cdb4767bb9dd92c3",
    "company": "Synapxe Pte Ltd",
    "role": "Uni Internship Jan To July 2027 - Frontend Developer, Angular Cloud Automation Portal",
-   "location": "Singapore"
-  },
-  "916f3f52ed0b65fdb70f2931b7217555": {
-   "id": "916f3f52ed0b65fdb70f2931b7217555",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - System Analyst - Visitor Management System Rollout",
    "location": "Singapore"
   },
   "a897817d5bc2559e54ff437a452d8ed2": {
@@ -1099,6 +1099,18 @@
    "company": "DXC TECHNOLOGY SERVICES SINGAPORE PTE. LTD.",
    "role": "Graduate Industry Trainee (GRIT) – Junior Software Engineer",
    "location": "Harbourfront +3"
+  },
+  "bca8677ace4e63c5226976e067ca9fe9": {
+   "id": "bca8677ace4e63c5226976e067ca9fe9",
+   "company": "Synapxe Pte Ltd",
+   "role": "Aug/sept 2026 System Analyst (healthtech Associate Programme)",
+   "location": "Singapore"
+  },
+  "be8a651566be1b786b8b609ffbeff813": {
+   "id": "be8a651566be1b786b8b609ffbeff813",
+   "company": "Synapxe Pte Ltd",
+   "role": "Systems Analyst - Data Conversion (ngemr)",
+   "location": "Singapore"
   },
   "bc82048da5a98e897df36004729f123f": {
    "id": "bc82048da5a98e897df36004729f123f",
@@ -1568,17 +1580,47 @@
    "role": "L1 Support Engineer (Government)",
    "location": "Islandwide"
   },
-  "ab8b09316c4f957b": {
-   "id": "ab8b09316c4f957b",
-   "company": "TWG TEA COMPANY PTE. LTD.",
-   "role": "IT Support Officer/ Executive",
+  "b05c5d47d3c9274917c48cfe37590ae4": {
+   "id": "b05c5d47d3c9274917c48cfe37590ae4",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analytics & Dashboard Development, Healix",
    "location": "Singapore"
   },
-  "8e111927c7656b23": {
-   "id": "8e111927c7656b23",
-   "company": "JJ CONSULTING SERVICES",
-   "role": "Threat Intel Analyst",
-   "location": "Islandwide"
+  "bbf8a47fd80d3d8a4cdbf1a596174b88": {
+   "id": "bbf8a47fd80d3d8a4cdbf1a596174b88",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analytics Internship",
+   "location": "Singapore"
+  },
+  "cf02349c7ad868be9a69fa273819de2e": {
+   "id": "cf02349c7ad868be9a69fa273819de2e",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analyst, Hsg Analytics",
+   "location": "Singapore"
+  },
+  "d7e3beda408d648d4d5bd0677e4d92cb": {
+   "id": "d7e3beda408d648d4d5bd0677e4d92cb",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Procurement Data Analyst Intern",
+   "location": "Singapore"
+  },
+  "e0a9a2efbb48c9a0b6d3580d0ea1975b": {
+   "id": "e0a9a2efbb48c9a0b6d3580d0ea1975b",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analytics & Tableau Dashboard Internship",
+   "location": "Singapore"
+  },
+  "c633cbe1caaf7b751976710fd74f6e74": {
+   "id": "c633cbe1caaf7b751976710fd74f6e74",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analyst, Datalake Projects On Healix",
+   "location": "Singapore"
+  },
+  "c006c3f4f4526c334973e9a6e5815f16": {
+   "id": "c006c3f4f4526c334973e9a6e5815f16",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Data Analytics & Visualization Internship",
+   "location": "Singapore"
   },
   "HRC1714354": {
    "id": "HRC1714354",
@@ -1638,48 +1680,6 @@
    "id": "ead21555655839ec8fc5baffc238b526",
    "company": "II-VI 2",
    "role": "Intern - Data Analyst (store)",
-   "location": "Singapore"
-  },
-  "b05c5d47d3c9274917c48cfe37590ae4": {
-   "id": "b05c5d47d3c9274917c48cfe37590ae4",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analytics & Dashboard Development, Healix",
-   "location": "Singapore"
-  },
-  "bbf8a47fd80d3d8a4cdbf1a596174b88": {
-   "id": "bbf8a47fd80d3d8a4cdbf1a596174b88",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analytics Internship",
-   "location": "Singapore"
-  },
-  "cf02349c7ad868be9a69fa273819de2e": {
-   "id": "cf02349c7ad868be9a69fa273819de2e",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analyst, Hsg Analytics",
-   "location": "Singapore"
-  },
-  "d7e3beda408d648d4d5bd0677e4d92cb": {
-   "id": "d7e3beda408d648d4d5bd0677e4d92cb",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Procurement Data Analyst Intern",
-   "location": "Singapore"
-  },
-  "e0a9a2efbb48c9a0b6d3580d0ea1975b": {
-   "id": "e0a9a2efbb48c9a0b6d3580d0ea1975b",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analytics & Tableau Dashboard Internship",
-   "location": "Singapore"
-  },
-  "c633cbe1caaf7b751976710fd74f6e74": {
-   "id": "c633cbe1caaf7b751976710fd74f6e74",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analyst, Datalake Projects On Healix",
-   "location": "Singapore"
-  },
-  "c006c3f4f4526c334973e9a6e5815f16": {
-   "id": "c006c3f4f4526c334973e9a6e5815f16",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Data Analytics & Visualization Internship",
    "location": "Singapore"
   },
   "d104f46e7d88235a5c04780f1d1397bd": {
@@ -1802,9 +1802,21 @@
    "role": "Data Scientist (dsad)",
    "location": "Singapore"
   },
+  "a1504d0333cb2c9209756708adc095a4": {
+   "id": "a1504d0333cb2c9209756708adc095a4",
+   "company": "nlb.gov.sg",
+   "role": "Data Scientist (dsad)",
+   "location": "Singapore"
+  },
   "f60fe48d1973710015a4c42c30eeafab": {
    "id": "f60fe48d1973710015a4c42c30eeafab",
    "company": "tech.gov.sg",
+   "role": "Data Scientist, National Jobs-skills Data Office (rad)",
+   "location": "Singapore"
+  },
+  "1352d0fc4e79ce7666f598e2543f4187": {
+   "id": "1352d0fc4e79ce7666f598e2543f4187",
+   "company": "nlb.gov.sg",
    "role": "Data Scientist, National Jobs-skills Data Office (rad)",
    "location": "Singapore"
   },
@@ -2264,16 +2276,22 @@
    "role": "AI Forward Deployed Engineer",
    "location": "Marina +4"
   },
-  "2f13cfd5e38508ab": {
-   "id": "2f13cfd5e38508ab",
-   "company": "ETHOS SEARCH ASSOCIATES PTE. LTD.",
-   "role": "Semiconductor Software Test Engineer (Automation, Data Analytics & AI)",
-   "location": "Islandwide"
+  "f29101440ff01c6c1c7ac9a9e02f7d2e": {
+   "id": "f29101440ff01c6c1c7ac9a9e02f7d2e",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Business Analyst, Tandem",
+   "location": "Singapore"
   },
-  "c9b97be76ca77e3a": {
-   "id": "c9b97be76ca77e3a",
-   "company": "IMMORTAL DRAGONS PRIVATE LIMITED",
-   "role": "AI Research Engineer",
+  "7f7f1a989254f06bbac56eb8f6d8ed34": {
+   "id": "7f7f1a989254f06bbac56eb8f6d8ed34",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Financial Reporting And Analysis",
+   "location": "Singapore"
+  },
+  "22ab030e26f26700b4561adff922ec3e": {
+   "id": "22ab030e26f26700b4561adff922ec3e",
+   "company": "Synapxe Pte Ltd",
+   "role": "Uni Internship Jan To July 2027 - Ai Voice Agent (aivah) Business Analyst Internship",
    "location": "Singapore"
   },
   "1524dd232a9cb70a": {
@@ -2322,24 +2340,6 @@
    "id": "bda527500d963c3d",
    "company": "BARCLAYS EXECUTION SERVICES LIMITED Singapore Branch",
    "role": "2027 Operations Analyst Summer Internship Programme Singapore",
-   "location": "Singapore"
-  },
-  "f29101440ff01c6c1c7ac9a9e02f7d2e": {
-   "id": "f29101440ff01c6c1c7ac9a9e02f7d2e",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Business Analyst, Tandem",
-   "location": "Singapore"
-  },
-  "7f7f1a989254f06bbac56eb8f6d8ed34": {
-   "id": "7f7f1a989254f06bbac56eb8f6d8ed34",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Financial Reporting And Analysis",
-   "location": "Singapore"
-  },
-  "22ab030e26f26700b4561adff922ec3e": {
-   "id": "22ab030e26f26700b4561adff922ec3e",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai Voice Agent (aivah) Business Analyst Internship",
    "location": "Singapore"
   },
   "006e3b3f6b5de69f": {
@@ -2495,12 +2495,6 @@
   "2c7846440a0b74f519cdc4034a299d64": {
    "id": "2c7846440a0b74f519cdc4034a299d64",
    "company": "224",
-   "role": "Intern, Financial Accounting (group Reporting)",
-   "location": "Singapore"
-  },
-  "63e023bb6a0431a308c1440f7928ba45": {
-   "id": "63e023bb6a0431a308c1440f7928ba45",
-   "company": "282",
    "role": "Intern, Financial Accounting (group Reporting)",
    "location": "Singapore"
   },
@@ -2708,9 +2702,21 @@
    "role": "T&l: Associate - Business Tax Financial Services (2026 Graduate)",
    "location": "Singapore"
   },
+  "c7aa597a429a36e0112653395a4ae063": {
+   "id": "c7aa597a429a36e0112653395a4ae063",
+   "company": "Lam Research",
+   "role": "Contract Csbg Operation Analyst",
+   "location": "Singapore"
+  },
   "410f45af92f59dc6a70fabec4a002e86": {
    "id": "410f45af92f59dc6a70fabec4a002e86",
    "company": "MARSH MCLENNAN",
+   "role": "Investment Consulting Analyst",
+   "location": "Singapore"
+  },
+  "650df215a0ad9a8d2fadc8d02601746a": {
+   "id": "650df215a0ad9a8d2fadc8d02601746a",
+   "company": "Marsh & McLennan Companies Inc",
    "role": "Investment Consulting Analyst",
    "location": "Singapore"
   },
@@ -3176,18 +3182,6 @@
    "role": "External Audit Associate",
    "location": "Singapore"
   },
-  "763cc051db427874": {
-   "id": "763cc051db427874",
-   "company": "ALPHA PORTER PTE. LTD.",
-   "role": "junior investment analyst",
-   "location": "Islandwide"
-  },
-  "ef592d84683c121e": {
-   "id": "ef592d84683c121e",
-   "company": "AVRA INTERNATIONAL PTE. LTD.",
-   "role": "Risk Analyst",
-   "location": "Marina +4"
-  },
   "905b6ff1d2740d5b1214c2a9618331b3": {
    "id": "905b6ff1d2740d5b1214c2a9618331b3",
    "company": "Singapore Health Services Pte Ltd",
@@ -3209,6 +3203,12 @@
   "7e55ed8374d0ac151c849c51748191c8": {
    "id": "7e55ed8374d0ac151c849c51748191c8",
    "company": "Mmlab Ntu",
+   "role": "Research Assistant (computer Science/computer Engineering/electronics Engineering/ai/machine Learning)",
+   "location": "Singapore"
+  },
+  "d04545374d9c77e72c5bd5e934f5db10": {
+   "id": "d04545374d9c77e72c5bd5e934f5db10",
+   "company": "ERI@N",
    "role": "Research Assistant (computer Science/computer Engineering/electronics Engineering/ai/machine Learning)",
    "location": "Singapore"
   },
@@ -3662,10 +3662,10 @@
    "role": "Research Assistant (temp)",
    "location": "Singapore"
   },
-  "8a76e587664a9bd3121a07736ab0f948": {
-   "id": "8a76e587664a9bd3121a07736ab0f948",
-   "company": "NTU",
-   "role": "Research Associate (electrical And Electronic Engineering/ Computer Science)",
+  "901a01f570f771d6872d043988692da2": {
+   "id": "901a01f570f771d6872d043988692da2",
+   "company": "Lam Research",
+   "role": "Field Service Engineer 1",
    "location": "Singapore"
   },
   "2fcd40d7e0cef109fce04fe495ba70b1": {
@@ -4140,12 +4140,6 @@
    "id": "b40632f248711d71",
    "company": "LOGICOM INSTRUMENTS PTE LTD",
    "role": "Service Technician",
-   "location": "Singapore"
-  },
-  "33e766c48fdbf7c9": {
-   "id": "33e766c48fdbf7c9",
-   "company": "SOLIDHEAT INDUSTRIES PTE LTD",
-   "role": "Service Engineer",
    "location": "Singapore"
   },
   "61a813e95041a32e": {
@@ -4628,6 +4622,12 @@
    "role": "Warehouse Assistant cum Delivery Driver (Class 3) #74534",
    "location": "Singapore"
   },
+  "f8af0b81fea6eba79b4276243d6dae70": {
+   "id": "f8af0b81fea6eba79b4276243d6dae70",
+   "company": "Cytiva",
+   "role": "Qa Operations Coordinator",
+   "location": "Central Singapore"
+  },
   "bb4f7c449ca3dc6bda8f8c8a6de154a9": {
    "id": "bb4f7c449ca3dc6bda8f8c8a6de154a9",
    "company": "Zurich Insurance Company Ltd",
@@ -5100,12 +5100,6 @@
    "id": "5a73d09ff8e6088090eca74ec5154dbb",
    "company": "androiddev.careers",
    "role": "Driver Operations Coordinator/associate (6 Months Contract)",
-   "location": "Singapore"
-  },
-  "d4c5a29176ae89e09638683f09669770": {
-   "id": "d4c5a29176ae89e09638683f09669770",
-   "company": "Arthrex Inc",
-   "role": "It Support Specialist",
    "location": "Singapore"
   }
  }
