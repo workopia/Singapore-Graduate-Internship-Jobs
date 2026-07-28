@@ -3361,4 +3361,45 @@
 <tr><td>NTU</td><td>Research Associate (electrical And Electronic Engineering/ Computer Science)</td><td>Singapore</td><td>2026-07-27</td></tr>
 <tr><td>SOLIDHEAT INDUSTRIES PTE LTD</td><td>Service Engineer</td><td>Singapore</td><td>2026-07-27</td></tr>
 <tr><td>Arthrex Inc</td><td>It Support Specialist</td><td>Singapore</td><td>2026-07-27</td></tr>
+<tr><td>sea</td><td>A&a - Amplify Program Audit & Assurance - Singapore</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>Sr&t - Amplify Program Strategy, Risk & Transactions - Singapore</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>T&l - Amplify Program Tax & Legal - Singapore</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>Duap Intern - Project Operation</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>Growth Intern - Clients & Industries (summer 2026)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>T&l: Tax & Legal Intern - Tax Technology Consulting (summer 2026)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>IT Support / Desktop Engineer #IFL</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>IT Support Executive / Govt Sector / West / Contract</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>L1 Support Engineer (Government)</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>DATABRICKS ASIAPAC UNIFIED ANALYTICS PTE. LTD.</td><td>AI Forward Deployed Engineer</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>Circles.Life</td><td>Intern, Finance Controllership</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>224</td><td>Intern, Financial Accounting (group Reporting)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Merger And Acquisition Tax (2026 Graduate)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>Deloitte</td><td>T&t Graduate Analyst - Oracle (finance) - Sg</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>MEISHENG PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>MOORE STEPHENS LLP</td><td>External Audit Associate</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>QC Chemist / Lab Analyst (Biologics / Pharma MNC) #HJO</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year contract Scientific Support Specialist (HPLC / GC) - Up to $2.5K #HKH</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>OMNI-PLUS SYSTEM LIMITED</td><td>Lab Technician</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Locum Pharmacist</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>Singapore University of Social Sciences</td><td>Research Assistant (temp)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>AUTTECH ENGINEERING PTE. LTD.</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>MAYEKAWA SINGAPORE PTE. LTD.</td><td>SERVICE ENGINEER (Experience)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>KLENCO (SINGAPORE) PRIVATE LIMITED</td><td>Service Technician/Engineer (Robotics)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>LOGICOM INSTRUMENTS PTE LTD</td><td>Service Technician</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>HIGH NOTE HOSPITALITY GROUP PTE. LTD.</td><td>Assistant Service Attendant</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>RAPID RECRUITMENT ASIA PTE. LTD.</td><td>Customer Service Assistant (Full Time, Bowling Alley / Shifts, No Overnight Shift [See timings below] / Bedok / Up to $2400/month + AWS) - DG</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>ZEN CAREER PTE. LTD.</td><td>Warehouse Assistant (Monday - Friday) East</td><td>Islandwide</td><td>2026-07-28</td></tr>
+<tr><td>YCH DISTRIPARK (PTE) LTD</td><td>Warehouse Assistants (Forklift/Non-forklift) [Direct Hire]</td><td>Jurong +3</td><td>2026-07-28</td></tr>
+<tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Warehouse Assistant (Forklift License)</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Warehouse Assistant cum Delivery Driver (Class 3) #74534</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Junior Marketing Associate: Mentorship and Growth</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Entry Level Marketing Associate: One to One Mentorship</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Junior Marketing Associate: Supported Career Development</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Trainee: Entry Level + Full Coaching Provided</td><td>Marina +4</td><td>2026-07-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Junior Marketing Associate: Full Coaching and Development Provided</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.</td><td>Purchasing Assistant (Japanese Speaking)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>Purchasing Assistant (Up to $3000 / 5 days / Chin Bee Ave (Boon Lay)</td><td>Singapore</td><td>2026-07-28</td></tr>
+<tr><td>androiddev.careers</td><td>Driver Operations Coordinator/associate (6 Months Contract)</td><td>Singapore</td><td>2026-07-28</td></tr>
 </table>
