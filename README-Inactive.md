@@ -3787,4 +3787,29 @@
 <tr><td>MUBEST PTE. LTD.</td><td>HR Assistant</td><td>Singapore</td><td>2026-07-29</td></tr>
 <tr><td>ONE NORTH MARKETING</td><td>Junior marketing associate</td><td>Marina +4</td><td>2026-07-29</td></tr>
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Management Assistant (Entry-level, Travel Opportunities)</td><td>Singapore</td><td>2026-07-29</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Deloitte Greenhouse 2026</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>ABER CARE PTE. LTD.</td><td>Human Resource Intern / Weekdays / Office Hour</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Brand Trainee: Entry Level + Full Career Support</td><td>Marina +4</td><td>2026-07-30</td></tr>
+<tr><td>sea</td><td>Growth Intern - Sports Business Group</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>sea</td><td>Growth Intern - Deloitte Greenhouse 2026</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>Nestlé</td><td>Intern</td><td>Sg</td><td>2026-07-30</td></tr>
+<tr><td>CapitaLand</td><td>Intern, Operations, Singapore (plaza Singapura & The Atrium@orchard)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>CapitaLand</td><td>Intern, Marketing, Singapore (raffles City)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>DXC Technology</td><td>Service Desk Agent (intern)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Relationship Management</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Financial Derivatives Sales & Business Development Support Intern - Singapore</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Intern, Ficc Trading</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>ST Engineering</td><td>Engineer, Software</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>ALIGN RECRUITMENT PTE. LTD.</td><td>IT Application Support Executive (insurance industry)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.</td><td>System Analyst, Payments (Banking), 6-month renewable contract</td><td>Marina +4</td><td>2026-07-30</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>Application Support Analyst</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>METACOMP PTE. LTD.</td><td>AI Engineer</td><td>Marina +4</td><td>2026-07-30</td></tr>
+<tr><td>ING</td><td>Intern, Financial Accounting (group Reporting)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>Prudential</td><td>Internship, Fund Accounting</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>IFAST FINANCIAL PTE. LTD.</td><td>Business Analyst, Global Wealth and Fintech Services</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Compliance Officer (KYC/AML) - Contract</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>Mmlab Ntu</td><td>Research Assistant (computer Science/computer Engineering/electronics Engineering/ai/machine Learning)</td><td>Singapore</td><td>2026-07-30</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Service Technician (Compressor) /Up to $3,600 @Pioneer</td><td>Islandwide</td><td>2026-07-30</td></tr>
+<tr><td>RYO GLOBAL</td><td>Sales Associate (Entry Level)</td><td>Marina +4</td><td>2026-07-30</td></tr>
+<tr><td>AVARON PTE. LTD.</td><td>Event & Sales Executive</td><td>Islandwide</td><td>2026-07-30</td></tr>
 </table>
