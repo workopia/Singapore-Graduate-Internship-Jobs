@@ -4203,4 +4203,62 @@
 <tr><td>RECRUIT HAUS PTE. LTD.</td><td>Shipping Assistant (Sales Support Logistics)</td><td>Singapore</td><td>2026-07-31</td></tr>
 <tr><td>ANRADUS PTE. LTD.</td><td>Admin cum Operations Coordinator #10010</td><td>Joo Koon</td><td>2026-07-31</td></tr>
 <tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>[💙HIRING💙] EVENT SALES COORDINATOR</td><td>D01 Marina</td><td>2026-07-31</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>P&g Accelerate 2026 – A Day Of Fun In P&g’s Office To Fast-track Your Summer 2027 Internship Applications!</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>Procter & Gamble</td><td>P&g Accelerate 2026 – A Day Of Fun In P&g’s Office To Fast-track Your Summer 2027 Internship Applications!</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>pgnearme.live</td><td>P&g Accelerate 2026 – A Day Of Fun In P&g’s Office To Fast-track Your Summer 2027 Internship Applications!</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Brand Management Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>Procter & Gamble</td><td>Brand Management Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>pgnearme.live</td><td>Brand Management Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>Procter & Gamble (P&G)</td><td>Product Supply Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>Procter & Gamble</td><td>Product Supply Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore General Office</td><td>2026-08-01</td></tr>
+<tr><td>pgnearme.live</td><td>Product Supply Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>pgnearme.live</td><td>Sales Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>SEARCHASIA CONSULTING PTE. LTD.</td><td>Human Resource Graduate Programme / Recruiter / Intern (Entry Level)</td><td>Orchard</td><td>2026-08-01</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Finance Intern</td><td>Changi</td><td>2026-08-01</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Quality Intern</td><td>Changi</td><td>2026-08-01</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Tooling Intern</td><td>Changi</td><td>2026-08-01</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Project Claims & Documentation Intern</td><td>Kranji +3</td><td>2026-08-01</td></tr>
+<tr><td>SIRIUS STAR MARKETING PTE. LTD.</td><td>Business Growth Intern / 🎯 Mentorship Provided /✨ No Experience Needed</td><td>Marina +4</td><td>2026-08-01</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Intern</td><td>Kranji +2</td><td>2026-08-01</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>Singapore National Stroke Association</td><td>Intern, Partnerships and Communications</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>CITY DEVELOPMENTS LIMITED</td><td>Intern, Sustainbility</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ST Engineering</td><td>Engineer, Software</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>RAPSYS TECHNOLOGIES PTE. LTD.</td><td>Backend Engineer - Qlik Replicate,Middleware / Product Installation,Configuration</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Full Stack Engineer (Geospatial Web Platform)</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>MICHAEL PAGE (PERSONNEL) PTE. LTD.</td><td>Full Stack Engineer (Java/React) - Financial Services</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>GRAIN PTE. LTD.</td><td>Ruby on Rails Software Engineer (Full-stack)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>Singapore Airlines</td><td>Information Technology - Data Scientist (data Science Track)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ST Engineering</td><td>Engineer</td><td>Digital Hub</td><td>2026-08-01</td></tr>
+<tr><td>Medtronic</td><td>Finance Intern</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Business Analyst #10143</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>Exxon Mobil</td><td>Quantitative Analyst, V&s Lng</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Financial Accountant (1-Year Contract) / French Oil & Energy MNC / Tanjong Pagar #HMS</td><td>Tanjong Pagar</td><td>2026-08-01</td></tr>
+<tr><td>HONG YE GROUP PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Enrolled Nurse / Hospice & Palliative Care / Novena / Permanent #HYT</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>MY QUEEN SERVICE PTE. LTD.</td><td>Infant Carer/Healthcare Assistant</td><td>Harbourfront +3</td><td>2026-08-01</td></tr>
+<tr><td>AZANTZ SERVICES PTE. LTD.</td><td>Animal Care Officer</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>MY QUEEN SERVICE PTE. LTD.</td><td>Infant Carer/Healthcare Assistant (Part-time)</td><td>Harbourfront +3</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>LOCUM Healthcare Assistant - NURSING BACKGROUND</td><td>Orchard</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Part-Time Healthcare Assistant / 4-Hour Morning Shift / No Experience Required / Government Hospital (Novena) BCA #HYT</td><td>Orchard</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Healthcare Assistant / Care Support Associate / Up to $18/hr / Government Hospital / Minimum 3–4 Days/Week CSA #HYT</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Care Support Associate (CSA) / $18/hr / Government Hospital / HCA / Nursing Diploma / SN / EN Welcome #HYT</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Clinical Research Pharmacist ( Pharma MNC, West, Up to $6K) ) #HVN</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Permanent Pharmacist / Up to $6K / Tengah / Bishan / Kent Ridge / Jurong East / Novena / SPC Registered #HYT</td><td>Tengah +4</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>URGENT!! Pharmacy Technician ($20/hr / office hours) #HJOT</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6mths to 1 year locum Pharmacy Technician (Flexible Schedule) X MANY #HKHT</td><td>Islandwide</td><td>2026-08-01</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Pharmacy Technician / East Government Hospital / Inpatient / Outpatient Pharmacy / Up to $3.5K #HYT</td><td>Orchard</td><td>2026-08-01</td></tr>
+<tr><td>BEECRUIT PTE. LTD.</td><td>Technician/Engineering Supervisor</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Calibration Technician / Basic up $2800+ICT / 5 Days / 3.5 Days/ Woodlands / Kranji-QQ</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ADVENTUS SINGAPORE PTE. LTD.</td><td>Technical Engineer (Managed Print Services)</td><td>Pasir Panjang +3</td><td>2026-08-01</td></tr>
+<tr><td>AQUA GREEN PTE. LTD.</td><td>VENDING MACHINE REPAIRER AND SERVICER</td><td>Pasir Panjang +3</td><td>2026-08-01</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Service Engineer (Electro-Mechanical Equipment) #78111</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>3P POWER PTE. LTD.</td><td>Assistant Service Engineer</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ELLIOTT EBARA SINGAPORE PTE. LTD.</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>MARINA BAY SANDS PTE. LTD.</td><td>Guest Service Agent, Pools & Recreation (Infinity Pool)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>LIVING MASTER</td><td>Warehouse Assistant / Packer - E-commerce</td><td>West Area</td><td>2026-08-01</td></tr>
+<tr><td>A DREAMWORKS COMPANY PTE. LTD.</td><td>[Electronics] Warehouse Assistant - Changi</td><td>Changi</td><td>2026-08-01</td></tr>
+<tr><td>FROSTS FOOD & BEVERAGE (PTE.) LTD.</td><td>PACKING & LABELLING ASSISTANT</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ALIGN RECRUITMENT PTE. LTD.</td><td>Warehouse Assistant (up to $2400+AWS+PB) (Pandan Road) (5 Days)</td><td>Singapore</td><td>2026-08-01</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>ENTRY LEVEL: Marketing Associate (Full Coaching Provided)</td><td>Marina +4</td><td>2026-08-01</td></tr>
 </table>
