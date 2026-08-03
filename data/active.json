@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-02",
- "count": 863,
+ "asOf": "2026-08-03",
+ "count": 862,
  "jobs": {
   "10295": {
    "id": "10295",
@@ -14,9 +14,39 @@
    "role": "Accounting Intern",
    "location": "Singapore"
   },
+  "e827df42bc5e237ca9c423984303cc64": {
+   "id": "e827df42bc5e237ca9c423984303cc64",
+   "company": "Coty Inc.",
+   "role": "Travel Retail Commercial Intern",
+   "location": "Singapore"
+  },
+  "81c395c0c1b7a475cd027c67b92aac42": {
+   "id": "81c395c0c1b7a475cd027c67b92aac42",
+   "company": "TE Connectivity",
+   "role": "Co-op/intern",
+   "location": "Singapore"
+  },
+  "ce1679735de6dfd044d5dd9dee805b04": {
+   "id": "ce1679735de6dfd044d5dd9dee805b04",
+   "company": "DSV Panalpina AS",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "f7774f45918ba32cf0d7c862b0bf61c2": {
+   "id": "f7774f45918ba32cf0d7c862b0bf61c2",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Investment Group/portfolio Development (singapore) (jan-jun 2027)",
+   "location": "Singapore"
+  },
   "931bc37ced3a4d4198531db3841faad9": {
    "id": "931bc37ced3a4d4198531db3841faad9",
    "company": "United Overseas Bank",
+   "role": "Risk System Project Delivery Intern ( Aug To Feb 2027)",
+   "location": "Singapore"
+  },
+  "8319a1d632755272b03915be6690636d": {
+   "id": "8319a1d632755272b03915be6690636d",
+   "company": "UOB Group",
    "role": "Risk System Project Delivery Intern ( Aug To Feb 2027)",
    "location": "Singapore"
   },
@@ -26,9 +56,21 @@
    "role": "Balance Sheet Risk Validation Intern ( Aug - Feb 2027)",
    "location": "North"
   },
+  "73b463373672938d2218b11649a4e1da": {
+   "id": "73b463373672938d2218b11649a4e1da",
+   "company": "UOB Group",
+   "role": "Balance Sheet Risk Validation Intern ( Aug - Feb 2027)",
+   "location": "North"
+  },
   "4b464847d22b4275921f48e09d365a09": {
    "id": "4b464847d22b4275921f48e09d365a09",
    "company": "Accenture Australia",
+   "role": "Accenture Internship Program - Aug To Dec 2026",
+   "location": "Singapore"
+  },
+  "624f0916b67cc40220279649e6fc4bc6": {
+   "id": "624f0916b67cc40220279649e6fc4bc6",
+   "company": "Halfspace ApS",
    "role": "Accenture Internship Program - Aug To Dec 2026",
    "location": "Singapore"
   },
@@ -80,9 +122,21 @@
    "role": "Bancassurance Strategy & Transformation Intern",
    "location": "Singapore"
   },
+  "5fd4ecd91a6444261896ce879252493d": {
+   "id": "5fd4ecd91a6444261896ce879252493d",
+   "company": "Manulife Financial Inc",
+   "role": "Bancassurance Strategy & Transformation Intern",
+   "location": "Singapore"
+  },
   "4ec4019868cceb0cba55ad06f017d208": {
    "id": "4ec4019868cceb0cba55ad06f017d208",
    "company": "Manulife",
+   "role": "Intern, Pricing",
+   "location": "Singapore"
+  },
+  "22eac765de886be6de65752ae17c02b4": {
+   "id": "22eac765de886be6de65752ae17c02b4",
+   "company": "Manulife Financial Inc",
    "role": "Intern, Pricing",
    "location": "Singapore"
   },
@@ -440,60 +494,6 @@
    "role": "[keppel Internship Programme 2027] Intern, Pm (jan - May 2027)",
    "location": "Singapore"
   },
-  "57664d546fbc5c30fa75939aeee75157": {
-   "id": "57664d546fbc5c30fa75939aeee75157",
-   "company": "Keppel",
-   "role": "[keppel Internship Programme 2027] Intern, Risk & Compliance (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "3cb0102994f8c8cc1936c73c46c0b25f": {
-   "id": "3cb0102994f8c8cc1936c73c46c0b25f",
-   "company": "Keppel",
-   "role": "[keppel Internship Programme 2027] Intern, It Project Management Office (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "becaeb8438dcaae89c1cbaa6d4ea9081": {
-   "id": "becaeb8438dcaae89c1cbaa6d4ea9081",
-   "company": "Keppel",
-   "role": "[keppel Internship Programme 2027] Intern, Pm (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "7a1706a54142b9bcca456f6d5d245433": {
-   "id": "7a1706a54142b9bcca456f6d5d245433",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern,dhcs O&m (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "1208cfd475d24a2ecd743201aa999f8d": {
-   "id": "1208cfd475d24a2ecd743201aa999f8d",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern, Enterprise Application (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "93a5407e202147c2f9460a43d6289aed": {
-   "id": "93a5407e202147c2f9460a43d6289aed",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern, Ux/ui (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "c43dee28fabf7eacf34b993b84c59afb": {
-   "id": "c43dee28fabf7eacf34b993b84c59afb",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern, Commercial (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "45a648f31583ab916b1ec02eb638cee5": {
-   "id": "45a648f31583ab916b1ec02eb638cee5",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern, Transformation & Innovation (jan - May 2027)",
-   "location": "Singapore"
-  },
-  "54e1a6fc03799dc0666cb150d4afcb1c": {
-   "id": "54e1a6fc03799dc0666cb150d4afcb1c",
-   "company": "Keppel Ltd.",
-   "role": "[keppel Internship Programme 2027] Intern, Cyber Security (jan - May 2027)",
-   "location": "Singapore"
-  },
   "0eb5729d4057cfafc83a9093d14c283d": {
    "id": "0eb5729d4057cfafc83a9093d14c283d",
    "company": "Dev in Asia",
@@ -506,9 +506,27 @@
    "role": "Caas Management Associate Programme",
    "location": "Caa"
   },
+  "d2f8e03b48bdfeff250637878c19e92b": {
+   "id": "d2f8e03b48bdfeff250637878c19e92b",
+   "company": "nlb.gov.sg",
+   "role": "Caas Management Associate Programme",
+   "location": "Caa"
+  },
+  "412eb92982a26ed372ea83ab24572544": {
+   "id": "412eb92982a26ed372ea83ab24572544",
+   "company": "nlb.gov.sg",
+   "role": "Caas Air Traffic Control Management Associate Programme",
+   "location": "CAAS"
+  },
   "dac406cddce5b9e8d6e30eb79e25b697": {
    "id": "dac406cddce5b9e8d6e30eb79e25b697",
    "company": "Keppel",
+   "role": "[keppel Associate Programme 2027] Senior Executive, Business Track",
+   "location": "Singapore"
+  },
+  "fc4463967df68d8e7606b9ae7521a158": {
+   "id": "fc4463967df68d8e7606b9ae7521a158",
+   "company": "Keppel Ltd.",
    "role": "[keppel Associate Programme 2027] Senior Executive, Business Track",
    "location": "Singapore"
   },
@@ -955,24 +973,6 @@
    "company": "Lonza Group",
    "role": "Ant Trainee",
    "location": "Singapore"
-  },
-  "d5464b4790f8aced": {
-   "id": "d5464b4790f8aced",
-   "company": "SUCCESS RESOURCE CENTRE PTE. LTD.",
-   "role": "Permanent Project Executive (Management Trainee) at Tuas, Up to $3000 + PB",
-   "location": "Tuas"
-  },
-  "44f1fc5702f7a332": {
-   "id": "44f1fc5702f7a332",
-   "company": "SALAD STOP PTE. LTD.",
-   "role": "Management Trainee",
-   "location": "Islandwide"
-  },
-  "0b5cf5dffbe90d75": {
-   "id": "0b5cf5dffbe90d75",
-   "company": "ONE NORTH MARKETING",
-   "role": "Future Leaders Program: Junior Sales & Growth Trainee 🚀",
-   "location": "Islandwide"
   },
   "e480de24a1a8b9f96c57e7c9662adf32": {
    "id": "e480de24a1a8b9f96c57e7c9662adf32",
@@ -2582,12 +2582,6 @@
    "role": "Internship: Group Finance, Group Tax Advisory, Non-fi Subsidiaries & New Product Approvals Process [jun To Dec 2026]",
    "location": "Singapore"
   },
-  "d15cdbfd22261f5b394793d85f8afe8b": {
-   "id": "d15cdbfd22261f5b394793d85f8afe8b",
-   "company": "EssilorLuxottica SA",
-   "role": "Credit Controlling Intern",
-   "location": "Singapore"
-  },
   "f19e83a2bacb117f108ca28e554c4215": {
    "id": "f19e83a2bacb117f108ca28e554c4215",
    "company": "Sea Deloitte",
@@ -2780,9 +2774,21 @@
    "role": "[grit@gov]",
    "location": "Singapore"
   },
+  "e187abebdf0211c86cbbe928def7ce95": {
+   "id": "e187abebdf0211c86cbbe928def7ce95",
+   "company": "Zurich Insurance UK",
+   "role": "Cyber Risk Engineer",
+   "location": "Singapore"
+  },
   "791a10aac14a244500887ecc3ff30cce": {
    "id": "791a10aac14a244500887ecc3ff30cce",
    "company": "220",
+   "role": "Commercial Finance Analyst",
+   "location": "Singapore"
+  },
+  "c9397f0d7bd3c871f66f4e49c814fe13": {
+   "id": "c9397f0d7bd3c871f66f4e49c814fe13",
+   "company": "Carat",
    "role": "Commercial Finance Analyst",
    "location": "Singapore"
   },
@@ -3248,16 +3254,16 @@
    "role": "Sanction Compliance / KYC / Insurance Industry ($5K + AWS) (ID: 708363)",
    "location": "Singapore"
   },
-  "e75432ee8da67086": {
-   "id": "e75432ee8da67086",
-   "company": "SKILLSFORCE MANAGEMENT CONSULTANCY PTE LTD",
-   "role": "Operation Analyst -Contract",
+  "d2599065040112352ec3ce1d10bad56f": {
+   "id": "d2599065040112352ec3ce1d10bad56f",
+   "company": "Singapore Health Services Pte Ltd",
+   "role": "Locum Pharmacist",
    "location": "Singapore"
   },
-  "775be8c9666621a4": {
-   "id": "775be8c9666621a4",
-   "company": "EMPEROR XUN PTE. LTD.",
-   "role": "Accounts Payable Assistant",
+  "f0d147d3370dd436ebacd1bf31b8b6bf": {
+   "id": "f0d147d3370dd436ebacd1bf31b8b6bf",
+   "company": "Singapore Health Services Pte Ltd",
+   "role": "Physiotherapist",
    "location": "Singapore"
   },
   "06933e25db7eda0d162728381c27c2ad": {
@@ -3572,9 +3578,21 @@
    "role": "Research Associate (civil Engineering)",
    "location": "Singapore"
   },
+  "9cddd668411ccc0db34fea3f26407f1b": {
+   "id": "9cddd668411ccc0db34fea3f26407f1b",
+   "company": "S. Rajaratnam School of International Studies (RSIS)",
+   "role": "Research Associate (civil Engineering)",
+   "location": "Singapore"
+  },
   "20a0b2897f49d9e134f48aac6c046402": {
    "id": "20a0b2897f49d9e134f48aac6c046402",
    "company": "Mmlab Ntu",
+   "role": "Research Assistant (additive Manufacturing)",
+   "location": "Singapore"
+  },
+  "c1f4454869a9ba22a8188a8203ffaaee": {
+   "id": "c1f4454869a9ba22a8188a8203ffaaee",
+   "company": "S. Rajaratnam School of International Studies (RSIS)",
    "role": "Research Assistant (additive Manufacturing)",
    "location": "Singapore"
   },
@@ -3716,28 +3734,22 @@
    "role": "Dental Assistants ($2K - $3K / Entry Level) #HJOT",
    "location": "Islandwide"
   },
-  "1fb4c6ffb86dd2e6": {
-   "id": "1fb4c6ffb86dd2e6",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "6 Months Contract to Long Term Dental Assistants Needed! (Up to $2300, East) #HCGT",
-   "location": "Islandwide"
+  "63f67e09ef36cad0f0bf01f8d4d3ae2d": {
+   "id": "63f67e09ef36cad0f0bf01f8d4d3ae2d",
+   "company": "dormakaba International Holding AG",
+   "role": "Service Engineer",
+   "location": "Singapore"
   },
-  "0f76f08cca057292": {
-   "id": "0f76f08cca057292",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[East, Entry Level, Training Provided] 3 Months Dental Assistant - Up to $13/hr #HLV",
-   "location": "Orchard"
+  "135da406104bd0a3d6203306da6e8f3f": {
+   "id": "135da406104bd0a3d6203306da6e8f3f",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Iscs & Comms",
+   "location": "Singapore"
   },
-  "7f4fba2a14bb3892": {
-   "id": "7f4fba2a14bb3892",
-   "company": "Q & M DENTAL CENTRE PTE. LTD.",
-   "role": "Dental Surgery Assistant (Kim Tian)",
-   "location": "Islandwide"
-  },
-  "159c5d07ef97aa00": {
-   "id": "159c5d07ef97aa00",
-   "company": "ALLSMILES DENTAL CARE BEDOK PTE. LTD.",
-   "role": "Dental surgery assistant",
+  "38cbe0b4b7042a85494f0830443f3178": {
+   "id": "38cbe0b4b7042a85494f0830443f3178",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Bplrt Rolling Stock",
    "location": "Singapore"
   },
   "e8ec67ff7aedf6a14a9d3346744298ac": {
@@ -3755,6 +3767,12 @@
   "2a9247928af30afe0b10f7ddadab2461": {
    "id": "2a9247928af30afe0b10f7ddadab2461",
    "company": "KONE Bulgaria",
+   "role": "Maintenance Technician",
+   "location": "Singapore"
+  },
+  "d3b0c3b2043f96485a4b3063230b54c1": {
+   "id": "d3b0c3b2043f96485a4b3063230b54c1",
+   "company": "57",
    "role": "Maintenance Technician",
    "location": "Singapore"
   },
@@ -4194,30 +4212,6 @@
    "id": "bf8cafa3bc275d39",
    "company": "T K A CONSTRUCTION PTE. LTD.",
    "role": "Maintenance Engineer",
-   "location": "Singapore"
-  },
-  "341ee568cf973296": {
-   "id": "341ee568cf973296",
-   "company": "FLINTEX CONSULTING PTE. LTD.",
-   "role": "Technician - Cleaning Equipment",
-   "location": "Singapore"
-  },
-  "4776f69aea380226": {
-   "id": "4776f69aea380226",
-   "company": "SYSCON PTE. LTD.",
-   "role": "Maintenance engineer",
-   "location": "Singapore"
-  },
-  "c0f10b31c0ade6b0": {
-   "id": "c0f10b31c0ade6b0",
-   "company": "ORCHARD GRAND COURT PTE LTD",
-   "role": "Technician",
-   "location": "Singapore"
-  },
-  "4ca8fb7c8eff414d": {
-   "id": "4ca8fb7c8eff414d",
-   "company": "TECHNOPROBE ASIA PTE. LTD.",
-   "role": "Field Application Engineer",
    "location": "Singapore"
   },
   "652cc0dc0265af5c63bf30f16bbac55f": {
@@ -4700,6 +4694,12 @@
    "role": "Sales Assistant",
    "location": "Singapore"
   },
+  "1e48c8189ff5b344b8bf440e1d4803d2": {
+   "id": "1e48c8189ff5b344b8bf440e1d4803d2",
+   "company": "Zurich Insurance UK",
+   "role": "Executive Assistant",
+   "location": "Singapore"
+  },
   "6d34d961c93a6598c036b458f48ddf40": {
    "id": "6d34d961c93a6598c036b458f48ddf40",
    "company": "Singtel",
@@ -4745,6 +4745,12 @@
   "13b550c612d76ab49bfb745aa8a94e3d": {
    "id": "13b550c612d76ab49bfb745aa8a94e3d",
    "company": "Jll Com Au",
+   "role": "Facilities Coordinator",
+   "location": "Singapore"
+  },
+  "36f672545a9c5886c8d7605f30cdb298": {
+   "id": "36f672545a9c5886c8d7605f30cdb298",
+   "company": "Building Engines",
    "role": "Facilities Coordinator",
    "location": "Singapore"
   },
@@ -5166,18 +5172,6 @@
    "id": "5f9e378ca1b1f7cc",
    "company": "SIMPSON SPENCE YOUNG LLP",
    "role": "Receptionist cum Administrative Assistant",
-   "location": "Singapore"
-  },
-  "53c9b0a12d84ad30": {
-   "id": "53c9b0a12d84ad30",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Executive Assistant (University, Supporting VP) #ESY",
-   "location": "Orchard"
-  },
-  "18a6293a70b79250": {
-   "id": "18a6293a70b79250",
-   "company": "GYK TALENSYNC PTE. LTD.",
-   "role": "Executive Assistant",
    "location": "Singapore"
   }
  }

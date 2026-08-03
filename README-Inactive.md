@@ -4642,4 +4642,29 @@
 <tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Events Co-ordinator (Arts & Culture, 3 months)</td><td>Singapore</td><td>2026-08-02</td></tr>
 <tr><td>NEXBRIDGE RECRUITMENT PTE. LTD.</td><td>HR Assistant</td><td>Islandwide</td><td>2026-08-02</td></tr>
 <tr><td>REDFUSE ELECTRIC PRIVATE LIMITED</td><td>Human Resource Assistant</td><td>Singapore</td><td>2026-08-02</td></tr>
+<tr><td>Keppel</td><td>[keppel Internship Programme 2027] Intern, Risk & Compliance (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel</td><td>[keppel Internship Programme 2027] Intern, It Project Management Office (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel</td><td>[keppel Internship Programme 2027] Intern, Pm (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern,dhcs O&m (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Enterprise Application (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Ux/ui (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Commercial (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Transformation & Innovation (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Cyber Security (jan - May 2027)</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>SUCCESS RESOURCE CENTRE PTE. LTD.</td><td>Permanent Project Executive (Management Trainee) at Tuas, Up to $3000 + PB</td><td>Tuas</td><td>2026-08-03</td></tr>
+<tr><td>SALAD STOP PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-08-03</td></tr>
+<tr><td>ONE NORTH MARKETING</td><td>Future Leaders Program: Junior Sales & Growth Trainee 🚀</td><td>Islandwide</td><td>2026-08-03</td></tr>
+<tr><td>EssilorLuxottica SA</td><td>Credit Controlling Intern</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>SKILLSFORCE MANAGEMENT CONSULTANCY PTE LTD</td><td>Operation Analyst -Contract</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>EMPEROR XUN PTE. LTD.</td><td>Accounts Payable Assistant</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months Contract to Long Term Dental Assistants Needed! (Up to $2300, East) #HCGT</td><td>Islandwide</td><td>2026-08-03</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East, Entry Level, Training Provided] 3 Months Dental Assistant - Up to $13/hr #HLV</td><td>Orchard</td><td>2026-08-03</td></tr>
+<tr><td>Q & M DENTAL CENTRE PTE. LTD.</td><td>Dental Surgery Assistant (Kim Tian)</td><td>Islandwide</td><td>2026-08-03</td></tr>
+<tr><td>ALLSMILES DENTAL CARE BEDOK PTE. LTD.</td><td>Dental surgery assistant</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>FLINTEX CONSULTING PTE. LTD.</td><td>Technician - Cleaning Equipment</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>SYSCON PTE. LTD.</td><td>Maintenance engineer</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>ORCHARD GRAND COURT PTE LTD</td><td>Technician</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>TECHNOPROBE ASIA PTE. LTD.</td><td>Field Application Engineer</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Executive Assistant (University, Supporting VP) #ESY</td><td>Orchard</td><td>2026-08-03</td></tr>
+<tr><td>GYK TALENSYNC PTE. LTD.</td><td>Executive Assistant</td><td>Singapore</td><td>2026-08-03</td></tr>
 </table>
