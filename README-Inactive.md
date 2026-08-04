@@ -4667,4 +4667,59 @@
 <tr><td>TECHNOPROBE ASIA PTE. LTD.</td><td>Field Application Engineer</td><td>Singapore</td><td>2026-08-03</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Executive Assistant (University, Supporting VP) #ESY</td><td>Orchard</td><td>2026-08-03</td></tr>
 <tr><td>GYK TALENSYNC PTE. LTD.</td><td>Executive Assistant</td><td>Singapore</td><td>2026-08-03</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Intern, Ficc Trading</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Hp</td><td>College Intern - Supply Chain</td><td>South West</td><td>2026-08-04</td></tr>
+<tr><td>mnssazn.top</td><td>Sustainability Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>39med</td><td>Sustainability Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Temasek Holdings Private Ltd</td><td>Temasek Summer Internship Programme 2027 - Investment Group (singapore)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Takedajobs</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Takeda Pharmaceutical Company Limited</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Takeda UK</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Relationship Management</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Financial Derivatives Sales & Business Development Support Intern - Singapore</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>MEC GLOBAL PARTNERS ASIA PTE. LTD.</td><td>Finance Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>SSW LOGISTICS PTE. LTD.</td><td>Quality Assurance Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>ALIGNE STUDIO PTE. LTD.</td><td>Marketing and Operations Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Junior Marketing Trainee: No Experience Required</td><td>Marina +4</td><td>2026-08-04</td></tr>
+<tr><td>D'PHENOMENAL PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Marina Bay Sands</td><td>Intern, Project Management Office Analyst</td><td>Perennial Business City</td><td>2026-08-04</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Facility Management (jan - May 2027)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Risk & Compliance (jan - May 2027)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, It Project Management Office (jan - May 2027)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Keppel Ltd.</td><td>[keppel Internship Programme 2027] Intern, Pm (jan - May 2027)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>INNOVATIQ TECHNOLOGIES PTE. LTD.</td><td>Full Stack Engineer</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>JOINTHIRE SINGAPORE PTE. LTD.</td><td>IT Service Desk Operators</td><td>Tanjong Pagar</td><td>2026-08-04</td></tr>
+<tr><td>EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.</td><td>Business Analyst, Banking (6-month renewable contract) - Channels / Corporate Banking / Payments</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Compliance Officer (Up to $4,500) #BTS</td><td>Orchard</td><td>2026-08-04</td></tr>
+<tr><td>JACKWAY CONVERTOR INDUSTRIES PTE LTD</td><td>Part-Time Halal Assurance Officer</td><td>Tuas</td><td>2026-08-04</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>AML Compliance Specialist (Bank) - Contract</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Sanction Compliance / KYC / Insurance Industry ($5K + AWS) (ID: 708363)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Physiotherapist (Office hours / Full time) #HJO</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Physiotherapist - Labrador Park MRT - Up to $5.5k {hkhdv}</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>SG REHAB PTE. LTD.</td><td>Locum Physiotherapist (West) - Singaporean/PR only</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>Catholic Welfare Services, Singapore</td><td>Physiotherapist</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistants ($2K - $3K / Entry Level) #HJOT</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>TEO SERVICES PTE. LTD.</td><td>TECHNICIAN</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>MGR UNIVERSAL PTE. LTD.</td><td>technician</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>STMICROELECTRONICS PTE LTD</td><td>Assistant Maintenance Engineer</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>T K A CONSTRUCTION PTE. LTD.</td><td>Maintenance Engineer</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🎉 EVENTS CUSTOMER SERVICE (SALES) (ENTRY LEVEL) 🎉</td><td>Marina +4</td><td>2026-08-04</td></tr>
+<tr><td>SIMMONS (SOUTHEAST ASIA) PRIVATE LIMITED</td><td>Sales Associate</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>57 EMPLOYMENT AGENCY PTE. LTD.</td><td>SALES ASSOCIATE</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>Singapore Fashion Council</td><td>Retail Associate (DORS at Design Orchard)</td><td>Orchard</td><td>2026-08-04</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Sales Assistant (Marine Valve) @Joo Koon</td><td>Islandwide</td><td>2026-08-04</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Sales Support Assistant / $2,200 / 3-Month Contract/ Pioneer Road</td><td>Pioneer Road</td><td>2026-08-04</td></tr>
+<tr><td>GEMS PARTNERS NETWORK PTE. LTD.</td><td>Sales Assistant/Coordinator (West) Up to $2500</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>SKUBBS PRIVATE LIMITED</td><td>Sales Assistant</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>ALLEGIS GROUP SINGAPORE PRIVATE LIMITED</td><td>Recruitment Coordinator</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Entry Level - Admin Assistant (West / OJT)</td><td>Tuas</td><td>2026-08-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Admin Assistant (6 months) #ESY</td><td>Orchard</td><td>2026-08-04</td></tr>
+<tr><td>SENTIAL JOBS PTE LTD</td><td>CUSTOMER SERVICE SPECIALIST</td><td>Orchard</td><td>2026-08-04</td></tr>
+<tr><td>BUSINESS EDGE PERSONNEL SERVICES PTE LTD</td><td>Admin Support (City Hall)</td><td>City Hall</td><td>2026-08-04</td></tr>
+<tr><td>MARGIN WHEELER PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>HMLY PTE LTD</td><td>Admin Assistant / West / 5 Days</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>FIBER INTERNATIONAL TECHNOLOGIES PTE. LTD.</td><td>Finance and Admin Assistant</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>(4 months) University Temp Admin (Clementi)</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>LT SAMBO CO., LTD. (Singapore Branch)</td><td>Receptionist cum Admin Assistant</td><td>Singapore</td><td>2026-08-04</td></tr>
+<tr><td>SIMPSON SPENCE YOUNG LLP</td><td>Receptionist cum Administrative Assistant</td><td>Singapore</td><td>2026-08-04</td></tr>
 </table>
