@@ -5066,4 +5066,31 @@
 <tr><td>Sea Deloitte</td><td>Talent & Hr Intern</td><td>Singapore</td><td>2026-08-05</td></tr>
 <tr><td>Randstad Singapore</td><td>Event Coordinator</td><td>Tanjong Pagar</td><td>2026-08-05</td></tr>
 <tr><td>ACE RECRUITERS</td><td>Temporary Part-Time Admin Assistant</td><td>Golden Mile +1</td><td>2026-08-05</td></tr>
+<tr><td>Hydeparkbank</td><td>College Intern - Supply Chain Knowledge Management & Analytics</td><td>South West</td><td>2026-08-06</td></tr>
+<tr><td>Hydeparkbank</td><td>College Intern - Regional Product Ops Testing Lead (digital Go To Market)</td><td>South West</td><td>2026-08-06</td></tr>
+<tr><td>CapitaLand</td><td>Intern, Marketing, Singapore (tampines Mall)</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Schneider Electric</td><td>Gsc Ea Business Finance Intern</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Schneider Electric</td><td>Digital Energy Intern - Buildings & Critical Segments</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Schneider Electric</td><td>East Asia Strategy Intern</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Schneider Electric</td><td>De Business Offer Manager Intern</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>ABSOLUTE KINETICS CONSULTANCY PTE LTD</td><td>Training Management Trainee</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>TIKTOK PTE. LTD.</td><td>Backend Software Engineer, TikTok Live (Money Platform) - Singapore</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>TIKTOK PTE. LTD.</td><td>Backend Software Engineer - TikTok Global Live</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>ACCESS PEOPLE (SINGAPORE) PTE. LTD.</td><td>Forward Deployer AI Engineer</td><td>Marina +4</td><td>2026-08-06</td></tr>
+<tr><td>RMA PROJECTS PTE. LTD.</td><td>AI Engineer - Supply Chain Data Analysis/Contract/West</td><td>West</td><td>2026-08-06</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Group Tax Advisory, Non-fi Subsidiaries & New Product Approvals Process [jun To Dec 2026]</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Singapore Land Authority</td><td>[grit@gov]</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Office Hours, Islandwide Locations] Locum Pharmacists - Up to $55/hr #HLV</td><td>Orchard +2</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Physiotherapist (Office Hours) #HJO</td><td>Islandwide</td><td>2026-08-06</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Medical Assistant (Beauty Aesthetic Clinic) #78742</td><td>Orchard +1</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistant (Full time / Up to $3500) #HJO</td><td>Islandwide</td><td>2026-08-06</td></tr>
+<tr><td>GENTLE SMILE PTE. LTD.</td><td>Dental Surgery Assistant</td><td>Orchard</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East, Entry Level] 3 Months Temp Dental Assistant x2 - Up to $13/hr #HLV</td><td>Orchard</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Orchard, Exp Required] 3 Months Contract to Perm Dental Assistant - Up to $3500 #HLV</td><td>Orchard</td><td>2026-08-06</td></tr>
+<tr><td>Abbott</td><td>Lab Analyst I (incoming)</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>jobs.abbott</td><td>Lab Analyst I (incoming)</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>Saudi Basic Industries Corporation</td><td>Assistant / Chemist (shift)</td><td>Singapore</td><td>2026-08-06</td></tr>
+<tr><td>CAREER PRODUCTIONS</td><td>🩷 Sales Executive Associate 🩷 100% Agenda Aware Leads Provided 🩷 $3000 Salary + High Comm 🩷</td><td>Islandwide</td><td>2026-08-06</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Marketing Associate / Full Training Provided / Career Progression</td><td>Marina +4</td><td>2026-08-06</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Contract HR Assistant</td><td>Tanjong Pagar</td><td>2026-08-06</td></tr>
 </table>
