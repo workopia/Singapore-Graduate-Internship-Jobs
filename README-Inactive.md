@@ -5499,4 +5499,36 @@
 <tr><td>WOLA RECRUITMENT PTE. LTD.</td><td>🦺 Operation Officer cum Safety Coordinator / Up to $4,200 + AWS + Bonus / Mandai</td><td>Singapore</td><td>2026-08-07</td></tr>
 <tr><td>MANFIELD EMPLOYMENT SERVICES PTE LTD</td><td>EHS / Safety Coordinator / Manufacturing</td><td>Islandwide</td><td>2026-08-07</td></tr>
 <tr><td>EQUE PTE. LTD.</td><td>Human Resource Admin (Entry Level) - Training provided!</td><td>Islandwide</td><td>2026-08-07</td></tr>
+<tr><td>NETS</td><td>It Security Intern</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Merchant Business (product) Intern</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Intern, Consumer Business</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Intern, Financial Crime Compliance</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Intern, Merchant Business, Business Product Management 1</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Intern, Merchant Business</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>NETS</td><td>Intern, Growth & Network Expansion</td><td>Braddell</td><td>2026-08-08</td></tr>
+<tr><td>Coty Inc.</td><td>Travel Retail Commercial Intern</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>TE Connectivity</td><td>Co-op/intern</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.</td><td>Software Engineer (C++)</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Software Engineer (Contract)</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>QUANTUM INFOTECH SOLUTIONS PTE. LTD.</td><td>Golang Developer</td><td>Islandwide</td><td>2026-08-08</td></tr>
+<tr><td>SKINLAB THE MEDICAL SPA PTE. LTD.</td><td>Applied AI Engineer</td><td>Orchard</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year Contract Accountant (West / $6000) #HJO</td><td>Islandwide</td><td>2026-08-08</td></tr>
+<tr><td>XINGUOHE CONSTRUCTION PTE. LTD.</td><td>ACCOUNTANT</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>CHANGI GENERAL HOSPITAL PTE LTD</td><td>Basic Care Assistant</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>CHANGI GENERAL HOSPITAL PTE LTD</td><td>Care Support Associate</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>THE LENTOR RESIDENCE PTE LTD</td><td>Hougang - Day Care Assistant</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>KHOO TECK PUAT HOSPITAL PTE. LTD.</td><td>Pharmacist</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year Part time Pharmacy Technician (Flexible Schedule) - $20 / hr #HKH</td><td>Islandwide</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6mths Pharmacy Technician (Flexible Schedule) - $20 / hr #HKHT</td><td>Islandwide</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 year contract Locum Pharmacy Technician (Flexi Office hours/ $20/hr) #HGNJ</td><td>Islandwide</td><td>2026-08-08</td></tr>
+<tr><td>KHOO TECK PUAT HOSPITAL PTE. LTD.</td><td>Pharmacy Technician</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>ENVIRODYNAMICS SOLUTIONS PTE. LTD.</td><td>Entry-Level Pharmacy Technician (Office Hour/Gov)</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>UNIVERSAL (FAR EAST) PTE. LTD.</td><td>Field Service & Assembly Technician</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Field Service Engineer (Semicon/ No experience required/ Up to 4k)</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>STAFFLINK SERVICES PRIVATE LIMITED</td><td>Field Service Engineer (No exp. OK!)/</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>GUIDEPONT GLOBAL SINGAPORE PTE. LTD.</td><td>Associate, Client Service</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Shipping Officer (L/C, GRN) #AngMoKio #NJH</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>URGENT! 3 Months Shipping Assistant - LC / GRN / Ang Mo Kio / Up to $4000 #NKA</td><td>Singapore</td><td>2026-08-08</td></tr>
+<tr><td>PALAWAN INNOVATION STUDIOS PTE. LTD.</td><td>Co-ordinator, Operations Service(Attractions)</td><td>Sentosa Island</td><td>2026-08-08</td></tr>
+<tr><td>DELTA TECHNOLOGY PTE LTD</td><td>Operation Coordinator</td><td>Changi</td><td>2026-08-08</td></tr>
 </table>
