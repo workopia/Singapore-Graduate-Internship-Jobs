@@ -5992,4 +5992,23 @@
 <tr><td>POLAR-AXIS GLOBAL</td><td>Events Marketing (Entry Level)</td><td>Singapore</td><td>2026-08-09</td></tr>
 <tr><td>ASCENSION ADVISORY PTE. LTD.</td><td>Cargo Coordinator (MNC / Up to $2,600 + Allowances + OT / AWS + Performance Bonus / Changi Airport / No Exp Req)</td><td>Changi Airport</td><td>2026-08-09</td></tr>
 <tr><td>INFINITI MARINE PTE. LTD.</td><td>Transport CS</td><td>Jurong Port</td><td>2026-08-09</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern - Marcoms, Singapore</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Nestlé</td><td>Intern</td><td>Sg</td><td>2026-08-10</td></tr>
+<tr><td>Lam Research</td><td>Business Function Intern (finance)</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>nlb.gov.sg</td><td>Intern, Geospatial Systems & Solutions</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Schneider Electric</td><td>Impact Investing Intern</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Schneider Electric</td><td>Power Quality Intern</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Micron</td><td>Intern- Pie Pi (product Integration Engineering, Process Integration)</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Micron</td><td>Intern - Adts Ati Process Integration Engineer</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Zebra Technologies Corporation</td><td>2026 (6-months) Internship (singapore) - Portfolio Marketing Intern</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>Dev in Asia</td><td>Bot, Automation And Low-code Developer Traineeship</td><td>Npb</td><td>2026-08-10</td></tr>
+<tr><td>EVVO LABS PTE. LTD.</td><td>SOC Security Analyst</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>7506 - Field Technician [ One Year Contract - Renewable ]</td><td>Marina +4</td><td>2026-08-10</td></tr>
+<tr><td>VIG SYSTEMS PTE LTD</td><td>Fire Service Technician</td><td>Islandwide</td><td>2026-08-10</td></tr>
+<tr><td>ACCRETE TECHNOLOGY (S) PTE. LTD.</td><td>Service Engineer cum Technician (ELV Security system)</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[MNC] Service Technician - Office Hours #HTJ</td><td>Islandwide</td><td>2026-08-10</td></tr>
+<tr><td>RIGGING & MARINE SERVICES PTE LTD</td><td>Human Resource Assistant</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>SKY FUSION SHIPPING PTE. LTD.</td><td>Admin and HR Supervisor</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>TNT SURVEILLANCE PTE. LTD.</td><td>Human Resource & Admin Assistant (Part-time, 6-month Renewable Contract)</td><td>Singapore</td><td>2026-08-10</td></tr>
+<tr><td>ASIA-LINK TECHNOLOGY PTE LTD</td><td>Part-Time HR & Admin Assistant (6-Month Contract, Renewable)</td><td>Singapore</td><td>2026-08-10</td></tr>
 </table>
