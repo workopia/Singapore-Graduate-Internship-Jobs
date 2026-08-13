@@ -6346,4 +6346,34 @@
 <tr><td>UNIORACLE ALLIANCE LLP</td><td>Part Time Weekday Admin Assistant</td><td>Pasir Panjang</td><td>2026-08-12</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT* Contract Admin Assistants Needed!! (Healthcare, Office Hours, up to $2500) #HCGT</td><td>Islandwide</td><td>2026-08-12</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Admin Assistant (Office Hours) #HYNA</td><td>Orchard</td><td>2026-08-12</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Healthcare Projects Financial Dashboard Reporting & Analysis</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Healthhub Digital Marketing Internship</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai Power Enterprise Architecture Repository For Mohh</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai & Eprocurement Internship</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai Strategy & Innovation Internship</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Automation & Rpa Platform Internship</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Integrated Risk Management (irm) Design Implementation</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Transformation, Methods And Performance Internship</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Intern, Brand And Marketing</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>SAP Concur</td><td>Integrated Communications Intern - Asia Pacific</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>MUSLIMIN TRUST FUND ASSOCIATION</td><td>Internship Opportunities</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>BARCLAYS BANK PLC</td><td>Sales, Trading and Structuring Summer Internship Programme 2027 Singapore</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>BARCLAYS BANK PLC</td><td>Investment Banking Summer Internship Programme 2027 Singapore</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Intern (Training Provided) #JTL</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>MY QUEEN SERVICE PTE. LTD.</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>A LOOP PTE. LTD.</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>My Queen</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>CONSULGURU PTE. LTD.</td><td>Machine Learning / Gen AI Engineer</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>JJ GOLD JEWELLERY PTE. LTD.</td><td>Junior Accounts Assistant</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>SMB ENGINEERING & CONSTRUCTION PTE. LTD.</td><td>Junior Accounts Assistant</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant / Associate (Corals)</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Part-Time Research Assistant (Metagenomics & Microbial Ecology)</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>MTC CONSULTING PTE. LTD.</td><td>Maintenance Technician (Must have Class 3 license/ Basic $2500)</td><td>Tuas</td><td>2026-08-13</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Mechanical Technician (Office Hours)</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Retail Assistant (Beauty Industry) / $3,975 - $4,100 + Comms</td><td>Orchard</td><td>2026-08-13</td></tr>
+<tr><td>VANAURA PTE. LTD.</td><td>Retail Sales Associate</td><td>Little India</td><td>2026-08-13</td></tr>
+<tr><td>SAVVY CONTRACTOR PTE. LTD.</td><td>Project Site Coordinator</td><td>Singapore</td><td>2026-08-13</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>💫 Marketing Campaign Executive / Grow With a Team 💫</td><td>Marina</td><td>2026-08-13</td></tr>
+<tr><td>SKILLMATCH RECRUITMENT</td><td>Junior Events & Marketing Executive (Training Provided)</td><td>Islandwide</td><td>2026-08-13</td></tr>
+<tr><td>BLESS BROTHERS PTE. LTD.</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-08-13</td></tr>
 </table>

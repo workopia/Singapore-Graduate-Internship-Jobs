@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-12",
- "count": 884,
+ "asOf": "2026-08-13",
+ "count": 888,
  "jobs": {
   "10295": {
    "id": "10295",
@@ -12,6 +12,114 @@
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "ac1697e3937ed13f75857aa966a43b52": {
+   "id": "ac1697e3937ed13f75857aa966a43b52",
+   "company": "Careers at Marriott",
+   "role": "Food And Beverage - Operations Intern",
+   "location": "Singapore"
+  },
+  "10cad7ae9f13b2654eab1e874e7100f2": {
+   "id": "10cad7ae9f13b2654eab1e874e7100f2",
+   "company": "Hong Leong Bank",
+   "role": "Intern - Private Bank",
+   "location": "Singapore"
+  },
+  "541dcd17fda72a44bdecf50bf0bbae70": {
+   "id": "541dcd17fda72a44bdecf50bf0bbae70",
+   "company": "Hong Leong Bank",
+   "role": "Intern - Global Markets (structured Solutions)",
+   "location": "Singapore"
+  },
+  "c15617bed4ebf9a56820c86c7dcb9b29": {
+   "id": "c15617bed4ebf9a56820c86c7dcb9b29",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Partnerships (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "fd59d35f91cf986960bcb95273d0e474": {
+   "id": "fd59d35f91cf986960bcb95273d0e474",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Portfolio Construction (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "089145a02b68b2eda631b7565519a34e": {
+   "id": "089145a02b68b2eda631b7565519a34e",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Esg Investment Management (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "8a3f1cdeaa808cb3d1733ad9a90e2481": {
+   "id": "8a3f1cdeaa808cb3d1733ad9a90e2481",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Ecosperity (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "74c52791aed42ae9ab1038a8c51d7ee2": {
+   "id": "74c52791aed42ae9ab1038a8c51d7ee2",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Policy Research Intern, Sustainability Strategy (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "4a5eed2806c913de28ea38fc022319bf": {
+   "id": "4a5eed2806c913de28ea38fc022319bf",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cyle Intern, Investment Stewardship (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "441858405b92434df52e87c7d42b7a14": {
+   "id": "441858405b92434df52e87c7d42b7a14",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Sustainable Solutions (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "f97430ee84d96ccb41de7c15a8c6a576": {
+   "id": "f97430ee84d96ccb41de7c15a8c6a576",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Policy & Research Intern, Ecosystem Workforce Resilience (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "c64f727dd885c5b99e89378fee4eeba9": {
+   "id": "c64f727dd885c5b99e89378fee4eeba9",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Product Management Intern, Technology (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "b7233f44fff5b62e75fd1ff16d803590": {
+   "id": "b7233f44fff5b62e75fd1ff16d803590",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Off-cycle Intern, Workplace Transformation & Administration (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "99c86775f2007d174523aed1a85f8a29": {
+   "id": "99c86775f2007d174523aed1a85f8a29",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Communications Intern, Internal Communications (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "4fde94d5853e9188f58743b344bf5291": {
+   "id": "4fde94d5853e9188f58743b344bf5291",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Strategy And Programme Management Intern, Cybersecurity, Centre Of Excellence (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "0e2ec90bbe1902ca8920ae2f7e5d866e": {
+   "id": "0e2ec90bbe1902ca8920ae2f7e5d866e",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Technology Intern, Core Technology (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "5a2e4dccf63371c0254d2055bc402554": {
+   "id": "5a2e4dccf63371c0254d2055bc402554",
+   "company": "Nestle Ltd",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "eefb95869c262fc0188a321dd90d70fb": {
+   "id": "eefb95869c262fc0188a321dd90d70fb",
+   "company": "Deutsche Boerse AG",
+   "role": "Financial Derivatives Sales & Business Development Support Intern - Singapore",
    "location": "Singapore"
   },
   "4dec33309d1a74d0a9acc1bc476c177c": {
@@ -384,114 +492,6 @@
    "id": "833bec30af1e88c19392e2ec57eb9707",
    "company": "Synapxe Pte Ltd",
    "role": "Uni Internship Jan To July 2027 - Cybersecurity, Ai Threat Intelligence & Hunting",
-   "location": "Singapore"
-  },
-  "db2a3443dc2c72a8f9874c9aebbd4cd3": {
-   "id": "db2a3443dc2c72a8f9874c9aebbd4cd3",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Healthcare Projects Financial Dashboard Reporting & Analysis",
-   "location": "Singapore"
-  },
-  "5c00779f11b28764927c9bc6e9a90cc7": {
-   "id": "5c00779f11b28764927c9bc6e9a90cc7",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Healthhub Digital Marketing Internship",
-   "location": "Singapore"
-  },
-  "f874666622363fdd5aabdfcf9b18ede6": {
-   "id": "f874666622363fdd5aabdfcf9b18ede6",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai Power Enterprise Architecture Repository For Mohh",
-   "location": "Singapore"
-  },
-  "75a9a3d6677bda35d5b9b33c14a44c7b": {
-   "id": "75a9a3d6677bda35d5b9b33c14a44c7b",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai & Eprocurement Internship",
-   "location": "Singapore"
-  },
-  "ba8f3a953a776267ef60f66ecb5bc3a1": {
-   "id": "ba8f3a953a776267ef60f66ecb5bc3a1",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai Strategy & Innovation Internship",
-   "location": "Singapore"
-  },
-  "f9b686b0b08f2a325077438dd07cf0f0": {
-   "id": "f9b686b0b08f2a325077438dd07cf0f0",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Automation & Rpa Platform Internship",
-   "location": "Singapore"
-  },
-  "e974b569945bef6ae4a76036fe1407b5": {
-   "id": "e974b569945bef6ae4a76036fe1407b5",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Integrated Risk Management (irm) Design Implementation",
-   "location": "Singapore"
-  },
-  "e0ffa809c176685be626ff17853e1ea8": {
-   "id": "e0ffa809c176685be626ff17853e1ea8",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Transformation, Methods And Performance Internship",
-   "location": "Singapore"
-  },
-  "a8725332ac586362c3eceb8d423c2926": {
-   "id": "a8725332ac586362c3eceb8d423c2926",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Intern, Brand And Marketing",
-   "location": "Singapore"
-  },
-  "eefb95869c262fc0188a321dd90d70fb": {
-   "id": "eefb95869c262fc0188a321dd90d70fb",
-   "company": "Deutsche Boerse AG",
-   "role": "Financial Derivatives Sales & Business Development Support Intern - Singapore",
-   "location": "Singapore"
-  },
-  "bef5cad8612ab2f4c7b7549bfe56d4c4": {
-   "id": "bef5cad8612ab2f4c7b7549bfe56d4c4",
-   "company": "SAP Concur",
-   "role": "Integrated Communications Intern - Asia Pacific",
-   "location": "Singapore"
-  },
-  "20af458c623e2482": {
-   "id": "20af458c623e2482",
-   "company": "MUSLIMIN TRUST FUND ASSOCIATION",
-   "role": "Internship Opportunities",
-   "location": "Singapore"
-  },
-  "fed59f4c7db29cae": {
-   "id": "fed59f4c7db29cae",
-   "company": "BARCLAYS BANK PLC",
-   "role": "Sales, Trading and Structuring Summer Internship Programme 2027 Singapore",
-   "location": "Singapore"
-  },
-  "8650e6cec81b3be8": {
-   "id": "8650e6cec81b3be8",
-   "company": "BARCLAYS BANK PLC",
-   "role": "Investment Banking Summer Internship Programme 2027 Singapore",
-   "location": "Singapore"
-  },
-  "a361c0138b8257bc": {
-   "id": "a361c0138b8257bc",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "HR Intern (Training Provided) #JTL",
-   "location": "Singapore"
-  },
-  "d9ac6f97eeb43df4": {
-   "id": "d9ac6f97eeb43df4",
-   "company": "MY QUEEN SERVICE PTE. LTD.",
-   "role": "Digital Marketing Intern",
-   "location": "Singapore"
-  },
-  "8e33153f8ccbf920": {
-   "id": "8e33153f8ccbf920",
-   "company": "A LOOP PTE. LTD.",
-   "role": "Digital Marketing Intern",
-   "location": "Singapore"
-  },
-  "90975421eb77b5c9": {
-   "id": "90975421eb77b5c9",
-   "company": "My Queen",
-   "role": "Digital Marketing Intern",
    "location": "Singapore"
   },
   "d483fa5a53a478182066adb4c0ba05c8": {
@@ -1694,6 +1694,24 @@
    "role": "IT Executive",
    "location": "Singapore"
   },
+  "ac9aa517791e5b1bf228cc238ae53a34": {
+   "id": "ac9aa517791e5b1bf228cc238ae53a34",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Ai/data Analytics Intern, Non-executive Talent (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "3e56cf5f3ab6257012ca2d293a1c4a98": {
+   "id": "3e56cf5f3ab6257012ca2d293a1c4a98",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Data Analytics/science Intern, People Technology (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "c2d1f3770ab91123f9fa5aa1f5e65b65": {
+   "id": "c2d1f3770ab91123f9fa5aa1f5e65b65",
+   "company": "Vopak",
+   "role": "Bd/data Support Analyst Intern (4 Months)",
+   "location": "Singapore"
+  },
   "b05c5d47d3c9274917c48cfe37590ae4": {
    "id": "b05c5d47d3c9274917c48cfe37590ae4",
    "company": "Synapxe Pte Ltd",
@@ -1987,6 +2005,12 @@
    "company": "TIKTOK PTE. LTD.",
    "role": "AI Machine Learning Engineer Graduate (TikTok Search) - 2026 Start (PhD)",
    "location": "Marina"
+  },
+  "d72ad549eabc4adb0d406762818c0af9": {
+   "id": "d72ad549eabc4adb0d406762818c0af9",
+   "company": "Michael Page Singapore",
+   "role": "Ai Developer",
+   "location": "Singapore"
   },
   "2d0d8f1db954dc37a8614c3305209617": {
    "id": "2d0d8f1db954dc37a8614c3305209617",
@@ -2462,10 +2486,10 @@
    "role": "Junior AI Agent Engineer, APAC",
    "location": "Singapore"
   },
-  "3ceddb1d6e18e14c": {
-   "id": "3ceddb1d6e18e14c",
-   "company": "CONSULGURU PTE. LTD.",
-   "role": "Machine Learning / Gen AI Engineer",
+  "a88bbe2a4410974340853828e66f7777": {
+   "id": "a88bbe2a4410974340853828e66f7777",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Finance Intern, Financial Close & Consolidation (jan - Jun 2027)",
    "location": "Singapore"
   },
   "f29101440ff01c6c1c7ac9a9e02f7d2e": {
@@ -2904,6 +2928,18 @@
    "id": "0b9dbe2eaa79801ebbf3dbf8f54d1806",
    "company": "KPMG Services Pte Ltd",
    "role": "Audit - Graduate Associate 2026",
+   "location": "Singapore"
+  },
+  "3ea5a07cabb038ee62f45c29cca12b67": {
+   "id": "3ea5a07cabb038ee62f45c29cca12b67",
+   "company": "MUFG Oceania",
+   "role": "Analyst/assistant Vice President, Credit Analyst (6 Months Contract)",
+   "location": "Singapore"
+  },
+  "2fe1e54e7ff35c8c76cc0fd6a3e5540c": {
+   "id": "2fe1e54e7ff35c8c76cc0fd6a3e5540c",
+   "company": "Randstad Singapore",
+   "role": "Internal Audit, Private Bank",
    "location": "Singapore"
   },
   "0c92f6ceae2603d8ef0b950f09c78a88": {
@@ -3374,16 +3410,16 @@
    "role": "Area Financial Analyst S$6K, 12-month, CBD",
    "location": "Singapore"
   },
-  "6de1b72bb1df444d": {
-   "id": "6de1b72bb1df444d",
-   "company": "JJ GOLD JEWELLERY PTE. LTD.",
-   "role": "Junior Accounts Assistant",
+  "5bf7bebc3b3497e9256e6ce269f8fbab": {
+   "id": "5bf7bebc3b3497e9256e6ce269f8fbab",
+   "company": "Saudi Basic Industries Corporation",
+   "role": "Assistant / Chemist (shift)",
    "location": "Singapore"
   },
-  "b0de447b6618baa3": {
-   "id": "b0de447b6618baa3",
-   "company": "SMB ENGINEERING & CONSTRUCTION PTE. LTD.",
-   "role": "Junior Accounts Assistant",
+  "e24d92137e623e6b65ef6ecf013c9919": {
+   "id": "e24d92137e623e6b65ef6ecf013c9919",
+   "company": "Abbott",
+   "role": "Lab Analyst Ii (incoming)",
    "location": "Singapore"
   },
   "2a7389a91962ccbb32163bc7a42423d5": {
@@ -3854,17 +3890,23 @@
    "role": "Research Asst",
    "location": "Singapore"
   },
-  "eae8ccb60c610b69": {
-   "id": "eae8ccb60c610b69",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant / Associate (Corals)",
+  "186435b57df45cb8edcf11a173aac273": {
+   "id": "186435b57df45cb8edcf11a173aac273",
+   "company": "ABB UK",
+   "role": "Field Service Engineer",
+   "location": "Central Singapore"
+  },
+  "2fcd40d7e0cef109fce04fe495ba70b1": {
+   "id": "2fcd40d7e0cef109fce04fe495ba70b1",
+   "company": "Skyworks Solutions Inc",
+   "role": "Process Technician 5",
    "location": "Singapore"
   },
-  "444c39694cd732ec": {
-   "id": "444c39694cd732ec",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Part-Time Research Assistant (Metagenomics & Microbial Ecology)",
-   "location": "Singapore"
+  "9c62d0351ccec4246fa0ab263e77ca28": {
+   "id": "9c62d0351ccec4246fa0ab263e77ca28",
+   "company": "Airbus SE",
+   "role": "Satair - Repair Technician",
+   "location": "Singapore Area"
   },
   "e1c28b5674ac73601b476abe70eaade9": {
    "id": "e1c28b5674ac73601b476abe70eaade9",
@@ -4316,12 +4358,6 @@
    "role": "Technical Officer, Train Maintenance (ccl)",
    "location": "Singapore"
   },
-  "2fcd40d7e0cef109fce04fe495ba70b1": {
-   "id": "2fcd40d7e0cef109fce04fe495ba70b1",
-   "company": "Skyworks Solutions Inc",
-   "role": "Process Technician 5",
-   "location": "Singapore"
-  },
   "a50040db63974b20": {
    "id": "a50040db63974b20",
    "company": "ALDAN GLOBAL RESOURCES PTE. LTD.",
@@ -4334,17 +4370,17 @@
    "role": "Equipment Technician (Semicon)",
    "location": "Orchard"
   },
-  "69dec13b838058a2": {
-   "id": "69dec13b838058a2",
-   "company": "MTC CONSULTING PTE. LTD.",
-   "role": "Maintenance Technician (Must have Class 3 license/ Basic $2500)",
-   "location": "Tuas"
-  },
-  "5ab4e4b5bbca9041": {
-   "id": "5ab4e4b5bbca9041",
-   "company": "RECRUITPEDIA PTE. LTD.",
-   "role": "Mechanical Technician (Office Hours)",
+  "d4a7302b68ec76b2fa5e4ed29ca2bf5b": {
+   "id": "d4a7302b68ec76b2fa5e4ed29ca2bf5b",
+   "company": "A.P. Moller - Maersk",
+   "role": "Fl Customer Service Support [flo Flc]",
    "location": "Singapore"
+  },
+  "4c311fa37d8406b8dcfe1502c72f1243": {
+   "id": "4c311fa37d8406b8dcfe1502c72f1243",
+   "company": "International Flavors & Fragrances Inc",
+   "role": "Warehouse Assistant I",
+   "location": "Chin Bee"
   },
   "eb4cf16d895e760266b8830e5da34522": {
    "id": "eb4cf16d895e760266b8830e5da34522",
@@ -4814,17 +4850,29 @@
    "role": "Retail Sales Assistant",
    "location": "Islandwide"
   },
-  "3823873fc761c359": {
-   "id": "3823873fc761c359",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Retail Assistant (Beauty Industry) / $3,975 - $4,100 + Comms",
-   "location": "Orchard"
+  "173192be87c4d3d29fe5d040c11faf3b": {
+   "id": "173192be87c4d3d29fe5d040c11faf3b",
+   "company": "Randstad Singapore",
+   "role": "Wsh Coordinator - Csc",
+   "location": "Singapore"
   },
-  "7514b0a7b31706b4": {
-   "id": "7514b0a7b31706b4",
-   "company": "VANAURA PTE. LTD.",
-   "role": "Retail Sales Associate",
-   "location": "Little India"
+  "8499b43c57dbde613253800dbe12ce9c": {
+   "id": "8499b43c57dbde613253800dbe12ce9c",
+   "company": "Skyworks Solutions Inc",
+   "role": "Project Coordinator 1, Engineering",
+   "location": "Singapore"
+  },
+  "3bd600157de1e7f2f0c8e35069838a37": {
+   "id": "3bd600157de1e7f2f0c8e35069838a37",
+   "company": "Randstad Singapore",
+   "role": "Junior Business Admin Assistant",
+   "location": "Singapore"
+  },
+  "8a65a7833de4604cb0960fff4343a63b": {
+   "id": "8a65a7833de4604cb0960fff4343a63b",
+   "company": "IDP Education",
+   "role": "Marketing Event Executive",
+   "location": "Singapore"
   },
   "bd7df37c6eb5c50dd7fbe39fe4154bce": {
    "id": "bd7df37c6eb5c50dd7fbe39fe4154bce",
@@ -5280,30 +5328,6 @@
    "id": "96a7a58ee41674fa",
    "company": "MCI CONSULTING PTE. LTD.",
    "role": "Admin Assistant - 6 Month Contract / Mon - Fri (Office Hour) / Near Novena MRT - (Healthcare)",
-   "location": "Singapore"
-  },
-  "d6ee84243c86a326": {
-   "id": "d6ee84243c86a326",
-   "company": "SAVVY CONTRACTOR PTE. LTD.",
-   "role": "Project Site Coordinator",
-   "location": "Singapore"
-  },
-  "b31f8d1890ff3e0e": {
-   "id": "b31f8d1890ff3e0e",
-   "company": "EMINENCE ORGANIZATION PTE. LTD.",
-   "role": "💫 Marketing Campaign Executive / Grow With a Team 💫",
-   "location": "Marina"
-  },
-  "13264cc753b8fc31": {
-   "id": "13264cc753b8fc31",
-   "company": "SKILLMATCH RECRUITMENT",
-   "role": "Junior Events & Marketing Executive (Training Provided)",
-   "location": "Islandwide"
-  },
-  "e5011142f51d0195": {
-   "id": "e5011142f51d0195",
-   "company": "BLESS BROTHERS PTE. LTD.",
-   "role": "Logistics Coordinator",
    "location": "Singapore"
   }
  }
