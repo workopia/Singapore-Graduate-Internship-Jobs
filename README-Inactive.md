@@ -6877,4 +6877,67 @@
 <tr><td>AUTO CONNECTION (S) PTE. LTD.</td><td>Admin Support Admin</td><td>Singapore</td><td>2026-08-14</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Entry Level] 3 Months Temp Telecom Admin Assistant (renewable) -$12/hr #HLV</td><td>Singapore</td><td>2026-08-14</td></tr>
 <tr><td>MCI CONSULTING PTE. LTD.</td><td>Admin Assistant - 6 Month Contract / Mon - Fri (Office Hour) / Near Novena MRT - (Healthcare)</td><td>Singapore</td><td>2026-08-14</td></tr>
+<tr><td>nlb.gov.sg</td><td>Intern, Safety Office</td><td>Pas</td><td>2026-08-15</td></tr>
+<tr><td>The Bank of Nova Scotia</td><td>Intern, Ficc Trading</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Tencent</td><td>Hr Generalist Intern</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>Tencent</td><td>Wechat Pay - Business Development Intern</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>Tencent</td><td>Product Operations Intern (monetization)</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Wechat Pay - Business Development Intern</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Hr Generalist Intern</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Product Operations Intern (monetization)</td><td>Capitasky</td><td>2026-08-15</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>Pasir Panjang</td><td>2026-08-15</td></tr>
+<tr><td>FOLLOWTRADE PTE. LTD.</td><td>Intern</td><td>Orchard +2</td><td>2026-08-15</td></tr>
+<tr><td>PACIFICLIGHT POWER PTE. LTD.</td><td>Intern, Corporate Communications</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>FOLLOWTRADE PTE. LTD.</td><td>Digital Marketing Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>LIGHTHOUSE CANTON PTE. LTD.</td><td>Intern - Marketing & Business Strategy, Keenai Global (Aug/Sep 2026 Intake)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>CAMBRIDGE LEARNING GROUP SG</td><td>( Students Welcome! ) Marketing+ Admin Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Regional Brand & Communications Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Intern - Global Energy Management (gem)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>539</td><td>Assoc. Spclst , Ux/ui Design Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Schneider Electric</td><td>Ai & Business Process Transformation Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>HAIDA UNITED MARINE SERVICES (SINGAPORE) PTE. LTD.</td><td>Marine Operations & Technical Support Intern</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>EXION MARKETING</td><td>Junior Marketing & Events Trainee (Entry-level)</td><td>Marina</td><td>2026-08-15</td></tr>
+<tr><td>CATALYST MARKETING SOLUTIONS PTE. LTD.</td><td>Sales & Business Development Intern</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>SALES & MARKETING TRAINEE (No Experience Needed!)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Marketing Intern - Technology Business</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>sea</td><td>T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>TRD SYSTEMS PTE. LTD.</td><td>DATA ANALYST (CCP for ICT Professionals - Data and AI)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>ZURICH INSURANCE COMPANY LTD (Singapore Branch)</td><td>Data Scientist, APAC</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Deloitte</td><td>A&a - Associate - External Audit (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Business Process Solutions (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>sea</td><td>T&l: Associate - International Tax Advisory (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Global Investment & Innovation Incentives (gi3) (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Global Employer Services (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Tax Technology Consulting (2026 Graduate)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>CHINA CONSTRUCTION (SOUTH PACIFIC) DEVELOPMENT CO. PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>ACEPLP COM PTE LTD</td><td>Account Assistant</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>MAXIUS TRADING PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>VICTORY MARINE SAFETY PTE. LTD.</td><td>ACCOUNTS ASSISTANT</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Accounts Assistant (On Job Training Provided!!) (YS81)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Pioneer Natural Resources</td><td>Quantitative Analyst, V&s Lng</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>NATIONAL UNIVERSITY HEALTH SERVICES GROUP PTE. LTD.</td><td>Associate Medical Laboratory Technologist (Haematology/ Microbiology/ Chemistry)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>LEE AH MOOI OLD AGE HOME</td><td>Job Support Assistant</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Discipline Support Officer / North / $3000</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Discipline Support Officer / East / $4000</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Double Nursing Sponsorship - Diploma In Nursing & Bachelor Of Science (nursing) (honours)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Enrolled Nurse (outpatient Paediatric Clinic)</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>Micron</td><td>Technician - Gel</td><td>Fab 10w</td><td>2026-08-15</td></tr>
+<tr><td>KHOO TECK PUAT HOSPITAL PTE. LTD.</td><td>Registered Nurse</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>YISHUN COMMUNITY HOSPITAL PTE. LTD.</td><td>Registered Nurse</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurse @ Prison - $32/hr #HKH</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>St. Hilda's Community Services Centre</td><td>Community Care Assistants</td><td>Joo Chiat</td><td>2026-08-15</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Residential Care Officer [Welfare Home/ Social Services] - Buangkok / Shift Work / $3.3k [0580]</td><td>Buangkok</td><td>2026-08-15</td></tr>
+<tr><td>MY HAPPY TALES</td><td>Pet Care Assistant (Rabbit Boarding & Medical Care Support)</td><td>Farrer Park</td><td>2026-08-15</td></tr>
+<tr><td>Apex Day Rehabilitation Centre For Elderly</td><td>Programme Assistant</td><td>Bukit Merah</td><td>2026-08-15</td></tr>
+<tr><td>IMAGINE ARTLY</td><td>AMK! PERM KIDS ASSISTANT NEEDED! NO EXPERIENCE WELCOME</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Patient Service Associate</td><td>Singapore</td><td>2026-08-15</td></tr>
+<tr><td>LCS PTE. LTD.</td><td>HR Executive</td><td>Joo Chiat +3</td><td>2026-08-15</td></tr>
+<tr><td>EQUE PTE. LTD.</td><td>EXECUTIVE ASSISTANT [PPA2-001-08]</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>WETALK EDUCATION CENTRE PTE. LTD.</td><td>Accounts & Centre Administration Executive</td><td>Orchard</td><td>2026-08-15</td></tr>
+<tr><td>HIART PTE. LTD.</td><td>Admin Executive</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>HR Admin Executive (West / Govt Sector)</td><td>Islandwide</td><td>2026-08-15</td></tr>
+<tr><td>WHIZ LINK MANPOWER</td><td>Admin Support Executive</td><td>Cecil</td><td>2026-08-15</td></tr>
 </table>
