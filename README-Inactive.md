@@ -7552,4 +7552,72 @@
 <tr><td>ABSOLUTE INSTRUMENT SYSTEMS (PTE.) LTD.</td><td>Purchase Coordinator</td><td>Singapore</td><td>2026-08-16</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>(Urgent!) 6 Months Admin Executive #JEE</td><td>Islandwide</td><td>2026-08-16</td></tr>
 <tr><td>ACCORRUS INTERNATIONAL PRIVATE LIMITED</td><td>Real Estate Executive Assistant (Full-Time)</td><td>Islandwide</td><td>2026-08-16</td></tr>
+<tr><td>Shipping World Logistics Pte Ltd</td><td>Shipping Documentation Intern</td><td>South West</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>Growth Intern - Business Development (winter 2025)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>Growth Intern - Sports Business Group (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>Growth Intern - Marketing & Communications (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>RFNG TRADING</td><td>Finance & Wealth Management Internship</td><td>Islandwide</td><td>2026-08-17</td></tr>
+<tr><td>TOP VISION AGENCY</td><td>Kickstart Your Marketing Career🚀</td><td>Islandwide</td><td>2026-08-17</td></tr>
+<tr><td>KARIM FAMILY FOUNDATION</td><td>Intern, Digital Marketing & Branding</td><td>Orchard</td><td>2026-08-17</td></tr>
+<tr><td>CASA CONCETTO PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Philjobs</td><td>Intern - Hpm Customer Service</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Philjobs</td><td>Intern - Apac Commercial Services</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Business Development (winter 2025)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Executive Engagement (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Marketing & Communications (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>Growth Intern - Deloitte Greenhouse 2026</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>A&a - External Audit Intern - Audit & Assurance (fastrack - Winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>Growth Intern - Ai Pursuit Center Of Excellence ( Ai Pcoe) (sg)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>A&a - Amplify Program Audit & Assurance - Singapore</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>Sr&t - Amplify Program Strategy, Risk & Transactions - Singapore</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>T&l - Amplify Program Tax & Legal - Singapore</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>sea</td><td>Duap Intern - Project Operation</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Clients & Industries (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Tax Technology Consulting (summer 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Sports Business Group (winter 2026)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>HP</td><td>College Intern - Machine Learning And Artificial Intelligence</td><td>South West</td><td>2026-08-17</td></tr>
+<tr><td>Lendlease Corporation</td><td>Sustainability Intern</td><td>Central Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Lendlease</td><td>Sustainability Intern</td><td>Central Singapore</td><td>2026-08-17</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Apac Benefits Intern</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Micron</td><td>Intern - Digital Automation & Solutions Team</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Micron</td><td>Intern - Tem Engineer</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>CSA Group (CNX)</td><td>Intern</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Consumer Financial Services, Service Channels & Transformation - Regional Contact Centre [september - March 2027]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Consumer Financial Services, Gcfs Digital Business & Transformation - Gcfs Digital Transformation [september - March 2027]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Gcfs Digital Business & Transformation - Gcfs Digital Transformation [september - March 2027]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Service Channels & Transformation - Regional Contact Centre [september - March 2027]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>ACE ASCENTIA PTE. LTD.</td><td>Financial Intern</td><td>Marina</td><td>2026-08-17</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>Pasir Panjang</td><td>2026-08-17</td></tr>
+<tr><td>GOODWOOD PARK HOTEL PRIVATE LIMITED</td><td>Intern (Catering & Festive Business)</td><td>Orchard</td><td>2026-08-17</td></tr>
+<tr><td>TVS SCS SINGAPORE PTE. LTD.</td><td>Intern, Air Freight (3-6 months)</td><td>Changi</td><td>2026-08-17</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>🚀 *URGENT HIRING* 3-6 months Marketing Intern (Office hours, Gain hands-on marketing experience!) #HCGT</td><td>Islandwide</td><td>2026-08-17</td></tr>
+<tr><td>HITCHEED PRIVATE LIMITED</td><td>Events Operation and Marketing Intern</td><td>Marina</td><td>2026-08-17</td></tr>
+<tr><td>PROTEIN PLUS GROUP PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>TOMOWORK LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>MASTERMARK PTE LTD</td><td>Marketing Intern (6-months)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>healthsciencejobs.ch</td><td>Intern- Regulatory Affairs</td><td>Central Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Roche UK</td><td>Intern- Regulatory Affairs</td><td>Central Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Financial Derivatives Sales & Business Development Support Intern - Singapore</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>TSAO FOUNDATION</td><td>Finance Intern</td><td>Tiong Bahru</td><td>2026-08-17</td></tr>
+<tr><td>FEI SIONG FASTFOOD PTE. LTD.</td><td>[Popeyes] F&B Management Trainee</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>REALTEK SINGAPORE PRIVATE LIMITED</td><td>Software Engineer - Test Automation</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>REALTEK SINGAPORE PRIVATE LIMITED</td><td>Software Engineer – WiFi/ Embedded System Development</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>BEATHCHAPMAN (PTE. LTD.)</td><td>Business Intelligence Specialist - Power BI and Business Central</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - International Tax Advisory (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Process Solutions (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Goods & Services Tax (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Employer Services (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Tax Financial Services (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Merger And Acquisition Tax (2027 Graduate)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Deloitte</td><td>A&a - Sg - Internal Audit ( Analyst)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>Randstad Singapore</td><td>Internal Audit, Private Bank</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>ERI@N</td><td>Research Assistant (computational Chemistry)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>National Institute of Education, Nanyang Technological University</td><td>Research Assistant/associate [lkcmedicine]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>LKCMedicine</td><td>Research Assistant/associate [lkcmedicine]</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Retail Sales (Luxury Shoe Brand / AWS available)</td><td>Singapore</td><td>2026-08-17</td></tr>
+<tr><td>COMFY PTE. LTD.</td><td>Furniture Retail Sales Executive</td><td>Islandwide</td><td>2026-08-17</td></tr>
 </table>
