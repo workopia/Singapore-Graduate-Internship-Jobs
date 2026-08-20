@@ -8137,4 +8137,37 @@
 <tr><td>DENTSU ASIA PACIFIC PTE. LTD.</td><td>Client Coordinator</td><td>Anson</td><td>2026-08-19</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temporary Retail Assistant (1-3 Months) ($12 -$15/hr) #NKC</td><td>Islandwide</td><td>2026-08-19</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Admin & Logistics Assistant (Event) (Sin Ming) #NKC</td><td>Sin Ming</td><td>2026-08-19</td></tr>
+<tr><td>Schneider Electric</td><td>Services Planning & Order Management Intern</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Sea Deloitte</td><td>Growth Intern - Business Development (winter 2026)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Sr&t Inspires Internship 2027 (singapore)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Center For The Edge (2026)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Executive Engagement (winter 2026)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Deloitte Greenhouse 2026</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Ai Pursuit Center Of Excellence ( Ai Pcoe) (sg)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Business Development (winter 2026)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>APBA TG HUMAN RESOURCE PTE. LTD.</td><td>Temp HR Intern II 6 Months Contract II Central</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>ELM & MAPLE PTE. LTD.</td><td>Marketing & Arts Workshop Facilitator Intern</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship - Facility Operation & Maintenance</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Infineon</td><td>Internship - Industrial Engineering</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Bunge</td><td>Intern</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Ite Internship Oct'26 To Sep'27 - National Billing System (nbs) Internship</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Ite Internship Oct'26 To Sep'27 - Ngemr System Internship</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Ite Internship Oct'26 To Sep'27 - National Harmonised Integrated Pharmacy System (nhips) Internship</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Ite Internship Oct'26 To Sep'27 - Enhancements And Improvements For Central Ops Team</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai & Automation, Operational Efficiency & Incident Management</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>CLOSIO CATALYST</td><td>Sales Management Trainee (Entrepreneurial Career Path)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>IT Support Engineer / Desktop Support Specialist (L1/L2)</td><td>Marina +4</td><td>2026-08-20</td></tr>
+<tr><td>BOK SENG LOGISTICS PRIVATE LIMITED</td><td>IT Support</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>KAROOOOO MANAGEMENT COMPANY PTE. LTD.</td><td>Desktop Support Specialist</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Grant Audit Associate [Flexi Hours / $3.2k] / 0580</td><td>Redhill</td><td>2026-08-20</td></tr>
+<tr><td>SKINNE AESTHETICS PTE. LTD.</td><td>Clinic Assistant (Patient Service & Clinical Support)</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>RECRUIT INC PRIVATE LIMITED</td><td>Technician (Wire Bond)</td><td>East</td><td>2026-08-20</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Manufacturing Technician - East</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>SILITH TECHNOLOGY PTE. LTD.</td><td>Technician (Yishun)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Sales Coordinator [EL]</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Sales Coordinator (Manufacturing) [EL]</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>CANWORKONE.SG EMPLOYMENT PTE. LTD.</td><td>Sales Coordinator</td><td>Islandwide</td><td>2026-08-20</td></tr>
+<tr><td>METRICNOVA MARKETING</td><td>Marketing Support Executive (Entry Level)</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Marketing Assistant</td><td>Singapore</td><td>2026-08-20</td></tr>
+<tr><td>HONSEI BUILDER PTE. LTD.</td><td>PURCHASING ASSISTANT</td><td>D26 Springleaf</td><td>2026-08-20</td></tr>
 </table>

@@ -1,11 +1,113 @@
 {
- "asOf": "2026-08-19",
+ "asOf": "2026-08-20",
  "count": 806,
  "jobs": {
   "2648640": {
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "d61acf029a6cc60c0f61aa284f6ceaea": {
+   "id": "d61acf029a6cc60c0f61aa284f6ceaea",
+   "company": "Coach (Tapestry, Inc.)",
+   "role": "Fp&a Intern (6-month Internship)",
+   "location": "Singapore"
+  },
+  "c4a894c79ce4e12e28aa0c584157b24f": {
+   "id": "c4a894c79ce4e12e28aa0c584157b24f",
+   "company": "United Overseas Bank",
+   "role": "Travel Concierge Intern - (oct- Feb 2027)",
+   "location": "Central Region"
+  },
+  "8673aa33f63e7ba6e99e1f0711a3c61d": {
+   "id": "8673aa33f63e7ba6e99e1f0711a3c61d",
+   "company": "techniker-bei-gf.de",
+   "role": "Supply Chain Materials Management Intern (jan-jun 2027)",
+   "location": "Singapore"
+  },
+  "faa11d7758b90c31f4b38996d70b42f6": {
+   "id": "faa11d7758b90c31f4b38996d70b42f6",
+   "company": "Alcon",
+   "role": "Intern",
+   "location": "Tuas"
+  },
+  "bc36df5297556ce7664752a7704c8903": {
+   "id": "bc36df5297556ce7664752a7704c8903",
+   "company": "Micron",
+   "role": "Intern - Amhs",
+   "location": "Singapore"
+  },
+  "a56b2873dc36946635358a02d43799da": {
+   "id": "a56b2873dc36946635358a02d43799da",
+   "company": "Micron",
+   "role": "Intern - Planning Ie",
+   "location": "Singapore"
+  },
+  "bc7d98f5491474e702ee9dbad491ebff": {
+   "id": "bc7d98f5491474e702ee9dbad491ebff",
+   "company": "Micron",
+   "role": "Intern - Pln Ie",
+   "location": "Singapore"
+  },
+  "3ba814328a5632ae7998b4b816423754": {
+   "id": "3ba814328a5632ae7998b4b816423754",
+   "company": "Sumitomo Mitsui Banking Corporation",
+   "role": "Smbc Summer Intern Programme 2027",
+   "location": "Singapore"
+  },
+  "d541f7565a0ce7c3cffe0cdbd7820125": {
+   "id": "d541f7565a0ce7c3cffe0cdbd7820125",
+   "company": "OCBC",
+   "role": "Ignite Internship: Group Human Resources, Talent Acquisition Experience [sep26 To Feb27]",
+   "location": "Singapore"
+  },
+  "cbc72c0453ffbb7e017a516b6778cc10": {
+   "id": "cbc72c0453ffbb7e017a516b6778cc10",
+   "company": "COFCO International",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "61d6b9ee5f42f28cbf23c3db59866c8e": {
+   "id": "61d6b9ee5f42f28cbf23c3db59866c8e",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Tax - Research & Development And Incentives Advisory / Off-cycle Internship (jul 2026 To Dec 2026)",
+   "location": "Singapore"
+  },
+  "3800381b24cdb503d04cefa0f89118fd": {
+   "id": "3800381b24cdb503d04cefa0f89118fd",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Off-cycle Internship 2026 (jun 2026 - Dec 2026), Consulting - Cyber Transformation",
+   "location": "Singapore"
+  },
+  "c893b76498605a17d384d71f81671604": {
+   "id": "c893b76498605a17d384d71f81671604",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Mid-year Internship 2026 (aug - Dec 2026), Consulting, Organisation Transformation",
+   "location": "Singapore"
+  },
+  "2648ab2d6e36a460f99c680ce46d3b3c": {
+   "id": "2648ab2d6e36a460f99c680ce46d3b3c",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Intern, Design & Engineering",
+   "location": "Singapore"
+  },
+  "eaf152202537ce20bb256d855c0d4588": {
+   "id": "eaf152202537ce20bb256d855c0d4588",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Regional Brand & Communications Intern",
+   "location": "Singapore"
+  },
+  "7f1dc7b8d32aec4ba96e860e8bad50ca": {
+   "id": "7f1dc7b8d32aec4ba96e860e8bad50ca",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Digital Solutions Intern",
+   "location": "Singapore"
+  },
+  "d91661e5d69f1b46811d63aa2ee72989": {
+   "id": "d91661e5d69f1b46811d63aa2ee72989",
+   "company": "SAP SE",
+   "role": "Diploma Student / Intern",
    "location": "Singapore"
   },
   "d2de24fd64e2e5d80fc127425b122610": {
@@ -138,6 +240,12 @@
    "id": "391da3109c0d74942c292f5c0cd18a5d",
    "company": "Razer Gold",
    "role": "Product Marketing Intern (keyboards)",
+   "location": "Singapore"
+  },
+  "4bcd85b51e9929f7b498e0a5c16252ef": {
+   "id": "4bcd85b51e9929f7b498e0a5c16252ef",
+   "company": "SHOPBACK",
+   "role": "Product Builder Intern",
    "location": "Singapore"
   },
   "c861c569564456fdd31079188058cec2": {
@@ -380,112 +488,10 @@
    "role": "2027 Schneider Electric Singapore Internship - finance Track",
    "location": "Singapore"
   },
-  "94dbef778acc3b102dd5d8f1a7897b92": {
-   "id": "94dbef778acc3b102dd5d8f1a7897b92",
-   "company": "Schneider Electric",
-   "role": "Services Planning & Order Management Intern",
-   "location": "Singapore"
-  },
-  "50f2bcab0fc8d9b780f012cbac3ca4cd": {
-   "id": "50f2bcab0fc8d9b780f012cbac3ca4cd",
-   "company": "Sea Deloitte",
-   "role": "Growth Intern - Business Development (winter 2026)",
-   "location": "Singapore"
-  },
-  "bb8c54eedc61055a780b5428f56a4227": {
-   "id": "bb8c54eedc61055a780b5428f56a4227",
-   "company": "Deloitte",
-   "role": "Sr&t Inspires Internship 2027 (singapore)",
-   "location": "Singapore"
-  },
-  "aa6db84feb935e7afa591558431f4cf9": {
-   "id": "aa6db84feb935e7afa591558431f4cf9",
-   "company": "Deloitte",
-   "role": "Growth Intern - Center For The Edge (2026)",
-   "location": "Singapore"
-  },
-  "52458ee4c9a37d0d5416031ed2bad9c1": {
-   "id": "52458ee4c9a37d0d5416031ed2bad9c1",
-   "company": "Deloitte",
-   "role": "Growth Intern - Executive Engagement (winter 2026)",
-   "location": "Singapore"
-  },
-  "767c62e6980bbf96af07d260254b1765": {
-   "id": "767c62e6980bbf96af07d260254b1765",
-   "company": "Deloitte",
-   "role": "Growth Intern - Deloitte Greenhouse 2026",
-   "location": "Singapore"
-  },
-  "8c6a6296f5d04cc2bd3684b31e901d71": {
-   "id": "8c6a6296f5d04cc2bd3684b31e901d71",
-   "company": "Deloitte",
-   "role": "Growth Intern - Ai Pursuit Center Of Excellence ( Ai Pcoe) (sg)",
-   "location": "Singapore"
-  },
-  "17e85da9383fdd8987af687101001296": {
-   "id": "17e85da9383fdd8987af687101001296",
-   "company": "Deloitte",
-   "role": "Growth Intern - Business Development (winter 2026)",
-   "location": "Singapore"
-  },
-  "e16a998703a0de3c": {
-   "id": "e16a998703a0de3c",
-   "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
-   "role": "Temp HR Intern II 6 Months Contract II Central",
-   "location": "Islandwide"
-  },
-  "cc438633a6943601": {
-   "id": "cc438633a6943601",
-   "company": "ELM & MAPLE PTE. LTD.",
-   "role": "Marketing & Arts Workshop Facilitator Intern",
-   "location": "Singapore"
-  },
-  "HRC1728046": {
-   "id": "HRC1728046",
-   "company": "Infineon",
-   "role": "Internship - Facility Operation & Maintenance",
-   "location": "Singapore"
-  },
-  "HRC1741970": {
-   "id": "HRC1741970",
-   "company": "Infineon",
-   "role": "Internship - Industrial Engineering",
-   "location": "Singapore"
-  },
-  "ae7c561d43774cf07b2ec0075e80fb77": {
-   "id": "ae7c561d43774cf07b2ec0075e80fb77",
-   "company": "Bunge",
-   "role": "Intern",
-   "location": "Singapore"
-  },
-  "c05ed93195ad5e1b0e65f1f07a075eba": {
-   "id": "c05ed93195ad5e1b0e65f1f07a075eba",
-   "company": "Synapxe Pte Ltd",
-   "role": "Ite Internship Oct'26 To Sep'27 - National Billing System (nbs) Internship",
-   "location": "Singapore"
-  },
-  "c0ab794a31a49680280cace52c147908": {
-   "id": "c0ab794a31a49680280cace52c147908",
-   "company": "Synapxe Pte Ltd",
-   "role": "Ite Internship Oct'26 To Sep'27 - Ngemr System Internship",
-   "location": "Singapore"
-  },
-  "fc260289b98e3a2331b7d5e414412c35": {
-   "id": "fc260289b98e3a2331b7d5e414412c35",
-   "company": "Synapxe Pte Ltd",
-   "role": "Ite Internship Oct'26 To Sep'27 - National Harmonised Integrated Pharmacy System (nhips) Internship",
-   "location": "Singapore"
-  },
-  "9ee5310c60e4b2eda029bc1572683b82": {
-   "id": "9ee5310c60e4b2eda029bc1572683b82",
-   "company": "Synapxe Pte Ltd",
-   "role": "Ite Internship Oct'26 To Sep'27 - Enhancements And Improvements For Central Ops Team",
-   "location": "Singapore"
-  },
-  "cd03ebc1e70ba9025fa161aa0cc18052": {
-   "id": "cd03ebc1e70ba9025fa161aa0cc18052",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai & Automation, Operational Efficiency & Incident Management",
+  "c6bdb72d97521b6fb66d89dc59c27913": {
+   "id": "c6bdb72d97521b6fb66d89dc59c27913",
+   "company": "Seasonsaviara",
+   "role": "Manager-in-training (rooms Division)",
    "location": "Singapore"
   },
   "f211c073ea0d9c30": {
@@ -962,12 +968,6 @@
    "role": "Marketing trainee",
    "location": "Singapore"
   },
-  "4f01046e51f3ed0d": {
-   "id": "4f01046e51f3ed0d",
-   "company": "CLOSIO CATALYST",
-   "role": "Sales Management Trainee (Entrepreneurial Career Path)",
-   "location": "Singapore"
-  },
   "fcf082f7f0a452686dd5698f40003b97": {
    "id": "fcf082f7f0a452686dd5698f40003b97",
    "company": "Synapxe Pte Ltd",
@@ -1026,6 +1026,30 @@
    "id": "e6cd3a2f978ff209",
    "company": "TIKTOK PTE. LTD.",
    "role": "Frontend Software Engineer Graduate (Global LIVE Transaction) - 2027 Start",
+   "location": "Singapore"
+  },
+  "76219cb13c6e2054a06090d478d9c6a9": {
+   "id": "76219cb13c6e2054a06090d478d9c6a9",
+   "company": "Michael Page Singapore",
+   "role": "Software Engineer (embedded) - It Consulting",
+   "location": "Singapore"
+  },
+  "49a106925b674820d411821a7160764e": {
+   "id": "49a106925b674820d411821a7160764e",
+   "company": "Welcomematservices",
+   "role": "Customer Support Technician",
+   "location": "Singapore"
+  },
+  "07077ccdd9370a85b8cc14fac3555680": {
+   "id": "07077ccdd9370a85b8cc14fac3555680",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Ai Centre Of Excellence, Full-stack Engineer (generative Ai)",
+   "location": "Singapore"
+  },
+  "7ec12e2bd950e34c8a208ec76c7624a9": {
+   "id": "7ec12e2bd950e34c8a208ec76c7624a9",
+   "company": "TE Connectivity",
+   "role": "Software Engineer Ii",
    "location": "Singapore"
   },
   "b75c0877b94bfbf1d7b2f07af3bb6d10": {
@@ -1406,12 +1430,6 @@
    "role": "Deskside Support Engineer (Trade Floor)",
    "location": "Raffles Place"
   },
-  "7ec12e2bd950e34c8a208ec76c7624a9": {
-   "id": "7ec12e2bd950e34c8a208ec76c7624a9",
-   "company": "TE Connectivity",
-   "role": "Software Engineer Ii",
-   "location": "Singapore"
-  },
   "3c3307d90886fe44": {
    "id": "3c3307d90886fe44",
    "company": "PERSOL SINGAPORE PTE. LTD.",
@@ -1489,24 +1507,6 @@
    "company": "RMA CONTRACTS PTE. LTD.",
    "role": "IT Support Officer (West / Govt Sector)",
    "location": "Islandwide"
-  },
-  "08ed672a0a9c7e92": {
-   "id": "08ed672a0a9c7e92",
-   "company": "RANDSTAD PTE. LIMITED",
-   "role": "IT Support Engineer / Desktop Support Specialist (L1/L2)",
-   "location": "Marina +4"
-  },
-  "64c8bc3440bb0447": {
-   "id": "64c8bc3440bb0447",
-   "company": "BOK SENG LOGISTICS PRIVATE LIMITED",
-   "role": "IT Support",
-   "location": "Singapore"
-  },
-  "bb6a547bb29c5395": {
-   "id": "bb6a547bb29c5395",
-   "company": "KAROOOOO MANAGEMENT COMPANY PTE. LTD.",
-   "role": "Desktop Support Specialist",
-   "location": "Singapore"
   },
   "32c6e025494e7be83161a6110f2fccf0": {
    "id": "32c6e025494e7be83161a6110f2fccf0",
@@ -2438,6 +2438,12 @@
    "role": "Go Graduate Finance",
    "location": "Islandwide"
   },
+  "62f727050e9a8712acf48eaa63bd45a7": {
+   "id": "62f727050e9a8712acf48eaa63bd45a7",
+   "company": "COFCO International",
+   "role": "Accountant",
+   "location": "Singapore"
+  },
   "abd11c03585e2624177a1644b78406a7": {
    "id": "abd11c03585e2624177a1644b78406a7",
    "company": "Randstad Singapore",
@@ -2912,11 +2918,11 @@
    "role": "Audit Associate",
    "location": "Orchard"
   },
-  "59023bf333b51367": {
-   "id": "59023bf333b51367",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Grant Audit Associate [Flexi Hours / $3.2k] / 0580",
-   "location": "Redhill"
+  "90c21862b5f4c8c80f522b2275097a3f": {
+   "id": "90c21862b5f4c8c80f522b2275097a3f",
+   "company": "National Institute of Education, Nanyang Technological University",
+   "role": "Research Assistant (sensor Miniaturization)",
+   "location": "Singapore"
   },
   "656794d1d24517bf3d2f70c8365b3f00": {
    "id": "656794d1d24517bf3d2f70c8365b3f00",
@@ -3392,11 +3398,23 @@
    "role": "Clinic Assistant (Patient Service & Clinical Support)",
    "location": "Islandwide"
   },
-  "5b1dd750b21d4684": {
-   "id": "5b1dd750b21d4684",
-   "company": "SKINNE AESTHETICS PTE. LTD.",
-   "role": "Clinic Assistant (Patient Service & Clinical Support)",
-   "location": "Islandwide"
+  "df7c86d7af1ce2d70c21b1bf2174de5b": {
+   "id": "df7c86d7af1ce2d70c21b1bf2174de5b",
+   "company": "techniker-bei-gf.de",
+   "role": "Associate Engineer, Equipment Engineering (lithography)",
+   "location": "Singapore"
+  },
+  "3e1af0a37531a4da98eec4aee92e9793": {
+   "id": "3e1af0a37531a4da98eec4aee92e9793",
+   "company": "ST Engineering",
+   "role": "Assistant Engineer, Maintenance",
+   "location": "Singapore"
+  },
+  "0c0c37f425883bd9fc07b720e6986d1c": {
+   "id": "0c0c37f425883bd9fc07b720e6986d1c",
+   "company": "Wartsila Oyj Abp",
+   "role": "Field Service Coordinator",
+   "location": "Singapore"
   },
   "78fb2c9212dc1559b71119aeb92f1973": {
    "id": "78fb2c9212dc1559b71119aeb92f1973",
@@ -3860,23 +3878,23 @@
    "role": "Production Engineering Technician (Chemical Process) #81872",
    "location": "Islandwide"
   },
-  "47762a1ab9b0f2fd": {
-   "id": "47762a1ab9b0f2fd",
-   "company": "RECRUIT INC PRIVATE LIMITED",
-   "role": "Technician (Wire Bond)",
-   "location": "East"
-  },
-  "ba8414079d5c501c": {
-   "id": "ba8414079d5c501c",
-   "company": "PERSOL SINGAPORE PTE. LTD.",
-   "role": "Manufacturing Technician - East",
-   "location": "Islandwide"
-  },
-  "8deeca443e2e827c": {
-   "id": "8deeca443e2e827c",
-   "company": "SILITH TECHNOLOGY PTE. LTD.",
-   "role": "Technician (Yishun)",
+  "d911372d345a769e479f3d9c634461ee": {
+   "id": "d911372d345a769e479f3d9c634461ee",
+   "company": "Maersk",
+   "role": "Warehouse Associate [flo Flc]",
    "location": "Singapore"
+  },
+  "52092ae2c1d35e50ec4b0a151aae32e4": {
+   "id": "52092ae2c1d35e50ec4b0a151aae32e4",
+   "company": "Wartsila Oyj Abp",
+   "role": "Tools Store Assistant",
+   "location": "Singapore"
+  },
+  "7a5bb54f5deef15a517b1ca95b5a719b": {
+   "id": "7a5bb54f5deef15a517b1ca95b5a719b",
+   "company": "Arthrex",
+   "role": "Warehouse Associate (1-year Contract)",
+   "location": "Bukit Merah"
   },
   "dde270938fa0a8983d4df6f553641956": {
    "id": "dde270938fa0a8983d4df6f553641956",
@@ -4340,23 +4358,23 @@
    "role": "Warehouse Assistant",
    "location": "Singapore"
   },
-  "b593d6debf0148e8": {
-   "id": "b593d6debf0148e8",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Sales Coordinator [EL]",
-   "location": "Islandwide"
+  "4ff964ea32803143969f9139eda440af": {
+   "id": "4ff964ea32803143969f9139eda440af",
+   "company": "PropertyGuru",
+   "role": "Executive Assistant To The Ceo",
+   "location": "Singapore"
   },
-  "b46debbc5b9dd2dc": {
-   "id": "b46debbc5b9dd2dc",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Sales Coordinator (Manufacturing) [EL]",
-   "location": "Islandwide"
+  "973ceefd00fc1d026e6bf25e09bf88c1": {
+   "id": "973ceefd00fc1d026e6bf25e09bf88c1",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Client Support Officer (immigration)",
+   "location": "Singapore"
   },
-  "55820f605792ee66": {
-   "id": "55820f605792ee66",
-   "company": "CANWORKONE.SG EMPLOYMENT PTE. LTD.",
-   "role": "Sales Coordinator",
-   "location": "Islandwide"
+  "1e3740cf4b83b3102c3ac581952fb87f": {
+   "id": "1e3740cf4b83b3102c3ac581952fb87f",
+   "company": "JLL",
+   "role": "Business Support, Events",
+   "location": "Singapore"
   },
   "e703fa8bfc27492436c7e9c51c6b0ac8": {
    "id": "e703fa8bfc27492436c7e9c51c6b0ac8",
@@ -4819,24 +4837,6 @@
    "company": "EMINENCE ORGANIZATION PTE. LTD.",
    "role": "🌈 Entry-Level Brand Marketing Assistant (Events & Campaigns / Training Provided) 🌈",
    "location": "Singapore"
-  },
-  "2f121d880458a9c3": {
-   "id": "2f121d880458a9c3",
-   "company": "METRICNOVA MARKETING",
-   "role": "Marketing Support Executive (Entry Level)",
-   "location": "Singapore"
-  },
-  "722a0fc63dc314c1": {
-   "id": "722a0fc63dc314c1",
-   "company": "INTUIT RECRUITMENT PTE. LTD.",
-   "role": "Marketing Assistant",
-   "location": "Singapore"
-  },
-  "e41f7a6bb3f5e420": {
-   "id": "e41f7a6bb3f5e420",
-   "company": "HONSEI BUILDER PTE. LTD.",
-   "role": "PURCHASING ASSISTANT",
-   "location": "D26 Springleaf"
   }
  }
 }
