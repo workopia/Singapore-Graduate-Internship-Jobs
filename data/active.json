@@ -1,5 +1,5 @@
 {
- "asOf": "2026-08-21",
+ "asOf": "2026-08-22",
  "count": 812,
  "jobs": {
   "2019223": {
@@ -12,6 +12,24 @@
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "7f15fa10a8de93a22dfb6c427d635c3c": {
+   "id": "7f15fa10a8de93a22dfb6c427d635c3c",
+   "company": "ABB Ltd",
+   "role": "Technical Interest - Expression Of Interest",
+   "location": "Central Singapore"
+  },
+  "d0f0d9a1124e6914988ba0da92dfbdb7": {
+   "id": "d0f0d9a1124e6914988ba0da92dfbdb7",
+   "company": "ABB Ltd",
+   "role": "Functional Internship – Expression Of Interest",
+   "location": "Central Singapore"
+  },
+  "0b2966a6890a875f491613c08812f6bd": {
+   "id": "0b2966a6890a875f491613c08812f6bd",
+   "company": "GlobalFoundries",
+   "role": "Global Asset Management Intern (jan-jun 2027)",
    "location": "Singapore"
   },
   "71b1e428cd9f6b2ada48ca38f576c3b6": {
@@ -152,9 +170,27 @@
    "role": "Travel Concierge Intern - (oct- Feb 2027)",
    "location": "Central Region"
   },
+  "81caeeadd969d648f68bcf4123b2882f": {
+   "id": "81caeeadd969d648f68bcf4123b2882f",
+   "company": "UOB Group",
+   "role": "Travel Concierge Intern (oct - Feb 2027)",
+   "location": "Central Region"
+  },
   "8673aa33f63e7ba6e99e1f0711a3c61d": {
    "id": "8673aa33f63e7ba6e99e1f0711a3c61d",
    "company": "techniker-bei-gf.de",
+   "role": "Supply Chain Materials Management Intern (jan-jun 2027)",
+   "location": "Singapore"
+  },
+  "0d83369735db113ffa9a417a6c54094a": {
+   "id": "0d83369735db113ffa9a417a6c54094a",
+   "company": "Gf",
+   "role": "Supply Chain Materials Management Intern (jan-jun 2027)",
+   "location": "Singapore"
+  },
+  "52f1556218aae06564ddaeedb47c1f79": {
+   "id": "52f1556218aae06564ddaeedb47c1f79",
+   "company": "GlobalFoundries",
    "role": "Supply Chain Materials Management Intern (jan-jun 2027)",
    "location": "Singapore"
   },
@@ -308,6 +344,12 @@
    "role": "Regulatory Intern",
    "location": "City Of Singapore"
   },
+  "ac5634e5da9106ea920f24ea4c7f8fc7": {
+   "id": "ac5634e5da9106ea920f24ea4c7f8fc7",
+   "company": "Sanofi UK",
+   "role": "Regulatory Intern",
+   "location": "City Of Singapore"
+  },
   "d2de24fd64e2e5d80fc127425b122610": {
    "id": "d2de24fd64e2e5d80fc127425b122610",
    "company": "alcon.mx",
@@ -452,48 +494,6 @@
    "role": "Generative Ai Intern",
    "location": "Singapore Razer Ai Center"
   },
-  "aa266948ea7062ea0f0702d4d76d1962": {
-   "id": "aa266948ea7062ea0f0702d4d76d1962",
-   "company": "Razer",
-   "role": "Product Marketing Intern - Mice",
-   "location": "Singapore"
-  },
-  "a7ae4b9ac4bbdfe4087c01bdadff5a1c": {
-   "id": "a7ae4b9ac4bbdfe4087c01bdadff5a1c",
-   "company": "Razer",
-   "role": "Partnerships Marketing Intern",
-   "location": "Singapore"
-  },
-  "ac5a079177ff2fa0ac4f32f0af74472a": {
-   "id": "ac5a079177ff2fa0ac4f32f0af74472a",
-   "company": "Razer",
-   "role": "Product Marketing Intern (keyboards)",
-   "location": "Singapore"
-  },
-  "16023d8363e69bb59460286075ac0122": {
-   "id": "16023d8363e69bb59460286075ac0122",
-   "company": "Razer Gold",
-   "role": "Product Marketing Intern - Mice",
-   "location": "Singapore"
-  },
-  "71e55d1cd443364d8822443fa87dbf97": {
-   "id": "71e55d1cd443364d8822443fa87dbf97",
-   "company": "Razer Gold",
-   "role": "Partnerships Marketing Intern",
-   "location": "Singapore"
-  },
-  "391da3109c0d74942c292f5c0cd18a5d": {
-   "id": "391da3109c0d74942c292f5c0cd18a5d",
-   "company": "Razer Gold",
-   "role": "Product Marketing Intern (keyboards)",
-   "location": "Singapore"
-  },
-  "4bcd85b51e9929f7b498e0a5c16252ef": {
-   "id": "4bcd85b51e9929f7b498e0a5c16252ef",
-   "company": "SHOPBACK",
-   "role": "Product Builder Intern",
-   "location": "Singapore"
-  },
   "41fb633f4185936d": {
    "id": "41fb633f4185936d",
    "company": "VALOR ORGANISATION PTE. LTD.",
@@ -503,6 +503,12 @@
   "c6bdb72d97521b6fb66d89dc59c27913": {
    "id": "c6bdb72d97521b6fb66d89dc59c27913",
    "company": "Seasonsaviara",
+   "role": "Manager-in-training (rooms Division)",
+   "location": "Singapore"
+  },
+  "f16a1800d40b1bcc5b1a841cc0e54cd0": {
+   "id": "f16a1800d40b1bcc5b1a841cc0e54cd0",
+   "company": "Four Seasons Hotels & Resorts",
    "role": "Manager-in-training (rooms Division)",
    "location": "Singapore"
   },
@@ -968,12 +974,6 @@
    "role": "Management Associate Programme Singapore 2027",
    "location": "Central Region"
   },
-  "fa7eca1fa076fd3e6d509c34e5596004": {
-   "id": "fa7eca1fa076fd3e6d509c34e5596004",
-   "company": "United Overseas Bank",
-   "role": "Management Associate Programme Singapore 2027",
-   "location": "Singapore"
-  },
   "fcf082f7f0a452686dd5698f40003b97": {
    "id": "fcf082f7f0a452686dd5698f40003b97",
    "company": "Synapxe Pte Ltd",
@@ -1067,6 +1067,12 @@
   "49a106925b674820d411821a7160764e": {
    "id": "49a106925b674820d411821a7160764e",
    "company": "Welcomematservices",
+   "role": "Customer Support Technician",
+   "location": "Singapore"
+  },
+  "6ddbc975cb236ab1b9fd6475a873342a": {
+   "id": "6ddbc975cb236ab1b9fd6475a873342a",
+   "company": "944game Inc",
    "role": "Customer Support Technician",
    "location": "Singapore"
   },
@@ -1506,12 +1512,6 @@
    "id": "d785fcf478a06d47084f05ab235d3de8",
    "company": "Motorola",
    "role": "Sales Admin & Support Specialist",
-   "location": "Singapore"
-  },
-  "aa2b8261072c06d156e4fde0edf222f9": {
-   "id": "aa2b8261072c06d156e4fde0edf222f9",
-   "company": "Sonova Group",
-   "role": "Software Engineer, Product & Project Focus (medical Device Business)",
    "location": "Singapore"
   },
   "32c6e025494e7be83161a6110f2fccf0": {
@@ -2498,6 +2498,12 @@
    "role": "Claims Analyst Casualty",
    "location": "Singapore"
   },
+  "ecaf58ef07ad7289bf97e0e0a36fb659": {
+   "id": "ecaf58ef07ad7289bf97e0e0a36fb659",
+   "company": "Aig Com Mo",
+   "role": "Claims Analyst Casualty",
+   "location": "Singapore"
+  },
   "62ddee17b7cf389a9642dd684fe7fdc3": {
    "id": "62ddee17b7cf389a9642dd684fe7fdc3",
    "company": "Axiomtalentplatform",
@@ -2526,6 +2532,12 @@
    "id": "00a37e39ca9d9eeb",
    "company": "MULTICO INFRACORE HOLDINGS PTE. LTD.",
    "role": "ACCOUNTS ASSISTANT",
+   "location": "Singapore"
+  },
+  "57de0d312b5519dea9abc286735b0235": {
+   "id": "57de0d312b5519dea9abc286735b0235",
+   "company": "jobs.barclays",
+   "role": "Kyc Onboarding Officer, Pbwm",
    "location": "Singapore"
   },
   "df286583e822ea0753b6799c0b5edfb4": {
@@ -2948,16 +2960,10 @@
    "role": "AUDIT ASSOCIATE",
    "location": "Golden Mile +1"
   },
-  "c2b79084f1a86005": {
-   "id": "c2b79084f1a86005",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Grant Audit Associate / Flexi Hours / Training Provided / Up to $3200 / have OT payment / Tiong Bahru - JL99",
-   "location": "Tiong Bahru"
-  },
-  "ed58e39ec4c08580": {
-   "id": "ed58e39ec4c08580",
-   "company": "DELOITTE SINGAPORE ASSURANCE PTE. LTD.",
-   "role": "Analyst",
+  "289b30beca95f32ca025f75aa00611dd": {
+   "id": "289b30beca95f32ca025f75aa00611dd",
+   "company": "ICON Clinical Research, LP",
+   "role": "Clinical Sample Processor I",
    "location": "Singapore"
   },
   "212e0fc541c8bc08dee217430261368f": {
@@ -3029,6 +3035,12 @@
   "90c21862b5f4c8c80f522b2275097a3f": {
    "id": "90c21862b5f4c8c80f522b2275097a3f",
    "company": "National Institute of Education, Nanyang Technological University",
+   "role": "Research Assistant (sensor Miniaturization)",
+   "location": "Singapore"
+  },
+  "64d3ed9069031c38be31c0b298964c41": {
+   "id": "64d3ed9069031c38be31c0b298964c41",
+   "company": "ERI@N",
    "role": "Research Assistant (sensor Miniaturization)",
    "location": "Singapore"
   },
@@ -3248,6 +3260,12 @@
    "role": "Staff Nurse",
    "location": "Singapore"
   },
+  "e73f8076014edab97f7ad97925a669db": {
+   "id": "e73f8076014edab97f7ad97925a669db",
+   "company": "FRESENIUS MEDICAL CARE",
+   "role": "Staff Nurse",
+   "location": "Singapore"
+  },
   "81caa0fec5ed33f4": {
    "id": "81caa0fec5ed33f4",
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -3422,33 +3440,27 @@
    "role": "Research Associate (Physics)",
    "location": "Singapore"
   },
-  "970b0c75f56ed081": {
-   "id": "970b0c75f56ed081",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant (Chemistry)",
-   "location": "Singapore"
-  },
-  "45e1dd6c42185896": {
-   "id": "45e1dd6c42185896",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant in AI and Machine Learning, School of Computing",
-   "location": "Singapore"
-  },
-  "cb482b9b5f308628": {
-   "id": "cb482b9b5f308628",
-   "company": "WILMAR INTERNATIONAL LIMITED",
-   "role": "ASSISTANT RESEARCH OFFICER (Data Analytics / Machine Learning)",
-   "location": "Singapore"
-  },
   "af6adb4b18cb5e8e7816edb546ab4ab3": {
    "id": "af6adb4b18cb5e8e7816edb546ab4ab3",
    "company": "RTX (Raytheon)",
    "role": "Mro Technician (mechanical)",
    "location": "Singapore"
   },
+  "cb318bba732475acbe2614a2adee5acf": {
+   "id": "cb318bba732475acbe2614a2adee5acf",
+   "company": "pr.careers",
+   "role": "Mro Technician (mechanical)",
+   "location": "Singapore"
+  },
   "8ce1657de0903912296d79c18df524e6": {
    "id": "8ce1657de0903912296d79c18df524e6",
    "company": "Rockwell Automation",
+   "role": "Facilities Technician",
+   "location": "Singapore"
+  },
+  "5d77d189f10107f610166f92a149499e": {
+   "id": "5d77d189f10107f610166f92a149499e",
+   "company": "Rockwallkia",
    "role": "Facilities Technician",
    "location": "Singapore"
   },
@@ -3539,6 +3551,18 @@
   "df7c86d7af1ce2d70c21b1bf2174de5b": {
    "id": "df7c86d7af1ce2d70c21b1bf2174de5b",
    "company": "techniker-bei-gf.de",
+   "role": "Associate Engineer, Equipment Engineering (lithography)",
+   "location": "Singapore"
+  },
+  "4add297264ae71efbee632788b3a230c": {
+   "id": "4add297264ae71efbee632788b3a230c",
+   "company": "GlobalFoundries",
+   "role": "Associate Engineer, Equipment Engineering (lithography)",
+   "location": "Singapore"
+  },
+  "90c3cd88761077786b452d04b4eb43e4": {
+   "id": "90c3cd88761077786b452d04b4eb43e4",
+   "company": "Gf",
    "role": "Associate Engineer, Equipment Engineering (lithography)",
    "location": "Singapore"
   },
@@ -3776,6 +3800,12 @@
    "role": "Manufacturing Technician",
    "location": "Singapore"
   },
+  "55810de95cd4cb80b2c1e3ffcdb7d1c0": {
+   "id": "55810de95cd4cb80b2c1e3ffcdb7d1c0",
+   "company": "Pkamc",
+   "role": "Manufacturing Technician",
+   "location": "Singapore"
+  },
   "4d93407db5e3d083": {
    "id": "4d93407db5e3d083",
    "company": "DSOURCING PTE. LTD.",
@@ -3890,34 +3920,10 @@
    "role": "Copier Technician #70878",
    "location": "Singapore"
   },
-  "b0cad5aa2bdc236b": {
-   "id": "b0cad5aa2bdc236b",
-   "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-   "role": "TECHNICIAN / $3000/ 5 DAYS / CENTRAL / NO EXP",
-   "location": "Singapore"
-  },
-  "cef5e15aa3de7c8c": {
-   "id": "cef5e15aa3de7c8c",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "(MNC) Elevator Service Technician / Up to $3000 + AWS / 5 Day(Office hours) / Jurong-QQ",
-   "location": "Singapore"
-  },
-  "15cbff5701d5394f": {
-   "id": "15cbff5701d5394f",
-   "company": "TALENT TRADER GROUP PTE. LTD.",
-   "role": "🔧 Spring Technician / Precision Manufacturing",
-   "location": "Islandwide"
-  },
-  "b96c0835d4b84198": {
-   "id": "b96c0835d4b84198",
-   "company": "TALENT TRADER GROUP PTE. LTD.",
-   "role": "🚀 Product Process Technician / Semiconductor Industry /AWS + Bonus",
-   "location": "Islandwide"
-  },
-  "0ae3da8b7dccbc07": {
-   "id": "0ae3da8b7dccbc07",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Technician (Semiconductor / Clean Room) [2868]",
+  "3df708e6abede026e797139a4d1ca8dd": {
+   "id": "3df708e6abede026e797139a4d1ca8dd",
+   "company": "MANGO",
+   "role": "Sales Assistant",
    "location": "Singapore"
   },
   "7fc5846abade3f9067e7d80ba9e549b4": {
@@ -4388,12 +4394,6 @@
    "role": "Sales Coordinator (Chua Chu Kang )",
    "location": "Singapore"
   },
-  "9dd8caba3abc8a1d": {
-   "id": "9dd8caba3abc8a1d",
-   "company": "JADASON ENTERPRISES LTD",
-   "role": "Sales Co-ordinator",
-   "location": "Singapore"
-  },
   "8f71e2e80b137bb029c14e1052156778": {
    "id": "8f71e2e80b137bb029c14e1052156778",
    "company": "sea",
@@ -4559,6 +4559,18 @@
   "1e3740cf4b83b3102c3ac581952fb87f": {
    "id": "1e3740cf4b83b3102c3ac581952fb87f",
    "company": "JLL",
+   "role": "Business Support, Events",
+   "location": "Singapore"
+  },
+  "7e04dc89dd38b7782ca72956ebc6bb02": {
+   "id": "7e04dc89dd38b7782ca72956ebc6bb02",
+   "company": "77",
+   "role": "Business Support, Events",
+   "location": "Singapore"
+  },
+  "ce3b5152a064980573fe5b233266cdb9": {
+   "id": "ce3b5152a064980573fe5b233266cdb9",
+   "company": "Jll Com Au",
    "role": "Business Support, Events",
    "location": "Singapore"
   },
@@ -4861,18 +4873,6 @@
    "company": "EQUE PTE. LTD.",
    "role": "EVENTS EXECUTIVE [PPS2-001-09]",
    "location": "Islandwide"
-  },
-  "f69e0df237933560": {
-   "id": "f69e0df237933560",
-   "company": "BIZ IQ INSTITUTE PTE. LTD.",
-   "role": "Culinary Events Workshop Facilitator",
-   "location": "Orchard"
-  },
-  "64d57e4d766ebed0": {
-   "id": "64d57e4d766ebed0",
-   "company": "ATRIX MARKETING SOLUTIONS",
-   "role": "Events Marketing Specialist (FUN ENVIRONMENT & COACHING PROVIDED)",
-   "location": "Marina +4"
   }
  }
 }

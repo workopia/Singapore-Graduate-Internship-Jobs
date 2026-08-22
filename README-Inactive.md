@@ -8642,4 +8642,26 @@
 <tr><td>ONE NORTH MARKETING</td><td>Junior Marketing Associate (Build Your Portfolio & Skillset 🚀)</td><td>Islandwide</td><td>2026-08-21</td></tr>
 <tr><td>ROYAL ORG PTE. LTD.</td><td>MARKETING ASSOCIATE (Entry-level)</td><td>Singapore</td><td>2026-08-21</td></tr>
 <tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🌈 Entry-Level Brand Marketing Assistant (Events & Campaigns / Training Provided) 🌈</td><td>Singapore</td><td>2026-08-21</td></tr>
+<tr><td>Razer</td><td>Product Marketing Intern - Mice</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Razer</td><td>Partnerships Marketing Intern</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Razer</td><td>Product Marketing Intern (keyboards)</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Razer Gold</td><td>Product Marketing Intern - Mice</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Razer Gold</td><td>Partnerships Marketing Intern</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Razer Gold</td><td>Product Marketing Intern (keyboards)</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>SHOPBACK</td><td>Product Builder Intern</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>United Overseas Bank</td><td>Management Associate Programme Singapore 2027</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>Sonova Group</td><td>Software Engineer, Product & Project Focus (medical Device Business)</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Grant Audit Associate / Flexi Hours / Training Provided / Up to $3200 / have OT payment / Tiong Bahru - JL99</td><td>Tiong Bahru</td><td>2026-08-22</td></tr>
+<tr><td>DELOITTE SINGAPORE ASSURANCE PTE. LTD.</td><td>Analyst</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Chemistry)</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant in AI and Machine Learning, School of Computing</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>WILMAR INTERNATIONAL LIMITED</td><td>ASSISTANT RESEARCH OFFICER (Data Analytics / Machine Learning)</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>TECHNICIAN / $3000/ 5 DAYS / CENTRAL / NO EXP</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>(MNC) Elevator Service Technician / Up to $3000 + AWS / 5 Day(Office hours) / Jurong-QQ</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>TALENT TRADER GROUP PTE. LTD.</td><td>🔧 Spring Technician / Precision Manufacturing</td><td>Islandwide</td><td>2026-08-22</td></tr>
+<tr><td>TALENT TRADER GROUP PTE. LTD.</td><td>🚀 Product Process Technician / Semiconductor Industry /AWS + Bonus</td><td>Islandwide</td><td>2026-08-22</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Technician (Semiconductor / Clean Room) [2868]</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>JADASON ENTERPRISES LTD</td><td>Sales Co-ordinator</td><td>Singapore</td><td>2026-08-22</td></tr>
+<tr><td>BIZ IQ INSTITUTE PTE. LTD.</td><td>Culinary Events Workshop Facilitator</td><td>Orchard</td><td>2026-08-22</td></tr>
+<tr><td>ATRIX MARKETING SOLUTIONS</td><td>Events Marketing Specialist (FUN ENVIRONMENT & COACHING PROVIDED)</td><td>Marina +4</td><td>2026-08-22</td></tr>
 </table>
