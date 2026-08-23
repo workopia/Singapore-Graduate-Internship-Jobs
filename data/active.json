@@ -14,6 +14,12 @@
    "role": "Intern, Life & Health, Apac",
    "location": "Singapore"
   },
+  "eb0e912ed04db890fa52637f95432975": {
+   "id": "eb0e912ed04db890fa52637f95432975",
+   "company": "Tencent Cloud",
+   "role": "Tencent Cloud - Edge Platform Product Solutions Architecture Intern - Singapore",
+   "location": "Singapore"
+  },
   "b28c70ff0db69476": {
    "id": "b28c70ff0db69476",
    "company": "DENPS GLOBAL PTE. LTD.",
@@ -41,6 +47,12 @@
   "0f3070aff1c166fc8d2f0613b206346c": {
    "id": "0f3070aff1c166fc8d2f0613b206346c",
    "company": "KONE International",
+   "role": "Intern- Purchasing",
+   "location": "Singapore"
+  },
+  "a974a95bddcd5291f24ae6b209d630a1": {
+   "id": "a974a95bddcd5291f24ae6b209d630a1",
+   "company": "Kone Corporation",
    "role": "Intern- Purchasing",
    "location": "Singapore"
   },
@@ -218,10 +230,10 @@
    "role": "Audit - Off-cycle Internship (jan 2027 To Jun 2027)",
    "location": "Singapore"
   },
-  "db53f777b62479a0cc69e3d11413d3e1": {
-   "id": "db53f777b62479a0cc69e3d11413d3e1",
-   "company": "KPMG Services Pte Ltd",
-   "role": "Advisory - Consulting, Fintech And Ventures / Off-cycle Internship (jan 2027 To June 2027)",
+  "7f6fa58758580a40d3d18a525dda499a": {
+   "id": "7f6fa58758580a40d3d18a525dda499a",
+   "company": "Bosch Group",
+   "role": "Intern, Hr",
    "location": "Singapore"
   },
   "3302ace04a42ea19d98f19f28234c48e": {
@@ -475,18 +487,6 @@
    "company": "Coach (Tapestry, Inc.)",
    "role": "Fp&a Intern (6-month Internship)",
    "location": "Singapore"
-  },
-  "c4a894c79ce4e12e28aa0c584157b24f": {
-   "id": "c4a894c79ce4e12e28aa0c584157b24f",
-   "company": "United Overseas Bank",
-   "role": "Travel Concierge Intern - (oct- Feb 2027)",
-   "location": "Central Region"
-  },
-  "81caeeadd969d648f68bcf4123b2882f": {
-   "id": "81caeeadd969d648f68bcf4123b2882f",
-   "company": "UOB Group",
-   "role": "Travel Concierge Intern (oct - Feb 2027)",
-   "location": "Central Region"
   },
   "395a1c3017b32bc1": {
    "id": "395a1c3017b32bc1",
@@ -1028,11 +1028,35 @@
    "role": "Frontend Software Engineer Graduate (Global LIVE Transaction) - 2027 Start",
    "location": "Singapore"
   },
+  "390ef4ee067e13352191eb0311d8593f": {
+   "id": "390ef4ee067e13352191eb0311d8593f",
+   "company": "Synapxe Pte Ltd",
+   "role": "Healthtech Associate Programme - Systems Analyst (automation/genai)",
+   "location": "Singapore"
+  },
+  "892fb498a54b89dd69c51cb09c41e8c3": {
+   "id": "892fb498a54b89dd69c51cb09c41e8c3",
+   "company": "Sonova Group",
+   "role": "It Services Professional",
+   "location": "Singapore"
+  },
+  "70b8a6928e1f8479224134ebc10513bf": {
+   "id": "70b8a6928e1f8479224134ebc10513bf",
+   "company": "Sonova Group",
+   "role": "Software Engineer, Product & Project Focus (medical Device Business)",
+   "location": "Singapore"
+  },
   "25ad60b8183e7afa": {
    "id": "25ad60b8183e7afa",
    "company": "VINOVA PTE. LTD.",
    "role": "Fullstack Engineer",
    "location": "Singapore"
+  },
+  "2bbbd576995ea6afabb763e6e274baaa": {
+   "id": "2bbbd576995ea6afabb763e6e274baaa",
+   "company": "XTX Markets Ltd",
+   "role": "C++ Software Engineer",
+   "location": "Central"
   },
   "d1ef2ab8a80bf235075ded94992b7ea3": {
    "id": "d1ef2ab8a80bf235075ded94992b7ea3",
@@ -1064,6 +1088,12 @@
    "role": "System Analyst",
    "location": "Hdb Hub"
   },
+  "7c0de4f8bd875d60565550eecf2a681f": {
+   "id": "7c0de4f8bd875d60565550eecf2a681f",
+   "company": "nlb.gov.sg",
+   "role": "System Analyst",
+   "location": "Singapore"
+  },
   "6d2aac1673171a77": {
    "id": "6d2aac1673171a77",
    "company": "SUNNYSTEP PTE. LTD.",
@@ -1092,12 +1122,6 @@
    "id": "d79fbc32de235f52",
    "company": "REALTEK SINGAPORE PRIVATE LIMITED",
    "role": "Software Engineer - IoT Development, Opensource",
-   "location": "Singapore"
-  },
-  "26d6b5f0edeb9cd3": {
-   "id": "26d6b5f0edeb9cd3",
-   "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
-   "role": "Software Engineer (Embedded) - IT consulting",
    "location": "Singapore"
   },
   "60ba98f106fa13d9": {
@@ -1189,18 +1213,6 @@
    "company": "IT CONSULTANCY & SERVICES PTE LTD",
    "role": "C++ Software Engineer (Ref 101)",
    "location": "Islandwide"
-  },
-  "f6d65a17e44072bb": {
-   "id": "f6d65a17e44072bb",
-   "company": "XSQUARE TECHNOLOGIES PTE. LTD.",
-   "role": "Software Engineer (Fleet Management)",
-   "location": "Singapore"
-  },
-  "2261b945b119ae22": {
-   "id": "2261b945b119ae22",
-   "company": "MERRILL LYNCH GLOBAL SERVICES PTE. LTD.",
-   "role": "Assistant Vice President/ Vice President, Software Engineer, Global Markets Technology",
-   "location": "Singapore"
   },
   "c95869116a2e1c07": {
    "id": "c95869116a2e1c07",
@@ -1495,18 +1507,6 @@
    "company": "REALSTAR PREMIER GROUP PRIVATE LIMITED",
    "role": "FULLSTACK DEVELOPER, AI DEVELOPMENT & IT SUPPORT SPECIALIST",
    "location": "Singapore"
-  },
-  "5d2347e6469d96cc": {
-   "id": "5d2347e6469d96cc",
-   "company": "THE GALLUP ORGANIZATION (SINGAPORE) PTE LTD",
-   "role": "IT Support Specialist",
-   "location": "Singapore"
-  },
-  "8667d414a7bcfb7ce208368660d126d3": {
-   "id": "8667d414a7bcfb7ce208368660d126d3",
-   "company": "ST Engineering",
-   "role": "Software Engineer",
-   "location": "Digital Hub"
   },
   "32c6e025494e7be83161a6110f2fccf0": {
    "id": "32c6e025494e7be83161a6110f2fccf0",
@@ -1820,12 +1820,6 @@
    "role": "IAM Engineer - OKTA/ForgeRock/PING Identity",
    "location": "Singapore"
   },
-  "6fe8e0d9de6ede75": {
-   "id": "6fe8e0d9de6ede75",
-   "company": "FLINTEX CONSULTING PTE. LTD.",
-   "role": "Applied AI Engineer (Agentic AI & ML)",
-   "location": "Singapore"
-  },
   "75af09548df4b2a6db6da5736d1c107d": {
    "id": "75af09548df4b2a6db6da5736d1c107d",
    "company": "Dev in Asia",
@@ -2088,6 +2082,12 @@
    "id": "05ee8ef505b185b5",
    "company": "ASE SINGAPORE PTE. LTD.",
    "role": "Associate Engineer - Test/Product",
+   "location": "Singapore"
+  },
+  "87e0641782e69ce5": {
+   "id": "87e0641782e69ce5",
+   "company": "MCONNECT CONSULTING PTE. LTD.",
+   "role": "Automation Engineer",
    "location": "Singapore"
   },
   "de92a8d8de67936d": {
@@ -2726,6 +2726,12 @@
    "role": "Claims Analyst Casualty",
    "location": "Singapore"
   },
+  "39895e292694d349370afc8e33a204de": {
+   "id": "39895e292694d349370afc8e33a204de",
+   "company": "AIG",
+   "role": "Claims Analyst Casualty",
+   "location": "Singapore"
+  },
   "62ddee17b7cf389a9642dd684fe7fdc3": {
    "id": "62ddee17b7cf389a9642dd684fe7fdc3",
    "company": "Axiomtalentplatform",
@@ -2826,12 +2832,6 @@
    "id": "0a2aa5807281c036",
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "6 Months Contract – Executive, Regulatory Monitoring & Testing #BJJ",
-   "location": "Singapore"
-  },
-  "ca259f33079b5b0c": {
-   "id": "ca259f33079b5b0c",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "1 Year Contract KYC Operations Specialist #BJJ",
    "location": "Singapore"
   },
   "17026c94fc719b95": {
@@ -2966,9 +2966,21 @@
    "role": "Laboratory Officer, Dna Profiling Laboratory (synapse)",
    "location": "Singapore"
   },
+  "81c4ce8585d7f6da0b6120a6dd680724": {
+   "id": "81c4ce8585d7f6da0b6120a6dd680724",
+   "company": "nlb.gov.sg",
+   "role": "Laboratory Officer, Dna Profiling Laboratory (synapse)",
+   "location": "Singapore"
+  },
   "ba4775ded48baf520ba304b89e818477": {
    "id": "ba4775ded48baf520ba304b89e818477",
    "company": "Mmlab Ntu",
+   "role": "Research Assistant (nmps)",
+   "location": "Singapore"
+  },
+  "9878ea8a8a8531dea28e27d4ffaa2e03": {
+   "id": "9878ea8a8a8531dea28e27d4ffaa2e03",
+   "company": "ERI@N",
    "role": "Research Assistant (nmps)",
    "location": "Singapore"
   },
@@ -3420,18 +3432,6 @@
    "id": "18b3e87ee3293e34",
    "company": "NATIONAL UNIVERSITY OF SINGAPORE",
    "role": "Research Associate (NUS Advance-ID)",
-   "location": "Singapore"
-  },
-  "2212dc83e402c2ad": {
-   "id": "2212dc83e402c2ad",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Computer Engineering/Computer Science/Electronics Engineering)",
-   "location": "Singapore"
-  },
-  "fbaca38d0214b7b6": {
-   "id": "fbaca38d0214b7b6",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Experimental and Behavioral Economics)",
    "location": "Singapore"
   },
   "27ee48d173067519": {
@@ -3986,6 +3986,12 @@
    "role": "Warehouse Assistant",
    "location": "Singapore"
   },
+  "8322d0920847051d574f5479b9428c72": {
+   "id": "8322d0920847051d574f5479b9428c72",
+   "company": "Avnet",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
   "fd48f18652fc0e9ca5b507b2cd30820a": {
    "id": "fd48f18652fc0e9ca5b507b2cd30820a",
    "company": "Joinmaersksales",
@@ -3997,6 +4003,12 @@
    "company": "NETS",
    "role": "Operations & Service Associate",
    "location": "Meiban"
+  },
+  "25399660c893579ad2514b8bf8b381ff": {
+   "id": "25399660c893579ad2514b8bf8b381ff",
+   "company": "H & M Hennes & Mauritz AB",
+   "role": "Part Time Sales Advisor (vivo City)",
+   "location": "Singapore"
   },
   "e2ea22389c2c4a79": {
    "id": "e2ea22389c2c4a79",
@@ -4382,18 +4394,6 @@
    "role": "Sales Coordinator - Pioneer [2683]",
    "location": "Pioneer"
   },
-  "bf3d2500054c354a": {
-   "id": "bf3d2500054c354a",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Sales Coordinator (Tender Support) / Sembawang/ Admiralty - 5 days / $3.8k [0580]",
-   "location": "Singapore"
-  },
-  "abf1173a83745576": {
-   "id": "abf1173a83745576",
-   "company": "HYPERCLEAN TECHNOLOGY (S) PTE LTD",
-   "role": "Sales & E-Commerce Coordinator",
-   "location": "Singapore"
-  },
   "46d7920cd8022472": {
    "id": "46d7920cd8022472",
    "company": "TITAN GAS PRODUCTS PTE. LTD.",
@@ -4459,6 +4459,18 @@
    "company": "NETS",
    "role": "Purchaser Assistant (12 Months Contract)",
    "location": "Meiban"
+  },
+  "f2de5cedd2fed629e251e228b632b0f0": {
+   "id": "f2de5cedd2fed629e251e228b632b0f0",
+   "company": "Sofitel Melbourne On Collins",
+   "role": "People & Culture Executive / Intern (1 Month Contract)",
+   "location": "Singapore"
+  },
+  "a628289833e91fe783a968f44952d196": {
+   "id": "a628289833e91fe783a968f44952d196",
+   "company": "Wise",
+   "role": "Executive Assistant",
+   "location": "Singapore"
   },
   "75762e21f700285e1d9765c0ca8d2b80": {
    "id": "75762e21f700285e1d9765c0ca8d2b80",
@@ -4554,12 +4566,6 @@
    "id": "caca63907a3b82e2",
    "company": "KONG MENG SAN PHOR KARK SEE MONASTERY",
    "role": "🖊️ Admin Assistant",
-   "location": "Singapore"
-  },
-  "6e931fd03082af11": {
-   "id": "6e931fd03082af11",
-   "company": "ACE RECRUITERS",
-   "role": "Permanent Part-Time Admin Assistant",
    "location": "Singapore"
   },
   "b19aa04e309101eb": {
@@ -4867,12 +4873,6 @@
    "company": "ACP COMPUTER TRAINING SCHOOL PTE. LTD.",
    "role": "HR Intern",
    "location": "Singapore"
-  },
-  "748a99b51bc3c545": {
-   "id": "748a99b51bc3c545",
-   "company": "MAX OUT MARKETING",
-   "role": "(LIMITED SLOT) 🔥 Post-NS Marketing Associate (Training Provided / Weekly Pay)",
-   "location": "Islandwide"
   }
  }
 }

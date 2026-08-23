@@ -9137,4 +9137,20 @@
 <tr><td>MOVE MOVE PTE. LTD.</td><td>Operations Coordinator</td><td>Singapore</td><td>2026-08-23</td></tr>
 <tr><td>AXISREACH RECRUITMENT</td><td>🥸EVENTS COORDINATOR 🥸</td><td>Marina +4</td><td>2026-08-23</td></tr>
 <tr><td>EQUE PTE. LTD.</td><td>EVENTS EXECUTIVE [PPS2-001-09]</td><td>Islandwide</td><td>2026-08-23</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Fintech And Ventures / Off-cycle Internship (jan 2027 To June 2027)</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>United Overseas Bank</td><td>Travel Concierge Intern - (oct- Feb 2027)</td><td>Central Region</td><td>2026-08-23</td></tr>
+<tr><td>UOB Group</td><td>Travel Concierge Intern (oct - Feb 2027)</td><td>Central Region</td><td>2026-08-23</td></tr>
+<tr><td>MICHAEL PAGE (PERSONNEL) PTE. LTD.</td><td>Software Engineer (Embedded) - IT consulting</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>XSQUARE TECHNOLOGIES PTE. LTD.</td><td>Software Engineer (Fleet Management)</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>MERRILL LYNCH GLOBAL SERVICES PTE. LTD.</td><td>Assistant Vice President/ Vice President, Software Engineer, Global Markets Technology</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>THE GALLUP ORGANIZATION (SINGAPORE) PTE LTD</td><td>IT Support Specialist</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>ST Engineering</td><td>Software Engineer</td><td>Digital Hub</td><td>2026-08-23</td></tr>
+<tr><td>FLINTEX CONSULTING PTE. LTD.</td><td>Applied AI Engineer (Agentic AI & ML)</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 Year Contract KYC Operations Specialist #BJJ</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Computer Engineering/Computer Science/Electronics Engineering)</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Experimental and Behavioral Economics)</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Sales Coordinator (Tender Support) / Sembawang/ Admiralty - 5 days / $3.8k [0580]</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>HYPERCLEAN TECHNOLOGY (S) PTE LTD</td><td>Sales & E-Commerce Coordinator</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>ACE RECRUITERS</td><td>Permanent Part-Time Admin Assistant</td><td>Singapore</td><td>2026-08-23</td></tr>
+<tr><td>MAX OUT MARKETING</td><td>(LIMITED SLOT) 🔥 Post-NS Marketing Associate (Training Provided / Weekly Pay)</td><td>Islandwide</td><td>2026-08-23</td></tr>
 </table>
