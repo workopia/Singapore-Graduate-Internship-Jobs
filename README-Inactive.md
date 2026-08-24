@@ -9153,4 +9153,45 @@
 <tr><td>HYPERCLEAN TECHNOLOGY (S) PTE LTD</td><td>Sales & E-Commerce Coordinator</td><td>Singapore</td><td>2026-08-23</td></tr>
 <tr><td>ACE RECRUITERS</td><td>Permanent Part-Time Admin Assistant</td><td>Singapore</td><td>2026-08-23</td></tr>
 <tr><td>MAX OUT MARKETING</td><td>(LIMITED SLOT) 🔥 Post-NS Marketing Associate (Training Provided / Weekly Pay)</td><td>Islandwide</td><td>2026-08-23</td></tr>
+<tr><td>WEIDMULLER PTE LTD</td><td>Marketing Communications Intern (6 months)</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>MAXHUNT RESOURCE PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>MAXHUNT RESOURCE PTE. LTD.</td><td>Marketing Intern(3/6/12 months)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>RAZER (ASIA-PACIFIC) PTE. LTD.</td><td>Product Marketing Intern (Gaming Chairs)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>WEBULL SECURITIES (SINGAPORE) PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>ARIA BIOSCIENCE PTE. LTD.</td><td>Digital marketing executive/intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>ONE INTERVENTION CENTRE PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>Bunge Global</td><td>Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Fp&a Intern (6-month Internship)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>GOLDTECH RESOURCES PTE LTD</td><td>Business Analyst – Food and Beverage Systems</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.</td><td>Business Analyst (Credit Origination / Loans) - Banking, 1-year renewable contract</td><td>Marina</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT* Patient Service Associate (5.5 days Office Hours) #HRY</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>SATA COMMHEALTH</td><td>Dental Assistant</td><td>Kranji +3</td><td>2026-08-24</td></tr>
+<tr><td>SMILEFOCUS PTE. LTD.</td><td>Dental Assistant</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East, Training Provided, Office Hours] 3 Months Temp Dental Assistant - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Exp Required, Central, Office Hours] 3 Months Contract to Perm Dental Assistant - Up to $3500 #HLV</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>NEWLIFE DENTAL PRACTICE PTE. LTD.</td><td>Dental Assistant</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>SEARCH AVENUE PRIVATE LIMITED</td><td>Dental Assistant (Central)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT* Dental Assistant (Hougang/Yishun/Choa Chu Kang) #HRY</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>CELECTI PTE. LTD.</td><td>Dental Assistant</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>A*STAR RESEARCH ENTITIES</td><td>Scientist, Structural & Functional Material, IMRE</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (High Temperature-Resistant & Miniaturized Payload Hardware Design)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Associate (NUS Advance-ID)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>SPIN PTE. LTD.</td><td>Technicians</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Lift Service Technician / Up to $2800+$325 Motorbike Allowances / 5 Days / Jurong East - ZH</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>CCOOL INDUSTRIES PTE. LTD.</td><td>Technicians</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>SWISSPRO PTE. LTD.</td><td>Service Technician</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>SEW-EURODRIVE PTE. LTD.</td><td>Service Technician</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>GOWELL TECHNOLOGY SINGAPORE PTE. LTD.</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>TRACE GLOBAL LOGISTICS PRIVATE LIMITED</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Order Processing & Sales Coordinator ($3500) #HJO</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>IGM MAINTENANCE PTE. LTD.</td><td>Sales Administrator</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Indoor cum Outdoor Sales Coordinator (Hospitality/Product Supply)</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Sales Coordinator - Pioneer [2683]</td><td>Pioneer</td><td>2026-08-24</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Safety Engineer (Chemical Manufacturing) - West - WCDT</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3mths Contract HR Assistant - $12 / hr (No exp needed) #HKH</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>ORIENTAL REMEDIES EAST COAST PRIVATE LIMITED</td><td>HR Intern</td><td>Islandwide</td><td>2026-08-24</td></tr>
+<tr><td>A LOOP PTE. LTD.</td><td>HR Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>AC P. COMPUTER TRAINING & CONSULTANCY PTE LTD</td><td>HR Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>ACP Group</td><td>HR INTERN</td><td>Singapore</td><td>2026-08-24</td></tr>
+<tr><td>ACP COMPUTER TRAINING SCHOOL PTE. LTD.</td><td>HR Intern</td><td>Singapore</td><td>2026-08-24</td></tr>
 </table>
