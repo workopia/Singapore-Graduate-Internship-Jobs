@@ -9779,4 +9779,51 @@
 <tr><td>BRANDOVA</td><td>Marketing Events💥Entry level (asap/no-exp welcome)</td><td>Islandwide</td><td>2026-08-26</td></tr>
 <tr><td>VALOR ORGANISATION PTE. LTD.</td><td>Events Coordinator / Entry Level 🌟</td><td>Singapore</td><td>2026-08-26</td></tr>
 <tr><td>TANGLIN TRUST SCHOOL LIMITED</td><td>Events Executive</td><td>Singapore</td><td>2026-08-26</td></tr>
+<tr><td>NETS</td><td>Intern, Growth & Network Expansion</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Cyber Security Intern</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Merchant Business (product) Intern</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>It Security Intern</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Intern, Financial Crime Compliance</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Finance Operations Intern</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Intern, Business Enablement, Merchant Business</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>NETS</td><td>Developer Intern</td><td>Braddell</td><td>2026-08-27</td></tr>
+<tr><td>Geotab</td><td>Global Operations Intern</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Financial Derivatives Sales & Business Development Support Intern - Singapore</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Halliburton</td><td>Intern</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Halliburton</td><td>Signal Processing Intern</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Integrated Communications Intern - Asia Pacific</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Forensic Technology / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Tax Reimagined / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Tax Technology & Transformation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Organisation Transformation / Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Esg / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>PERSOL TECH SERVICES PTE. LTD.</td><td>Technology Risk & Governance (GRC) Analyst</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>STELLAR TRADING SYSTEMS PTE. LTD.</td><td>Junior Application Support Analyst</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Automation Engineer – Computer Systems Compliance / 9-Month Contract #HMS</td><td>Joo Koon</td><td>2026-08-27</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Risk & Compliance Analyst (Investigation)</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>KYC Analyst, Corporate Banking (6-month)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>NSEARCH GLOBAL PTE. LTD.</td><td>Business Analyst</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>JEET ANALYTICS PTE. LTD.</td><td>Business Analyst - Government Projects</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Basic Care Assistant</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Resident Physician, Cardiothoracic Surgery</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>Singapore University of Social Sciences</td><td>Research Assistant (temp)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>HAN TCM MEDICAL PTE. LTD.</td><td>TCM Clinic Assistant 中医师助理</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>SAP SE</td><td>Phd Research Associate (industry Phd Program) - Artificial Intelligence, Sap Labs Singapore</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>nyp.edu.sg</td><td>Laboratory Officer, Dna Profiling Laboratory (synapse)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>nlb.gov.sg</td><td>Laboratory Officer, Dna Profiling Laboratory (synapse)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>CCTV Technician / Field Technician #72403</td><td>Bukit Merah</td><td>2026-08-27</td></tr>
+<tr><td>ATOMRECRUIT PTE. LTD.</td><td>Service Engineer (Fresh/no experience welcome)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>APPLIED KING SCIENTIFIC PTE. LTD.</td><td>Field Service Technician - Installer</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>STAFFKING PTE. LTD.</td><td>Entry Level - Field Engineer, Semiconductor (SG / Taiwan), MNC, Salary Up to $3,500, North</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Field Service Engineer (Endoscopy) /Fresh grad welcome @Alexandra</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Service Technician #10214</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Service Technician (Electrical & Electronics) #79864</td><td>Joo Chiat Road</td><td>2026-08-27</td></tr>
+<tr><td>STAFFKING PTE. LTD.</td><td>Service Technician / Service Engineer (Chiller / HVAC)</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>ALIGN RECRUITMENT PTE. LTD.</td><td>Warehouse & Delivery Assistant (up to $2800+AWS+VB)</td><td>Tuas</td><td>2026-08-27</td></tr>
+<tr><td>AUDERE MARKETING</td><td>📊 Full-Time Events & Marketing Associate (Weekly Pay / Entry Level)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>HIKERS GLOBAL</td><td>Junior Marketing Coordinator (Coaching Provided)</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Marketing Executive / Marketing Communications Coordinator – #HDCA</td><td>Singapore</td><td>2026-08-27</td></tr>
+<tr><td>AVIATION LABOUR GROUP PTE. LTD.</td><td>Logistics Assistant</td><td>Islandwide</td><td>2026-08-27</td></tr>
+<tr><td>SINGAPORE AERO SUPPORT SERVICES PTE. LTD.</td><td>Planning Coordinator (Shift Work, Aviation, Changi)</td><td>Changi</td><td>2026-08-27</td></tr>
+<tr><td>ALWAYSHIRED PTE. LTD.</td><td>Shipping Officer (AirFreight, Changi)</td><td>Changi</td><td>2026-08-27</td></tr>
 </table>
