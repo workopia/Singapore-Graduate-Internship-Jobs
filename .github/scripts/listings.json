@@ -12,8 +12,8 @@
   "as_of": "2026-08-28",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 64553,
-  "generated_at": "2026-08-28T01:01:26.864Z"
+  "country_live_total": 64560,
+  "generated_at": "2026-08-28T02:03:08.037Z"
  },
  "categories": [
   {
@@ -7828,23 +7828,6 @@
   },
   {
    "salary_display": null,
-   "id": "1b7e5ed7c607799d",
-   "source": "Workopia",
-   "company_name": "MAVENTREE TECHNOLOGY PTE. LTD.",
-   "company_hi_slug": "maventree-technology-pte-ltd",
-   "title": "Business Analyst (SharePoint Online)",
-   "location": "Singapore",
-   "skills": "SharePoint Online migr, requirements analysis",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-26T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/1b7e5ed7c607799d",
-   "category": "finance",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
    "id": "899a2b957c135bba",
    "source": "Workopia",
    "company_name": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
@@ -8622,6 +8605,23 @@
    "date_posted": "2026-08-25T00:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/9c9a90bb29e76caa",
+   "category": "finance",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
+   "id": "510f1150c6dba164",
+   "source": "Workopia",
+   "company_name": "MAVENSIDE CONSULTING PTE. LTD.",
+   "company_hi_slug": "mavenside-consulting-pte-ltd",
+   "title": "Accounts Assistant (Accounting Firm/5-day)",
+   "location": "Islandwide",
+   "skills": "AP and AR processing, bank reconciliation",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-25T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/510f1150c6dba164",
    "category": "finance",
    "tier": "Entry-level"
   },
@@ -11534,6 +11534,23 @@
   },
   {
    "salary_display": null,
+   "id": "818ad9d3919ece0e5b19c909fe5e078e",
+   "source": "Workopia",
+   "company_name": "Cotton On",
+   "company_hi_slug": "cotton-on",
+   "title": "Part Time Retail - Cotton On Compass One Mega",
+   "location": "Singapore",
+   "skills": "Brand Ambassador, Customer experience",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-08-27T00:00:00.000Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/818ad9d3919ece0e5b19c909fe5e078e",
+   "category": "sales",
+   "tier": "Entry-level"
+  },
+  {
+   "salary_display": null,
    "id": "bd6975c39ab99ebc",
    "source": "Workopia",
    "company_name": "UNI RECRUIT (SINGAPORE) PTE. LTD.",
@@ -12685,23 +12702,6 @@
    "date_posted": "2026-08-26T00:00:00.000Z",
    "active": true,
    "url": "https://workopia.io/jobs/90d3fc2a2066d84e",
-   "category": "sales",
-   "tier": "Entry-level"
-  },
-  {
-   "salary_display": null,
-   "id": "848c62c2acaa397b",
-   "source": "Workopia",
-   "company_name": "TAK PRODUCTS & SERVICES PTE. LTD.",
-   "company_hi_slug": "tak-products-services-pte-ltd",
-   "title": "Shopfront Assistant",
-   "location": "Singapore",
-   "skills": "Inventory management, Stock replenishment",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-08-26T00:00:00.000Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/848c62c2acaa397b",
    "category": "sales",
    "tier": "Entry-level"
   },

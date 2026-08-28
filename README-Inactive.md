@@ -10335,4 +10335,6 @@
 <tr><td>PERICOMP SOLUTIONS PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-08-28</td></tr>
 <tr><td>ASCEND MARKETING SOLUTIONS</td><td>*‼️URGENT: Campaign Marketing Executive (Training Provided)</td><td>Singapore</td><td>2026-08-28</td></tr>
 <tr><td>METRICNOVA MARKETING</td><td>Marketing Communications Executive (Entry Level)</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>MAVENTREE TECHNOLOGY PTE. LTD.</td><td>Business Analyst (SharePoint Online)</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>TAK PRODUCTS & SERVICES PTE. LTD.</td><td>Shopfront Assistant</td><td>Singapore</td><td>2026-08-28</td></tr>
 </table>
