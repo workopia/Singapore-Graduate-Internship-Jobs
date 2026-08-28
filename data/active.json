@@ -1,6 +1,6 @@
 {
  "asOf": "2026-08-28",
- "count": 822,
+ "count": 823,
  "jobs": {
   "2648640": {
    "id": "2648640",
@@ -13,6 +13,48 @@
    "company": "Sanofi UK",
    "role": "Corporate Affairs Intern",
    "location": "City Of Singapore"
+  },
+  "09d5a3380fdda43a35f329bdeb21c7ad": {
+   "id": "09d5a3380fdda43a35f329bdeb21c7ad",
+   "company": "Reckitt",
+   "role": "Social Commerce Intern",
+   "location": "Central Singapore"
+  },
+  "08fbc239aece18aee55e8cf4cd73d475": {
+   "id": "08fbc239aece18aee55e8cf4cd73d475",
+   "company": "GSK",
+   "role": "Internship - Marketing (multiple Vacancies), Singapore (january To June 2027)",
+   "location": "Singapore"
+  },
+  "79227e76b07661abf57e54fd47492e6e": {
+   "id": "79227e76b07661abf57e54fd47492e6e",
+   "company": "Dev in Asia",
+   "role": "Intern, Sembawang Cc",
+   "location": "Pas"
+  },
+  "377937a83a59bfd4120fb735c3f6c622": {
+   "id": "377937a83a59bfd4120fb735c3f6c622",
+   "company": "Grab",
+   "role": "Intern, Sg Partnerships",
+   "location": "Singapore"
+  },
+  "e1c10d62a83e489893910f981d2a5334": {
+   "id": "e1c10d62a83e489893910f981d2a5334",
+   "company": "Grab",
+   "role": "Intern, Growth And Marketing (autonomous Vehicles)",
+   "location": "Singapore"
+  },
+  "7a36a4f67a22646780a906a14bfb8e71": {
+   "id": "7a36a4f67a22646780a906a14bfb8e71",
+   "company": "Grab",
+   "role": "Intern, Analytics & Projects, Grabmart",
+   "location": "Singapore"
+  },
+  "d66fc972adf5abfe1ea5805fad84f7ef": {
+   "id": "d66fc972adf5abfe1ea5805fad84f7ef",
+   "company": "Grab",
+   "role": "Intern, Strategy & Insights",
+   "location": "Singapore"
   },
   "e08840c42451143b": {
    "id": "e08840c42451143b",
@@ -278,12 +320,6 @@
    "role": "Global Supply Chain Internship Program",
    "location": "Singapore"
   },
-  "83ba92dc8e34ea05134791ef59459b26": {
-   "id": "83ba92dc8e34ea05134791ef59459b26",
-   "company": "Applied Materials",
-   "role": "Research & Development Internship Program",
-   "location": "Singapore"
-  },
   "8d98a6b68a75df83": {
    "id": "8d98a6b68a75df83",
    "company": "DAN-STEVENSON ENTERPRISES PTE. LTD.",
@@ -294,24 +330,6 @@
    "id": "acb13df0bdc9f79a",
    "company": "AIKIT PTE. LTD.",
    "role": "Interns",
-   "location": "Singapore"
-  },
-  "d470c30222b60d25": {
-   "id": "d470c30222b60d25",
-   "company": "HO & WEE LLP",
-   "role": "Legal Intern",
-   "location": "Singapore"
-  },
-  "c1a551e6b9d1369c": {
-   "id": "c1a551e6b9d1369c",
-   "company": "THE AAMS LIMITED",
-   "role": "Intern, Commercial & Partnerships",
-   "location": "Singapore"
-  },
-  "de331c2ced3be280": {
-   "id": "de331c2ced3be280",
-   "company": "VERZ DESIGN PTE. LTD.",
-   "role": "Social Media & Video Content Intern",
    "location": "Singapore"
   },
   "f4a187a1328a3c42": {
@@ -338,23 +356,11 @@
    "role": "Media Interns",
    "location": "Singapore"
   },
-  "1c99ab64f6bfc59a0440d48eb6d59527": {
-   "id": "1c99ab64f6bfc59a0440d48eb6d59527",
-   "company": "DSV Panalpina AS",
-   "role": "Intern",
-   "location": "Singapore"
-  },
   "6f9354ecd115990aa5bd3cbff26bfa33": {
    "id": "6f9354ecd115990aa5bd3cbff26bfa33",
    "company": "Schneider Electric",
    "role": "Commercial & Industrial Sales Intern",
    "location": "Singapore"
-  },
-  "18019380293554184e5c56da53c756ef": {
-   "id": "18019380293554184e5c56da53c756ef",
-   "company": "alcon.mx",
-   "role": "Intern",
-   "location": "Tuas"
   },
   "7cd872b3a698bb1a25bbd3c09c26b3b3": {
    "id": "7cd872b3a698bb1a25bbd3c09c26b3b3",
@@ -480,12 +486,6 @@
    "id": "9dc469b6619a9511",
    "company": "SCENT JOURNER PTE. LTD.",
    "role": "Visual Communication & Marketing Intern",
-   "location": "Singapore"
-  },
-  "b91f51f49a9ba2f6": {
-   "id": "b91f51f49a9ba2f6",
-   "company": "ACTXA PTE. LTD.",
-   "role": "Marketing Intern - IN26007",
    "location": "Singapore"
   },
   "41fb633f4185936d": {
@@ -966,6 +966,12 @@
    "id": "5f77d1dab4038694",
    "company": "WAVEWORKS",
    "role": "[NO EXP NEEDED] Sales & Marketing Trainee",
+   "location": "Singapore"
+  },
+  "0a35846470c3db305ce59f6716155d3a": {
+   "id": "0a35846470c3db305ce59f6716155d3a",
+   "company": "Grab",
+   "role": "Intern, Fleet Systems Analyst",
    "location": "Singapore"
   },
   "68504ffd1b2a3549": {
@@ -2534,6 +2540,18 @@
    "role": "Gaming Audit Officer / Up to $3,500 / 5-Day Work Week / Rotational Shifts",
    "location": "Islandwide"
   },
+  "6b917124f307b4e40123153e5e64bc31": {
+   "id": "6b917124f307b4e40123153e5e64bc31",
+   "company": "OCBC",
+   "role": "Mgr/avp, Risk Analyst, Provision & Capital Analytics",
+   "location": "Singapore"
+  },
+  "0202b12fb59e985d2e751d5889c00846": {
+   "id": "0202b12fb59e985d2e751d5889c00846",
+   "company": "OCBC",
+   "role": "Avp, Market Risk Analyst",
+   "location": "Singapore"
+  },
   "1e00b00a9bdba816": {
    "id": "1e00b00a9bdba816",
    "company": "LM3 ELECTRICAL PTE. LTD.",
@@ -3002,17 +3020,11 @@
    "role": "Operations Analyst (Banking/CBD/1 Year Contract/Up to $6000)",
    "location": "Singapore"
   },
-  "9c9a90bb29e76caa": {
-   "id": "9c9a90bb29e76caa",
-   "company": "FUKUYAMA ENGINEERING & CONSTRUCTION PTE. LTD.",
-   "role": "Accounts Assistant",
+  "942131f98f4c94956172487a3fd13f1c": {
+   "id": "942131f98f4c94956172487a3fd13f1c",
+   "company": "NTU",
+   "role": "Ai Safety Research Associate (computational Linguistics/computer Science)",
    "location": "Singapore"
-  },
-  "510f1150c6dba164": {
-   "id": "510f1150c6dba164",
-   "company": "MAVENSIDE CONSULTING PTE. LTD.",
-   "role": "Accounts Assistant (Accounting Firm/5-day)",
-   "location": "Islandwide"
   },
   "1313aed7f8c04f3a": {
    "id": "1313aed7f8c04f3a",
@@ -3488,10 +3500,10 @@
    "role": "Research Assistant",
    "location": "Singapore"
   },
-  "add70c70faeb3e5aea82280b9423a8e3": {
-   "id": "add70c70faeb3e5aea82280b9423a8e3",
-   "company": "Singapore University of Social Sciences",
-   "role": "Research Associate (1 Year Contract), University Research Office",
+  "4e47744540a8c2c7e0b2c9ea066030a4": {
+   "id": "4e47744540a8c2c7e0b2c9ea066030a4",
+   "company": "Applied Materials Inc",
+   "role": "Manufacturing Technician",
    "location": "Singapore"
   },
   "a21d2169231f1005": {
@@ -3673,18 +3685,6 @@
    "company": "PROSKILL WORKFORCE PTE. LTD.",
    "role": "M&E Technician",
    "location": "Islandwide"
-  },
-  "8d1e0becf2cef709": {
-   "id": "8d1e0becf2cef709",
-   "company": "PERSOL OUTSOURCING SINGAPORE PTE. LTD.",
-   "role": "Mechanical Technician (GSE) / $2600-$3000 / Changi Airbase / URGENT !! #5252",
-   "location": "Changi Airbase"
-  },
-  "b40698a32c1fad30": {
-   "id": "b40698a32c1fad30",
-   "company": "PERSOL OUTSOURCING SINGAPORE PTE. LTD.",
-   "role": "Technician / Up to $3000 + Completion Bonus / Changi Airbase #5252",
-   "location": "Changi Airbase"
   },
   "431a8da830ae3c2b": {
    "id": "431a8da830ae3c2b",
@@ -3972,6 +3972,12 @@
    "id": "be44c8f78f5f1b2a",
    "company": "KANKEN TECHNO PTE. LTD.",
    "role": "Assistant Service Engineer",
+   "location": "Singapore"
+  },
+  "f4380dcb38326234": {
+   "id": "f4380dcb38326234",
+   "company": "TOSHIBA TEC SINGAPORE PTE. LTD.",
+   "role": "Technician",
    "location": "Singapore"
   },
   "3d41160eddc2b042cc1f2b2d0d421e3e": {
@@ -4454,6 +4460,12 @@
    "role": "WAREHOUSE ASSISTANT",
    "location": "Singapore"
   },
+  "85e7075f1b3bc868de94d24a47dc835d": {
+   "id": "85e7075f1b3bc868de94d24a47dc835d",
+   "company": "Reckitt",
+   "role": "Quality Specialist (8-month Contract)",
+   "location": "West Singapore"
+  },
   "c0960526fb3ef9b5": {
    "id": "c0960526fb3ef9b5",
    "company": "NOVEXX PTE. LTD.",
@@ -4926,12 +4938,6 @@
    "id": "4b66ed3e9e0017f0",
    "company": "ARTCAMMY SINGAPORE PTE. LTD.",
    "role": "Event Logistics Coordinator",
-   "location": "Singapore"
-  },
-  "05895b7b30bc2f3d": {
-   "id": "05895b7b30bc2f3d",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Logistics Operator / Up to $2.8K / Forklift License - 0310",
    "location": "Singapore"
   }
  }

@@ -10337,4 +10337,17 @@
 <tr><td>METRICNOVA MARKETING</td><td>Marketing Communications Executive (Entry Level)</td><td>Singapore</td><td>2026-08-28</td></tr>
 <tr><td>MAVENTREE TECHNOLOGY PTE. LTD.</td><td>Business Analyst (SharePoint Online)</td><td>Singapore</td><td>2026-08-28</td></tr>
 <tr><td>TAK PRODUCTS & SERVICES PTE. LTD.</td><td>Shopfront Assistant</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>Applied Materials</td><td>Research & Development Internship Program</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>HO & WEE LLP</td><td>Legal Intern</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>THE AAMS LIMITED</td><td>Intern, Commercial & Partnerships</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>VERZ DESIGN PTE. LTD.</td><td>Social Media & Video Content Intern</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>DSV Panalpina AS</td><td>Intern</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>alcon.mx</td><td>Intern</td><td>Tuas</td><td>2026-08-28</td></tr>
+<tr><td>ACTXA PTE. LTD.</td><td>Marketing Intern - IN26007</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>FUKUYAMA ENGINEERING & CONSTRUCTION PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>MAVENSIDE CONSULTING PTE. LTD.</td><td>Accounts Assistant (Accounting Firm/5-day)</td><td>Islandwide</td><td>2026-08-28</td></tr>
+<tr><td>Singapore University of Social Sciences</td><td>Research Associate (1 Year Contract), University Research Office</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>PERSOL OUTSOURCING SINGAPORE PTE. LTD.</td><td>Mechanical Technician (GSE) / $2600-$3000 / Changi Airbase / URGENT !! #5252</td><td>Changi Airbase</td><td>2026-08-28</td></tr>
+<tr><td>PERSOL OUTSOURCING SINGAPORE PTE. LTD.</td><td>Technician / Up to $3000 + Completion Bonus / Changi Airbase #5252</td><td>Changi Airbase</td><td>2026-08-28</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Logistics Operator / Up to $2.8K / Forklift License - 0310</td><td>Singapore</td><td>2026-08-28</td></tr>
 </table>
