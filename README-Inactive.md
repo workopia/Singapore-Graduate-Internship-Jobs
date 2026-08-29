@@ -10350,4 +10350,45 @@
 <tr><td>PERSOL OUTSOURCING SINGAPORE PTE. LTD.</td><td>Mechanical Technician (GSE) / $2600-$3000 / Changi Airbase / URGENT !! #5252</td><td>Changi Airbase</td><td>2026-08-28</td></tr>
 <tr><td>PERSOL OUTSOURCING SINGAPORE PTE. LTD.</td><td>Technician / Up to $3000 + Completion Bonus / Changi Airbase #5252</td><td>Changi Airbase</td><td>2026-08-28</td></tr>
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Logistics Operator / Up to $2.8K / Forklift License - 0310</td><td>Singapore</td><td>2026-08-28</td></tr>
+<tr><td>IQVIA Inc</td><td>Specimen Management Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Ivivamedical</td><td>Specimen Management Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Intern, Growth Strategy</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Dev in Asia</td><td>Intern, Hr</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>GSK plc</td><td>Polytechnic Internship - Internal Communications, Singapore (september 2026 To February 2027)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>DXC Technology</td><td>Servicedesk Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>DXC Technology</td><td>Rr-0393497 Service Desk Intern-19</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Advanced Micro Devices</td><td>Ai-intrinsic Cpu/gpu Product Development With Design-test-manufacturing Co-optimization Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Advanced Micro Devices</td><td>Ai-driven Bill Of Materials (bom) Generation And Management Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Beauty & Home Care Lab Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Marketing Communication Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ONE NORTH MARKETING</td><td>🎓 Gain Elite Skills (Not Just Another Intern Role)</td><td>Islandwide</td><td>2026-08-29</td></tr>
+<tr><td>GAIA LIFESTYLE HOLDINGS PTE. LTD.</td><td>Admin Operations Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>LUMI SOLUTIONS PTE. LTD.</td><td>Internship (Part-Time)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>D AURELIUS GROUP PTE. LTD.</td><td>Marketing Intern / Try Real Business Work Before You Commit / No Experience Needed</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>SCENT JOURNER PTE. LTD.</td><td>Visual Communication & Marketing Intern</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>TOPPAN ECQUARIA PTE. LTD.</td><td>Software Engineer / Systems Analyst</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>INFINITE COMPUTER SOLUTIONS PTE LTD</td><td>ARTIFICIAL INTELLIGENCE SPECIALIST</td><td>Islandwide</td><td>2026-08-29</td></tr>
+<tr><td>MSI GLOBAL PRIVATE LIMITED</td><td>Accounting Intern (Finance) – 6-Month Internship Opportunity</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>RRECRUITER PTE. LTD.</td><td>Compliance Officer (Waste Management)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Compliance Testing, Internal Audit (6 month contract, Central) / UID:2269</td><td>Islandwide</td><td>2026-08-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Wealth Operations Analyst – Asset Transfer Validation (6 Months Contract) #Tampines #NKC</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Operations Analyst (Banking/CBD/1 Year Contract/Up to $6000)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ALS TECHNICHEM (SINGAPORE) PTE LTD</td><td>Lab Technician/Junior Chemist (ENV)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ALS TECHNICHEM (SINGAPORE) PTE LTD</td><td>Lab Technician/Junior Chemist (Food)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>Nestle Ltd</td><td>Laboratory Support Technician</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>NTU (Nanyang Technological University)</td><td>Research Assistant (psychology/social Science)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ERI@N</td><td>Research Assistant (psychology/social Science)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>NTU (Nanyang Technological University)</td><td>Research Assistant</td><td>Ntu Novena Campus</td><td>2026-08-29</td></tr>
+<tr><td>ERI@N</td><td>Research Assistant</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ADVENTUS SINGAPORE PTE. LTD.</td><td>Technical Engineer (Managed Print Services)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>SCREEN SPE SINGAPORE PTE. LTD.</td><td>Field Service Engineer</td><td>Islandwide</td><td>2026-08-29</td></tr>
+<tr><td>X FOOD TECHNOLOGIES PTE. LTD.</td><td>Field Service Engineer (Junior)</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Customer Service Engineer (Client Site, Semicon)</td><td>Islandwide</td><td>2026-08-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Service Engineer / Installation, Calibration & Troubleshooting / Degree EEE / West MNC / UP $4.9K #HYT</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Field Service Engineer / Electrical / Electronics Equipment / Degree EEE / West MNC / Basic $3.7K + Allowance #HYT</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>ACEXCELLENT CONSULTING PTE. LTD.</td><td>Field Service Specialist</td><td>Middle Road</td><td>2026-08-29</td></tr>
+<tr><td>KANKEN TECHNO PTE. LTD.</td><td>Assistant Service Engineer</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>TOSHIBA TEC SINGAPORE PTE. LTD.</td><td>Technician</td><td>Singapore</td><td>2026-08-29</td></tr>
+<tr><td>MANAOJAS PTE. LTD.</td><td>Warehouse Assistant</td><td>Kranji +3</td><td>2026-08-29</td></tr>
+<tr><td>GLOBAL COPIER RESOURCE PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Singapore</td><td>2026-08-29</td></tr>
 </table>
