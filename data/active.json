@@ -1,6 +1,6 @@
 {
- "asOf": "2026-08-30",
- "count": 832,
+ "asOf": "2026-08-31",
+ "count": 833,
  "jobs": {
   "71589": {
    "id": "71589",
@@ -12,6 +12,12 @@
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "ce1679735de6dfd044d5dd9dee805b04": {
+   "id": "ce1679735de6dfd044d5dd9dee805b04",
+   "company": "DSV Panalpina AS",
+   "role": "Intern",
    "location": "Singapore"
   },
   "50282284400a6f6da275439ae5a01494": {
@@ -134,6 +140,12 @@
    "role": "Internship - Specialty Marketing, Singapore (october To December 2026)",
    "location": "Rochester Park"
   },
+  "6a3bc2f88443de9dc4669db66061bfbb": {
+   "id": "6a3bc2f88443de9dc4669db66061bfbb",
+   "company": "GSK plc",
+   "role": "Internship - Specialty Marketing, Singapore (october To December 2026)",
+   "location": "Singapore"
+  },
   "22f50e63a0ebf6aefbf5fdca686232bc": {
    "id": "22f50e63a0ebf6aefbf5fdca686232bc",
    "company": "Coty Inc.",
@@ -155,6 +167,12 @@
   "c55212bda25cb1f90fe99f3a4f0ab9c7": {
    "id": "c55212bda25cb1f90fe99f3a4f0ab9c7",
    "company": "AIA",
+   "role": "Pricing Intern",
+   "location": "Singapore"
+  },
+  "ac3120f48395f477d1070efaf73a8474": {
+   "id": "ac3120f48395f477d1070efaf73a8474",
+   "company": "AIA Singapore",
    "role": "Pricing Intern",
    "location": "Singapore"
   },
@@ -368,6 +386,12 @@
    "role": "Corporate Affairs Intern",
    "location": "City Of Singapore"
   },
+  "7452b99db86d4c09f40c9c43e686b775": {
+   "id": "7452b99db86d4c09f40c9c43e686b775",
+   "company": "Sanofi Genzyme",
+   "role": "Corporate Affairs Intern",
+   "location": "City Of Singapore"
+  },
   "09d5a3380fdda43a35f329bdeb21c7ad": {
    "id": "09d5a3380fdda43a35f329bdeb21c7ad",
    "company": "Reckitt",
@@ -469,30 +493,6 @@
    "company": "ATOP ACADEMY PTE. LTD.",
    "role": "Intern – Primary School Chinese",
    "location": "Joo Chiat"
-  },
-  "34e335663fb4e9fe": {
-   "id": "34e335663fb4e9fe",
-   "company": "ATOP ACADEMY PTE. LTD.",
-   "role": "Intern – Secondary School Science",
-   "location": "Joo Chiat +3"
-  },
-  "2858e2d8f0d7aa44": {
-   "id": "2858e2d8f0d7aa44",
-   "company": "ATOP ACADEMY PTE. LTD.",
-   "role": "Intern – Secondary School Chinese",
-   "location": "Joo Chiat"
-  },
-  "7a9e2e364269f4b2": {
-   "id": "7a9e2e364269f4b2",
-   "company": "ATOP ACADEMY PTE. LTD.",
-   "role": "Intern – Primary School Science",
-   "location": "Joo Chiat"
-  },
-  "e062227d36be6007": {
-   "id": "e062227d36be6007",
-   "company": "ATOP ACADEMY PTE. LTD.",
-   "role": "Intern – Secondary School English",
-   "location": "Joo Chiat +3"
   },
   "edbb726219ad389d": {
    "id": "edbb726219ad389d",
@@ -1376,6 +1376,12 @@
    "role": "Backend Engineer, AI (Agent Systems)",
    "location": "Singapore"
   },
+  "c2c05a0b6b2201a1": {
+   "id": "c2c05a0b6b2201a1",
+   "company": "JOBSTER PRIVATE LTD.",
+   "role": "Full Stack Engineer (GoLang) - 1470",
+   "location": "Islandwide"
+  },
   "45744b39e2b0db0b": {
    "id": "45744b39e2b0db0b",
    "company": "IRTISH CONSULTING PTE. LTD.",
@@ -1531,12 +1537,6 @@
    "company": "ACTIVATE INTERACTIVE PTE LTD",
    "role": "Platform Engineer (Full Stack Engineer) - A26324",
    "location": "Singapore"
-  },
-  "bca321dcc7f34fad": {
-   "id": "bca321dcc7f34fad",
-   "company": "RMA CONTRACTS PTE. LTD.",
-   "role": "IT Support Technician / Govt Sector / West / Contract",
-   "location": "Hillview"
   },
   "HRC1763932": {
    "id": "HRC1763932",
@@ -1718,9 +1718,21 @@
    "role": "Engineer, Intelligent Process Automation-edc",
    "location": "Singapore"
   },
+  "6c7421b270ccb40ba455fada09e9454a": {
+   "id": "6c7421b270ccb40ba455fada09e9454a",
+   "company": "NTU",
+   "role": "Research Engineer I (computer Science / Artificial Intelligence / Data Science / Electrical Engineering)",
+   "location": "Singapore"
+  },
   "c8c138897db134763be76bec39410027": {
    "id": "c8c138897db134763be76bec39410027",
    "company": "944game Inc",
+   "role": "Data Analyst, Global Forward Network",
+   "location": "Singapore"
+  },
+  "97cdd47942df6e790e5437374b01c1c9": {
+   "id": "97cdd47942df6e790e5437374b01c1c9",
+   "company": "Applied Materials Inc",
    "role": "Data Analyst, Global Forward Network",
    "location": "Singapore"
   },
@@ -2168,21 +2180,15 @@
    "role": "IT Engineer",
    "location": "Marina +4"
   },
-  "9b7c5d962461abbc": {
-   "id": "9b7c5d962461abbc",
-   "company": "DADACONSULTANTS PTE. LTD.",
-   "role": "AI Agent Engineer (LLM Applications / RAG / Agentic AI, Multiple Opportunities!)",
-   "location": "Pasir Panjang +3"
-  },
-  "eab30baf70e6794a": {
-   "id": "eab30baf70e6794a",
-   "company": "THINKT PTE. LTD.",
-   "role": "AI Engineer",
-   "location": "Marina +4"
-  },
   "aa559dbe47f13155a2a8d167836ed570": {
    "id": "aa559dbe47f13155a2a8d167836ed570",
    "company": "Keppel Ltd.",
+   "role": "Intern, Accounting And Finance Services",
+   "location": "Singapore"
+  },
+  "87842e7f9c27d0e60ea75e93f9d95ae1": {
+   "id": "87842e7f9c27d0e60ea75e93f9d95ae1",
+   "company": "Keppel",
    "role": "Intern, Accounting And Finance Services",
    "location": "Singapore"
   },
@@ -2708,6 +2714,12 @@
    "role": "Business Analyst (SharePoint Online)",
    "location": "Singapore"
   },
+  "d8d3b0ec21e18f5f": {
+   "id": "d8d3b0ec21e18f5f",
+   "company": "VINOVA PTE. LTD.",
+   "role": "Business Analyst (Apps Services)",
+   "location": "Singapore"
+  },
   "73f2a5e490e6fc8f": {
    "id": "73f2a5e490e6fc8f",
    "company": "EMIRATES NBD BANK (P.J.S.C)",
@@ -2852,6 +2864,12 @@
    "role": "[0580] Accounts Executive / West / $3.4k + Tpt Allowance",
    "location": "Singapore"
   },
+  "2198cb490efddb15": {
+   "id": "2198cb490efddb15",
+   "company": "ADVINES HR SOLUTIONS PTE. LTD.",
+   "role": "Accountant",
+   "location": "Singapore"
+  },
   "1e00b00a9bdba816": {
    "id": "1e00b00a9bdba816",
    "company": "LM3 ELECTRICAL PTE. LTD.",
@@ -2978,6 +2996,12 @@
    "role": "ENTRY LEVEL Compliance Executive (Until end Dec) #ESY",
    "location": "Singapore"
   },
+  "db41bc3824448687": {
+   "id": "db41bc3824448687",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Contract Bank Compliance Officer (Till End Dec) Entry Level#EAT",
+   "location": "Raffles Place"
+  },
   "1c62ce08c013caae": {
    "id": "1c62ce08c013caae",
    "company": "CALIBER8 PTE. LTD.",
@@ -3062,28 +3086,16 @@
    "role": "Audit Associate/ Flexible working time {hkhdv}",
    "location": "Lower Delta"
   },
-  "da1f5469f3d86a70": {
-   "id": "da1f5469f3d86a70",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Audit Associate [ Accounting firm / 5 days work / Up to $3.5k) ] - 2310",
-   "location": "Redhill"
-  },
-  "0f761b329a180d68": {
-   "id": "0f761b329a180d68",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "2310 - Audit Associate [URGENT / Up to $2800 / Training Provided ]",
-   "location": "Redhill"
-  },
-  "76de74bfc24d6dce": {
-   "id": "76de74bfc24d6dce",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Audit Associate [ 5 days work / Training Provided / Consultancy ] - 2310",
-   "location": "Singapore"
-  },
   "3deb09dec392e7d8": {
    "id": "3deb09dec392e7d8",
    "company": "BEFIT PHYSIOTHERAPY HOLDINGS PTE. LTD.",
    "role": "Physiotherapist",
+   "location": "Singapore"
+  },
+  "e1603f1cf7002fe03fcf34a8e44cf468": {
+   "id": "e1603f1cf7002fe03fcf34a8e44cf468",
+   "company": "NTU",
+   "role": "Research Associate (math Foundation Of Ai)",
    "location": "Singapore"
   },
   "327d889f6de54e07": {
@@ -3344,6 +3356,12 @@
    "role": "Trainee Dental Surgery Assistant (DSA) – Entry Level",
    "location": "Singapore"
   },
+  "825df1dc2fc0cd2f": {
+   "id": "825df1dc2fc0cd2f",
+   "company": "SMILEPOINT DENTAL CENTRE PTE. LTD.",
+   "role": "Dental Assistant / Chairside Assistant (Experienced)",
+   "location": "Singapore"
+  },
   "6a4b639de604fb9d": {
    "id": "6a4b639de604fb9d",
    "company": "A*STAR RESEARCH ENTITIES",
@@ -3524,6 +3542,12 @@
    "role": "Locum Healthcare Assistant (Home Care) #HZTK",
    "location": "Singapore"
   },
+  "945ffb35865ae1a5": {
+   "id": "945ffb35865ae1a5",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "Personal Care Officer / Buangkok / Up To $3.1K - 4461",
+   "location": "Buangkok"
+  },
   "c88e0d87add7e1de": {
    "id": "c88e0d87add7e1de",
    "company": "SINGHEALTH POLYCLINICS",
@@ -3540,24 +3564,6 @@
    "id": "784da90b0c0e13e9",
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "Locum Pharmacist (Outpatient, 3 months extendable, Up to $55/hr) #HJY",
-   "location": "Singapore"
-  },
-  "0e9f1b86198c097c": {
-   "id": "0e9f1b86198c097c",
-   "company": "PERSOL SINGAPORE PTE. LTD.",
-   "role": "Quality Assurance Pharmacist (ID: 710643)",
-   "location": "Singapore"
-  },
-  "1313aed7f8c04f3a": {
-   "id": "1313aed7f8c04f3a",
-   "company": "CHIEF RECRUIT PTE. LTD.",
-   "role": "Pharmacy Technician (Up to $2.8k/Central/5 days alt Sat/Oncology)",
-   "location": "Islandwide"
-  },
-  "451a1eafd325c054": {
-   "id": "451a1eafd325c054",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "*URGENT!* Locum Pharmacy Technician #HFT",
    "location": "Singapore"
   },
   "24ebb554cb03242e": {
@@ -3691,6 +3697,12 @@
    "company": "DIRECT SEARCH ASIA PTE. LTD.",
    "role": "Service Engineer",
    "location": "Islandwide"
+  },
+  "0fc2bea6af4efb2d": {
+   "id": "0fc2bea6af4efb2d",
+   "company": "CRESTAR ENTERPRISE PTE. LTD.",
+   "role": "Technician Specialist Officer",
+   "location": "Singapore"
   },
   "122ffb2e06fcc658": {
    "id": "122ffb2e06fcc658",
@@ -3896,6 +3908,12 @@
    "role": "Field Service Engineer",
    "location": "Golden Mile"
   },
+  "058def6ab1dc9139": {
+   "id": "058def6ab1dc9139",
+   "company": "LINKTRIX CONSULTANTS PTE. LTD.",
+   "role": "Field Service Engineer",
+   "location": "Islandwide"
+  },
   "21b2969162f32819": {
    "id": "21b2969162f32819",
    "company": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
@@ -4020,18 +4038,6 @@
    "id": "d15ba26fc5618e57a3ba2140a882f197",
    "company": "RTX Corporation",
    "role": "Technician (composite)",
-   "location": "Singapore"
-  },
-  "859916da92da073bc14d31e2a54398f6": {
-   "id": "859916da92da073bc14d31e2a54398f6",
-   "company": "Ingersoll Rand PLC",
-   "role": "Field Service Technician",
-   "location": "Singapore"
-  },
-  "498d1f4d1cde06fe9303a75d7d1e69c8": {
-   "id": "498d1f4d1cde06fe9303a75d7d1e69c8",
-   "company": "Ingersoll Rand PLC",
-   "role": "Service Engineer",
    "location": "Singapore"
   },
   "55c488f6ed80e304d65be31ec722c2ee": {
@@ -4394,6 +4400,12 @@
    "role": "Customer Service",
    "location": "Singapore"
   },
+  "b53fc07410e57321": {
+   "id": "b53fc07410e57321",
+   "company": "HOMEGROUND GYM BISHAN PTE. LTD.",
+   "role": "Gym Customer Service (Full-Time)",
+   "location": "Singapore"
+  },
   "c86a59a56faba8fd": {
    "id": "c86a59a56faba8fd",
    "company": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
@@ -4506,12 +4518,6 @@
    "id": "784332f75e1b7c44",
    "company": "UNITED PERSONNEL SERVICES",
    "role": "E-Commerce Sales Coordinator - Entry Level Welcome",
-   "location": "Singapore"
-  },
-  "3d41160eddc2b042cc1f2b2d0d421e3e": {
-   "id": "3d41160eddc2b042cc1f2b2d0d421e3e",
-   "company": "Kate Spade",
-   "role": "Sales Associate",
    "location": "Singapore"
   },
   "6cb03354a9186148b1697382cf27758b": {

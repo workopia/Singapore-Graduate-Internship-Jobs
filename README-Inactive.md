@@ -10848,4 +10848,20 @@
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Min 3 Days Only, WEST] 2-3 Months Healthcare Transport Coordinator- $12/HR (Office Hours) #HCY</td><td>WEST</td><td>2026-08-30</td></tr>
 <tr><td>RECRUIT EXPRESS SERVICES PTE. LTD.</td><td>Logistics Admin / Coordinator / East</td><td>Singapore</td><td>2026-08-30</td></tr>
 <tr><td>ARTCAMMY SINGAPORE PTE. LTD.</td><td>Event Logistics Coordinator</td><td>Singapore</td><td>2026-08-30</td></tr>
+<tr><td>ATOP ACADEMY PTE. LTD.</td><td>Intern – Secondary School Science</td><td>Joo Chiat +3</td><td>2026-08-31</td></tr>
+<tr><td>ATOP ACADEMY PTE. LTD.</td><td>Intern – Secondary School Chinese</td><td>Joo Chiat</td><td>2026-08-31</td></tr>
+<tr><td>ATOP ACADEMY PTE. LTD.</td><td>Intern – Primary School Science</td><td>Joo Chiat</td><td>2026-08-31</td></tr>
+<tr><td>ATOP ACADEMY PTE. LTD.</td><td>Intern – Secondary School English</td><td>Joo Chiat +3</td><td>2026-08-31</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>IT Support Technician / Govt Sector / West / Contract</td><td>Hillview</td><td>2026-08-31</td></tr>
+<tr><td>DADACONSULTANTS PTE. LTD.</td><td>AI Agent Engineer (LLM Applications / RAG / Agentic AI, Multiple Opportunities!)</td><td>Pasir Panjang +3</td><td>2026-08-31</td></tr>
+<tr><td>THINKT PTE. LTD.</td><td>AI Engineer</td><td>Marina +4</td><td>2026-08-31</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Audit Associate [ Accounting firm / 5 days work / Up to $3.5k) ] - 2310</td><td>Redhill</td><td>2026-08-31</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>2310 - Audit Associate [URGENT / Up to $2800 / Training Provided ]</td><td>Redhill</td><td>2026-08-31</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Audit Associate [ 5 days work / Training Provided / Consultancy ] - 2310</td><td>Singapore</td><td>2026-08-31</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Quality Assurance Pharmacist (ID: 710643)</td><td>Singapore</td><td>2026-08-31</td></tr>
+<tr><td>CHIEF RECRUIT PTE. LTD.</td><td>Pharmacy Technician (Up to $2.8k/Central/5 days alt Sat/Oncology)</td><td>Islandwide</td><td>2026-08-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT!* Locum Pharmacy Technician #HFT</td><td>Singapore</td><td>2026-08-31</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Field Service Technician</td><td>Singapore</td><td>2026-08-31</td></tr>
+<tr><td>Ingersoll Rand PLC</td><td>Service Engineer</td><td>Singapore</td><td>2026-08-31</td></tr>
+<tr><td>Kate Spade</td><td>Sales Associate</td><td>Singapore</td><td>2026-08-31</td></tr>
 </table>
