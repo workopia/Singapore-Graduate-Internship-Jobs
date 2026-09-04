@@ -11801,4 +11801,312 @@
 <tr><td>FREIGHT MARK LOGISTICS (S) PTE. LTD.</td><td>Ocean Freight Customer Service</td><td>D17 Changi</td><td>2026-09-03</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Shipping Documentation Coordinator #ESY</td><td>D09 Cairnhill</td><td>2026-09-03</td></tr>
 <tr><td>EA RECRUITMENT PTE. LTD.</td><td>Logistics Coordinator (Shipping Coordination / Order Processing / East / 5 Days)</td><td>Islandwide</td><td>2026-09-03</td></tr>
+<tr><td>Accenture</td><td>Accenture Internship Program - Aug To Dec 2026</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Thales Group</td><td>Business App Support Intern - 2027 Start</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TEXTRON FAR EAST PTE. LTD.</td><td>APAC Parts Support Intern</td><td>D28 Seletar</td><td>2026-09-04</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Production (Manufacturing) Intern</td><td>Changi</td><td>2026-09-04</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Quality Intern</td><td>Changi</td><td>2026-09-04</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Tooling Intern</td><td>D17 Changi</td><td>2026-09-04</td></tr>
+<tr><td>CYRUS TECHNOLOGY (S) PTE. LTD.</td><td>Warehouse/Logistic Intern</td><td>Changi</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT SUCCESS PTE. LTD.</td><td>Wealth Management Internship</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>LEARNING POINT KIDS PTE. LTD.</td><td>Business Operations & Automation Intern (6 Months) - No Coding Experience Needed</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TEXTRON FAR EAST PTE. LTD.</td><td>Intern</td><td>Seletar</td><td>2026-09-04</td></tr>
+<tr><td>IN.CORP BUSINESS SERVICES PTE. LTD.</td><td>Family Office and Fund Services Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>GRACE LAW LLC</td><td>Internship - Law Firm</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ITLINK BUSINESS SOLUTIONS (S) PTE LTD</td><td>Application Developer Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>❤️‍🔥⭐️ Marketing Team (Fresh Grads!)</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>AEZOOM</td><td>Marketing Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>CHELLO PTE. LTD.</td><td>Fashion E-commerce Marketing Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TUTORJOHN</td><td>Looking for Marketing Interns!</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Singtel</td><td>Product Management Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Singtel</td><td>Employer Branding & Ai Community Intern (6 Months) - #generalinternship</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Micron</td><td>Intern - Chemical Mechanical Planarization Process Engineering</td><td>Fab 10N/X</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Finance Operation Improvement Project</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Report And Dashboarding, Compliance And Deviation Management</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Hcc Cloud Platform Improvement</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Cybersecurity Incident Simulation & Response Exercises</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Integrated Risk Management (irm) Design Implementation</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Third Party Risk Management (tprm)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Generative Ai Exploration And Development For Healthcare Use Cases</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Digital Workplace Engagement And Operation Project</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Model Development Of Image Recognition</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Development Of Use Cases In Mental Health Domain</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Finance Strategic Projects Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai & Edge Deployment Focus</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Advanced Data Science And Ai Innovations Internship</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Intern, Brand And Marketing</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>United Overseas Bank Ltd</td><td>Group Retail & Channels Intern (jan - Apr 2027)</td><td>Central Region</td><td>2026-09-04</td></tr>
+<tr><td>United Overseas Bank</td><td>Global Markets Technology (jan-aug 2027)</td><td>North</td><td>2026-09-04</td></tr>
+<tr><td>Razer</td><td>Game Product And Operation Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>OzMRS</td><td>Intern, Global Credit (spring 2027 - January To May)</td><td>Central Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Applied Materials Inc</td><td>Intern</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Smbc Summer Intern Programme 2027</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Merchant Business (product) Intern</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Intern, Financial Crime Compliance</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Finance Operations Intern</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Management Information System Intern</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Intern - Business Platform</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Intern, Merchant Business, Business Product Management 1</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Intern, Growth & Network Expansion</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Intern, Business Enablement, Merchant Business</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Developer Intern</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>Hitachi Rail</td><td>Cto Intern</td><td>Central Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Hitachi Rail</td><td>Intern</td><td>Central Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SAP SE</td><td>Integrated Communications Intern - Asia Pacific</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Grab</td><td>Intern, Analytics & Projects, Grabfood</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Dev in Asia</td><td>Caas Internship Programme</td><td>Caa</td><td>2026-09-04</td></tr>
+<tr><td>GSK</td><td>Internship - Lab Safety & 5s Governance, Singapore (january To June 2027)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM JUNIOR PTE. LTD.</td><td>Kitchen Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM JUNIOR PTE. LTD.</td><td>Service Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM POT PTE. LTD.</td><td>Kitchen Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM INDULGENCE PTE. LTD.</td><td>Service Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM INDULGENCE PTE. LTD.</td><td>Kitchen Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KINGDOM DELICACIES PTE. LTD.</td><td>Service Management Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>APAR TECHNOLOGIES PTE. LTD.</td><td>IT Support Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>CHJ SINGAPORE PTE LTD</td><td>Admin Assistant (Administration & Office IT Support)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>QUESS SELECTION & SERVICES PTE. LTD.</td><td>System Analyst (FSD, TSD, Banking)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Application Support Analyst (AWS)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>IT CONSULTANCY & SERVICES PTE LTD</td><td>Systems Executive (Open to Fresh Grad) (ref: 120)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Technical Support Engineer - LCYL</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Associate Support Engineer (12-Month Contract) - LCYL</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>OKBL PTE. LTD.</td><td>Staff Software Engineer (Mobile)</td><td>Marina Bay</td><td>2026-09-04</td></tr>
+<tr><td>CANON SINGAPORE PTE. LTD.</td><td>Lithography Tool Software Engineer</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>BEEX PTE. LTD.</td><td>Robotics Autonomy Software Engineer</td><td>Pasir Panjang +2</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Software Engineer (C++/C#, Machine Automation) #76684</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>INTELLECT MINDS PTE. LTD.</td><td>Software Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MC CONSULTING PTE. LTD.</td><td>Software Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>GOODWILL ENTERTAINMENT HOLDING LIMITED</td><td>Lighting Designer & Programmer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HAVE FUN CINELEISURE PTE. LTD.</td><td>Lighting Designer & Programmer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>FLINTEX CONSULTING PTE. LTD.</td><td>Full‑Stack Applied AI Engineer (Agentic AI)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>DCI CONSULTANTS PRIVATE LIMITED</td><td>Full Stack/Data Engineer - MC</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>V-ELEGANT PTE. LTD.</td><td>Fullstack Engineer</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Full Stack Engineer - React & Node.js (Public Sector)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>ADVANCED E-SOLUTIONS PTE. LTD.</td><td>General AI Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ASE SINGAPORE PTE. LTD.</td><td>Associate Engineer - Tester Support Group</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>DADACONSULTANTS PTE. LTD.</td><td>AI Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Data Analyst (ddoit)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ELEC-PRO TECHNOLOGY PTE. LTD.</td><td>Associate Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SEATRIUM (SG) PTE. LTD.</td><td>AI Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SEATRIUM (SG) PTE. LTD.</td><td>AI Engineer (Software Development)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>VDL ENABLING TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.</td><td>Automation Engineer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ST Engineering</td><td>Engineer, Ai & Digitalisation, Ci</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SUNMEC ELECTRICAL & ENGINEERING (S) PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>P T WORKS & ENGINEERING SERVICES PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>OCEAN WAY ENGINEERING/CONSTRUCTION PTE LTD</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SUN MEC ENGINEERING SOLUTIONS (S) PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SUN MARINE SERVICES (S) PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HI-LEO ENGINEERING AND CONSTRUCTION SERVICES PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SUN MARINE ENGINEERING PTE. LTD.</td><td>Admin & Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Business Analyst - Integration Projects (ngemr)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Analyst/avp, Corporate Compliance (cpdap)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NETS</td><td>Merchant Assessment Officer (12 Months Contract)</td><td>Braddell</td><td>2026-09-04</td></tr>
+<tr><td>GIC</td><td>Associate/avp, Physical Climate Risk Specialist</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>GIC</td><td>Associate/avp, Quantitative Strategist, Private Equity</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>YY CIRCLE (SG) PRIVATE LIMITED</td><td>ACCOUNTANT</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HONG YE GROUP PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Audit Accountant / $3500 + AWS + 2 Months Bonus</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>XANDER INVESTMENT MANAGEMENT PTE. LTD.</td><td>Finance Analyst / Accountant</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>PLUS LLP</td><td>Audit Associate</td><td>D07 Middle Road</td><td>2026-09-04</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>Portfolio Analyst (1-year Contract) (Entry Level)</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Risk Operations Analyst(risk control/Fraud)</td><td>D02 Anson</td><td>2026-09-04</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Risk Operations Specialist (User Safety/Hack)</td><td>D02 Anson</td><td>2026-09-04</td></tr>
+<tr><td>TALENTVUE PTE. LTD.</td><td>Inventory Analyst (Manufacturing)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Operations Executive /Strategy & Analytics / Up to 4k</td><td>D07 Middle Road</td><td>2026-09-04</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>3-month Temp Compliance Officer</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>SQUAREPOINT SERVICES SINGAPORE PTE. LTD.</td><td>Desk Quant Analyst</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>GOLDMAN SACHS SERVICES (SINGAPORE) PTE. LTD.</td><td>Internal Audit, Technology Audit, Analyst, Singapore</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Junior Banking Operations Analyst (Wealth & Investment Operations)</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Operations Analyst (Bank I Up to 3.5k I West)</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>Asset Management Analyst / 3-Months Contract / Central</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>VENUS BEAUTY PTE. LTD.</td><td>Accounts Assistant</td><td>D21 Upper Bukit Timah</td><td>2026-09-04</td></tr>
+<tr><td>TYSON JAY MANAGEMENT PTE. LTD.</td><td>Accounts Assistant - Partial Set (up to $3,000 base + AWS + PB / 5 days work)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>VENUS BEAUTY SERVICES PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>16 weeks Clinic Receptionist (Sengkang clinic) - $10.5 / hr #HKH</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>GLY GLOBAL PTE. LTD.</td><td>Dental Surgery Assistant</td><td>Orchard</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Entry Level Dental Assistant (TRAINING PROVIDED) @ Orchard - Up to $2500 #HLV</td><td>Orchard</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[PUNGGOL CLINIC, TRAINING PROVIDED] 3 Months Temp Dental Assistant (Entry Level Ok!) - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[$15/HR, SPECIAL PROJECT] 1 Month Temp Dental Surgery Assistant (IMMEDIATE) #HLV</td><td>Redhill +1</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT*Temp Dental Assistant (East, Office hours) #HRY</td><td>East</td><td>2026-09-04</td></tr>
+<tr><td>SEARCH AVENUE PRIVATE LIMITED</td><td>Dental Assistant [Central]</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HEALTHSERVE LTD.</td><td>Dental Assistant (Locum)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Computer Engineering/Computer Science/Electronics Engineering)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (AI/Medicine/Data Analytics)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Robotic Grippers)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RANDSTAD PTE. LIMITED</td><td>Investment Advisory Solutions Associate - Private Banking (2 year contract)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Mechanical/ Electrical/ Power engineering)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>BGC GROUP PTE. LTD.</td><td>Digital Heritage Associate (12-mth contract / Up to $4,500 / Central Region)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>R. ANDERSEN & PARTNERS PTE LTD</td><td>Research Associate - Executive Search Firm (Open to Fresh Graduates)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>A*STAR RESEARCH ENTITIES</td><td>(Assistant) Research Engineer, Intelligent Product Verification, ARTC</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*Entry Level* 12 Months Research Assistant (Education Sector) - Up to $4K #NJN</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Computer Science)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Quantum Computing Engineer)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate / Assistant (AI/ ML)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>DXA Imaging Research Specialist #HigherEducationSector #Educator #NJH</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Child Developmental Psychology)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Scientific Support Specialist (Material Science) - $2.5K to $2.6K</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>FLINTEX CONSULTING PTE. LTD.</td><td>Plating Lab Operator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Packaging Laboratory Specialist / 1 Year Contract</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SINCERE HEALTHCARE GROUP (SINGAPORE) PTE. LTD.</td><td>Trainee Embryologist</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>QC Technician (6 Months, $2300, West) #HJY</td><td>Gul Circle</td><td>2026-09-04</td></tr>
+<tr><td>GMP TECHNOLOGIES (S) PTE LTD</td><td>Quality Associate (ELISA) (6 months / Maternity Cover) / Pharma MNC / West</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>QC Technician / Quality Control & Laboratory Operations #HDC1</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>APPLIED TOTAL CONTROL TREATMENT PTE. LTD.</td><td>Lab Technician</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>R.A.K. MATERIALS CONSULTANTS PTE LTD</td><td>LAB ENGINEER</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Ren Ci Hospital</td><td>Community Care Associate (day Care Centre)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Ren Ci Hospital</td><td>Physiotherapist</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>Neste Oyj</td><td>Research Assistant / Specialist</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>tech.gov.sg</td><td>School Of Engineering - Research Staff (cold Storage & Cryogenic Systems)</td><td>Republic Polytechnic</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3-6 months Agency Staff Nurse (Pre and Post recovery) #HBY</td><td>Outram</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Registered Nurse / Clinical Nursing Professional #HDCC</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>ALPHA INTERNATIONAL WOMEN'S SPECIALISTS (SINGAPORE) PTE. LTD.</td><td>Staff Nurse</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>2683 - Staff Nurse - Welfare Home</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>A&E / Urgent Care Staff Nurse / ICU & Acute Ward Exp / SNB + BCLS / 3-Month Locum / UP $29/hr UCC #HYT</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>A&E / Urgent Care Staff Nurse / Up to $29/hr / 3-Month Locum / ICU & Ward Nurses UCC #HYT</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Prison Staff Nurse / Acute Hospital Nursing Experience / SNB + BCLS / East Healthcare / $32–$35/hr</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum A&E Staff Nurse (Clinic Environment, Novena, Up to $29/hr, Min 4-5 days a week) #HJY</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>LINCOLN MACHINERY (PRIVATE) LIMITED</td><td>Technician</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>TALENTVIS SINGAPORE PTE. LTD.</td><td>🛠 Maintenance Technician / North / MNC, Training Provided / RTO</td><td>D09 Cairnhill</td><td>2026-09-04</td></tr>
+<tr><td>STAFFLINK SERVICES PRIVATE LIMITED</td><td>Mechanical & Repair Overhaul Technician II (West)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>COFFEEBOT SINGAPORE PTE. LTD.</td><td>Junior Technician</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>KING SEARCH PTE. LTD.</td><td>Lighting Maintenance Technician</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>APPLIED MICRO TECH PTE LTD</td><td>Maintenance Technician</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ST ENGINEERING MARINE LTD.</td><td>Assistant Mechanical Engineer-Fleet Maintenance (Brani)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HKM HR MANAGEMENT PTE. LTD.</td><td>Equipment Technician (Manufacturing/12 hrs. shift/East Region)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>FONDA GLOBAL ENGINEERING PTE. LTD.</td><td>Technician</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Field Service Engineer</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>TECHWING INC. Singapore Branch</td><td>Field Service Technician/Engr</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Service Engineer (ACMV / CRAC / WDS / Mechanical Engineering)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>ALPSOFT TECHNOLOGIES PTE. LTD.</td><td>Junior Service Engineer - Hands-on/ Training Provided/ Manufacturing</td><td>D05 Pasir Panjang</td><td>2026-09-04</td></tr>
+<tr><td>HOMEUNITED REPAIR SERVICE</td><td>Home Appliance Repair Tech</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT LYNC PTE. LTD.</td><td>Field Service Engineer.</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>STAFFLINK SERVICES PRIVATE LIMITED</td><td>Field Service Engineer / (No exp. OK!)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>UNIVERSAL (FAR EAST) PTE. LTD.</td><td>Field Technician</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT LYNC PTE. LTD.</td><td>Field Service Engineer (Semiconductor)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>QUESS SELECTION & SERVICES PTE. LTD.</td><td>Field Service Engineer (Semicon Industry) / FAST HIRING x20 Pax - 1 Year Contract ( North)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>LOGICOM INSTRUMENTS PTE LTD</td><td>Service Technician</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Customer Service Engineer / Semicon / UP6000 / West</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Associate Service Engineer [4 DAY / 12H SHIFT / EAST] (KCKC)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SINTECH SCIENTIFIC (S.E.A.) PTE LTD</td><td>Service Engineer</td><td>D05 Pasir Panjang</td><td>2026-09-04</td></tr>
+<tr><td>ALPSOFT TECHNOLOGIES PTE. LTD.</td><td>Service Technician / Sembawang / No Experience Welcome</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>BEECRUIT PTE. LTD.</td><td>Chiller Service Technician</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NOVEXX PTE. LTD.</td><td>Engineer (After Sales)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Technician/Assistant Engineer #78155</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>LIFE TECHNOLOGIES HOLDINGS PTE. LTD.</td><td>Manufacturing Technician</td><td>D22 Jurong</td><td>2026-09-04</td></tr>
+<tr><td>TALENT RECRUITMENT PTE. LTD.</td><td>5 days Production Technician (Tuas)</td><td>D02 Anson</td><td>2026-09-04</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Fast hiring / Semicon Manufacturing technician /Basic up $3200+Various Bouns+AWS / 3-5 days / Kranji / Marsiling / Woodlands-QQ</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>YSLU GROUP PTE. LTD.</td><td>Part Time Retail Assistant (Contract)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Retail Assistant / Pastry / Woodlands / Bugis / Up To $2.5K + AWS</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Retail Assistant /Cashier/ 5 days per week / East</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Retail Store Assistant [ Causewaypoint ( Woodlands )/Cake & Cupcake Store] (ML06)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MR BEAN INTERNATIONAL PTE. LTD.</td><td>🌟4 Days Work Week/EARN UP $1650++ (6HOURS A DAY) - IMMEDIATE HIRE @ CITYLINK MALL - SERVICE AMBASSSADOR🌟</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Sales Assistant (Marine Valve) @Joo Koon</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>NOVARA GLOBAL</td><td>⭐️No experience ok!⭐️ - Junior Sales Assistants (Training Provided)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Sales Admin / Basic Up $2600+AWS / 5.25 days / Redhill-QQ</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>URGENT HIRING! 2-Month Extendible Contract Sales & Marketing Assistant (Up to $2,500/Month, Gain Hands-On Marketing Experience) #HCGT</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>WGT EHR PTE. LTD.</td><td>Sales Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HENG HENG JEWELLERY PTE LTD</td><td>JEWELLERY RETAIL SALES ASSISTANT</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>CEELECT AVIATION PTE. LTD.</td><td>Account cum Sales Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MORINS CONSULTANCY PTE. LTD.</td><td>Sales Admin/Coordinator (Permanent Part-Time)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ALI SMART EXPRESS PTE. LTD.</td><td>STORE ASSISTANT</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Customer Service Associate (6 Months Contract) - HSN</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 EVENTS CUSTOMER SERVICE (SALES) (ENTRY LEVEL) 🌈</td><td>D05 Pasir Panjang</td><td>2026-09-04</td></tr>
+<tr><td>SKILLMATCH RECRUITMENT</td><td>Customer Service & Sales Associate (Entry Level)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>RN CARE PTE. LTD.</td><td>Patient Service Associate</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SWIFT SEARCH GLOBAL PTE. LTD.</td><td>Customer Service Officer (Luxury Brand) / Office Hour</td><td>D13 Macpherson</td><td>2026-09-04</td></tr>
+<tr><td>C & W ELECTRONICS PTE LTD</td><td>(Order Processing) Customer Service Executive</td><td>D17 Changi</td><td>2026-09-04</td></tr>
+<tr><td>BRANDOVA</td><td>*asap*🙇‍♀️Customer Success Crew🙇‍♂️ (no-exp welcome)🤪</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Customer Loyalty Executive – Premium Customer Experience & AI - WLWHV</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>CENTRE FOR ADVANCED REHABILITATION (CARE) PTE. LTD.</td><td>Patient Service Associate</td><td>D12 Toa Payoh</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Novena, Napier Hospital] 6 Months Contract Customer Service Associate (No Exp Ok!] - $2100/month #HLV</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>$2800 - 3500 Customer Service Associate #ECH</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Customer Service Officer (MNC / Warehouse)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>BERRY LEASING</td><td>Customer service</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>CHERRY LEASING</td><td>Customer service</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp 3mths Patient Service Associate (Sengkang) - $13 / hr #HRY</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Customer Support Officer / Kaki Bukit {hkhdv}</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Warehouse Assistant (Airfreight Industry) #84530</td><td>Changi</td><td>2026-09-04</td></tr>
+<tr><td>FLINTEX CONSULTING PTE. LTD.</td><td>Warehouse Support</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>J&T EXPRESS SINGAPORE PTE. LTD.</td><td>Warehouse Assistant (Fulflment) West</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>ELUXGO HOLDINGS PTE. LTD.</td><td>Warehouse Assistant</td><td>D14 Geylang</td><td>2026-09-04</td></tr>
+<tr><td>BABA PRODUCTS (S) PTE LTD</td><td>General Worker cum Warehouse Assistant</td><td>D26 Springleaf</td><td>2026-09-04</td></tr>
+<tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Warehouse Assistant (Islandwide)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MINDFULNESS CITY INVESTMENT HOLDINGS PTE. LTD.</td><td>Warehouse Assistant</td><td>Kampong Ubi Central Region</td><td>2026-09-04</td></tr>
+<tr><td>HYUCO EMPLOYMENT AGENCY PTE. LTD.</td><td>WAREHOUSE E-COMMERCE ASSISTANT</td><td>Joo Koon</td><td>2026-09-04</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Warehouse Assistant / Up to $3,000 + AWS / Mon–Fri</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>ZEN CAREER PTE. LTD.</td><td>Warehouse Assistant (5 Days) Office Hours</td><td>West +1</td><td>2026-09-04</td></tr>
+<tr><td>SONOVA SINGAPORE PTE. LTD.</td><td>Logistics Assistant (Delivery and Packing)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SHENG HO SUPERMARKET PTE. LTD.</td><td>STORES ASSISTANT</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SUNRAY WOODCRAFT CONSTRUCTION PTE LTD</td><td>Admin Assistant (Warehouse)</td><td>D25 Kranji</td><td>2026-09-04</td></tr>
+<tr><td>AMXON CONSTRUCTORS PTE. LTD.</td><td>Construction Project Admin</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Retail Store Assistant [ 4-days work week/Bugis ] (ML06)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Admin Assistant (FSC)</td><td>D19 Hougang</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Admin Assistant #74263</td><td>Tuas West Avenue</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Sales Promoter/Retail Assistant (Cosmetics Products) #75766</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>STRATIFY CONSULTING LLP</td><td>Admin Executive (part time)</td><td>Lorong Chuan</td><td>2026-09-04</td></tr>
+<tr><td>CAR TIMES AUTOLUTION PTE. LTD.</td><td>Adminstrative Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MATHVISION ENRICHMENT CENTRE PTE. LTD.</td><td>Administrative Assistants</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ZEN CAREER PTE. LTD.</td><td>Admin Assistant (PO/DO)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Project Admin Assistant / Operations Admin (Tuas)</td><td>Tuas</td><td>2026-09-04</td></tr>
+<tr><td>BEST DENKI (SINGAPORE) PTE. LTD.</td><td>Warehouse Administrative Assistant</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Temp Receptionist cum Admin Assistant - 10 to 28 September 2026</td><td>Lorong Chuan</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT HIRING* Contract Admin Associates Needed!! (Healthcare, Office Hours, up to $3500!) #HCGT</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>ALLIANCE ASSURANCE PAC</td><td>Administrative Assistant (Audit Support)</td><td>Middle Road</td><td>2026-09-04</td></tr>
+<tr><td>BUSINESS EDGE PERSONNEL SERVICES PTE LTD</td><td>Temp Admin Assistant / 2 months / Singapore Botanic Gardens</td><td>Singapore Botanic Gardens</td><td>2026-09-04</td></tr>
+<tr><td>BDO UNIBANK, INC.</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MC-BAUCHEMIE SINGAPORE PTE. LTD.</td><td>Accounts (AR, GL) / Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Receptionist cum Admin Assistant (1-Year Renewable Contract) - YZ11</td><td>Tuas</td><td>2026-09-04</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SUNRAY WOODCRAFT CONSTRUCTION PTE LTD</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TEE YIH JIA FOOD MANUFACTURING PTE LTD</td><td>Admin Assistant / Executive (Family Office)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>HEINEN & HOPMAN ENGINEERING SINGAPORE PTE. LTD.</td><td>Administrative Executive / Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>PROGRESSIVE BUILDERS PRIVATE LIMITED</td><td>Assistant Public Relations Officer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>NIPPON EXPRESS (SINGAPORE) PTE LTD</td><td>Customer Service Coordinator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>VANTAGER SOLUTIONS PTE. LTD.</td><td>Part time Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>E-TALENT PTE. LTD.</td><td>Admin Assistant // Jurong East // Basic + Bonus!!!</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>JOBSTUDIO PTE. LTD.</td><td>[Healthcare Temp Job] Clinic Assistant/ Pharmacy Assistant/ Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Administrative Assistant (4 Months, $12/hr, Toa Payoh, Start ASAP) #HJY</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>BEAUTIFUL MUM PAYA LEBAR PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Temp Admin Assistant (Grants) / Jurong / Up to $2760 #NKA</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>Part-Time Administrative Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TRANSGLOBE INTERIOR PTE. LTD.</td><td>Admin Assistant – Maintenance Services</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>FAMILY CARE CLINIC PTE LTD</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>(Fast Hiring) Executive Assistant [ PA + Trust Duties] [Up$6.8k] {hkhdv}</td><td>Suntec City</td><td>2026-09-04</td></tr>
+<tr><td>STIGIOUS PTE. LTD.</td><td>Executive Assistant</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>SWISS-ASIA FINANCIAL SERVICES PTE. LTD.</td><td>PERSONAL ASSISTANT (PA)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>PPIS FAMILY SERVICES LTD.</td><td>Intern / Executive Assistant (6-months contract)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Project Coordinator #72106</td><td>Senoko</td><td>2026-09-04</td></tr>
+<tr><td>FOODCO SG PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>BGC GROUP PTE. LTD.</td><td>Programme & Licensing Executive (12-Month Contract / SGD 3200 - SGD 3300) – JO 29248</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Marketing Coordinator (6 Months Maternity Cover) #NKC</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>Product Marketing Executive (Entry Level)</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>‼️URGENT: Campaign Marketing Executive (Training Provided)</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>STRIKE TALENTS PTE. LTD.</td><td>🎯Marketing Campaign Trainee</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>HELIUS TECHNOLOGIES PTE. LTD.</td><td>Marketing - Campaign Executive</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Events & Marketing Executive - Gov</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Logistics Executive (6 months, East) #ESY</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Logistics Assistant / Logistics Coordinator (Changi Airfreight)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Inventory Coordinator / Construction / IMMEDIATE!!!</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>BEAUTIFUL MUM PAYA LEBAR PTE. LTD.</td><td>LOGISTICS OFFICER</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months Logistics Executive - Changi South (Up to $4,000) #NJN</td><td>Changi South</td><td>2026-09-04</td></tr>
+<tr><td>EQUITY LOGISTICS (S) PTE. LTD.</td><td>Coordinator</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>DSV AIR & SEA SINGAPORE PTE. LTD.</td><td>Operations Assistant, Sea Freight, Export Operations</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>PANDUIT SINGAPORE PTE LTD</td><td>Trade & Customs Coordinator (4 mths contract)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>6723 - Export Shipping Officer</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Export Shipping Officer - West/ 5 days/ $3.1k / 0580</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>ORIENTAL EMPLOYMENT PTE. LTD.</td><td>SUPERVISOR</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD</td><td>Operations Coordinator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>POWERPLUS GROUP PTE. LTD.</td><td>Service & Fleet Coordinator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>MOL GLOBAL SHIP MANAGEMENT PTE. LTD.</td><td>Officer, Manning Operation Team A (Tank)</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Logistics Operations Coordinator / East /up to 3.1k #HMS</td><td>Changi Business Park</td><td>2026-09-04</td></tr>
+<tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>OPERATIONS CO-ORDINATOR (Up to $5,000 / Gul Drive)</td><td>Gul Drive</td><td>2026-09-04</td></tr>
+<tr><td>HEY ROCKET PTE. LTD.</td><td>Operations Admin Executive / 5 days, up to $3000 / School-Based, North area / Singaporeans only</td><td>North Area</td><td>2026-09-04</td></tr>
+<tr><td>GREENSAFE INTERNATIONAL PTE. LTD.</td><td>Operations Support Officer #Upper Changi Road</td><td>Middle Road</td><td>2026-09-04</td></tr>
+<tr><td>ELEGANCE INTERNATIONAL CULTURE EDUCATION SINGAPORE PTE. LTD.</td><td>Online Operation Staff</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>VIHARBOUR (SINGAPORE) ENTERPRISE PTE. LTD.</td><td>Operation coordinator</td><td>Singapore</td><td>2026-09-04</td></tr>
+<tr><td>AXISREACH RECRUITMENT</td><td>💼 NO EXP REQUIRED - EVENTS MANAGEMENT</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>LIINEAGE GROUP</td><td>Events Executive (Training Provided)</td><td>Islandwide</td><td>2026-09-04</td></tr>
+<tr><td>AXISREACH RECRUITMENT</td><td>🥸EVENTS COORDINATOR 🥸</td><td>D01 Marina</td><td>2026-09-04</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Events Management & Sales (Entry Level - Training Provided) 🌈</td><td>D05 Pasir Panjang</td><td>2026-09-04</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Fun Events Executive 🌈 (Training Provided - Entry Level)</td><td>D05 Pasir Panjang</td><td>2026-09-04</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>(🕘Not your 9-5 Job!!) Events Co-ordinator</td><td>D01 Marina</td><td>2026-09-04</td></tr>
 </table>
