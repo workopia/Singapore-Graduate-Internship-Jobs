@@ -1,11 +1,41 @@
 {
- "asOf": "2026-09-06",
+ "asOf": "2026-09-07",
  "count": 849,
  "jobs": {
   "2648640": {
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "b08bd8d64f4576698e870bd1b8ad5316": {
+   "id": "b08bd8d64f4576698e870bd1b8ad5316",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Strategy And Programme Management Intern, Cybersecurity, Centre Of Excellence (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "d0b084af1ba49e5959ecb8de5983ac4a": {
+   "id": "d0b084af1ba49e5959ecb8de5983ac4a",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Technology Intern, Core Technology (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "b1620320e255b4048733266028a94438": {
+   "id": "b1620320e255b4048733266028a94438",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Product Management Intern, Technology (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "10caf59a94b290dade38a905cf31d97a": {
+   "id": "10caf59a94b290dade38a905cf31d97a",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Programme Intern, Community Stewardship (jan - Jun 2027)",
+   "location": "Singapore"
+  },
+  "0b9f7296258054d7e3040309e7a6da3c": {
+   "id": "0b9f7296258054d7e3040309e7a6da3c",
+   "company": "Temasek Holdings Private Ltd",
+   "role": "Intern, Treasury (debt Capital Market)",
    "location": "Singapore"
   },
   "f2536b48019353ba2b1a173cb608d491": {
@@ -456,36 +486,6 @@
    "id": "d90367539aea73e755089196dc402e23",
    "company": "GlobalFoundries",
    "role": "Production Control & Scheduling Analyst Intern (jan-jun 2027)",
-   "location": "Singapore"
-  },
-  "9ca0a8e08257c778ea1dc35f5da3c9c3": {
-   "id": "9ca0a8e08257c778ea1dc35f5da3c9c3",
-   "company": "Marriott International",
-   "role": "Intern - Rooms",
-   "location": "Singapore"
-  },
-  "a77caacea8da6adc5ff79d9eb786d1a3": {
-   "id": "a77caacea8da6adc5ff79d9eb786d1a3",
-   "company": "Dev in Asia",
-   "role": "Intern",
-   "location": "Pas"
-  },
-  "f20ea9f21890e1033b9777430f7569bd": {
-   "id": "f20ea9f21890e1033b9777430f7569bd",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Retail Assistant Intern (jan - Jun'27)",
-   "location": "Singapore"
-  },
-  "4b5395fd1f283f7c9dc85f73fe3cfe0a": {
-   "id": "4b5395fd1f283f7c9dc85f73fe3cfe0a",
-   "company": "Richemont Australia Pty Ltd",
-   "role": "Retail Experience Intern (jan - Jun'27)",
-   "location": "Singapore"
-  },
-  "1914b6ec2562cd24ae3240843e2ae8bf": {
-   "id": "1914b6ec2562cd24ae3240843e2ae8bf",
-   "company": "MOTOROLA SOLUTIONS",
-   "role": "Intern – Business Management & Finance",
    "location": "Singapore"
   },
   "35d930d09710d35e": {
@@ -1874,6 +1874,12 @@
    "role": "IT Engineer",
    "location": "Islandwide"
   },
+  "e96e059fd1c1dd66": {
+   "id": "e96e059fd1c1dd66",
+   "company": "IESOL CONSULTING PTE. LTD.",
+   "role": "AI Engineer (SAP Business AI & Enterprise AI Platforms)",
+   "location": "Islandwide"
+  },
   "4a79d10f45b57982": {
    "id": "4a79d10f45b57982",
    "company": "ASE SINGAPORE PTE. LTD.",
@@ -2208,12 +2214,6 @@
    "id": "587573e08c91bda6",
    "company": "NORGES BANK Singapore Branch",
    "role": "AI Engineer",
-   "location": "Singapore"
-  },
-  "b653203bc4a7d22f": {
-   "id": "b653203bc4a7d22f",
-   "company": "EPS CONSULTANTS PTE LTD",
-   "role": "Applied AI Engineer",
    "location": "Singapore"
   },
   "1ed2bb1d5956c98ed0cdc91ce70b64c6": {
@@ -4616,6 +4616,12 @@
    "role": "Retail Assistant ( PART TIME )",
    "location": "Islandwide"
   },
+  "b0ecf1ce4e3f1970995f993669560bc5": {
+   "id": "b0ecf1ce4e3f1970995f993669560bc5",
+   "company": "United Overseas Bank",
+   "role": "Business Support Admin",
+   "location": "North"
+  },
   "b79a3fb007acb170b470342bd3e8f47f": {
    "id": "b79a3fb007acb170b470342bd3e8f47f",
    "company": "RTX",
@@ -5088,12 +5094,6 @@
    "id": "7749d9ff8d216b73",
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "Perm Executive Assistant, Nurisng Administration - Up to $3.5K",
-   "location": "Singapore"
-  },
-  "c1f31f55d8b2a19a": {
-   "id": "c1f31f55d8b2a19a",
-   "company": "Singapore Polytechnic",
-   "role": "[Temporary] Project Officer",
    "location": "Singapore"
   }
  }

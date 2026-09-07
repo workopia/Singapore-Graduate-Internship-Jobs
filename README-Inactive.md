@@ -12730,4 +12730,11 @@
 <tr><td>COENS ENERGY PTE. LTD.</td><td>Project Control Assistant</td><td>Islandwide</td><td>2026-09-06</td></tr>
 <tr><td>GID FURNITURE DESIGN PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-06</td></tr>
 <tr><td>ASA CONTRACTS PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-06</td></tr>
+<tr><td>Marriott International</td><td>Intern - Rooms</td><td>Singapore</td><td>2026-09-07</td></tr>
+<tr><td>Dev in Asia</td><td>Intern</td><td>Pas</td><td>2026-09-07</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Retail Assistant Intern (jan - Jun'27)</td><td>Singapore</td><td>2026-09-07</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Retail Experience Intern (jan - Jun'27)</td><td>Singapore</td><td>2026-09-07</td></tr>
+<tr><td>MOTOROLA SOLUTIONS</td><td>Intern – Business Management & Finance</td><td>Singapore</td><td>2026-09-07</td></tr>
+<tr><td>EPS CONSULTANTS PTE LTD</td><td>Applied AI Engineer</td><td>Singapore</td><td>2026-09-07</td></tr>
+<tr><td>Singapore Polytechnic</td><td>[Temporary] Project Officer</td><td>Singapore</td><td>2026-09-07</td></tr>
 </table>
