@@ -13846,4 +13846,74 @@
 <tr><td>IL NETWORK PTE. LTD.</td><td>Logistic Customer Service (Calling/Shipping Arrangement)</td><td>Islandwide</td><td>2026-09-13</td></tr>
 <tr><td>DIRECT SEARCH ASIA PTE. LTD.</td><td>Laytime Specialist (Dry Bulk)</td><td>Singapore</td><td>2026-09-13</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Supply Chain Executive (Up to $4,500) #NJN</td><td>Singapore</td><td>2026-09-13</td></tr>
+<tr><td>United Overseas Bank Ltd</td><td>Aml Intern ( Oct - Feb 2027)</td><td>Central Region</td><td>2026-09-14</td></tr>
+<tr><td>Grab</td><td>Intern, Social Media & Partner Engagement</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>PIMCO</td><td>2027 Summer Internship – Account Analyst, Apac</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>gssi.world</td><td>Internship - Corporate Support (real Estate & Project Management), Singapore (january To June 2027)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Marina Bay Sands</td><td>Intern, Brand Experiences</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Nti Process Integration - Ai Track</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Qem Contamination Control (cc) (polytechnic Students)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Pee Diffusion</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern – Dry Etch Process And Equipment</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - F10 Cvd Pee</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern – Ml/ai Engineer (product Engineering, Stpg)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern- Pie Pi (product Integration Engineering, Process Integration)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Nand Cell Reliability</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Tem Engineer</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Fe Materials Procurement Operations</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Assembly Post Electrical</td><td>Msb</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Chemical Mechanical Planarization Process Engineering</td><td>Fab 10N/X</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Front-end Materials Procurement Operations</td><td>Fab 10a</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Process & Equipment Engineer (diffusion)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Cdm</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Adts Ati Process Integration Engineer</td><td>Fab 10N/X</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Engineer Hvm Pee Photo</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Test Solutions Engineering</td><td>Msb</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Adts Pee Dry Etch</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Process & Equipment Engineering</td><td>Fab 10N/X</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - F10 Qem Product Quality Engineering Yield Data Analytics</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Real Time Particle Monitoring</td><td>Msb</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Nand Product Engineering - Probe Ai/ml</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Msb Process & Equipment Engineer</td><td>Bendemeer</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Test Equipment Engineer</td><td>Msb</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Rda (real-time Defect Analysis)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Stpg Pe Firmware</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Nand Product Development Engineer</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Pln (planning) Strategic Layout</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - F10 Process And Equipment Engineer</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Micron</td><td>Intern - Ssd Manufacturing</td><td>Msb</td><td>2026-09-14</td></tr>
+<tr><td>Mercer</td><td>Intern, Talent & Transformation (sep Intake)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Technical Support Assistant / Up to $3.2K / 1 Year Contract - 0310</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>THEIA HEALTH PTE. LTD.</td><td>Software Engineer, AI</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Full Stack Engineer - Web Applications (Public Sector)</td><td>Islandwide</td><td>2026-09-14</td></tr>
+<tr><td>CORNERSTONE GLOBAL PARTNERS PTE. LTD.</td><td>AWS Fullstack engineer Sage Maker</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>M08 - Data Scientist</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Fellow (Artificial Intelligence)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>BYTEDANCE PTE. LTD.</td><td>LLM/MLLM Algorithm Engineer - Global E-Commerce</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>ROBERT BOSCH (SOUTH EAST ASIA) PTE. LTD.</td><td>AI Cloud Scientist</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>AEGIS BUILDING & ENGINEERING PTE LTD</td><td>Accounting Intern (Audit Support)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>FELIXION CONSULTING PTE. LTD.</td><td>Account assistant (Intern)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Tax Technology Consulting (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Employer Services (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Process Solutions (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - International Tax Advisory (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Merger And Acquisition Tax (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Tax Financial Services (2027 Graduate)</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Private Tax</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>HENG LONG CATERING PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>SENSES INTERNATIONAL PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>SIA PARTNERS SINGAPORE PTE. LTD.</td><td>Risk & Compliance Advisory(Licensing) - Contract</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Sengkang, Dip/Deg in Accountancy] 6 Months Finance Executive - UP$3500 [Convertible] #HCY</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>AVENTROSS PAC</td><td>AUDIT ASSOCIATE</td><td>High Street</td><td>2026-09-14</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>🦷 *Fast Hire* Dental Assistant / Multiple Openings [Chairside Assisting, Restorative Support] - #HJZ</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East, No Exp Ok, Office Hours] 3 Months Temp Dental Assistant - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Roche Holding AG</td><td>Manufacturing Biotechnologist - Train And Place Program</td><td>Central Singapore</td><td>2026-09-14</td></tr>
+<tr><td>Roche Holding AG</td><td>Manufacturing Biotechnologist - Train & Place</td><td>Central Singapore</td><td>2026-09-14</td></tr>
+<tr><td>KENSHOP PTE. LTD.</td><td>Retail Assistant (PART-TIME)</td><td>Islandwide</td><td>2026-09-14</td></tr>
+<tr><td>RYAN'S GROCERY (GWC) PTE. LTD.</td><td>Service Crew cum Retail Assistant</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Admin #10328</td><td>Chinatown</td><td>2026-09-14</td></tr>
+<tr><td>SIXTY-SIX SWITCHGEARS CO PTE LTD</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>TALENT CONNECT HR CONSULTANCY PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-14</td></tr>
+<tr><td>SAFETECH DEVICES PTE. LTD.</td><td>Administrator</td><td>Singapore</td><td>2026-09-14</td></tr>
 </table>
