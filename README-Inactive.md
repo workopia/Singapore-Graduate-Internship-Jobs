@@ -14060,4 +14060,28 @@
 <tr><td>SEACARE MANPOWER SERVICES PTE LTD</td><td>📌 Admin Assistant (Woodleigh)</td><td>Singapore</td><td>2026-09-15</td></tr>
 <tr><td>FLOORRICH GLOBAL PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-15</td></tr>
 <tr><td>CANWORKONE.SG EMPLOYMENT PTE. LTD.</td><td>Marketing Administrative Assistant</td><td>Islandwide</td><td>2026-09-15</td></tr>
+<tr><td>Health Sciences Authority (Singapore)</td><td>Intern</td><td>Pas</td><td>2026-09-15</td></tr>
+<tr><td>CLARKSONS SINGAPORE PTE. LIMITED</td><td>Trainee Shipbroker (Newbuilding)</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>Coach (Tapestry, Inc.)</td><td>Cybersecurity Analyst-2</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>AB03 - Accounts & Admin / Up to $3.5K</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>ANGEL SINGAPORE (ASIA) PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>CTC CORPORATE MANAGEMENT PTE. LTD.</td><td>AUDIT ASSISTANT</td><td>Little India</td><td>2026-09-15</td></tr>
+<tr><td>LOKE LUM PAC</td><td>AUDIT ASSOCIATE</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>MICHAEL PAGE (PERSONNEL) PTE. LTD.</td><td>Junior Investment Analyst - Family Office</td><td>Islandwide</td><td>2026-09-15</td></tr>
+<tr><td>PERSOL TECH SERVICES PTE. LTD.</td><td>Finance Analyst</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>UBIQUANT TECHNOLOGY SERVICES PTE. LTD.</td><td>Trading Risk Operations Analyst</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>SEARCH AVENUE PRIVATE LIMITED</td><td>Dental Assistant (Central)</td><td>D14 Geylang</td><td>2026-09-15</td></tr>
+<tr><td>Micron Technology Inc</td><td>Sem Technician</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Full-Time Pharmacist (Quality Assurance / Operations Excellence) - UP$5000 (Clementi) #HCY</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Operational Pharmacist (Day-to-Day Operation) / Regular Office Hours - West</td><td>West</td><td>2026-09-15</td></tr>
+<tr><td>DOCTORS CLINIC AND SURGERY</td><td>Woodlands Part Time Clinic Assistant</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>Collins Aerospace</td><td>Mro Technician (mechanical)</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>Raytheon Australia</td><td>Mro Technician (mechanical)</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>ALTIUS ORG</td><td>Sales & Marketing Associate – Leadership Development Programme</td><td>Islandwide</td><td>2026-09-15</td></tr>
+<tr><td>FORTE MARKETING</td><td>(URGENT) Sales & Marketing Associate</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 (Training Provided) Events and Sales Associates 🌈</td><td>Pasir Panjang +2</td><td>2026-09-15</td></tr>
+<tr><td>ELITEWORKS</td><td>COMMUNICATION SALES ASSOCIATE 🗣️</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>Pratt & Whitney, an RTX business</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Spare Parts Coordinator #10200</td><td>Islandwide</td><td>2026-09-15</td></tr>
+<tr><td>NTT Global Data Centers Americas</td><td>Skilled Administrative Assistant</td><td>Singapore</td><td>2026-09-15</td></tr>
 </table>
