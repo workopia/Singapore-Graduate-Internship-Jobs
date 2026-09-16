@@ -14084,4 +14084,40 @@
 <tr><td>Pratt & Whitney, an RTX business</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-15</td></tr>
 <tr><td>ANRADUS PTE. LTD.</td><td>Spare Parts Coordinator #10200</td><td>Islandwide</td><td>2026-09-15</td></tr>
 <tr><td>NTT Global Data Centers Americas</td><td>Skilled Administrative Assistant</td><td>Singapore</td><td>2026-09-15</td></tr>
+<tr><td>Temasek</td><td>Off-cyle Intern, Investment Stewardship (capital Markets) (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Esg Investment Management (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Strategy And Programme Management Intern, Cybersecurity, Centre Of Excellence (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Product Management Intern, Technology (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Programme Intern, Community Stewardship (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Intern, Treasury (fx Management) (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Communications Intern, Internal Communications (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Policy & Research Intern, Ecosystem Workforce Resilience (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Technology Intern, Core Technology (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>MedAire</td><td>Security Research & Content Intern</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte</td><td>Growth Intern - Executive Engagement (winter 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Sea Deloitte</td><td>Growth Intern - Marketing & Communications (winter 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Tax - Global Investment And Innovation Incentives (gi3) (summer 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Business Tax Financial Services (summer 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - Tax Technology Consulting (summer 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax & Legal Intern - business Tax Advisory - International Tax (summer 2026)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Client & Events Intern (oct 2026 - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Marketing Intern (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Red Hat</td><td>Asean Field Marketing Intern</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>CoreOS</td><td>Asean Field Marketing Intern</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>PIL UAE LLC</td><td>Hr Intern, International Hr Business Partner Team</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>PIL UAE LLC</td><td>Global Sustainability And Esg Intern</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>BASE CAMP DIGITAL PTE. LTD.</td><td>AI Backend Engineer</td><td>Islandwide</td><td>2026-09-16</td></tr>
+<tr><td>ASE SINGAPORE PTE. LTD.</td><td>Associate Engineer – Test Equipment (Backend)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>6723 - Accountant / $4.5K–$5K + AWS & VB / Electronics / Lorong Chuan / Full Set & Regional Accounting</td><td>Lorong Chuan</td><td>2026-09-16</td></tr>
+<tr><td>KINDERWORLD INTERNATIONAL GROUP LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Clinic Assistant / Up to $2.8K / ENT Experience - 0310</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>pr.careers</td><td>Maintenance Technician 4</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>RECRUIT EXPRESS SERVICES PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Technical Sales Coordinator #82964</td><td>Islandwide</td><td>2026-09-16</td></tr>
+<tr><td>Nike</td><td>Full-time Retail Associate</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>SKILLMATCH RECRUITMENT</td><td>Junior Sales & Marketing Associate 🎓</td><td>Islandwide</td><td>2026-09-16</td></tr>
+<tr><td>Maersk</td><td>Assistant I - Operations</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Covance / Labcorp Drug Dev UK</td><td>Sample Coordinator (sample Management)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Labcorp</td><td>Sample Coordinator (sample Management)</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>EOS IT Solutions</td><td>Project Administrator</td><td>Singapore</td><td>2026-09-16</td></tr>
 </table>
