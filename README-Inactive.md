@@ -14120,4 +14120,32 @@
 <tr><td>Covance / Labcorp Drug Dev UK</td><td>Sample Coordinator (sample Management)</td><td>Singapore</td><td>2026-09-16</td></tr>
 <tr><td>Labcorp</td><td>Sample Coordinator (sample Management)</td><td>Singapore</td><td>2026-09-16</td></tr>
 <tr><td>EOS IT Solutions</td><td>Project Administrator</td><td>Singapore</td><td>2026-09-16</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Partnerships (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>Temasek</td><td>Policy Research Intern, Sustainability Strategy (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Sustainable Solutions (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Portfolio Construction (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>NESHORA</td><td>Brand Executives (Fresh Graduates)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>COMMONWEALTH CONCEPTS PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-09-17</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Management Trainee – Sales & Marketing</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>GALA FOOD PTE. LTD.</td><td>F&B Management Trainee</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>REGTECH INSIGHT PTE. LTD.</td><td>APPLICATIONS PROGRAMMER</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>RISKDATA CONSULTING PTE. LTD.</td><td>Software Engineer – ETL & Data Warehousing</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>ORIENTAL EMPLOYMENT PTE. LTD.</td><td>COMPUTER NUMERICAL CONTROL (CNC) PROGRAMMER</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Full Stack Engineer (Typescript/ AWS)</td><td>Islandwide</td><td>2026-09-17</td></tr>
+<tr><td>RISKDATA CONSULTING PTE. LTD.</td><td>APPLICATIONS PROGRAMMER</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>GWS LIVING ART PTE. LTD.</td><td>Software Engineer</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>AB03 - Accounts / Admin Executive / Up to $3.5K</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Pharmacy Technician (Clementi / Entry level / Office Hours) #HGNJ</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>HTCM PTE. LTD.</td><td>TCM PHYSICIAN</td><td>Islandwide</td><td>2026-09-17</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Physiotherapist [ AHPC registered ] - 8890</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Hand & Upper Limb Rehabilitation Physiotherapist #HCK</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>BEAUTE ON PTE. LTD.</td><td>Clinic Assistant / Aesthetic Therapist</td><td>Orchard</td><td>2026-09-17</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[$17/HR, NIGHT SHIFTS] 3 Months Pharmacy Assistant @ Novena (NO EXP OK) #HLV</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Clinic Assistant - Near MRT / Boon Keng / $3k</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Technical Officer, Fare System</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>Raytheon Australia</td><td>Maintenance Technician 4</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>TAKAGI RAMEN PTE. LTD.</td><td>Warehouse cum Logistics Executive</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>ASCENSION ADVISORY PTE. LTD.</td><td>Warehouse Assistant (MNC / 5 Days / Up to $1,650 + Allowances + OT / AWS + Performance Bonus / Kallang / No Exp Req)</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Personal Assistant & Hr Administrative Assistant</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>GlobalFoundries</td><td>Logistics Assistant</td><td>Singapore</td><td>2026-09-17</td></tr>
 </table>
