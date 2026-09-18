@@ -14148,4 +14148,103 @@
 <tr><td>ASCENSION ADVISORY PTE. LTD.</td><td>Warehouse Assistant (MNC / 5 Days / Up to $1,650 + Allowances + OT / AWS + Performance Bonus / Kallang / No Exp Req)</td><td>Singapore</td><td>2026-09-17</td></tr>
 <tr><td>SMRT Corporation Ltd</td><td>Personal Assistant & Hr Administrative Assistant</td><td>Singapore</td><td>2026-09-17</td></tr>
 <tr><td>GlobalFoundries</td><td>Logistics Assistant</td><td>Singapore</td><td>2026-09-17</td></tr>
+<tr><td>Coty Inc.</td><td>Commercial Finance Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Business & Change Management [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Services [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Global Energy, Infrastructure & Utilities [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Legal And Compliance, Group Transformation, Digital, And Corporate Services</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Operations Support & Systems [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Risk Portfolio Management, Credit Risk Modelling [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Conglomerates, Food & Agriculture [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Non-financial Risk Management, Group Operational Risk Management [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>UNIVERSAL MUSIC</td><td>Audience Growth Intern, Seak</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit Innovation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Technology Assurance / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Managed Services / Internship (feb 2027 To Sep 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit Innovation / Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory-deal Adv, Infrastructure Advisory Ipa / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Mid-year Internship 2026 (aug - Dec 2026), Consulting, Organisation Transformation</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Tax Reimagined / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - M&a Tax / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Disney</td><td>Intern, Apac Integrated Marketing, Studios & Disney+ - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Disney</td><td>Intern, Lifecycle & Retention (growth Marketing), Disney+ - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Wholesale Credit Risk Management, Counterparty Credit Risk [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Data Management Office, Data Management And Data Analytics [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Market Risk Management, Asset Liability Management [jan To May 2027]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>THALES</td><td>Talent Acquisition Intern (jan 2027 Intake)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Marketing Communication Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Disney+</td><td>Intern, Integrated Marketing, Studios - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Covance / Labcorp Drug Dev UK</td><td>Intern – Medical Technologist (clinical Chemistry)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Covance / Labcorp Drug Dev UK</td><td>Intern - Medical Technologist (special Chemistry)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Luxottica Retail Australia Pty Ltd</td><td>Regional Human Resource Business Partner Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Labcorp Drug Dev UK</td><td>Intern - Global Project Management (dds)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Labcorp Drug Dev UK</td><td>Intern - Sample Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Intern, Learning & Development</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Temasek</td><td>Off Cycle Intern, Talent Acquisition (jan - Jun/jul 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Temasek</td><td>Off-cyle Intern, Investment Stewardship, (governance & Shareholder Value) (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Ecosperity (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Workplace Transformation & Administration (jan - Jun 2027)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>MANPOWER LINK PTE. LTD.</td><td>MANAGEMENT TRAINEE</td><td>Pasir Panjang</td><td>2026-09-18</td></tr>
+<tr><td>Accenture Australia</td><td>Functional Analyst</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>ST Engineering</td><td>Software Engineer (c++/c#)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Swiss Re</td><td>Cyber Security Analyst</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>JEET ANALYTICS PTE. LTD.</td><td>APPLICATIONS PROGRAMMER</td><td>Marina</td><td>2026-09-18</td></tr>
+<tr><td>AVETICS GLOBAL PTE. LTD.</td><td>Business Intelligence & Automation Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>HOWLI PTE. LTD.</td><td>IT Engineer</td><td>Islandwide</td><td>2026-09-18</td></tr>
+<tr><td>IESOL CONSULTING PTE. LTD.</td><td>AI Engineer (SAP Business AI & Enterprise AI Platforms)</td><td>Islandwide</td><td>2026-09-18</td></tr>
+<tr><td>SMCC OVERSEAS SINGAPORE PTE. LTD.</td><td>Accounting Intern (Contract)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>DM FINANCIAL PTE. LIMITED</td><td>Junior Associate, Financial Reporting (Internship, Accounting/Finance)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Analyst/avp, Corporate Compliance (cpdap)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Point72</td><td>International Trade Support Analyst</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Trade Compliance Analyst</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Coca-Cola HBC AG</td><td>Cps Sg Financial Analyst</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>GIC</td><td>Associate/avp, Physical Climate Risk Specialist</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>HAYS SPECIALIST RECRUITMENT PTE. LTD.</td><td>Full Set Accountant #FR (6 months)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>LONGEVITY & LIFESTYLE MEDICAL PTE. LTD.</td><td>Nurse</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Oncology Agency Nurse – Full/Part-Time #HCK</td><td>Orchard</td><td>2026-09-18</td></tr>
+<tr><td>CENTRE FOR CLINICAL HAEMATOLOGY PTE. LTD.</td><td>Haemato-oncology Nurse</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>(Fast Interview Arrange) Youth Care Worker / Potong Pasir {hkhdv}</td><td>Potong Pasir</td><td>2026-09-18</td></tr>
+<tr><td>CHANGI GENERAL HOSPITAL PTE LTD</td><td>Basic Care Assistant</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>CHANGI GENERAL HOSPITAL PTE LTD</td><td>Care Support Associate</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Pharmacist (Locum / Perm)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>MIRACO NUTRIPHARM PTE. LTD.</td><td>Pharmacist</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>MCI CAREER SERVICES PTE. LTD.</td><td>Pharmacy Technician / Government Polyclinic / West</td><td>West</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>1 Month Pharmacy Assistant - Buangkok - HSN</td><td>Buangkok</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Renewable Locum Pharmacy Technician @WEST</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Pharmacy Assistant - Multiple Location - HSN</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Micron Technology Inc</td><td>Technician, Electrical Failure Analysis (efa ) / Physical Failure Analysis (pfa)</td><td>Msb</td><td>2026-09-18</td></tr>
+<tr><td>Micron Technology Inc</td><td>Process Control Systems Technician</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Micron Technology Inc</td><td>Facilities Operations Technicians</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Micron</td><td>Facilities Operations Technicians</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>dormakaba International Holding AG</td><td>Service Engineer</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Technical Officer, Sentosa Express</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Technical Officer, Bplrt Rolling Stock</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>SMRT Corporation Ltd</td><td>Technical Officer, Iscs & Comms</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>Career Conversion Programme (ant) - Operations Technician (pilot Plant)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>GSK plc</td><td>Career Conversion Programme (ant) - Operations Technician (pilot Plant)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>GSK plc</td><td>Career Conversion Programme (ant) - Manufacturing Technician (value Stream)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>gssi.world</td><td>Career Conversion Programme (ant) - Manufacturing Technician (value Stream)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>POP MART Global</td><td>Sales Associate</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>CITIAIR HOLDINGS PTE. LTD.</td><td>Retail Associate</td><td>Islandwide</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>📍 PART-TIME RETAIL OPERATIONS / PLAZA SINGAPURA #HMS</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Customer Service Executive (PO/DO) - Up to $3,200 #NJN</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>UPS</td><td>Receptionist (part-time Afternoon)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>PPD (Thermo Fisher) UK</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Thermo Fisher Scientific UK</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Thermofisher Scientific</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Halliburton</td><td>Coordinator, Hse/technical Professional- Hse (1 Year Contract)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>androiddev.careers</td><td>Project Coordinator (hourly Rated)</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Project Coordinator #82059</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Events Coordinator Executives (Traveling Opportunities + Training Provided) 🌈</td><td>D01 Marina</td><td>2026-09-18</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Project Coordinator (Event) #10319</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>RECRUIT EXPRESS SERVICES PTE. LTD.</td><td>HR ADMIN ASSISTANT NEEDED AT JURONG! [CCL]</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>✨Junior Marketing & Events Associate / Entry-Level</td><td>D01 Marina</td><td>2026-09-18</td></tr>
+<tr><td>IDP Education</td><td>Marketing Event Executive</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>GlobalFoundries</td><td>Logistics Assistant</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Creative Chutzpah</td><td>Hr Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Maersk</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>A.P. Moller - Maersk</td><td>Assistant I - Operations</td><td>Singapore</td><td>2026-09-18</td></tr>
 </table>
