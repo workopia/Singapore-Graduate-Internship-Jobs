@@ -14247,4 +14247,32 @@
 <tr><td>Creative Chutzpah</td><td>Hr Intern</td><td>Singapore</td><td>2026-09-18</td></tr>
 <tr><td>Maersk</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-18</td></tr>
 <tr><td>A.P. Moller - Maersk</td><td>Assistant I - Operations</td><td>Singapore</td><td>2026-09-18</td></tr>
+<tr><td>Coty Inc</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Coty Inc</td><td>Project Management Intern, Visual Merchandising</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Grab</td><td>Intern, Sg Partnerships</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Disney Cruise Line</td><td>Intern, Hotel Operations - Sourcing & Logistics, Disney Cruise Line - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Disney Cruise Line</td><td>Intern, Sales Planning & Development, Disney Cruise Line - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Toll Group</td><td>Sales Support Intern</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Market Risk Management, Analytics [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Market Risk Management, Risk Control & Analysis [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Risk Portfolio Management, Portfolio Insights & Validation [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Risk Portfolio Management, Provision & Capital Analytics [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Risk Portfolio Management, Credit Infrastructure & Solutions [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Greater China Business Office, Global Metals And Mining [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Global Transportation [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Regional Conglomerates & Diversified Industries, Regional Coverage [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Technology, Media & Telecommunications [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Gwb Sustainability [jan To May 2027]</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Accenture</td><td>Functional Analyst</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Aig Com Mo</td><td>Global Partnership And Campaign Management Analyst</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>AIG</td><td>Claims Analyst Casualty</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>ERI@N</td><td>Research Assistant/research Associate (computer Science)</td><td>Ntu Main Campus</td><td>2026-09-19</td></tr>
+<tr><td>VIRTUS HEALTH SINGAPORE PTE. LTD.</td><td>Staff Nurse</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>RECRUIT LYNC PTE. LTD.</td><td>Nurse (Part-Time / Flexi Hours)</td><td>Buona Vista</td><td>2026-09-19</td></tr>
+<tr><td>Thye Hua Kwan Moral Society</td><td>Staff Nurse</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>YR23- Staff Nurse / 5.5 Days/SNB Registered/Training Provided</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>Micron Technology Inc</td><td>Technologist - Fac Upw & Wwtp</td><td>Fab 10a</td><td>2026-09-19</td></tr>
+<tr><td>Micron</td><td>Process Control Systems Technician</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>CHALLENGER TECHNOLOGIES LIMITED</td><td>Retail Associate</td><td>Islandwide</td><td>2026-09-19</td></tr>
+<tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Receptionist (part-time Afternoon)</td><td>Singapore</td><td>2026-09-19</td></tr>
 </table>
