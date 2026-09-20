@@ -14275,4 +14275,73 @@
 <tr><td>Micron</td><td>Process Control Systems Technician</td><td>Singapore</td><td>2026-09-19</td></tr>
 <tr><td>CHALLENGER TECHNOLOGIES LIMITED</td><td>Retail Associate</td><td>Islandwide</td><td>2026-09-19</td></tr>
 <tr><td>Marken, UPS Healthcare Precision Logistics</td><td>Receptionist (part-time Afternoon)</td><td>Singapore</td><td>2026-09-19</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Digital Marketing Intern, Travel Retail</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>United Overseas Bank Ltd</td><td>Group Wholesale Banking Marketing Intern (oct To Jan 2027)</td><td>Central Region</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Fe Capital Equipment Site Operations</td><td>Fab 10a</td><td>2026-09-20</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Operations & Technology, Risk & Prevention / Quality & Service Management, R&p - Technology Risk Management [january - May 2026]</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Disney</td><td>Intern, Partnership Marketing, Disney+ - Dec 2026 To Jun 2027</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Ssd Assembly Process & Equipment Engineering</td><td>Msb</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - F10 Process & Equipment Engineer</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Nand Device Engineering Ai</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Mfg Wet</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - F10 Adts Ate Dry Etch</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Marsh</td><td>Intern, Talent & Transformation (jan 2027 Intake)</td><td>Marina View</td><td>2026-09-20</td></tr>
+<tr><td>Singapore Government (SGGOVTERP)</td><td>Video Analytics Intern, Properties & Facilities Management</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>nyp.edu.sg</td><td>Caas Internship Programme</td><td>Caa</td><td>2026-09-20</td></tr>
+<tr><td>Singapore Government</td><td>Learning Strategy & Partnerships Intern, Nlb Academy</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Organon</td><td>Intern - Demand Fulfilment Planning</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Zeno Group</td><td>Public Relations Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Corporate Banking, Global Metals And Mining [jan To May 2027]</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Strategy And Transformation Office, Group Sustainability [january – June 2027]</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Operations & Technology, Group Technology Projects - Hr [january - May 2027]</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Tencent Music Entertainment Group</td><td>Ai Compute Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Fund Services Product Management Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Equity-linked Notes Singapore Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>medhunter.de</td><td>Animal Husbandry Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Coty</td><td>Commercial Finance Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Crm Intern</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>International Flavors & Fragrances Inc. (IFF)</td><td>Scent Warehouse Operations Intern</td><td>Chin Bee</td><td>2026-09-20</td></tr>
+<tr><td>GlobalFoundries</td><td>Talent Development Intern (jan-jun 2027)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Disney Cruise Line</td><td>Intern, Marketing Strategy And Media & Social, Disney Cruise Line - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Labcorp</td><td>Intern - Medical Technologist (flow Cytometry)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Labcorp</td><td>Intern - Qc Reviewer (bioa)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Labcorp</td><td>Intern - Medical Technologist (tci)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Grab</td><td>Intern, Marketing And Partnership (grabrentals)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>NEXBRIDGE RECRUITMENT PTE. LTD.</td><td>Full-Stack Engineer (Digital Government Platform)</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>ABSOLUTE KINETICS CONSULTANCY PTE LTD</td><td>IT Systems Support Executive</td><td>Hillview</td><td>2026-09-20</td></tr>
+<tr><td>MAXHUNT RESOURCE PTE. LTD.</td><td>IT Support</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>KDDI ASIA PACIFIC PTE. LTD.</td><td>Service Desk Operator</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>SASCO SENIOR CITIZENS' HOME</td><td>IT Executive</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>NIVABIZ PTE. LTD.</td><td>ITOT Executive – IT Support</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>RAPID RECRUITMENT ASIA PTE. LTD.</td><td>IT Infrastructure Engineer [Central / Up to $5500] RRKC</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>Singapore Recreation Club</td><td>IT Executive</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>INNOVATIVE CONSULTING PTE. LTD.</td><td>Technical Integration Analyst</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>NEOLASER SOLUTIONS PTE. LTD.</td><td>Technical Sales Specialist</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Automation Software Engineer (C# Programming) #10233</td><td>Pioneer</td><td>2026-09-20</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>IT Support Engineer (Junior/ OS/ Network System)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>STAFFKING PTE. LTD.</td><td>Maintenance Planning Engineer (ILS / Technical Support) / 5 Days [R22107578]</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Sonova Group</td><td>It Services Professional</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>ET MARKETING PTE. LTD.</td><td>AI Engineer</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>NAS EDUCATION PTE. LTD.</td><td>AI Product Engineer (Fullstack)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>BEYONDSOFT CONSULTING (SINGAPORE) PTE. LTD.</td><td>AI Engineer</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months Compliance Executive (Up to $4800) #NJN</td><td>Yio Chua Kang</td><td>2026-09-20</td></tr>
+<tr><td>ZHILONG CONSTRUCTION AND ENGINEERING PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>APPLIED ENGINEERING PTE LTD</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>AIA Group</td><td>Actuarial Analyst / Specialist</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>jaxlabs.be</td><td>Credit Officer, Derivaties Competence Centre</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Michael Page Singapore</td><td>Investment Compliance (contract) - Investment Management</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Caterpillar Inc.</td><td>Finance Analyst - Regional Treasury</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>S. Rajaratnam School of International Studies (RSIS)</td><td>Research Engineer Ii (coordination & Api)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Technician, It</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron</td><td>Facilities Technician</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Facilities Technician</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron</td><td>Metrology & Real-time Defect Analysis Technician</td><td>Fab 10N/X</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Manufacturing Technician</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron Technology Inc</td><td>Metrology & Real-time Defect Analysis Technician</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Micron</td><td>Technologist - Fac Upw & Wwtp</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>ALICE CLAUDINE GROUP PTE. LTD.</td><td>Retail Sales Associate</td><td>Islandwide</td><td>2026-09-20</td></tr>
+<tr><td>ATELIER ESTABLISHMENT PTE. LTD.</td><td>Retail Sales Associate (Specialising in Ear Piercing)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Applied Materials</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Programme Coordinator (eating Disorder)</td><td>Singapore</td><td>2026-09-20</td></tr>
+<tr><td>Dogpawz</td><td>Receptionist (part-time Afternoon)</td><td>Singapore</td><td>2026-09-20</td></tr>
 </table>
