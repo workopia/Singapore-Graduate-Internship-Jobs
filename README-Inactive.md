@@ -14933,4 +14933,33 @@
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Assistant / Coaching provided / Career Progression</td><td>Singapore</td><td>2026-09-21</td></tr>
 <tr><td>ROYAL ORG PTE. LTD.</td><td>EVENT & MARKETING ASSISTANT (TRAVEL OPPORTUNITIES)</td><td>Singapore</td><td>2026-09-21</td></tr>
 <tr><td>APSN LTD.</td><td>Programme Executive/Instructor - Centre for Adults (Ang Mo Kio)</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>KINGDOM GOURMET PTE. LTD.</td><td>Service Management Trainee</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>KINGDOM INDULGENCE PTE. LTD.</td><td>Service Management Trainee</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>KINGDOM INDULGENCE PTE. LTD.</td><td>Kitchen Management Trainee</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>KINGDOM GOURMET PTE. LTD.</td><td>Kitchen Management Trainee</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>ONE PLUS ONE HUMAN RESOURCES PTE. LTD.</td><td>MANAGEMENT ASSOCIATE</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>MANDATE OF MANPOWER PTE. LTD.</td><td>MANAGEMENT ASSOCIATE</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>FOCUS MANPOWER PTE. LTD.</td><td>MANAGEMENT ASSOCIATE</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>OCD HANDS PTE. LTD.</td><td>MANAGEMENT ASSOCIATE</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>DAY ONE PTE. LTD.</td><td>MANAGEMENT ASSOCIATE</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>BAKER & COOK PTE. LTD.</td><td>F&B Management Trainee (Service)</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>HANBAOBAO PTE. LTD.</td><td>Restaurant Management Trainee</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Gov Hospital, Entry Level] Management Associate / Trainee (Operations) - UP$4500 #HCY</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Compliance Testing, Internal Audit (6 month contract, Central) / UID:2269</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Regional Operations Excellence Analyst (East / Logistics) [EL]</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Accounting Officer ($3k - $3.4k) #NKC</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Regulatory Compliance/ Monitoring Executive (Up to $5,500) (12 Months Contract) #NKC</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Insurance Sales Compliance Analyst (1 year contract) #NKC</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurse @ Prison - $32/hr #HAC</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>TAN TOCK SENG HOSPITAL PTE LTD</td><td>Enrolled Nurse (Wards/ICU/OT/ED/Outpatient Clinic)</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Aircon Technician</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>Chinese Swimming Club</td><td>Facilities Attendant</td><td>Joo Chiat +2</td><td>2026-09-21</td></tr>
+<tr><td>HKM HR MANAGEMENT PTE. LTD.</td><td>Equipment Technician (Manufacturing/12 hrs. shift/East Region)</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>STRIVE MARKETING GROUP</td><td>Sales Associate</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>ANEMO MARKETING SOLUTIONS</td><td>IMMEDIATE VACANCIES⚡️- Fun Sales Associate (training provided/office hours)</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Jewellery Retail Associate (Diamond Specialist) [6 DAYS / ORCHARD] (KCKC)</td><td>Orchard</td><td>2026-09-21</td></tr>
+<tr><td>HIKERS GLOBAL</td><td>Event Management & Marketing</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Admin Assistant [EL]</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>ANEMO MARKETING SOLUTIONS</td><td>(Fast Start!) Junior Events Marketing- office hours🌍</td><td>Islandwide</td><td>2026-09-21</td></tr>
+<tr><td>DPG CONSULTANCY PTE. LTD.</td><td>Business Support Administrator</td><td>Singapore</td><td>2026-09-21</td></tr>
 </table>
