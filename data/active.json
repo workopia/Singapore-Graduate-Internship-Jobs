@@ -602,6 +602,12 @@
    "role": "🚀 Business Growth Trainee / Career Progression",
    "location": "Singapore"
   },
+  "59e167e1dcede3e5": {
+   "id": "59e167e1dcede3e5",
+   "company": "SIMPLE RECRUIT",
+   "role": "Marketing Trainee🌈🌈",
+   "location": "Singapore"
+  },
   "4472bf52155e36b3": {
    "id": "4472bf52155e36b3",
    "company": "FUTURUM SPACE PTE. LTD.",
@@ -708,6 +714,24 @@
    "id": "9c0bff6a748cd2a78723c0d5c70ec5da",
    "company": "Four Seasons Hotels & Resorts",
    "role": "F&b Emerging Talent Programme (supervisor-in-training)",
+   "location": "Singapore"
+  },
+  "46a743cb5a6d2745": {
+   "id": "46a743cb5a6d2745",
+   "company": "FOR ALL RIGHT 1 PTE. LTD.",
+   "role": "MANAGEMENT ASSOCIATE",
+   "location": "Singapore"
+  },
+  "bc409d2f7b690de6": {
+   "id": "bc409d2f7b690de6",
+   "company": "PULL-TAB COFFEE SINGAPORE PTE. LTD.",
+   "role": "MANAGEMENT ASSOCIATE",
+   "location": "Singapore"
+  },
+  "8520873bb5270ef9": {
+   "id": "8520873bb5270ef9",
+   "company": "SANMINA-SCI SYSTEMS SINGAPORE PTE. LTD.",
+   "role": "ALPS Management Trainee (Bedok)",
    "location": "Singapore"
   },
   "ce9a34ff42b080b7": {
@@ -942,30 +966,6 @@
    "id": "077462081b11a26e",
    "company": "ROYAL ORG PTE. LTD.",
    "role": "Brand Sales and Marketing Trainee: Supported Career Growth",
-   "location": "Singapore"
-  },
-  "1ec7aacade84d894": {
-   "id": "1ec7aacade84d894",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Marketing Trainee: Structured Coaching Provided",
-   "location": "Singapore"
-  },
-  "eadb3e2c5ebc2f59": {
-   "id": "eadb3e2c5ebc2f59",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "YR23- F&B Management Trainee/6 Days/Degree Holder",
-   "location": "Singapore"
-  },
-  "fc85e1be61ac6376": {
-   "id": "fc85e1be61ac6376",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "(Fast Interview Arrange) Management Trainee [F&B/ Min Degree / Up to $3800 ] {hkhdv}",
-   "location": "Singapore"
-  },
-  "b4805712255acf58": {
-   "id": "b4805712255acf58",
-   "company": "111 WORKFORCE SOLUTIONS PTE. LTD.",
-   "role": "Management Associates",
    "location": "Singapore"
   },
   "fcf082f7f0a452686dd5698f40003b97": {
@@ -1376,12 +1376,6 @@
    "role": "Call Centre Assistant / Appointment Booking & Backend Admin / Toa Payoh Healthcare / $10/hr #HYT",
    "location": "Singapore"
   },
-  "25ad60b8183e7afa": {
-   "id": "25ad60b8183e7afa",
-   "company": "VINOVA PTE. LTD.",
-   "role": "Fullstack Engineer",
-   "location": "Singapore"
-  },
   "8e111927c7656b23": {
    "id": "8e111927c7656b23",
    "company": "JJ CONSULTING SERVICES",
@@ -1496,12 +1490,6 @@
    "role": "IT Desktop Support Engineer",
    "location": "Singapore"
   },
-  "69fd2edb3240d6cd": {
-   "id": "69fd2edb3240d6cd",
-   "company": "INTUIT RECRUITMENT PTE. LTD.",
-   "role": "Software/ Full Stack Engineer (React / Node.js/ CMS)",
-   "location": "Central"
-  },
   "43977ee9cba1c92f": {
    "id": "43977ee9cba1c92f",
    "company": "TALENTVIS SINGAPORE PTE. LTD.",
@@ -1590,6 +1578,18 @@
    "id": "e72a06985f7b35922ee5f52cf3b2ad3e",
    "company": "ST Engineering",
    "role": "Uas Software Engineer",
+   "location": "Singapore"
+  },
+  "d2cd665fd87f3da9326f1653263d7a96": {
+   "id": "d2cd665fd87f3da9326f1653263d7a96",
+   "company": "ST Engineering",
+   "role": "Full Stack Engineer (video Analytics)",
+   "location": "Singapore"
+  },
+  "ebb740720f4b98634dbc142598c4004a": {
+   "id": "ebb740720f4b98634dbc142598c4004a",
+   "company": "ST Engineering",
+   "role": "Engineer",
    "location": "Singapore"
   },
   "c91a8b83f5846f53b5326f4464d406a5": {
@@ -3218,6 +3218,12 @@
    "role": "Ib - Gem Trader - Analyst",
    "location": "Singapore"
   },
+  "d184da3b292de146": {
+   "id": "d184da3b292de146",
+   "company": "HANA MOTORS PTE. LTD.",
+   "role": "Accounts",
+   "location": "Singapore"
+  },
   "2bb424793b2bf2e2fbdc660abb8e9c1c": {
    "id": "2bb424793b2bf2e2fbdc660abb8e9c1c",
    "company": "Wesco",
@@ -3494,12 +3500,6 @@
    "role": "Accounts Assistant",
    "location": "Middle Road"
   },
-  "c3cc8b1d271b2902": {
-   "id": "c3cc8b1d271b2902",
-   "company": "HAWKSBURN HERITAGE PTE. LTD.",
-   "role": "ACCOUNTS ASSISTANT",
-   "location": "Middle Road +1"
-  },
   "dcb7f95a6b2d668b": {
    "id": "dcb7f95a6b2d668b",
    "company": "ANRADUS PTE. LTD.",
@@ -3554,12 +3554,6 @@
    "role": "Technical Specialist (natural Sciences And Science Education Department) [nie]",
    "location": "Singapore"
   },
-  "8e7254f724ace3b3": {
-   "id": "8e7254f724ace3b3",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Locum 3 - 6 Months Psychiatric Staff Nurse / Mental Health Nurse @ Private Hospital #HLV",
-   "location": "Singapore"
-  },
   "0a3b7e3bac9e9daa": {
    "id": "0a3b7e3bac9e9daa",
    "company": "PASSION VETERINARY CLINIC PTE. LTD.",
@@ -3607,12 +3601,6 @@
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "TEMP 3 to 6 MTHS DENTAL ASSISTANT (East / North East) - No exp needed #HKH",
    "location": "East +1"
-  },
-  "1b3c77362c6e0e54": {
-   "id": "1b3c77362c6e0e54",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "3 Months Locum Staff Nurse (Clinic Environment) - Up to $29/hr #HLV",
-   "location": "Singapore"
   },
   "6492f20212d057c0": {
    "id": "6492f20212d057c0",
@@ -3980,6 +3968,18 @@
    "role": "Pharmacist",
    "location": "Singapore"
   },
+  "e40420b381cc7f0dac2304b195a0fd1e": {
+   "id": "e40420b381cc7f0dac2304b195a0fd1e",
+   "company": "ICON plc",
+   "role": "Clinical Trial Associate",
+   "location": "Singapore"
+  },
+  "493efb588672babc": {
+   "id": "493efb588672babc",
+   "company": "PEOPLESOLVE PTE. LTD.",
+   "role": "A&E / High Dependency Unit Nurse",
+   "location": "Singapore"
+  },
   "aab8583fc50efb49": {
    "id": "aab8583fc50efb49",
    "company": "ANRADUS PTE. LTD.",
@@ -3997,12 +3997,6 @@
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "Utilities and Maintenance Technician (West) #HHW",
    "location": "Islandwide"
-  },
-  "b94252280bf660b5": {
-   "id": "b94252280bf660b5",
-   "company": "SEARCH PERSONNEL PRIVATE LIMITED",
-   "role": "Maintenance Technician",
-   "location": "Singapore"
   },
   "9171bad4aa623631": {
    "id": "9171bad4aa623631",
@@ -4459,6 +4453,12 @@
    "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
    "role": "Field Service Engineer",
    "location": "North"
+  },
+  "6e31af80c94c8997": {
+   "id": "6e31af80c94c8997",
+   "company": "EATON ELECTRIC (SINGAPORE) PTE. LTD.",
+   "role": "Field Service Engineer",
+   "location": "Singapore"
   },
   "ac3e13c575cdc5da": {
    "id": "ac3e13c575cdc5da",
@@ -5396,6 +5396,18 @@
    "role": "Executive Assistant #HYNA",
    "location": "Singapore"
   },
+  "97daa77c494c40d9": {
+   "id": "97daa77c494c40d9",
+   "company": "V-SWIFT PTE. LTD.",
+   "role": "Non-Teaching Administrative Support",
+   "location": "Singapore"
+  },
+  "cb82ff8b287e63a8": {
+   "id": "cb82ff8b287e63a8",
+   "company": "V-SWIFT PTE. LTD.",
+   "role": "Administration Assistant",
+   "location": "Singapore"
+  },
   "0575ff551176ec0f": {
    "id": "0575ff551176ec0f",
    "company": "BAKER ENGINEERING PTE. LTD.",
@@ -5406,18 +5418,6 @@
    "id": "9f7951c36ea20e60",
    "company": "DISPLAYWORKS PTE. LTD.",
    "role": "Admin Assistant",
-   "location": "Singapore"
-  },
-  "97fc89df53ea748c": {
-   "id": "97fc89df53ea748c",
-   "company": "HONG FA LOGISTICS & ENGINEERING PTE. LTD.",
-   "role": "Administrative Assistant",
-   "location": "Singapore"
-  },
-  "d5c1acde58219741": {
-   "id": "d5c1acde58219741",
-   "company": "NIGHT EAGLES PTE. LTD.",
-   "role": "ADMIN ASSISTANT",
    "location": "Singapore"
   }
  }

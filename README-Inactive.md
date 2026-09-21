@@ -14962,4 +14962,16 @@
 <tr><td>WECRUIT PTE. LTD.</td><td>Admin Assistant [EL]</td><td>Islandwide</td><td>2026-09-21</td></tr>
 <tr><td>ANEMO MARKETING SOLUTIONS</td><td>(Fast Start!) Junior Events Marketing- office hours🌍</td><td>Islandwide</td><td>2026-09-21</td></tr>
 <tr><td>DPG CONSULTANCY PTE. LTD.</td><td>Business Support Administrator</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing Trainee: Structured Coaching Provided</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>YR23- F&B Management Trainee/6 Days/Degree Holder</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>(Fast Interview Arrange) Management Trainee [F&B/ Min Degree / Up to $3800 ] {hkhdv}</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>111 WORKFORCE SOLUTIONS PTE. LTD.</td><td>Management Associates</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Fullstack Engineer</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Software/ Full Stack Engineer (React / Node.js/ CMS)</td><td>Central</td><td>2026-09-21</td></tr>
+<tr><td>HAWKSBURN HERITAGE PTE. LTD.</td><td>ACCOUNTS ASSISTANT</td><td>Middle Road +1</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum 3 - 6 Months Psychiatric Staff Nurse / Mental Health Nurse @ Private Hospital #HLV</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Locum Staff Nurse (Clinic Environment) - Up to $29/hr #HLV</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>SEARCH PERSONNEL PRIVATE LIMITED</td><td>Maintenance Technician</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>HONG FA LOGISTICS & ENGINEERING PTE. LTD.</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>NIGHT EAGLES PTE. LTD.</td><td>ADMIN ASSISTANT</td><td>Singapore</td><td>2026-09-21</td></tr>
 </table>
