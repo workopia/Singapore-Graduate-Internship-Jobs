@@ -15020,4 +15020,29 @@
 <tr><td>V-SWIFT PTE. LTD.</td><td>Administration Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
 <tr><td>BAKER ENGINEERING PTE. LTD.</td><td>ADMIN ASSISTANT</td><td>Singapore</td><td>2026-09-22</td></tr>
 <tr><td>DISPLAYWORKS PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Digital Solutions Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>JAPAN FOODS BRIDGE PTE. LTD.</td><td>Management Trainee 5/8 Off Days per month</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>U3 SOLUTIONS PTE. LTD.</td><td>Vulnerability Management Operations Analyst</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp QC Technician – Science MNC / Up to $2,500 #HHLT</td><td>Gul Circle</td><td>2026-09-22</td></tr>
+<tr><td>V-SWIFT PTE. LTD.</td><td>Laboratory Resource Support Executive (Jurong)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Clinical Trial Laboratory Technician / 12-Month Contract / Up to $20/Hour / 3-4 Days/Week #HCT</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Technical Specialist (Natural Sciences and Science Education Department) [NIE]</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>THE PERSE SCHOOL (SINGAPORE) PTE. LTD.</td><td>Science Laboratory Technician</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Food Lab Technician</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>DYNAMIC SAFETY PTE. LTD.</td><td>Laboratory Resource Support Executive</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Pharmacist</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ICON plc</td><td>Clinical Trial Associate</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>TYSON JAY MANAGEMENT PTE. LTD.</td><td>Facilities Technical Executive (Building Systems) - up to $2,500 / 6 days</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>⚡Sales & Marketing [No experience needed]</td><td>Hougang +4</td><td>2026-09-22</td></tr>
+<tr><td>P D DOOR PTE. LTD.</td><td>Store Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>511 HABIB DELIGHTS PTE. LTD.</td><td>STORE ASSISTANT</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Entry-Level Events Coordinator [Training Provided] 🌈</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Entry-level Marketing & Event Trainee (Overseas Travel Opportunities 🌎)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>TÜV SÜD</td><td>Administrator (temp)</td><td>South West</td><td>2026-09-22</td></tr>
+<tr><td>ZEN CAREER PTE. LTD.</td><td>Retail Assistant (5 days)</td><td>Central</td><td>2026-09-22</td></tr>
+<tr><td>GRAND VENTURE TECHNOLOGY PRIVATE LIMITED</td><td>Admin Assistant</td><td>Changi</td><td>2026-09-22</td></tr>
+<tr><td>AV FACILITIES PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>KUMPULAN DEVELOPMENT (S) PTE LTD</td><td>Service Admin Assistant</td><td>Changi</td><td>2026-09-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Executive Assistant #HYNA</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>V-SWIFT PTE. LTD.</td><td>Non-Teaching Administrative Support</td><td>Singapore</td><td>2026-09-22</td></tr>
 </table>
