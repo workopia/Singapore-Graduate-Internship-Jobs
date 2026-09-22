@@ -15314,4 +15314,5 @@
 <tr><td>SEARCH PERSONNEL PRIVATE LIMITED</td><td>Operations Coordinator</td><td>Singapore</td><td>2026-09-22</td></tr>
 <tr><td>LEWE ENGINEERING PTE LTD</td><td>Workplace Safety Health Supervisor/ WSH Coordinator</td><td>Singapore</td><td>2026-09-22</td></tr>
 <tr><td>TALENTSTAR HR SOLUTION</td><td>Part-time HR Assistant (Remote)</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>CELECTI PTE. LTD.</td><td>Dental Assistant (North/ North-East)</td><td>Singapore</td><td>2026-09-22</td></tr>
 </table>
