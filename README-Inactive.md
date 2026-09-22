@@ -14974,4 +14974,50 @@
 <tr><td>SEARCH PERSONNEL PRIVATE LIMITED</td><td>Maintenance Technician</td><td>Singapore</td><td>2026-09-21</td></tr>
 <tr><td>HONG FA LOGISTICS & ENGINEERING PTE. LTD.</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-21</td></tr>
 <tr><td>NIGHT EAGLES PTE. LTD.</td><td>ADMIN ASSISTANT</td><td>Singapore</td><td>2026-09-21</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Intern - Global Energy Management (gem)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Regional Brand & Communications Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>EDP - ENERGIAS DE PORTUGAL S.A</td><td>Intern, Design & Engineering</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ONE NORTH MARKETING</td><td>🚀 Sales & Marketing Executive Intern</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>CYNAPSE PTE. LTD.</td><td>AI Evaluation & Quality Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ABER CARE PTE. LTD.</td><td>Human Resource Intern / Office Hour (MON - FRI)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>CYNAPSE PTE. LTD.</td><td>Project Management Officer (PMO) / Quality Assurance (QA) Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>JR FOODS PTE. LTD.</td><td>Human Resources (HR) Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>GAIA LIFESTYLE HOLDINGS PTE. LTD.</td><td>Family Office – Household Operations Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>COMMERZBANK AKTIENGESELLSCHAFT</td><td>Compliance Intern (1 Year)</td><td>Golden Mile</td><td>2026-09-22</td></tr>
+<tr><td>8M REAL ESTATE PRIVATE LIMITED</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>33 AUCTION PTE. LTD.</td><td>Auction Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>WATSON'S PERSONAL CARE STORES PTE LTD</td><td>Marketing Intern (CRM)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>PENANSHIN SHIPPING PTE. LTD.</td><td>Digital Marketing Intern (6 Months Contract)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>NANOLUMI PTE. LTD.</td><td>Marketing & Communications Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>PROTEIN PLUS GROUP PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Coty Inc.</td><td>Project Management Intern, Visual Merchandising</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Coty Inc.</td><td>Digital Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Coty Inc.</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>UOB Group</td><td>Chief Operating Officer Office Intern (jan - Aug 2027)</td><td>Central Region</td><td>2026-09-22</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Global Commercial Banking, Emerging Business, Acquisition [november 2026 - June 2027]</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Global Commercial Banking, Enterprise Banking, Eb Services [dec26 To May27]</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Global Transaction Banking, Global Financial Institutions, Credit Analyst [jan To May 2027]</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Logicalis</td><td>Network Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>pepperl-fuchs</td><td>Supply Chain Planning Internship</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Intern, Business Digital Office</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Bosch Rexroth</td><td>Intern, Learning & Development</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Intern, Hr</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>BLOOM TO SUCCESS</td><td>Part time/Student Management Trainee</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>JIN XUAN RESTAURANT PTE. LTD.</td><td>F&B MANAGEMENT EXECUTIVE TRAINEE</td><td>Tanjong Pagar</td><td>2026-09-22</td></tr>
+<tr><td>BOMUL HOLDINGS PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-09-22</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales and Marketing Trainee: Entry Level</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Brand Sales and Marketing Trainee: Supported Career Growth</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>ST Engineering</td><td>Engineer</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>LOTUSIA PTE. LTD.</td><td>Accounting Intern</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Entry Level Bank Trade Operations (Contract) #ESY</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>GOLDMAN SACHS SERVICES (SINGAPORE) PTE. LTD.</td><td>Global Banking & Markets, Operations, Equities Synthetic Client Operations, Analyst, Singapore</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>U VENTURES PTE. LTD.</td><td>Accounts Assistant</td><td>Middle Road</td><td>2026-09-22</td></tr>
+<tr><td>PEOPLESOLVE PTE. LTD.</td><td>A&E / High Dependency Unit Nurse</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Field Service Engineer</td><td>North</td><td>2026-09-22</td></tr>
+<tr><td>EATON ELECTRIC (SINGAPORE) PTE. LTD.</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>SHAW SERVICES (PTE) LIMITED.</td><td>Customer Service Officers for Shaw Theatres ( Full/ Part Time )</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>V-SWIFT PTE. LTD.</td><td>Administration Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>BAKER ENGINEERING PTE. LTD.</td><td>ADMIN ASSISTANT</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>DISPLAYWORKS PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-22</td></tr>
 </table>
