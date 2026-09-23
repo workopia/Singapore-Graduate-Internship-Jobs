@@ -15354,4 +15354,14 @@
 <tr><td>NOVEX ORGANIZATION</td><td>⚡Sales & Marketing [No experience needed]</td><td>Hougang +4</td><td>2026-09-23</td></tr>
 <tr><td>WAVEWORKS</td><td>B2B Sales 😎 / No Experience Required 🙈/ Weekly Payout ✨ / Uncapped Earnings 💵</td><td>Islandwide</td><td>2026-09-23</td></tr>
 <tr><td>CAREER PRODUCTIONS</td><td>🔥 Client Relationship Sales Associate 🔥 $3000 Salary + Comms ($8000-$10000 Monthly) 🔥 100% Customers Provided 🔥</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>Mercer</td><td>Intern, Talent & Transformation (jan 2027 Intake)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>APBA TG HUMAN RESOURCE PTE. LTD.</td><td>Temp HR Intern II 6 Months Contract II Central</td><td>Tanjong Pagar</td><td>2026-09-23</td></tr>
+<tr><td>MOXO PTE. LTD.</td><td>Business Development Representative (BDR) Intern – AI & Workflow Automation</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>TYKF AND PARTNERS</td><td>Financial Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>NEW LIFE TECH PTE. LTD.</td><td>IT Support & Laptop Technician Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>WAVEWORKS</td><td>Oct Intake!!✨Marketing Crew (Entry Level, Travel Opportunities)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>HARDDRIVE</td><td>Marketing and Sales Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Ai Builder Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>G75 - Full Stack Engineer</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>KLEIN BLUE EVENTS PTE. LTD.</td><td>Events & Operations Executive</td><td>Singapore</td><td>2026-09-23</td></tr>
 </table>

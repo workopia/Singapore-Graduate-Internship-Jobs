@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-23",
- "count": 905,
+ "count": 908,
  "jobs": {
   "2648640": {
    "id": "2648640",
@@ -158,6 +158,48 @@
    "role": "Intern, Marketing & Partnerships (catapult) (jan - Jun 2027)",
    "location": "West Singapore"
   },
+  "9545721867e585c16cf4f6a2fd9fcdd3": {
+   "id": "9545721867e585c16cf4f6a2fd9fcdd3",
+   "company": "Coty",
+   "role": "E-commerce Intern",
+   "location": "Singapore"
+  },
+  "6cf5848916e9ed9d7af7c537d7112913": {
+   "id": "6cf5848916e9ed9d7af7c537d7112913",
+   "company": "Ecolab Pty Ltd",
+   "role": "Human Resources Internship (2027)",
+   "location": "Singapore"
+  },
+  "370fb757dcd650e72d6e233879057dd3": {
+   "id": "370fb757dcd650e72d6e233879057dd3",
+   "company": "Disney Enterprises Inc",
+   "role": "Intern, Global Security Operations, Southeast Asia - Jan To Jun 2027",
+   "location": "Singapore"
+  },
+  "632f9686484f19ec7b5f32ae95630c9a": {
+   "id": "632f9686484f19ec7b5f32ae95630c9a",
+   "company": "Disney Enterprises Inc",
+   "role": "Intern, Regional Marketing, Disney Consumer Products - Jan To Jun 2027",
+   "location": "Singapore"
+  },
+  "e23f87af9a7240eea8122c335c0163fe": {
+   "id": "e23f87af9a7240eea8122c335c0163fe",
+   "company": "Disney Enterprises Inc",
+   "role": "Intern, Apac Retail Marketing, Disney Consumer Products - Jan To Jun 2027",
+   "location": "Singapore"
+  },
+  "20e605638c7d40d9bbb9d94bd84aca20": {
+   "id": "20e605638c7d40d9bbb9d94bd84aca20",
+   "company": "ING",
+   "role": "Intern, Transport And Logistics",
+   "location": "Singapore"
+  },
+  "22f50e63a0ebf6aefbf5fdca686232bc": {
+   "id": "22f50e63a0ebf6aefbf5fdca686232bc",
+   "company": "Coty Inc.",
+   "role": "E-commerce Intern",
+   "location": "Singapore"
+  },
   "84b1f6a02e5ee14addb7b14894f27fcb": {
    "id": "84b1f6a02e5ee14addb7b14894f27fcb",
    "company": "COFCO International",
@@ -192,6 +234,12 @@
    "id": "ec87089e39c73b3b4dede7bd36909cfd",
    "company": "Micron Technology Inc",
    "role": "Intern - Test Solutions, Nvm",
+   "location": "Singapore"
+  },
+  "b98182e023129c0244bd6f8a21745bcc": {
+   "id": "b98182e023129c0244bd6f8a21745bcc",
+   "company": "Schneider Electric",
+   "role": "Hub Asia Transport Intern",
    "location": "Singapore"
   },
   "10cad7ae9f13b2654eab1e874e7100f2": {
@@ -438,54 +486,6 @@
    "id": "ea4df7eeccb789a538ef2dda56eac2d3",
    "company": "Deutsche Boerse AG",
    "role": "Intern, Human Resources",
-   "location": "Singapore"
-  },
-  "c100c2b421d35cd15baa7324cc387a8e": {
-   "id": "c100c2b421d35cd15baa7324cc387a8e",
-   "company": "Mercer",
-   "role": "Intern, Talent & Transformation (jan 2027 Intake)",
-   "location": "Singapore"
-  },
-  "e16a998703a0de3c": {
-   "id": "e16a998703a0de3c",
-   "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
-   "role": "Temp HR Intern II 6 Months Contract II Central",
-   "location": "Tanjong Pagar"
-  },
-  "5515af1246ef1561": {
-   "id": "5515af1246ef1561",
-   "company": "MOXO PTE. LTD.",
-   "role": "Business Development Representative (BDR) Intern – AI & Workflow Automation",
-   "location": "Singapore"
-  },
-  "da84ffa1ce79d67e": {
-   "id": "da84ffa1ce79d67e",
-   "company": "TYKF AND PARTNERS",
-   "role": "Financial Intern",
-   "location": "Singapore"
-  },
-  "566f60f366e19e1c": {
-   "id": "566f60f366e19e1c",
-   "company": "NEW LIFE TECH PTE. LTD.",
-   "role": "IT Support & Laptop Technician Intern",
-   "location": "Singapore"
-  },
-  "e1d4fe43b1b50a38": {
-   "id": "e1d4fe43b1b50a38",
-   "company": "WAVEWORKS",
-   "role": "Oct Intake!!✨Marketing Crew (Entry Level, Travel Opportunities)",
-   "location": "Singapore"
-  },
-  "8486826a4f8081ae": {
-   "id": "8486826a4f8081ae",
-   "company": "HARDDRIVE",
-   "role": "Marketing and Sales Intern",
-   "location": "Singapore"
-  },
-  "4c4b14d4cb330f2e2575415b3d6acbfb": {
-   "id": "4c4b14d4cb330f2e2575415b3d6acbfb",
-   "company": "Zurich Insurance UK",
-   "role": "Ai Builder Intern",
    "location": "Singapore"
   },
   "2781ab38f6059fc0": {
@@ -1130,6 +1130,12 @@
    "role": "Software Engineer, Google Wallet, Physical Access",
    "location": "Singapore"
   },
+  "714192a7b9012a1d1d55e34278fb2a9b": {
+   "id": "714192a7b9012a1d1d55e34278fb2a9b",
+   "company": "Mimecast",
+   "role": "Associate Technical Support Engineer",
+   "location": "Singapore"
+  },
   "7fdc7de2a51dc19c": {
    "id": "7fdc7de2a51dc19c",
    "company": "ARGYLL SCOTT CONSULTING PTE. LTD.",
@@ -1592,10 +1598,22 @@
    "role": "Full Stack Engineer",
    "location": "Islandwide"
   },
-  "08de661a5d8d5b2b": {
-   "id": "08de661a5d8d5b2b",
-   "company": "FPT ASIA PACIFIC PTE. LTD.",
-   "role": "G75 - Full Stack Engineer",
+  "9e54b6fd155d754e9b0e83d745114300": {
+   "id": "9e54b6fd155d754e9b0e83d745114300",
+   "company": "Ensigninfosecurity",
+   "role": "Intern, Ai Engineer",
+   "location": "Singapore"
+  },
+  "81d9f5425f2d9cb9aea3e131a98bbfdf": {
+   "id": "81d9f5425f2d9cb9aea3e131a98bbfdf",
+   "company": "UOB Group",
+   "role": "Genai And Data Analytics Intern (jan - Dec 2027)",
+   "location": "Central Region"
+  },
+  "8c3497496013dc70240f4d5f505192ca": {
+   "id": "8c3497496013dc70240f4d5f505192ca",
+   "company": "Disney Enterprises Inc",
+   "role": "Intern, Apac Data Analytics (subscriber Analytics), Disney+ - Jan To Jun 2027",
    "location": "Singapore"
   },
   "563808971515592": {
@@ -5078,6 +5096,12 @@
    "role": "Events Marketing Associate (No Experience Needed)",
    "location": "Singapore"
   },
+  "93820ff80ea0ad01e41fd419180f3611": {
+   "id": "93820ff80ea0ad01e41fd419180f3611",
+   "company": "Singapore Health Services Pte Ltd",
+   "role": "Programme Coordinator (eating Disorder)",
+   "location": "Singapore"
+  },
   "bbfaea738d9f7f9b18ffc687efe355fc": {
    "id": "bbfaea738d9f7f9b18ffc687efe355fc",
    "company": "Informa PLC",
@@ -5424,12 +5448,6 @@
    "id": "8ce5941de6dac71e",
    "company": "SIMPLE RECRUIT",
    "role": "🌈 Events Trainee (Travel Opportunities)",
-   "location": "Singapore"
-  },
-  "b13a16a34634beca": {
-   "id": "b13a16a34634beca",
-   "company": "KLEIN BLUE EVENTS PTE. LTD.",
-   "role": "Events & Operations Executive",
    "location": "Singapore"
   }
  }
