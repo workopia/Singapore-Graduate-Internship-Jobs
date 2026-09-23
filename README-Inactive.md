@@ -15315,4 +15315,43 @@
 <tr><td>LEWE ENGINEERING PTE LTD</td><td>Workplace Safety Health Supervisor/ WSH Coordinator</td><td>Singapore</td><td>2026-09-22</td></tr>
 <tr><td>TALENTSTAR HR SOLUTION</td><td>Part-time HR Assistant (Remote)</td><td>Islandwide</td><td>2026-09-22</td></tr>
 <tr><td>CELECTI PTE. LTD.</td><td>Dental Assistant (North/ North-East)</td><td>Singapore</td><td>2026-09-22</td></tr>
+<tr><td>Zurich Insurance UK</td><td>Planning & Performance Management Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>OMRON Corporation</td><td>Intern - Regional Marketing</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>CoreOS</td><td>Deal Architect Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Micron</td><td>Intern - Msb Test Engineering</td><td>Msb</td><td>2026-09-23</td></tr>
+<tr><td>Micron</td><td>Intern - Hig Pse Ie Management</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Micron</td><td>Intern - Pie Pi (product Integration Engineering, Process Integration)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Micron</td><td>Intern - F10 Process Integration Analytics</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Micron</td><td>Intern - F10 Photo Pee</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Cera Mite Corp</td><td>Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Herbert Smith Freehills Kramer</td><td>Intern, People Team</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Operations & Technology, Group Engineering – Wealth [january - May 2026]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Operations & Technology, Group Engineering – Loan Origination [january - May 2026]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Operations & Technology, Group Engineering – Trade & Payments [january - May 2026]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Operations & Technology, Group Technology Services – Data Centre & Disaster Recovery [january - May 2026]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Finance, Group Tax Advisory, Governance, Planning & Incentives, Tp [dec26 To Jun27]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Bank of Singapore</td><td>Internship: Group Operations & Technology, Group Engineering – Enterprise Data Management [january - May 2026]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Coty</td><td>Digital Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Coty</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Coty</td><td>Project Management Intern, Visual Merchandising</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Coty</td><td>Marketing Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>HPE (Hewlett Packard Enterprise)</td><td>Data Analytics (supply Chain) Intern</td><td>Central Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Eicoff</td><td>Intern, Pr&i - Consumer/corporate (sept 2026 - Mar 2027)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Disney Cruise Line</td><td>Intern, Communications, Disney Cruise Line - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Disney Cruise Line</td><td>Intern, Partnerships & Synergy Marketing, Disney Cruise Line - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Disney Consumer Products</td><td>Intern, Apac Retail Marketing, Disney Consumer Products - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>EMINENCE ORGANIZATION PTE. LTD.</td><td>🌈 Events Management Trainee (Training Provided) 🌈</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>ALTIUS ORG</td><td>(Entry Level) SALES MANAGEMENT TRAINEE</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Events Management (Training Provided) 🌈</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>ASIACLOUD SOLUTIONS PRIVATE LIMITED</td><td>IT Support Engineer (Entry-Mid Level)</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>IT Support Engineer #10118</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Data Analyst (ddoit)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Data Scientist (dmsmc)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Mastercard</td><td>Business Analyst Ii</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>UNITED MICROELECTRONICS CORPORATION (SINGAPORE BRANCH)</td><td>Accountant</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[No Interview, AM Part-Time] Basic Care Assistant (Work with friends!) - $11/hr #HLV</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>PART TIME 4 HOURS ONLY / NO INTERVIEW / Care Assistant / 8AM–12PM / No Experience Required / Novena #HYT</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>⚡Sales & Marketing [No experience needed]</td><td>Hougang +4</td><td>2026-09-23</td></tr>
+<tr><td>WAVEWORKS</td><td>B2B Sales 😎 / No Experience Required 🙈/ Weekly Payout ✨ / Uncapped Earnings 💵</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>CAREER PRODUCTIONS</td><td>🔥 Client Relationship Sales Associate 🔥 $3000 Salary + Comms ($8000-$10000 Monthly) 🔥 100% Customers Provided 🔥</td><td>Islandwide</td><td>2026-09-23</td></tr>
 </table>
