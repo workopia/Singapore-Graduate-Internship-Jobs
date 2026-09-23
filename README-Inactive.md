@@ -15364,4 +15364,16 @@
 <tr><td>Zurich Insurance UK</td><td>Ai Builder Intern</td><td>Singapore</td><td>2026-09-23</td></tr>
 <tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>G75 - Full Stack Engineer</td><td>Singapore</td><td>2026-09-23</td></tr>
 <tr><td>KLEIN BLUE EVENTS PTE. LTD.</td><td>Events & Operations Executive</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Human Resources</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>Sime Motors Singapore</td><td>Management Trainee (2026)</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>ABSOLUTE KINETICS CONSULTANCY PTE LTD</td><td>Business Development Management Trainee</td><td>Hillview</td><td>2026-09-23</td></tr>
+<tr><td>RAPSYS TECHNOLOGIES PTE. LTD.</td><td>Full Stack Engineer</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>Icapitalnetwork</td><td>Compliance Officer - Assistant Vice President / Vice President</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Min 3 days, Nursing Exp] 3 Months Locum Care Support Assistant (HCA/CSA)- $18/hr #HLV</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Changi / Manufacturing Technician / Medical Device MNC / NITEC / Diploma / 12-Hr Shift + Islandwide Transport #HYT</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Manufacturing Technician / $3,400 / Shift Work #HMs</td><td>Gul Circle</td><td>2026-09-23</td></tr>
+<tr><td>NXTLVL.UP</td><td>🚀 Brand Experience Associate 🚀</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>ELITEWORKS</td><td>SALES & MARKETING [ENCOURAGING TEAM CULTURE 🔥]</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>SKILLMATCH RECRUITMENT</td><td>🎪 EVENTS SERVICES COORDINATOR 🎪</td><td>Islandwide</td><td>2026-09-23</td></tr>
+<tr><td>SIMPLE RECRUIT</td><td>🌈 Events Trainee (Travel Opportunities)</td><td>Singapore</td><td>2026-09-23</td></tr>
 </table>
