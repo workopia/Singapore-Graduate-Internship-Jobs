@@ -15457,4 +15457,67 @@
 <tr><td>EA RECRUITMENT PTE. LTD.</td><td>Operations / Logistics Executive (Freight Forwarding / Shipping / Import Export)</td><td>Changi</td><td>2026-09-23</td></tr>
 <tr><td>AURATALENTSG</td><td>💎 Events Coordinator Executives (Traveling Opportunities + Training Provided) 💎</td><td>Singapore</td><td>2026-09-23</td></tr>
 <tr><td>AURATALENTSG</td><td>💎 Events Management Associates (Training Provided) 💎</td><td>Singapore</td><td>2026-09-23</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Group Tax Advisory, Non-fi Subsidiaries & Npap [dec26 To Jun27]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Commercial Banking Division, Emb International, Programme Management And Robotics, Emb Programme Management [dec 2026 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Transaction Banking Division, Global Transaction Banking, Global Trade Finance [jan 2027 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Transaction Banking Division, Global Transaction Banking, Product Development & Channels [jan 2027 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Corporate Banking Division, Gwb - Digital Transformation And Modernisation Office, Gwb Modernisation Platform [jan 2027 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Commercial Banking Division, Eb International [jan 2027 - Aug 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Group Tax Advisory, Transfer Pricing [dec26 To Jun27]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Treasury Financial Control & Advisory, Product Control [dec26 To May27]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Divisional Office [jan To May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Treasury Financial Control & Advisory, Accounting [dec26 To May27]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Risk Management, Group Non-financial Risk Management, Group Operational Risk Management (implementation) [jan To May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Intership: Global Transaction Banking Division, Global Transaction Banking, Cash Product [jan 2027 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Group Finance, Digital Finance [dec26 To Jun27]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Transaction Banking Division, Global Financial Institutions, Gfi - Nbfi [january 2027 - May 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Investment Banking Division, Loan Capital Markets [dec 2026 - Jun 2027]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Mondelēz International</td><td>Gum & Candy R&d Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>JTA CONSULTANCY</td><td>Finance Intern</td><td>D05 Pasir Panjang</td><td>2026-09-24</td></tr>
+<tr><td>SAVILLS PROPERTY MANAGEMENT PTE. LTD.</td><td>Mass communication Internship</td><td>Islandwide</td><td>2026-09-24</td></tr>
+<tr><td>LVMG PTE. LTD.</td><td>BRAND EXPERIENCE CREW (FRESH GRADS / ORD PERSONNEL / ENTRY-LVL / INTERNS)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>FOO KON TAN SERVICES PTE. LTD.</td><td>Capital Governance Intern</td><td>Marina</td><td>2026-09-24</td></tr>
+<tr><td>IN.CORP BUSINESS SERVICES PTE. LTD.</td><td>HR Admin Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>WHITE BEEHOON RESTAURANT PTE. LTD.</td><td>HR & Recruitment Executive / Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>BW GROUP</td><td>Communications Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>HABIB BANK LIMITED</td><td>Intern - Corporate Support Services</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>SIA ENGINEERING COMPANY LIMITED</td><td>HRBP (Base Maintenance) Intern</td><td>Changi</td><td>2026-09-24</td></tr>
+<tr><td>LOBB HENG PTE LTD</td><td>Trading Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>HONG YE GROUP PTE. LTD.</td><td>Marketing & Events Coordinator Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>ANGEL GARDEN STUDIO PTE. LTD.</td><td>Intern Hairdresser Assistant</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>ONE TECH STOP PTE. LTD.</td><td>Low-Code/AI-Assisted Developer Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RED ALPHA CYBERSECURITY PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>❤️‍🔥⭐️ Marketing Team (Fresh Grads!)</td><td>D01 Marina</td><td>2026-09-24</td></tr>
+<tr><td>IPRECIATION PTE LTD</td><td>Business Marketing Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>WHITE BEEHOON RESTAURANT PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>HYPERSCAL SOLUTIONS PTE. LTD.</td><td>Intern, Marketing</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>PIL UAE LLC</td><td>Corporate Communications & Marketing Intern</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Coty Inc</td><td>Marketing Intern, Regional Prestige</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>Sales Management Associate</td><td>Marina +4</td><td>2026-09-24</td></tr>
+<tr><td>Sonova Group</td><td>Software Engineer, Product & Project Focus (medical Device Business)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Call Centre Assistant / Appointment Booking & Backend Admin / Toa Payoh Healthcare / $10/hr #HYT</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Fullstack Engineer</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>JJ CONSULTING SERVICES</td><td>Threat Intel Analyst</td><td>Islandwide</td><td>2026-09-24</td></tr>
+<tr><td>BULLIONSTAR PTE. LTD.</td><td>IT Support Specialist</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>CCTV / Alarms Technical Specialist</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Micron</td><td>Staff Data Scientist, Global Operations Intelligence, Smai</td><td>Fab 10a</td><td>2026-09-24</td></tr>
+<tr><td>FONDAQUIP PTE LTD</td><td>Admin Accounts Assistant</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>AV FACILITIES PTE. LTD.</td><td>ACCOUNTS ASSISTANT</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Ntuitive Pte Ltd</td><td>Research Associate (communication Studies/psychology/social Sciences/education)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>National Institute of Education</td><td>Technical Specialist (natural Sciences And Science Education Department) [nie]</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>PASSION VETERINARY CLINIC PTE. LTD.</td><td>Part time Veterinary Technician / Nurse</td><td>Kranji +3</td><td>2026-09-24</td></tr>
+<tr><td>ASHFORD DENTAL CENTRE BEDOK PTE. LTD.</td><td>Dental Nurse</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>GOING HOME</td><td>Cat Care Assistant</td><td>Raffles Place</td><td>2026-09-24</td></tr>
+<tr><td>ONE ORIENTAL TCM PTE. LTD.</td><td>Assistant TCM Physiotherapist</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Neste Oyj</td><td>Technician</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>CROWNE PLAZA CHANGI AIRPORT</td><td>Technician</td><td>Changi</td><td>2026-09-24</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Maintenance Technician / Must have experience in Lift Industry {hkhdv}</td><td>Islandwide</td><td>2026-09-24</td></tr>
+<tr><td>SEIKI GLOBAL TECHNOLOGY PTE. LTD.</td><td>SERVICE ENGINEERS / ASSISTANT SERVICE ENGINEERS</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>CONTAINERS PRINTERS PTE LTD</td><td>Mechanical Technician</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>APPLIED TOTAL CONTROL TREATMENT PTE. LTD.</td><td>Maintenance Engineer</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>STMICROELECTRONICS PTE LTD</td><td>Assistant Maintenance Engineer-JR9912</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Retail Pharmacy Warehouse Associate / $11/Hour / Long-Term Renewable #HHLT</td><td>Bukit Merah</td><td>2026-09-24</td></tr>
+<tr><td>THE NATIONAL FORWARDER (SINGAPORE) PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Changi</td><td>2026-09-24</td></tr>
+<tr><td>MARITEC PTE. LTD.</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>GREYFORM PTE. LTD.</td><td>PRECAST PROJECT COORDINATOR</td><td>Singapore</td><td>2026-09-24</td></tr>
 </table>
