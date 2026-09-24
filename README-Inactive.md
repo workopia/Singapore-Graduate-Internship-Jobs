@@ -15962,4 +15962,23 @@
 <tr><td>JSTT CONSTRUCTION PTE. LTD.</td><td>PROJECT COORDINATOR</td><td>Little India</td><td>2026-09-24</td></tr>
 <tr><td>SEACARE MANPOWER SERVICES PTE LTD</td><td>AI & Technology Project Executive (Novena)</td><td>Singapore</td><td>2026-09-24</td></tr>
 <tr><td>AGA ARCHITECTS PRIVATE LIMITED</td><td>Project Coordinator BIM</td><td>Tanjong Pagar</td><td>2026-09-24</td></tr>
+<tr><td>CLOSIO CATALYST</td><td>Marketing & Sales Trainee</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>NETS</td><td>Service Management Associate</td><td>Braddell</td><td>2026-09-24</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & People Management Trainee (Overseas Trips, No Exp Needed)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>KRISTAL ADVISORS (SG) PTE. LTD.</td><td>AI Engineer</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>Google</td><td>Business Finance Analyst, Central Intelligence And Analytics</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>R&D Technician /5 days work /Fresh grad welcome @Senoko</td><td>Islandwide</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Lab Ops Coordinator (Sci MNC) – 1 Year Contract #HHL</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>PANCCARE MEDICAL CLINIC PTE. LTD.</td><td>Locum Registered Nurse (West)</td><td>Jurong +3</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>🩺 Renal Trained Staff Nurse / [Start Immediately, No Overnight Shifts!] – #HJZ</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>(Fast Hiring) Junior Equipment Technician / Up to $3200 / 3-5 Days / North Area- QQ</td><td>North Area</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Patient Service Associate (Booking office) #HZO</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>$2800 Call Centre Assistant #ESS</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>THE WORK PROJECT MANAGEMENT PTE. LTD.</td><td>Community Associate (Customer Service)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>ORIENTAL EMPLOYMENT PTE. LTD.</td><td>SUPERVISOR</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>OAKTREE CONSULTING</td><td>Operations Officer(Dip/Deg in Logistics, Town, No Exp Needed, Shipping Industry)</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Events Coordinator Executive #ESY</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>AURATALENTSG</td><td>✨ Events Coordinator Executives (Traveling Opportunities + Training Provided) ✨</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>QUARTZ GLOBAL PTE. LTD.</td><td>Brand Event Executive</td><td>Singapore</td><td>2026-09-24</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Safety Coordinator (Construction/Building) (YS81)</td><td>Singapore</td><td>2026-09-24</td></tr>
 </table>
