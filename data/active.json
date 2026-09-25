@@ -122,6 +122,30 @@
    "role": "❤️‍🔥⭐️ Marketing Team (Fresh Grads!)",
    "location": "D01 Marina"
   },
+  "09152e17a9865e1a2a6a4b6875a44dcb": {
+   "id": "09152e17a9865e1a2a6a4b6875a44dcb",
+   "company": "Coty",
+   "role": "Marketing Intern, Distributor Markets",
+   "location": "Singapore"
+  },
+  "28a036ea656906f366cb7b8dc6b0e1e5": {
+   "id": "28a036ea656906f366cb7b8dc6b0e1e5",
+   "company": "Coty",
+   "role": "Procurement Logistics Intern",
+   "location": "Singapore"
+  },
+  "335fd048346b7bfad0d082dd1f770b44": {
+   "id": "335fd048346b7bfad0d082dd1f770b44",
+   "company": "Coty",
+   "role": "Supply Chain Intern",
+   "location": "Singapore"
+  },
+  "d08f67147c05bc869bf41249ea86d08d": {
+   "id": "d08f67147c05bc869bf41249ea86d08d",
+   "company": "Standard Chartered Bank",
+   "role": "Markets Intern Sg 2027",
+   "location": "Singapore"
+  },
   "8f7dd90081e854a7637afbe977bd3ef5": {
    "id": "8f7dd90081e854a7637afbe977bd3ef5",
    "company": "Coty Inc.",
@@ -161,6 +185,12 @@
   "f9885ca64dc6214cdd7d048c428331c9": {
    "id": "f9885ca64dc6214cdd7d048c428331c9",
    "company": "Tencent Music Entertainment Group",
+   "role": "Global Talent Sourcing Intern",
+   "location": "Capitasky"
+  },
+  "4d7f81236b2371e8d6363eea9f3fe181": {
+   "id": "4d7f81236b2371e8d6363eea9f3fe181",
+   "company": "Tencent Cloud",
    "role": "Global Talent Sourcing Intern",
    "location": "Capitasky"
   },
@@ -356,12 +386,6 @@
    "role": "Front Desk & Customer Service Intern",
    "location": "Singapore"
   },
-  "4fcf42ab8542bcf3": {
-   "id": "4fcf42ab8542bcf3",
-   "company": "UNIMATEC SINGAPORE PTE. LTD.",
-   "role": "ESH Intern",
-   "location": "Singapore"
-  },
   "3168e7c98b226ed3": {
    "id": "3168e7c98b226ed3",
    "company": "RECRUIT EXPRESS PTE LTD",
@@ -464,30 +488,6 @@
    "role": "Raffles Butler Intern",
    "location": "Singapore"
   },
-  "f41e7662f25ebab3b5d9e220216cc071": {
-   "id": "f41e7662f25ebab3b5d9e220216cc071",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Lobby Operations Intern",
-   "location": "Singapore"
-  },
-  "a83eba9c92af045adff2007278838775": {
-   "id": "a83eba9c92af045adff2007278838775",
-   "company": "Ambiq",
-   "role": "Physical Design Intern",
-   "location": "Singapore"
-  },
-  "dbc3f82adc117406f62b94311a9c2267": {
-   "id": "dbc3f82adc117406f62b94311a9c2267",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Food & Beverage Intern",
-   "location": "Singapore"
-  },
-  "52ca41fab49f4904e1dbaba9cfe2ebd0": {
-   "id": "52ca41fab49f4904e1dbaba9cfe2ebd0",
-   "company": "Geotab",
-   "role": "Market Development And Partnerships Intern, Southeast Asia",
-   "location": "Singapore"
-  },
   "2f0751c5c8bc8e26": {
    "id": "2f0751c5c8bc8e26",
    "company": "ALTIUS ORG",
@@ -510,6 +510,12 @@
    "id": "e4301007a31c8b864185ed8d8cf8f7f9",
    "company": "Hotel Chadstone Melbourne MGallery",
    "role": "Management Trainee (guest Experience)",
+   "location": "Singapore"
+  },
+  "8e97251d722007a6730c18112dd339d2": {
+   "id": "8e97251d722007a6730c18112dd339d2",
+   "company": "Lalamove",
+   "role": "Global Trainee Program 2027 (hong Kong Based)",
    "location": "Singapore"
   },
   "e7dab1ee18378a1f": {
@@ -960,12 +966,6 @@
    "id": "34ca3a8083c7fc18",
    "company": "PRESTIGE HORIZON LEARNING CENTRE PTE. LTD.",
    "role": "Management Trainee",
-   "location": "Singapore"
-  },
-  "7d687dada996775e": {
-   "id": "7d687dada996775e",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Junior Marketing Trainee: No Experience Required",
    "location": "Singapore"
   },
   "4ec55eb34df032d5": {
@@ -2696,6 +2696,12 @@
    "role": "Shared Accounts Assistant (AR)",
    "location": "Singapore"
   },
+  "42e28f52760323252d052c20e386cda1": {
+   "id": "42e28f52760323252d052c20e386cda1",
+   "company": "IKEA UK",
+   "role": "Accounting Executive (toppen Shopping Centre)",
+   "location": "Toppen Shopping Centre"
+  },
   "7428dbcc6d38ed52a7d4c3edc161e207": {
    "id": "7428dbcc6d38ed52a7d4c3edc161e207",
    "company": "ST Engineering",
@@ -3158,11 +3164,11 @@
    "role": "A&a - Sg - Internal Audit ( Analyst)",
    "location": "Singapore"
   },
-  "234c106e9e6ca342": {
-   "id": "234c106e9e6ca342",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Compliance Executive / Bras Basah / Up to $4.5k - JL99",
-   "location": "Bras Basah"
+  "35f510f016abb3738f4eba4f669dd3a2": {
+   "id": "35f510f016abb3738f4eba4f669dd3a2",
+   "company": "FMC",
+   "role": "Staff Nurse",
+   "location": "Singapore"
   },
   "9cddd668411ccc0db34fea3f26407f1b": {
    "id": "9cddd668411ccc0db34fea3f26407f1b",
@@ -3229,6 +3235,12 @@
    "company": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
    "role": "R&D Technician /5 days work /Fresh grad welcome @Senoko",
    "location": "Senoko"
+  },
+  "602ad776b8475476811198afcf8c8d07": {
+   "id": "602ad776b8475476811198afcf8c8d07",
+   "company": "Nestle SA",
+   "role": "Laboratory Support Technician",
+   "location": "Singapore"
   },
   "e7a19ed3a8699e03136c859bc3f53b45": {
    "id": "e7a19ed3a8699e03136c859bc3f53b45",
@@ -3632,17 +3644,11 @@
    "role": "Dental Assistant / Part Time / Orchard / 5 Days / Up To $1.6K - 4461",
    "location": "Orchard"
   },
-  "90d21c61017b89c4": {
-   "id": "90d21c61017b89c4",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "AB03 - Part-Time Dental Assistant / 5 Days / Orchard / Up to $1,600",
-   "location": "Orchard"
-  },
-  "2581ae1ed161e60e": {
-   "id": "2581ae1ed161e60e",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "AB03 - Dental Assistant (Part-Time) / Orchard / Up to $1,600",
-   "location": "Orchard"
+  "4369ded02d6b8fb1a9f4a0d264eadbc8": {
+   "id": "4369ded02d6b8fb1a9f4a0d264eadbc8",
+   "company": "Excelitas Technologies Corporation",
+   "role": "Technician",
+   "location": "Singapore"
   },
   "bc0ae23a583605e1b11b025cc25b29f0": {
    "id": "bc0ae23a583605e1b11b025cc25b29f0",
@@ -3884,6 +3890,12 @@
    "role": "PM Technician / Up to $2800+AWS+ICT / 3.5 Days or Office Hours / Woodlands/Kranji - ZH",
    "location": "Singapore"
   },
+  "9af25804b6b3af5b4dd278fe6f202783": {
+   "id": "9af25804b6b3af5b4dd278fe6f202783",
+   "company": "Honeywell International",
+   "role": "Aircraft Apu Engine Repair Technician Ii",
+   "location": "Singapore"
+  },
   "ca251fd190d82fd4": {
    "id": "ca251fd190d82fd4",
    "company": "LION CITY TALENT SOLUTIONS PTE. LTD.",
@@ -4112,18 +4124,6 @@
    "role": "Service Engineer (Navigation)",
    "location": "Singapore"
   },
-  "68a971fbd8042cab": {
-   "id": "68a971fbd8042cab",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "Lift Technician / Up to $2800+Motorbike Allowances / 5 Days / Jurong East - ZH",
-   "location": "Singapore"
-  },
-  "9e42a4a8e4dcdb36": {
-   "id": "9e42a4a8e4dcdb36",
-   "company": "ACCRETE TECHNOLOGY (S) PTE. LTD.",
-   "role": "Service Engineer",
-   "location": "Singapore"
-  },
   "eb4cf16d895e760266b8830e5da34522": {
    "id": "eb4cf16d895e760266b8830e5da34522",
    "company": "Richemont Australia Pty Ltd",
@@ -4255,6 +4255,12 @@
    "company": "ANRADUS PTE. LTD.",
    "role": "Inside Sales Coordinator #10332",
    "location": "Islandwide"
+  },
+  "21d0c315a729dac5a7e35ef895135390": {
+   "id": "21d0c315a729dac5a7e35ef895135390",
+   "company": "Under Armour",
+   "role": "Retail Associate (full Time - Orchard Central, Bugis Junction, Waterway Point, Parkway Parade)",
+   "location": "Singapore"
   },
   "3df708e6abede026e797139a4d1ca8dd": {
    "id": "3df708e6abede026e797139a4d1ca8dd",
@@ -4598,10 +4604,22 @@
    "role": "[0580] Sales Administrator - Yishun/ 5 days/ $3.5k",
    "location": "Singapore"
   },
-  "3b2afed14cc6d0b96d6bc1e4a6589f6d": {
-   "id": "3b2afed14cc6d0b96d6bc1e4a6589f6d",
-   "company": "Citi",
-   "role": "Citigold Service Associate",
+  "6937931ff8eaf7eebfa689f5ac80686d": {
+   "id": "6937931ff8eaf7eebfa689f5ac80686d",
+   "company": "Mentor Media Ltd",
+   "role": "Logistics Assistant",
+   "location": "North West Singapore"
+  },
+  "b9c1155adfb4029fb923166bf0ff7519": {
+   "id": "b9c1155adfb4029fb923166bf0ff7519",
+   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
+   "role": "Logistics Coordinator",
+   "location": "Singapore"
+  },
+  "6b4e9335d260a5aafa6df2204dd863f5": {
+   "id": "6b4e9335d260a5aafa6df2204dd863f5",
+   "company": "Singapore Health Services Pte Ltd",
+   "role": "Associate Executive (pathology)",
    "location": "Singapore"
   },
   "d01329448d2d6ae57aad5c051c6d7318": {
@@ -5064,24 +5082,6 @@
    "id": "7c9eb5a5c0ecaa94",
    "company": "DYNAMIC SAFETY PTE. LTD.",
    "role": "Project Coordinator",
-   "location": "Singapore"
-  },
-  "8c4b2065697cd2d3": {
-   "id": "8c4b2065697cd2d3",
-   "company": "DYNAMIC ENGINEERS PTE. LTD.",
-   "role": "Project Coordinator",
-   "location": "Singapore"
-  },
-  "758f964d98f013e1": {
-   "id": "758f964d98f013e1",
-   "company": "JOB EXPRESS SERVICES PTE. LTD.",
-   "role": "Architectural Coordinator (Up to $5,000 / 5 days)",
-   "location": "Singapore"
-  },
-  "d9cc7cc2e022e560": {
-   "id": "d9cc7cc2e022e560",
-   "company": "MODULAR DESIGN & BUILD PTE. LTD.",
-   "role": "project coordinator",
    "location": "Singapore"
   }
  }

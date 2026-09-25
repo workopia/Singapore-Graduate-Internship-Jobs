@@ -16102,4 +16102,19 @@
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Shipping Operations Officer (Entry Level Welcome) - LCYL</td><td>Singapore</td><td>2026-09-25</td></tr>
 <tr><td>N M SOLUTION PTE. LTD.</td><td>Delivery / Logistics Assistant</td><td>Singapore</td><td>2026-09-25</td></tr>
 <tr><td>SENSORY PROJECT PRIVATE LIMITED</td><td>Last-Mile Delivery Operations Executive (Fleet & Driver Coordination)</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>UNIMATEC SINGAPORE PTE. LTD.</td><td>ESH Intern</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Lobby Operations Intern</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Ambiq</td><td>Physical Design Intern</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Food & Beverage Intern</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Geotab</td><td>Market Development And Partnerships Intern, Southeast Asia</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Junior Marketing Trainee: No Experience Required</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Compliance Executive / Bras Basah / Up to $4.5k - JL99</td><td>Bras Basah</td><td>2026-09-25</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>AB03 - Part-Time Dental Assistant / 5 Days / Orchard / Up to $1,600</td><td>Orchard</td><td>2026-09-25</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>AB03 - Dental Assistant (Part-Time) / Orchard / Up to $1,600</td><td>Orchard</td><td>2026-09-25</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Lift Technician / Up to $2800+Motorbike Allowances / 5 Days / Jurong East - ZH</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>ACCRETE TECHNOLOGY (S) PTE. LTD.</td><td>Service Engineer</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Citi</td><td>Citigold Service Associate</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>DYNAMIC ENGINEERS PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>Architectural Coordinator (Up to $5,000 / 5 days)</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>MODULAR DESIGN & BUILD PTE. LTD.</td><td>project coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
 </table>
