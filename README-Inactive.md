@@ -16117,4 +16117,19 @@
 <tr><td>DYNAMIC ENGINEERS PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
 <tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>Architectural Coordinator (Up to $5,000 / 5 days)</td><td>Singapore</td><td>2026-09-25</td></tr>
 <tr><td>MODULAR DESIGN & BUILD PTE. LTD.</td><td>project coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Indirect Regional Supplier Manager</td><td>Fab 10a</td><td>2026-09-25</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Pee Cvd/pvd</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - F10 Pee Wet</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Disney Enterprises Inc</td><td>Intern, Production Management, Disney+ - Jan To Jun 2027</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Deloitte</td><td>Sr&t Internship - Forensic & Financial Crime (immediate Off-cycle 2026)</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Hotel Chadstone Melbourne MGallery</td><td>Raffles Butler Intern</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>pgnearme.live</td><td>Finance & Accounting Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Linxens</td><td>Technician I, Maintenance</td><td>Changi</td><td>2026-09-25</td></tr>
+<tr><td>OneLinxens</td><td>Technician I, Waste Water</td><td>Changi</td><td>2026-09-25</td></tr>
+<tr><td>SEARCH PERSONNEL PRIVATE LIMITED</td><td>Service Technician (Chiller / HVAC)- Up to $5000</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>EVERHONEST MARINE SINGAPORE PTE. LTD.</td><td>Service Engineer (Navigation)</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>GLIMEX MARKETING PTE LTD</td><td>Indoor Sales Executive/Coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Sales Administrator - Yishun/ 5 days/ $3.5k</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>ACMV Project Coordinator (ACMV) #78386</td><td>Farrer Park</td><td>2026-09-25</td></tr>
+<tr><td>DYNAMIC SAFETY PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
 </table>

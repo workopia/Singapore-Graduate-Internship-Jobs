@@ -1,11 +1,35 @@
 {
  "asOf": "2026-09-25",
- "count": 847,
+ "count": 849,
  "jobs": {
   "2648640": {
    "id": "2648640",
    "company": "Shipping World Logistics Pte Ltd",
    "role": "Accounting Intern",
+   "location": "Singapore"
+  },
+  "c893b76498605a17d384d71f81671604": {
+   "id": "c893b76498605a17d384d71f81671604",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Mid-year Internship 2026 (aug - Dec 2026), Consulting, Organisation Transformation",
+   "location": "Singapore"
+  },
+  "b6853193b49ef9db6deb39fa5dd87ffa": {
+   "id": "b6853193b49ef9db6deb39fa5dd87ffa",
+   "company": "Deutsche Boerse AG",
+   "role": "Equity-linked Notes Singapore Intern",
+   "location": "Singapore"
+  },
+  "1aaf46b0bf2cc5cd1585df5d548c76a4": {
+   "id": "1aaf46b0bf2cc5cd1585df5d548c76a4",
+   "company": "Deutsche Boerse AG",
+   "role": "Intern, Fund Services Product Management",
+   "location": "Singapore"
+  },
+  "61b0b365f269f0f06f4641020f2201a2": {
+   "id": "61b0b365f269f0f06f4641020f2201a2",
+   "company": "Exxon Mobil",
+   "role": "Internship - Trading Analyst (1h2027)",
    "location": "Singapore"
   },
   "814de7d0f344e4d19d160aaa47805467": {
@@ -29,6 +53,12 @@
   "8d2c0acd9577aa31d5f1122c754410d1": {
    "id": "8d2c0acd9577aa31d5f1122c754410d1",
    "company": "DAT Deutsche Aufzugstechnik GmbH",
+   "role": "Service Field Intern",
+   "location": "Singapore"
+  },
+  "548f34f4598d586ab5c95b518a885327": {
+   "id": "548f34f4598d586ab5c95b518a885327",
+   "company": "Otis",
    "role": "Service Field Intern",
    "location": "Singapore"
   },
@@ -121,6 +151,12 @@
    "company": "VALOR ORGANISATION PTE. LTD.",
    "role": "❤️‍🔥⭐️ Marketing Team (Fresh Grads!)",
    "location": "D01 Marina"
+  },
+  "0f6e871e6d06ad4cbd2a451e44579800": {
+   "id": "0f6e871e6d06ad4cbd2a451e44579800",
+   "company": "Ipsos",
+   "role": "Marcom And Marketing Intern",
+   "location": "Singapore"
   },
   "09152e17a9865e1a2a6a4b6875a44dcb": {
    "id": "09152e17a9865e1a2a6a4b6875a44dcb",
@@ -451,42 +487,6 @@
    "company": "Micron Technology Inc",
    "role": "Intern - Stpg Pe Business Operations",
    "location": "Msb"
-  },
-  "4dfba05c41009cc94d717b8fc7a796b2": {
-   "id": "4dfba05c41009cc94d717b8fc7a796b2",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Indirect Regional Supplier Manager",
-   "location": "Fab 10a"
-  },
-  "f5a6de529c08ddf0dcaef8fba44526f8": {
-   "id": "f5a6de529c08ddf0dcaef8fba44526f8",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Pee Cvd/pvd",
-   "location": "Singapore"
-  },
-  "48885d39a69f13cc985fe8e91264dbb1": {
-   "id": "48885d39a69f13cc985fe8e91264dbb1",
-   "company": "Micron Technology Inc",
-   "role": "Intern - F10 Pee Wet",
-   "location": "Singapore"
-  },
-  "93ce3b89a2240566653e3bd5d1d04b9c": {
-   "id": "93ce3b89a2240566653e3bd5d1d04b9c",
-   "company": "Disney Enterprises Inc",
-   "role": "Intern, Production Management, Disney+ - Jan To Jun 2027",
-   "location": "Singapore"
-  },
-  "525ff817937674500b494714f4081eae": {
-   "id": "525ff817937674500b494714f4081eae",
-   "company": "Deloitte",
-   "role": "Sr&t Internship - Forensic & Financial Crime (immediate Off-cycle 2026)",
-   "location": "Singapore"
-  },
-  "97b969db80e4b22011ca87c9dd8e532f": {
-   "id": "97b969db80e4b22011ca87c9dd8e532f",
-   "company": "Hotel Chadstone Melbourne MGallery",
-   "role": "Raffles Butler Intern",
-   "location": "Singapore"
   },
   "2f0751c5c8bc8e26": {
    "id": "2f0751c5c8bc8e26",
@@ -2156,6 +2156,30 @@
    "role": "Reporting Data Analyst (1 Year Renewable Contract)",
    "location": "Singapore"
   },
+  "3432ae0bed102563e70aab3d56dd5df0": {
+   "id": "3432ae0bed102563e70aab3d56dd5df0",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Advisory - Consulting, Financial Services Technology / Off-cycle Internship (jan 2027 To June 2027)",
+   "location": "Singapore"
+  },
+  "f3943bbc6f74e928ff10e8711d4988b3": {
+   "id": "f3943bbc6f74e928ff10e8711d4988b3",
+   "company": "Deutsche Boerse AG",
+   "role": "Intern, Accounting And Regulatory Reporting",
+   "location": "Singapore"
+  },
+  "7e77ef3f9d54601a3bad4a78e364e5c9": {
+   "id": "7e77ef3f9d54601a3bad4a78e364e5c9",
+   "company": "Deutsche Boerse AG",
+   "role": "Intern, Income & Tax",
+   "location": "Singapore"
+  },
+  "1bed087fa9985eba82e9e7b9e2a913fc": {
+   "id": "1bed087fa9985eba82e9e7b9e2a913fc",
+   "company": "Willis Towers Watson",
+   "role": "Internal Job Opportunity / Placement And Billing I Lateral I Analyst/senior Analyst (singapore - International)",
+   "location": "Singapore"
+  },
   "d87b34d653797ff28b4912acb451fff4": {
    "id": "d87b34d653797ff28b4912acb451fff4",
    "company": "KPMG Services Pte Ltd",
@@ -2268,12 +2292,6 @@
    "id": "f919cd90566c9902ac9f4655ada9657b",
    "company": "Richemont Australia Pty Ltd",
    "role": "Accounting Intern",
-   "location": "Singapore"
-  },
-  "3432ae0bed102563e70aab3d56dd5df0": {
-   "id": "3432ae0bed102563e70aab3d56dd5df0",
-   "company": "KPMG Services Pte Ltd",
-   "role": "Advisory - Consulting, Financial Services Technology / Off-cycle Internship (jan 2027 To June 2027)",
    "location": "Singapore"
   },
   "ab187c52e15dfd08bb55318a40fd9417": {
@@ -2490,12 +2508,6 @@
    "id": "00bcdde2bb26a4f8abfb538a411bb623",
    "company": "Koch",
    "role": "Accounting Intern",
-   "location": "Singapore"
-  },
-  "579777a1b504e652f5aa335acef57916": {
-   "id": "579777a1b504e652f5aa335acef57916",
-   "company": "pgnearme.live",
-   "role": "Finance & Accounting Intern - P&g Management Internship Program (summer 2027)",
    "location": "Singapore"
   },
   "7d38738f4f8312ceb75ee184325c206d": {
@@ -3650,6 +3662,30 @@
    "role": "Technician",
    "location": "Singapore"
   },
+  "63f67e09ef36cad0f0bf01f8d4d3ae2d": {
+   "id": "63f67e09ef36cad0f0bf01f8d4d3ae2d",
+   "company": "dormakaba International Holding AG",
+   "role": "Service Engineer",
+   "location": "Singapore"
+  },
+  "38cbe0b4b7042a85494f0830443f3178": {
+   "id": "38cbe0b4b7042a85494f0830443f3178",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Bplrt Rolling Stock",
+   "location": "Singapore"
+  },
+  "135da406104bd0a3d6203306da6e8f3f": {
+   "id": "135da406104bd0a3d6203306da6e8f3f",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Iscs & Comms",
+   "location": "Singapore"
+  },
+  "90473552daf08a38b6860c700651c248": {
+   "id": "90473552daf08a38b6860c700651c248",
+   "company": "SMRT Corporation Ltd",
+   "role": "Technical Officer, Fare System",
+   "location": "Singapore"
+  },
   "bc0ae23a583605e1b11b025cc25b29f0": {
    "id": "bc0ae23a583605e1b11b025cc25b29f0",
    "company": "Applied Materials",
@@ -3667,18 +3703,6 @@
    "company": "Rolls-Royce Motor Cars",
    "role": "Technician",
    "location": "Singapore"
-  },
-  "63a9e47b10ef556f2288fad38fbcf1f6": {
-   "id": "63a9e47b10ef556f2288fad38fbcf1f6",
-   "company": "Linxens",
-   "role": "Technician I, Maintenance",
-   "location": "Changi"
-  },
-  "3c0ad7697e0e37c122aeaad22bc0afe6": {
-   "id": "3c0ad7697e0e37c122aeaad22bc0afe6",
-   "company": "OneLinxens",
-   "role": "Technician I, Waste Water",
-   "location": "Changi"
   },
   "590babb28e3b206d": {
    "id": "590babb28e3b206d",
@@ -4112,16 +4136,16 @@
    "role": "Service Technician/Engineer (Up to $3900 / 5 days / Pioneer)",
    "location": "Singapore"
   },
-  "24e3fedde9a7df06": {
-   "id": "24e3fedde9a7df06",
-   "company": "SEARCH PERSONNEL PRIVATE LIMITED",
-   "role": "Service Technician (Chiller / HVAC)- Up to $5000",
+  "9fc78b8f73b868bb4d1c962fb5d76eb3": {
+   "id": "9fc78b8f73b868bb4d1c962fb5d76eb3",
+   "company": "Maersk",
+   "role": "Fl Customer Service Support [flo Flc]",
    "location": "Singapore"
   },
-  "498054d00cb11fe2": {
-   "id": "498054d00cb11fe2",
-   "company": "EVERHONEST MARINE SINGAPORE PTE. LTD.",
-   "role": "Service Engineer (Navigation)",
+  "d911372d345a769e479f3d9c634461ee": {
+   "id": "d911372d345a769e479f3d9c634461ee",
+   "company": "Maersk",
+   "role": "Warehouse Associate [flo Flc]",
    "location": "Singapore"
   },
   "eb4cf16d895e760266b8830e5da34522": {
@@ -4592,18 +4616,6 @@
    "role": "[0580] Sales Coordinator - Commonwealth/ 5 days/ $2.8k",
    "location": "Commonwealth"
   },
-  "a88b3d92b51a9890": {
-   "id": "a88b3d92b51a9890",
-   "company": "GLIMEX MARKETING PTE LTD",
-   "role": "Indoor Sales Executive/Coordinator",
-   "location": "Singapore"
-  },
-  "eca6446f0891d167": {
-   "id": "eca6446f0891d167",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "[0580] Sales Administrator - Yishun/ 5 days/ $3.5k",
-   "location": "Singapore"
-  },
   "6937931ff8eaf7eebfa689f5ac80686d": {
    "id": "6937931ff8eaf7eebfa689f5ac80686d",
    "company": "Mentor Media Ltd",
@@ -4620,6 +4632,18 @@
    "id": "6b4e9335d260a5aafa6df2204dd863f5",
    "company": "Singapore Health Services Pte Ltd",
    "role": "Associate Executive (pathology)",
+   "location": "Singapore"
+  },
+  "fd39f7d4da09f1fda4f5c408117c6e21": {
+   "id": "fd39f7d4da09f1fda4f5c408117c6e21",
+   "company": "Caterpillar Inc.",
+   "role": "Executive Assistant",
+   "location": "Singapore"
+  },
+  "f2bac06469fc4ac2ea76e6d954bf0f7d": {
+   "id": "f2bac06469fc4ac2ea76e6d954bf0f7d",
+   "company": "SMRT Corporation Ltd",
+   "role": "Personal Assistant & Hr Administrative Assistant",
    "location": "Singapore"
   },
   "d01329448d2d6ae57aad5c051c6d7318": {
@@ -5071,18 +5095,6 @@
    "company": "FONG YUE DEVELOPMENT PTE. LTD.",
    "role": "Project Coordinator",
    "location": "Islandwide"
-  },
-  "6fa79612aabebf7b": {
-   "id": "6fa79612aabebf7b",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "ACMV Project Coordinator (ACMV) #78386",
-   "location": "Farrer Park"
-  },
-  "7c9eb5a5c0ecaa94": {
-   "id": "7c9eb5a5c0ecaa94",
-   "company": "DYNAMIC SAFETY PTE. LTD.",
-   "role": "Project Coordinator",
-   "location": "Singapore"
   }
  }
 }
