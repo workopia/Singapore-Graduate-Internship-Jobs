@@ -16550,4 +16550,19 @@
 <tr><td>RANDSTAD PTE. LIMITED</td><td>Medical Operations & Administrative Associate (Contract)</td><td>Singapore</td><td>2026-09-26</td></tr>
 <tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Logistics Admin Assistant</td><td>Islandwide</td><td>2026-09-26</td></tr>
 <tr><td>ANRADUS PTE. LTD.</td><td>Customer Service Coordinator #78565</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Fullstack Engineer (MOE)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Frontend Engineer</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Accounts Assistant - Fresh grad may apply @Joo Koon</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>MSD ANIMAL HEALTH INNOVATION PTE. LTD.</td><td>Aquaculture Assistant, Animal Husbandry (Contract)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Cancer Science Institute of Singapore, Dr Shu Zhang's lab)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>LANDMARK E&C PTE. LTD.</td><td>M&E Technician</td><td>Geylang +2</td><td>2026-09-26</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Maintenance Technician / Service Technician #81579</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>🔥 Sales & Marketing Associate 🔥</td><td>Hougang +4</td><td>2026-09-26</td></tr>
+<tr><td>CAREER PRODUCTIONS</td><td>🟩 Executive Sales Personnel 🟩 $3000 Salary + Comms ($8000-$10000 Monthly) 🟩 100% Customers Provided 🟩</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>CAREER PRODUCTIONS</td><td>🟦 Associate Sales Personnel 🟦 $3000 Salary + Comms ($8000-$10000 Monthly) 🟦 100% Customers Provided 🟦</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>CAREER PRODUCTIONS</td><td>🟢 Sales Associate Personnel 🟢 $3000 Salary + Comms ($8000-$10000 Monthly) 🟢 100% Customers Provided 🟢</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>MEGAMANPOWER PTE. LTD.</td><td>Merch Seller / Warehouse</td><td>Tuas +5</td><td>2026-09-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Executive Assistant - MEDICAL (GOVT/West) - Training Provided/up to $3k #HAO</td><td>One North</td><td>2026-09-26</td></tr>
+<tr><td>RNC ENGINEERING PTE LTD</td><td>ADMIN / HR ASSISTANT</td><td>Pasir Panjang</td><td>2026-09-26</td></tr>
+<tr><td>AURATALENTSG</td><td>💎 Entry-Level Marketing Executive (Brand & Campaigns / Training Provided) 💎</td><td>Singapore</td><td>2026-09-26</td></tr>
 </table>
