@@ -16132,4 +16132,91 @@
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Sales Administrator - Yishun/ 5 days/ $3.5k</td><td>Singapore</td><td>2026-09-25</td></tr>
 <tr><td>ANRADUS PTE. LTD.</td><td>ACMV Project Coordinator (ACMV) #78386</td><td>Farrer Park</td><td>2026-09-25</td></tr>
 <tr><td>DYNAMIC SAFETY PTE. LTD.</td><td>Project Coordinator</td><td>Singapore</td><td>2026-09-25</td></tr>
+<tr><td>Coty Inc.</td><td>Finance Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Coty Inc.</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Coty Inc.</td><td>Procurement Logistics Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Deloitte</td><td>Strategy, Risk, And Transaction (sr&t) Intern Singapore - Forensic & Financial Crime: Discovery</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern - Commercial Real Estate, Sgp Summer Program 2027</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern - Data Centre Operations (singapore)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Cushman & Wakefield</td><td>Eic Intern - Sustainability, Sgp</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Tax Reimagined / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Forensic Technology / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Tax Technology & Transformation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Esg / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Forensic (non-tech) / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Organisation Transformation / Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Insurance / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Fintech And Ventures / Off-cycle Internship (jan 2027 To June 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Deal Adv, Transaction Services / Off-cycle Internship 2027 (jan 2027- Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory-deal Advisory, Infrastructure Advisory / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Technology Risk / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Governance & Risk / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Deal Advisory, Valuation / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Accounting Advisory Services / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Organisation Transformation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Front Office Transformation / Off-cycle Internship (jan 2027 To June 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory-deal Adv, Turnaround And Restructuring / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Deal Advisory, Merger & Acquisition / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Haleon</td><td>Intern – Trade Marketing</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Haleon</td><td>Apac Digital & Social Commerce Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ING</td><td>Intern, Fm Front Office Support</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Production And Logistics Intern - Location Pioneer</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Marketing & Digital Intern, Travel Retail Apac</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>WSA</td><td>Intern - Information Security Risk &amp; Compliance</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>HEBE LAB PTE. LTD.</td><td>Content Marketer Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>PHAIDON INTERNATIONAL (SINGAPORE) PTE. LTD.</td><td>Internship Programme</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>HEBE LAB PTE. LTD.</td><td>Front Desk & Customer Service Intern</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Marketing Internship – Welfare Organisation (Contract) #HCK</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>EXION MARKETING</td><td>Junior Marketing Support (Entry-Level)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Adts Ati Pi</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Manufacturing Dry Etch</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Facilities Sustainability Ai</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Assembly Npi</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Pie Ye</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Product Engineering, Nand Validation/characterization</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Stpg Product, Nand</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Vertical Product Engineer (vpe)</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Stpg Pe Business Operations</td><td>Msb</td><td>2026-09-26</td></tr>
+<tr><td>PRESTIGE HORIZON LEARNING CENTRE PTE. LTD.</td><td>Management Trainee</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Full Stack Engineer (video Analytics)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Engineer</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Software Engineer</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Assistant Software Engineer</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Google</td><td>Software Engineer, Google Wallet, Multimodal Intelligence</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Google</td><td>Software Engineer, Google Payments, Growth</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Google</td><td>Software Engineer, Google Ads</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Engineer, Intelligent Process Automation-edc</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>Michael Page Singapore</td><td>Reporting Data Analyst (1 Year Renewable Contract)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Engineer, Analyst</td><td>Seletar</td><td>2026-09-26</td></tr>
+<tr><td>TIBERIAS INTERNATIONAL FOOD PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>NIVEDHA MANAGEMENT PTE. LTD.</td><td>ACCOUNTS ASSISTANT</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>SERVTOUCH-WYWY (SINGAPORE) PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>BIGFOOT MEATS PTE. LTD.</td><td>Accounts Assistant / Full-time / Immediate</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>sea</td><td>A&a - Sg - Internal Audit ( Analyst)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East Polyclinic, Office Hours] 3 Months Temp Dental Assistant (No Exp Ok!) - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East, Office Hours] 3 Months Temp Dental Assistant (Training Provided) - Up to $13/hr #HAC</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Dental Assistant / Part Time / Orchard / 5 Days / Up To $1.6K - 4461</td><td>Orchard</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering</td><td>Maintenance, Repair & Overhaul Technician</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ST Engineering Defence Aviation Services Pte. Ltd.</td><td>Technician, Sheetmetal</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>TYSON JAY MANAGEMENT PTE. LTD.</td><td>Facilities Technical Executive (Building Systems) - up to $2,500 / 6 days</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>Service Technician/Engineer (Up to $3900 / 5 days / Pioneer)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Sales Coordinator - Commonwealth/ 5 days/ $2.8k</td><td>Commonwealth</td><td>2026-09-26</td></tr>
+<tr><td>TOKIO MARINE INSURANCE SINGAPORE LTD.</td><td>Administrative Assistant (Underwriting Commercial Lines)</td><td>Marina</td><td>2026-09-26</td></tr>
+<tr><td>ZU'PERS LEARNING CENTRE PTE. LTD.</td><td>Administrative Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>STEEL ALLY RESOURCES PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>KITCHENBOX PTE. LTD.</td><td>Customer Service Coordinator</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>TALENT RECRUITMENT PTE. LTD.</td><td>5 days Customer Service Admin up to $3000 (Toa Payoh)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>SAGES ACADEMY PTE. LTD.</td><td>Admin Officer at Woodlands Tuition Centre</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>PERMA-LINER INDUSTRIES (SINGAPORE) PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ORCHID LAUNDRY</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>ACER COMPUTER (SINGAPORE) PTE LTD</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>SENG HUAT COFFEE PTE LTD</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>GAIAX INTERNATIONAL PTE. LTD.</td><td>Admin Administration</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>SIN GEE HUAT RECYCLING PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>THE FAMOUS AMOS CHOCOLATE CHIP COOKIE SINGAPORE PTE LTD</td><td>ASSISTANT SUPERVISOR / SUPERVISOR (FULL TIME)</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>ILJIN ELECTRIC CO., LTD SINGAPORE BRANCH</td><td>Project Coordinator [6 Days Work Week]</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Project Coordinator / FinTech / Financial Services / Up to $4k - JL99</td><td>Bras Basah Road</td><td>2026-09-26</td></tr>
+<tr><td>EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.</td><td>Project Coordinator / Project Administrator, Commodities (1-year renewable contract)</td><td>Singapore</td><td>2026-09-26</td></tr>
+<tr><td>EQUE PTE. LTD.</td><td>PROJECT EXECUTIVE [PPZ-001-02]</td><td>Islandwide</td><td>2026-09-26</td></tr>
+<tr><td>FONG YUE DEVELOPMENT PTE. LTD.</td><td>Project Coordinator</td><td>Islandwide</td><td>2026-09-26</td></tr>
 </table>
