@@ -16684,4 +16684,9 @@
 <tr><td>LIBERTY MBFC PTE. LTD.</td><td>Reservation & Event Officer</td><td>Singapore</td><td>2026-09-27</td></tr>
 <tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Events Coordinator</td><td>Islandwide</td><td>2026-09-27</td></tr>
 <tr><td>MILLY AND FROST</td><td>Wedding/Events Coordinator</td><td>Singapore</td><td>2026-09-27</td></tr>
+<tr><td>RICH CONSTRUCTION COMPANY PTE. LTD.</td><td>IT Engineer</td><td>Singapore</td><td>2026-09-27</td></tr>
+<tr><td>KASZON PTE LTD</td><td>IT Engineer</td><td>Singapore</td><td>2026-09-27</td></tr>
+<tr><td>TECHEMERGE SOLUTIONS PTE. LTD.</td><td>AI Ops Engineer</td><td>Islandwide</td><td>2026-09-27</td></tr>
+<tr><td>MAVERICKS CONSULTING PTE. LTD.</td><td>Junior Agile Business Analyst</td><td>Singapore</td><td>2026-09-27</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Business Analyst (HPB)</td><td>Singapore</td><td>2026-09-27</td></tr>
 </table>

@@ -1,6 +1,6 @@
 {
  "asOf": "2026-09-27",
- "count": 859,
+ "count": 862,
  "jobs": {
   "2648640": {
    "id": "2648640",
@@ -1730,6 +1730,24 @@
    "role": "Forward Deployed Engineer, Genai, Google Cloud (korean, English)",
    "location": "Singapore"
   },
+  "9c2002ed57e0faf9ed7d0e45510e2de3": {
+   "id": "9c2002ed57e0faf9ed7d0e45510e2de3",
+   "company": "sea",
+   "role": "Sg - A&a - Ca (ai/ Data) - Analyst",
+   "location": "Singapore"
+  },
+  "71fce77a85f513009b1c918ad2dc4fff": {
+   "id": "71fce77a85f513009b1c918ad2dc4fff",
+   "company": "sea",
+   "role": "A&a - Digital Assurance - It Audit Analytics Analyst",
+   "location": "Singapore"
+  },
+  "4ea2c9f4859ef077d026fe5b45a1db6a": {
+   "id": "4ea2c9f4859ef077d026fe5b45a1db6a",
+   "company": "Deloitte",
+   "role": "A&a - Sg - Digital Assurance - Data Analytics Analyst",
+   "location": "Singapore"
+  },
   "3d4f4920466dbf1dea666a5f032c9464": {
    "id": "3d4f4920466dbf1dea666a5f032c9464",
    "company": "ST Engineering",
@@ -2180,29 +2198,17 @@
    "role": "AI Digital Transformation Executive",
    "location": "Singapore"
   },
-  "17715e7e05b7d230": {
-   "id": "17715e7e05b7d230",
-   "company": "RICH CONSTRUCTION COMPANY PTE. LTD.",
-   "role": "IT Engineer",
-   "location": "Singapore"
-  },
-  "ceb69ce940cd1ee5": {
-   "id": "ceb69ce940cd1ee5",
-   "company": "KASZON PTE LTD",
-   "role": "IT Engineer",
-   "location": "Singapore"
-  },
-  "5a83d867e1d31946": {
-   "id": "5a83d867e1d31946",
-   "company": "TECHEMERGE SOLUTIONS PTE. LTD.",
-   "role": "AI Ops Engineer",
-   "location": "Islandwide"
-  },
   "249bbd1d9e9403ca564ddf9747e2f28e": {
    "id": "249bbd1d9e9403ca564ddf9747e2f28e",
    "company": "NERA Economic Consulting",
    "role": "Intern, Rewards Consulting (may 2027 Intake)",
    "location": "Marina View"
+  },
+  "abbaba932472c8145406fe0b2dc51a98": {
+   "id": "abbaba932472c8145406fe0b2dc51a98",
+   "company": "sea",
+   "role": "A&a - External Audit Intern - Audit & Assurance (winter 2026 Internship)",
+   "location": "Singapore"
   },
   "1293c3665287685a9a5bbc180f1f39cb": {
    "id": "1293c3665287685a9a5bbc180f1f39cb",
@@ -2576,6 +2582,60 @@
    "role": "Intern, Business Assurance",
    "location": "Singapore"
   },
+  "50df06913b3ca7495d599883020c8b58": {
+   "id": "50df06913b3ca7495d599883020c8b58",
+   "company": "sea",
+   "role": "T&l: Associate - Tax Technology Consulting (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "a2fcb947b89a5dcc5bb2210dc9aad09b": {
+   "id": "a2fcb947b89a5dcc5bb2210dc9aad09b",
+   "company": "sea",
+   "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "a6192d7adb5606954b8555828213cf25": {
+   "id": "a6192d7adb5606954b8555828213cf25",
+   "company": "sea",
+   "role": "T&l: Associate - Goods & Services Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "4a83afc77ba194196b369ac819215776": {
+   "id": "4a83afc77ba194196b369ac819215776",
+   "company": "sea",
+   "role": "T&l: Associate - Business Tax Financial Services (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "c8aac1f8b8f6e9fca2dacf52cf3b31c3": {
+   "id": "c8aac1f8b8f6e9fca2dacf52cf3b31c3",
+   "company": "sea",
+   "role": "T&l: Associate - Business Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "f0e3b2258bfb23fe0b5a9436ea01bcf1": {
+   "id": "f0e3b2258bfb23fe0b5a9436ea01bcf1",
+   "company": "sea",
+   "role": "T&l: Associate - Business Process Solutions (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "4e864a013e774cf846216a2fd84b216c": {
+   "id": "4e864a013e774cf846216a2fd84b216c",
+   "company": "sea",
+   "role": "T&l: Associate - Merger And Acquisition Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "902c901a5ba8f9e3f59b5cc841125d99": {
+   "id": "902c901a5ba8f9e3f59b5cc841125d99",
+   "company": "sea",
+   "role": "T&l: Associate - International Tax Advisory (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "cd925aa0cf4a02b81f1cd0b454f189f7": {
+   "id": "cd925aa0cf4a02b81f1cd0b454f189f7",
+   "company": "sea",
+   "role": "T&l: Associate - Global Employer Services (2027 Graduate)",
+   "location": "Singapore"
+  },
   "2db24e1e5238360545a6ccdab5501240": {
    "id": "2db24e1e5238360545a6ccdab5501240",
    "company": "KPMG Services Pte Ltd",
@@ -2684,48 +2744,6 @@
    "role": "T&l: Associate - Merger And Acquisition Tax (2027 Graduate)",
    "location": "Singapore"
   },
-  "c8aac1f8b8f6e9fca2dacf52cf3b31c3": {
-   "id": "c8aac1f8b8f6e9fca2dacf52cf3b31c3",
-   "company": "sea",
-   "role": "T&l: Associate - Business Tax (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "a2fcb947b89a5dcc5bb2210dc9aad09b": {
-   "id": "a2fcb947b89a5dcc5bb2210dc9aad09b",
-   "company": "sea",
-   "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "f0e3b2258bfb23fe0b5a9436ea01bcf1": {
-   "id": "f0e3b2258bfb23fe0b5a9436ea01bcf1",
-   "company": "sea",
-   "role": "T&l: Associate - Business Process Solutions (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "4e864a013e774cf846216a2fd84b216c": {
-   "id": "4e864a013e774cf846216a2fd84b216c",
-   "company": "sea",
-   "role": "T&l: Associate - Merger And Acquisition Tax (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "8a31a0abc9345bf641640616b73b024e": {
-   "id": "8a31a0abc9345bf641640616b73b024e",
-   "company": "sea",
-   "role": "T&l: Associate - Global Trade Advisory (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "50df06913b3ca7495d599883020c8b58": {
-   "id": "50df06913b3ca7495d599883020c8b58",
-   "company": "sea",
-   "role": "T&l: Associate - Tax Technology Consulting (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "a6192d7adb5606954b8555828213cf25": {
-   "id": "a6192d7adb5606954b8555828213cf25",
-   "company": "sea",
-   "role": "T&l: Associate - Goods & Services Tax (2027 Graduate)",
-   "location": "Singapore"
-  },
   "a97e6947c91970630007751e893defd0": {
    "id": "a97e6947c91970630007751e893defd0",
    "company": "sea",
@@ -2772,6 +2790,18 @@
    "id": "49d2a77b687d4b15568c052648042b22",
    "company": "Georg Fischer",
    "role": "Strategy Associate Apac",
+   "location": "Singapore"
+  },
+  "8a31a0abc9345bf641640616b73b024e": {
+   "id": "8a31a0abc9345bf641640616b73b024e",
+   "company": "sea",
+   "role": "T&l: Associate - Global Trade Advisory (indirect Tax)",
+   "location": "Singapore"
+  },
+  "c22a7e987ee3c8fc5c3aa3b27ea5e34a": {
+   "id": "c22a7e987ee3c8fc5c3aa3b27ea5e34a",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Private Tax",
    "location": "Singapore"
   },
   "f2c92a51003af5c3436f9a26627e42d7": {
@@ -3222,18 +3252,6 @@
    "id": "f91473223bbd7778",
    "company": "AVN DIGITAL PTE. LTD.",
    "role": "Business Analyst",
-   "location": "Singapore"
-  },
-  "3b36099acaa125d5": {
-   "id": "3b36099acaa125d5",
-   "company": "MAVERICKS CONSULTING PTE. LTD.",
-   "role": "Junior Agile Business Analyst",
-   "location": "Singapore"
-  },
-  "7428032c3f806f25": {
-   "id": "7428032c3f806f25",
-   "company": "VINOVA PTE. LTD.",
-   "role": "Business Analyst (HPB)",
    "location": "Singapore"
   },
   "6b9a6be638ab5720": {
