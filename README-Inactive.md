@@ -16969,4 +16969,26 @@
 <tr><td>MR FRESH PTE. LTD.</td><td>Marketing Campaign Executive (Training Provided)</td><td>Islandwide</td><td>2026-09-28</td></tr>
 <tr><td>NOVEX ORGANIZATION</td><td>Marketing & Events Associate / Training Provided</td><td>Islandwide</td><td>2026-09-28</td></tr>
 <tr><td>FITNESS BADMINTON</td><td>Marketing Campaign Executive (Training Provided)</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Management Trainee – Sales & Marketing</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>POT LUCK F & B SINGAPORE PTE. LTD.</td><td>Manager-in-Training</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>CAFE O SINGAPORE PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>CAFE O SINGAPORE PTE. LTD.</td><td>Manager-in-Training</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>SOUP RESTAURANT SINGAPORE PTE. LTD.</td><td>Manager-in-Training</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>SOUP RESTAURANT SINGAPORE PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Full Stack Engineer (React / Node.js/ CMS)</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Investment Analyst (Investment Holding Company)</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>NS SQUARE LIMITED</td><td>Accountant</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>AVENSYS CONSULTING PTE. LTD.</td><td>Business Analyst</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Compliance Executive / Financial Advisory / Insurance / MAS Regulations - JL99</td><td>Bras Basah Road</td><td>2026-09-28</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Locum Physiotherapist</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Pharmacy Technician / Assistant (Healthcare) #HHW</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Islandwide, Flexible Shifts] Locum Pharmacist – Up to $50/hr #HLV</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>STAFFKING PTE. LTD.</td><td>[Entry Level] Aircraft Composite Technician x5 (Aerospace Manufacturing) / 5days, North [R22107578]</td><td>North</td><td>2026-09-28</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Electrical Technician</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>SCALENCE PTE. LTD.</td><td>🌟 High Priority Hiring: Field Technician / Full-Time Role</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>JE HUMAN RESOURCES PTE. LTD.</td><td>Service Engineer (CCTV/Security system)</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Associate</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Associates</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Warehouse Assistant / Kaki Bukit / 9-hour shifts / $2.2k</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp/Contract Admin Assistant (Healthcare/Lifescience) #HHW</td><td>Islandwide</td><td>2026-09-28</td></tr>
 </table>
