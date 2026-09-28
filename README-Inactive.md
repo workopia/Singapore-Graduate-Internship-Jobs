@@ -16689,4 +16689,48 @@
 <tr><td>TECHEMERGE SOLUTIONS PTE. LTD.</td><td>AI Ops Engineer</td><td>Islandwide</td><td>2026-09-27</td></tr>
 <tr><td>MAVERICKS CONSULTING PTE. LTD.</td><td>Junior Agile Business Analyst</td><td>Singapore</td><td>2026-09-27</td></tr>
 <tr><td>VINOVA PTE. LTD.</td><td>Business Analyst (HPB)</td><td>Singapore</td><td>2026-09-27</td></tr>
+<tr><td>Coty Inc</td><td>Retail Commercial Analyst Intern</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Project Management Intern, Visual Merchandising</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Commercial Finance Intern</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Procurement Logistics Intern</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Coty Inc</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Management Information Systems [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Securities Finance [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Treasury Advisory / Investment Solutions [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Asset Allocation, Risk Strategy, Xva [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Digital Markets [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Corporate Sales & Structuring [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Global Markets Research – Credit Research [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Institutional Clients – Structured Products & Syndicate [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Strategy, Planning & Finance [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Global Markets Research – Fx And Rates Strategy [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Global Markets Research - Equity Research [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Asset Liability Management – Central Liability Unit & Interest Rate Management [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Cross Asset Structuring [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Business Management Unit/first Line Of Defence Support & Programs [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Business Management Unit/system Solution Analytics [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Emerging Markets, Rates & Ndf + Global Mkts Sgd Rates [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Equities Derivatives [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Fxd – G7 & Sgd [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Asset Liability Management/portfolio Intelligence Unit [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Global Structured Solutions [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Markets, Global Markets Macro Research [jan - Jun 2027]</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Coty</td><td>Marketing Intern, Regional Prestige</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>224</td><td>Intern, Corporates Sales</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ST Engineering</td><td>Engineer</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Mimecast</td><td>Associate Technical Support Engineer</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ARGYLL SCOTT CONSULTING PTE. LTD.</td><td>Java Kotlin Software Engineer</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>Koch</td><td>Accounting Intern</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>FICOFI PARTNERS HOLDING PTE. LTD.</td><td>Wine & Business Analyst</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Business Analyst - Financial ERP (Public Sector)</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>AVN DIGITAL PTE. LTD.</td><td>Business Analyst</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Clinic Assistant (Joo Chiat, 3 Months, Start Dec 2026/Jan 2027, Up to $15/hr) #HJY</td><td>Joo Chiat</td><td>2026-09-28</td></tr>
+<tr><td>TRUST RECRUIT PTE. LTD.</td><td>Production Technician (Japan MNC / Cleanroom / Shift) AL70</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>NEXUS ORGANISATION</td><td>Sales & Marketing Associate</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>STRATEGY SOLUTIONS SERVICES</td><td>Beauty Advisors x02 (S$2000-S$2500 + Allowances + Guaranteed Commission) Town</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>AG ACQUISITION MANAGEMENT PTE. LTD.</td><td>Bank Branch Sales</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Logistics Coordinator</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>[Entry Level] Marketing - Admin & Operations</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>>>Entry Level<< Events and Marketing Executive</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>LTH LOGISTICS (SINGAPORE) PTE LTD</td><td>Logistics Coordinator</td><td>Islandwide</td><td>2026-09-28</td></tr>
 </table>
