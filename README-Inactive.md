@@ -16991,4 +16991,19 @@
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Associates</td><td>Singapore</td><td>2026-09-28</td></tr>
 <tr><td>HRNET VENTURES PTE. LTD.</td><td>Warehouse Assistant / Kaki Bukit / 9-hour shifts / $2.2k</td><td>Singapore</td><td>2026-09-28</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp/Contract Admin Assistant (Healthcare/Lifescience) #HHW</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>VAREL SINGAPORE PTE. LTD.</td><td>Executive Management Trainee</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>GRAIN PTE. LTD.</td><td>Ruby on Rails Software Engineer (Full-stack)</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Accounts Assistant (5 days) [EL]</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>RECRUIT NOW SINGAPORE PTE. LTD.</td><td>Tax Associate (Junior) / Audit & Acct firm / 5 days work week / S$3,200 basic + bonus</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>FUKUYAMA ENGINEERING & CONSTRUCTION PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>ABSOLUT PROPERTIES PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Locum Pharmacist (Maternity Cover)</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Dental Surgery Assistant (5 days including weekend) [EL]</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Dental Assistant (Include weekend) [EL]</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Physiotherapist / Central / Up to $10,000/month / 5-Day Work Week / Non-Shift Role</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Mechanic / Technician (Marine Service)</td><td>Tuas</td><td>2026-09-28</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Associate Service Engineer [4 DAY / 12H SHIFT / EAST] (KCKC)</td><td>Changi +1</td><td>2026-09-28</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Service Technician (Cooling, Chiller, HVAC, MNC, 3.5K)</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>SIMPLE RECRUIT</td><td>Events Marketer (No Experience Needed)</td><td>Singapore</td><td>2026-09-28</td></tr>
+<tr><td>WAVEWORKS</td><td>Events Ambassador 😎 / No Experience Required 🙈/ Uncapped Earnings 💵</td><td>Islandwide</td><td>2026-09-28</td></tr>
 </table>
