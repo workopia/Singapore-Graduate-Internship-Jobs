@@ -17419,4 +17419,24 @@
 <tr><td>NOVARA GLOBAL</td><td>🚀 [ Entry level ] Marketing Assistant 🚀</td><td>Singapore</td><td>2026-09-29</td></tr>
 <tr><td>WECRUIT PTE. LTD.</td><td>Admin Assistant [EL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
 <tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Insurance Admin (up to $2800)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>VAREL SINGAPORE PTE. LTD.</td><td>Executive Management Trainee</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>GRAIN PTE. LTD.</td><td>Ruby on Rails Software Engineer (Full-stack)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Accounts Assistant (5 days) [EL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT NOW SINGAPORE PTE. LTD.</td><td>Tax Associate (Junior) / Audit & Acct firm / 5 days work week / S$3,200 basic + bonus</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NS SQUARE LIMITED</td><td>Accountant</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>LONGEVITY & LIFESTYLE MEDICAL PTE. LTD.</td><td>Nurse</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Locum Pharmacist (Maternity Cover)</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East Polyclinic, Office Hours] 3 Months Temp Dental Assistant (Training Provided) - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Dental Surgery Assistant (5 days including weekend) [EL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Dental Assistant (Include weekend) [EL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT*Dental Assistant (Shift, Islandwide) #HRY</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>(US MNC) 1.5 Years Contract Microbiology Lab Technician (Office Hrs) #HLV</td><td>Changi</td><td>2026-09-29</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Physiotherapist / Central / Up to $10,000/month / 5-Day Work Week / Non-Shift Role</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Electrical Technician</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>FOCAL SEARCH PTE. LTD.</td><td>Sales Coordinator (Tuas)</td><td>Tuas</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Associate (Entry Level)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Retail Sales Associates (Islandwide) [SL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>GEMS PARTNERS NETWORK PTE. LTD.</td><td>Sales Assistant/Coordinator (West) Up to $2500</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>THE RUBIES GLOBAL</td><td>🌟 Marketing Executive (Entry Level / Fresh Grads Welcome) 🌟</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Architecture Coordinator [SL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
 </table>
