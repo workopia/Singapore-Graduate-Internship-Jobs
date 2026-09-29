@@ -17006,4 +17006,41 @@
 <tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Service Technician (Cooling, Chiller, HVAC, MNC, 3.5K)</td><td>Islandwide</td><td>2026-09-28</td></tr>
 <tr><td>SIMPLE RECRUIT</td><td>Events Marketer (No Experience Needed)</td><td>Singapore</td><td>2026-09-28</td></tr>
 <tr><td>WAVEWORKS</td><td>Events Ambassador 😎 / No Experience Required 🙈/ Uncapped Earnings 💵</td><td>Islandwide</td><td>2026-09-28</td></tr>
+<tr><td>tech.gov.sg</td><td>Intern</td><td>Pas</td><td>2026-09-29</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Beauty & Home Care Lab Intern</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Marketing Communication Intern</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NETS</td><td>It Security Intern</td><td>Braddell</td><td>2026-09-29</td></tr>
+<tr><td>NETS</td><td>Merchant Business (product) Intern</td><td>Braddell</td><td>2026-09-29</td></tr>
+<tr><td>NETS</td><td>It Service Managementi Ntern</td><td>Braddell</td><td>2026-09-29</td></tr>
+<tr><td>NETS</td><td>Finance Operations Intern</td><td>Braddell</td><td>2026-09-29</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Desktop Engineer, Jurong East, upto $4000</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>EWP PTE. LTD.</td><td>Accounting Intern</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>VSMNE RESOURCES PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>DAXIN YEUNG PAC</td><td>audit assistant</td><td>Tanjong Pagar</td><td>2026-09-29</td></tr>
+<tr><td>KRESTON DAVID YEUNG PAC</td><td>AUDIT ASSISTANT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Dental Assistant (Five Days Office Hour, Training Provided!) #HTJ</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Dental Assistant / Up to $3,000+ #HHLT</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[East Polyclinic, Training Provided] 3 Months Temp Dental Assistant (Hands-On) - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Dental Assistant / NO EXPERIENCE REQUIRED / Central Govt Healthcare / Office Hours / UP $13/hr #HYT</td><td>Orchard</td><td>2026-09-29</td></tr>
+<tr><td>DENTALPLUS CLINIC PTE. LTD.</td><td>Dental Assistant Trainee (No Experience Needed – Full Training Provided)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NEWLIFE DENTAL PRACTICE PTE. LTD.</td><td>Dental Assistant</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Temp Dental Assistant (Renewable) #HGAT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>REDBRIDGE HEALTH PRIVATE LIMITED</td><td>Dental Assistant</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>SEARCH STAFFING SERVICES PTE. LTD.</td><td>Power Electronics Research Engineer (All levels)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>SEARCH STAFFING SERVICES PTE. LTD.</td><td>Control Systems Research Engineer</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>SINGAPORE-MIT ALLIANCE FOR RESEARCH AND TECHNOLOGY CENTRE</td><td>Postdoctoral Associate (Device Modeling and Characterization)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Research (Educator) Assistant (DXA Imagining, Bio-Sciences) #NJH</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Simulation & BioMEMS)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months Research Administration (Grant) #NJN</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Learning Sciences & Assessment Department) [NIE]</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>EMPIRE WORKS PTE. LTD.</td><td>Renovation Project Assistant</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>VMACS PTE. LTD.</td><td>Junior Veterinary Technician</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>INDUSTRIAL & COMMERCIAL FACILITIES MANAGEMENT PTE. LTD.</td><td>Facilities Technican/ Supervisor</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>JOB NEST EA PTE. LTD.</td><td>Vending Machine Technician</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Outreach Executive (Entry Level)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Development Associate (Entry Level)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Direct Sales Executive (No Exp Required, Training Provided)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Retail Assistant (5.5 days) - Central</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Event Assistant (Fast Growth, Entry-Level)</td><td>Singapore</td><td>2026-09-29</td></tr>
 </table>
