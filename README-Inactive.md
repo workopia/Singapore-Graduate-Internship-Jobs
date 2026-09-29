@@ -17386,4 +17386,37 @@
 <tr><td>GENII IDEAS (S) PTE. LTD.</td><td>Site Safety Coordinator</td><td>Singapore</td><td>2026-09-29</td></tr>
 <tr><td>MAX OUT MARKETING</td><td>(FULL / PART TIME) Events & Marketing Associate 💼 Travel Opportunities + Training Provided</td><td>Singapore</td><td>2026-09-29</td></tr>
 <tr><td>AXISREACH RECRUITMENT</td><td>☄️MARKETING ASSOCIATES / NO EXP NEEDED ‼️💥</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Management Trainee – Sales & Marketing</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>CCTV / Alarms Technical Specialist</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Full Stack Engineer (React / Node.js/ CMS)</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Software/ Full Stack Engineer (React / Node.js/ CMS)</td><td>Central</td><td>2026-09-29</td></tr>
+<tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Investment Analyst (Investment Holding Company)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Accounts Executive / Accountant (Healthcare/Lifescience) #HHW</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.</td><td>Accounts Assistant (Central/ No experience/ Up to $2.8k + VB)</td><td>Middle Road</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*Fast Hire* Basic Care Assistant (BCA) / [Multiple Vacancies Open x15] - #HJZ</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Locum Physiotherapist</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Fellow</td><td>Jurong +2</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Research Assistant / Associate – Clinical Research (DEXA) #HTJ</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT NOW SINGAPORE PTE. LTD.</td><td>Maintenance Technician (CNC) / Up to S$3,500 + AWS + 2.5 Months Variable Bonus</td><td>Pioneer</td><td>2026-09-29</td></tr>
+<tr><td>CANWORKONE.SG EMPLOYMENT PTE. LTD.</td><td>Technician (Preventive Maintenance)</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>HKM HR MANAGEMENT PTE. LTD.</td><td>Equipment Technician (Semiconductor, 12 hrs. shift, East Region)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Utilities and Maintenance Technician (West) #HHW</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Service Engineer (Medical Device/Gas Analyzer) #HHW</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>STAFFKING PTE. LTD.</td><td>[Entry Level] Aircraft Composite Technician x5 (Aerospace Manufacturing) / 5days, North [R22107578]</td><td>North</td><td>2026-09-29</td></tr>
+<tr><td>INTUIT RECRUITMENT PTE. LTD.</td><td>Aircon Technician</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Beauty Advisor / Up to $2,000 + Commission / Central</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>ENTRESYS PTE. LTD.</td><td>Tech Sales Associate</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NOVARA GLOBAL</td><td>[Urgent] - Sales Assistants (No experience ok, Immediate)</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>STRIVE MARKETING GROUP</td><td>Sales assistant</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>PEOPLE PROFILERS PTE. LTD.</td><td>Warehouse Assistant (Islandwide)</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>XING HAN CONSTRUCTION PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Tanjong Pagar</td><td>2026-09-29</td></tr>
+<tr><td>EDUCARE HUMAN CAPITAL PRIVATE LIMITED</td><td>Receptionist Cum Admin Assistant (School) NORTH #2209</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>WAN CHENG CONSTRUCTION PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>DINBUILD CONSTRUCTION PTE. LTD.</td><td>ADMINSTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>LIE YANG CONSTRUCTION PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>JIA XING CONSTRUCTION PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>NOVARA GLOBAL</td><td>[IMMEDIATE HIRE] EVENT ASSOCIATE</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>NOVARA GLOBAL</td><td>🚀 [ Entry level ] Marketing Assistant 🚀</td><td>Singapore</td><td>2026-09-29</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Admin Assistant [EL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Insurance Admin (up to $2800)</td><td>Singapore</td><td>2026-09-29</td></tr>
 </table>
