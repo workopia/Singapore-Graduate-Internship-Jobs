@@ -12,8 +12,8 @@
   "as_of": "2026-09-30",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
-  "country_live_total": 76442,
-  "generated_at": "2026-09-30T10:25:58.087Z"
+  "country_live_total": 76422,
+  "generated_at": "2026-09-30T13:18:54.550Z"
  },
  "categories": [
   {
@@ -190,23 +190,6 @@
    "date_posted": "2026-09-29T13:36:23.739Z",
    "active": true,
    "url": "https://workopia.io/jobs/a0c405d348fc7cab4a7fcf5dfdf8cb47",
-   "category": "grad",
-   "tier": "Intern"
-  },
-  {
-   "salary_display": null,
-   "id": "303c1b51695b9b9d4d8344d2b863d9c7",
-   "source": "Workopia",
-   "company_name": "Van Cleef & Arpels",
-   "company_hi_slug": "van-cleef-arpels",
-   "title": "Retail Performance Assistant Intern",
-   "location": "Singapore",
-   "skills": "monitoring and analyzi, retail performance man",
-   "sponsorship": false,
-   "hot": false,
-   "date_posted": "2026-09-29T11:43:21.942Z",
-   "active": true,
-   "url": "https://workopia.io/jobs/303c1b51695b9b9d4d8344d2b863d9c7",
    "category": "grad",
    "tier": "Intern"
   },
@@ -1431,6 +1414,23 @@
    "date_posted": "2026-09-26T11:36:00.350Z",
    "active": true,
    "url": "https://workopia.io/jobs/57630438dc1e4890ee0583015ec8926e",
+   "category": "grad",
+   "tier": "Intern"
+  },
+  {
+   "salary_display": null,
+   "id": "5e372a90608ce140989078e9e85f3cbf",
+   "source": "Workopia",
+   "company_name": "Razer Inc.",
+   "company_hi_slug": "razer",
+   "title": "Applied Ai Intern",
+   "location": "Singapore",
+   "skills": "evaluate multimodal mo, agentic AI features",
+   "sponsorship": false,
+   "hot": false,
+   "date_posted": "2026-09-26T11:36:00.350Z",
+   "active": true,
+   "url": "https://workopia.io/jobs/5e372a90608ce140989078e9e85f3cbf",
    "category": "grad",
    "tier": "Intern"
   },

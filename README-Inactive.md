@@ -17478,4 +17478,5 @@
 <tr><td>LE CLOS PTE. LTD.</td><td>Guest Relationship Officer</td><td>Orchard</td><td>2026-09-30</td></tr>
 <tr><td>ADECCO PERSONNEL PTE LTD</td><td>Bank Customer Service Call Centre ( Up $4k)</td><td>Singapore</td><td>2026-09-30</td></tr>
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>0731 - Architectural Project Coordinator</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Van Cleef & Arpels</td><td>Retail Performance Assistant Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
 </table>
