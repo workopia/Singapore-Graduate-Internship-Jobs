@@ -17439,4 +17439,43 @@
 <tr><td>GEMS PARTNERS NETWORK PTE. LTD.</td><td>Sales Assistant/Coordinator (West) Up to $2500</td><td>Islandwide</td><td>2026-09-29</td></tr>
 <tr><td>THE RUBIES GLOBAL</td><td>🌟 Marketing Executive (Entry Level / Fresh Grads Welcome) 🌟</td><td>Singapore</td><td>2026-09-29</td></tr>
 <tr><td>WECRUIT PTE. LTD.</td><td>Architecture Coordinator [SL]</td><td>Islandwide</td><td>2026-09-29</td></tr>
+<tr><td>Razer Inc.</td><td>Applied Ai Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Retail Operations Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Game Product And Operation Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Pr & Influencer Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Product Marketing Intern (keyboards)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Regional Marketing Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Partnerships Marketing Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Large Language Model Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Razer Inc.</td><td>Product Marketing Intern - Mice</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>NERA Economic Consulting</td><td>Intern, Talent & Transformation (may 2027 Intake)</td><td>Marina View</td><td>2026-09-30</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Manufacturing Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Medical Technologist (flow Cytometry)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Global Project Management (dds)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Scientist (bioa Ichem)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Sample Coordinator</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Qc Reviewer (bioa)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern – Medical Technologist (clinical Chemistry)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Labcorp</td><td>Intern - Procurement Generalist</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>DXC Technology Australia</td><td>Servicedesk Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>DXC Technology Australia</td><td>Rr-0393497 Service Desk Intern-19</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>RAJAH & TANN TECHNOLOGIES PTE. LTD.</td><td>Support Analyst</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>IMMEDIATE HIRING- DESKTOP ENGINEER (SHIFT)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Grafana Labs</td><td>Staff Backend Software Engineer - Loki / Singapore / Remote</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>ST Engineering</td><td>Uas Software Engineer</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>CHINA CONSTRUCTION REALTY CO. PTE. LTD.</td><td>IT Engineer</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>GREAT RESOURCES M & E CONTRACTOR PTE LTD</td><td>IT Engineer</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Credit Operations Migration Analyst (Foreign Bank) #BLM</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>INVESTMENT COMPANY OF THE PEOPLE'S REPUBLIC OF CHINA (SINGAPORE) PTE LTD</td><td>Performance Analyst</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>JOBSTUDIO PTE. LTD.</td><td>Accounts Assistant (Healthcare Finance)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>PHOENIX ACCOUNTING SINGAPORE PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Clinical Research Pharmacist ( Pharma MNC ) #HFQ</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6mths Pharmacy Technician (Flexible Schedule) - $20 / hr #HKHT</td><td>Islandwide</td><td>2026-09-30</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Pharmacy Technician (Oncology)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>SG EMPLOYMENT 88</td><td>TECHNICIAN</td><td>Islandwide</td><td>2026-09-30</td></tr>
+<tr><td>ENGGSOL PTE. LTD.</td><td>System Field Engineer (Radar/EO)</td><td>Islandwide</td><td>2026-09-30</td></tr>
+<tr><td>COLD ONE BEVERAGES DISPENSE SOLUTIONS PTE. LTD.</td><td>TECHNICIAN</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>LE CLOS PTE. LTD.</td><td>Guest Relationship Officer</td><td>Orchard</td><td>2026-09-30</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Bank Customer Service Call Centre ( Up $4k)</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>0731 - Architectural Project Coordinator</td><td>Singapore</td><td>2026-09-30</td></tr>
 </table>
