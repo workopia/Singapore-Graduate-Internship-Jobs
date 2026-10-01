@@ -17479,4 +17479,45 @@
 <tr><td>ADECCO PERSONNEL PTE LTD</td><td>Bank Customer Service Call Centre ( Up $4k)</td><td>Singapore</td><td>2026-09-30</td></tr>
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>0731 - Architectural Project Coordinator</td><td>Singapore</td><td>2026-09-30</td></tr>
 <tr><td>Van Cleef & Arpels</td><td>Retail Performance Assistant Intern</td><td>Singapore</td><td>2026-09-30</td></tr>
+<tr><td>Coty Inc.</td><td>Retail Design Project Management Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>COFCO International</td><td>Cfs Finance Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>COFCO International</td><td>Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit Innovation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Technology Assurance / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit - Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit Innovation / Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory-deal Adv, Infrastructure Advisory Ipa / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>APBA TG HUMAN RESOURCE PTE. LTD.</td><td>Temp HR Intern II 6 Months Contract II Central</td><td>Tanjong Pagar</td><td>2026-10-01</td></tr>
+<tr><td>Ipsos UK</td><td>Marcom And Marketing Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Planning Data Scientist</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Automation Engineering</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Engineering Documentation Support 1sap</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Management And Process Mapping</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Machine Learning And Data Analytics</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Engineering And Backend Engineering</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Scientist And Automation</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Integration</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - It Business Analyst (human Resource)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Materials Innovation</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Erp Testing Services And Test Management Office (tmo)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Analysis & Reporting</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - It Business Analyst (human Resources)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Agentic Ai For Hardware Test Automation</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Management</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>dsm-firmenich</td><td>Dsm-firmenich Internship Program</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Smbc Summer Intern Programme 2027</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Marriott International</td><td>Intern, Food & Beverage</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Razer Inc.</td><td>Generative Ai Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Razer Inc.</td><td>Computer Vision Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Razer Inc.</td><td>Reinforcement Learning Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Razer Inc.</td><td>Public Relations Intern (global Product)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>Razer Inc.</td><td>Applied Ai Intern</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>YEPEESOFT PTE. LTD.</td><td>Data Analyst with Financial Data</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>ENGGSOL PTE. LTD.</td><td>Maintenance Engineer</td><td>Islandwide</td><td>2026-10-01</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Shift Technician (Repair, Maintainance, East, 3K)</td><td>East</td><td>2026-10-01</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Maintenance Technician/ AE (Chiller, ACMV, HVAC, MNC, up to 4K)</td><td>Islandwide</td><td>2026-10-01</td></tr>
+<tr><td>HEARTSIDE MARKETING</td><td>Client Relations Associate (Entry Level Welcome)</td><td>Islandwide</td><td>2026-10-01</td></tr>
+<tr><td>HYDSE PTE. LTD.</td><td>Project Executive (Events)</td><td>Singapore</td><td>2026-10-01</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Admin Coordinator (IT / Kaki Bukit)</td><td>Singapore</td><td>2026-10-01</td></tr>
 </table>
