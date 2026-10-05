@@ -18389,4 +18389,44 @@
 <tr><td>VALOR ORGANISATION PTE. LTD.</td><td>🚀Brand & Marketing Executive</td><td>Singapore</td><td>2026-10-04</td></tr>
 <tr><td>TALENT RISE SG</td><td>Events Marketing Coordinator / Travelling Opportunities ✈️</td><td>Singapore</td><td>2026-10-04</td></tr>
 <tr><td>SINGCO BV PTE. LTD.</td><td>Marcom Executive (F&B) Stadium MRT</td><td>Singapore</td><td>2026-10-04</td></tr>
+<tr><td>OMRON Corporation</td><td>Intern - Regional Marketing</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Prudential IP Services Ltd</td><td>Ai Intern – Ibf Young Talent Programme For Ai In Finance (ytp-aif)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Ingalcivil Com Au</td><td>Intern, Network Sector Coverage</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Business Analyst Intern, Sea</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Purchasing Intern</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Marketing Intern, Apac</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Applied Materials Inc</td><td>Logistics Coordinator Internship</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Marvell</td><td>Analog Layout Intern - Bachelor's Degree</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Accounting & Finance Internship (2027)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Ecolab Pty Ltd</td><td>Qc Laboratory Internship (2027)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>GlobalFoundries</td><td>Ip Program Management & Quality Intern (jan-jun 2027)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>ABB Ltd</td><td>Project Management Intern</td><td>Central Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Coty</td><td>Marketing Intern, Domestic Market</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>GAIA LIFESTYLE HOLDINGS PTE. LTD.</td><td>Family Office – Household Operations Intern</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Healthcare Recruitment & Talent Acquisition Intern #HDC1</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>XING TEK FLOORING PTE. LTD.</td><td>Marketing Design Intern</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>S&P Global Inc.</td><td>Market Intelligence Revenue Associate Internship</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>EXION MARKETING</td><td>Junior Marketing Support (Entry-Level)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>SAPPHIRE WINDOWS PTE. LTD.</td><td>Marketing Intern</td><td>Changi</td><td>2026-10-05</td></tr>
+<tr><td>S&P Global Market Intelligence</td><td>Market Intelligence Revenue Associate Internship</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>IKEA UK</td><td>Ikea Singapore - Local Marketing & Communication Intern</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>THE HR ECOLOGY PTE. LTD.</td><td>TEMP/AD-HOC IT SUPPORT TECHNICIAN / $20/HR - AAR</td><td>Suntec</td><td>2026-10-05</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>FAE (Field Application Engineer) & IT Engineer</td><td>Islandwide</td><td>2026-10-05</td></tr>
+<tr><td>COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.</td><td>AI/ML Engineer</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>LEGATE ENTERPRISE PTE. LTD.</td><td>Accounts Intern</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Tiffany 2</td><td>Finance Analyst (contract)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Tiffany & Co</td><td>Finance Analyst (contract)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Tiffany</td><td>Finance Analyst (contract)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>PERCEPT SOLUTIONS PTE. LTD.</td><td>Business Analyst- Wealth Management/Private Banking</td><td>Islandwide</td><td>2026-10-05</td></tr>
+<tr><td>PASONA SINGAPORE PTE. LTD.</td><td>Business Performance Analyst cum Administrator - JY</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[No Interview, No Exp Ok] 3 Months Temp Basic Care Assistant (8am-12pm ) - $11/hr #HLV</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Pharmacist</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>Micron Technology Inc</td><td>Msh Metrology & Real-time Defect Analysis Technician</td><td>Fab 10a</td><td>2026-10-05</td></tr>
+<tr><td>Cw Ems</td><td>Technical Officer (west, 5 Days)</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>MARVEOUS EMPLOYMENT PTE. LTD.</td><td>Assistant Machine Technician</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>JESPA (SINGAPORE) CORPORATION PTE. LTD.</td><td>Indoor Sales Coordinator</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>THE FULLERTON HOTEL</td><td>Sales Administrator</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>AIR & ODOR MANAGEMENT PTE. LTD.</td><td>Indoor Sales Co-Ordinator</td><td>Singapore</td><td>2026-10-05</td></tr>
+<tr><td>VFS (SINGAPORE) PTE. LTD.</td><td>Officer, Operations</td><td>Islandwide</td><td>2026-10-05</td></tr>
+<tr><td>VFS (SINGAPORE) PTE. LTD.</td><td>Officer, Operations (3 to 4 Months)</td><td>Islandwide</td><td>2026-10-05</td></tr>
 </table>
