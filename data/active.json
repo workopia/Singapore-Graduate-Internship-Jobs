@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-07",
- "count": 878,
+ "asOf": "2026-10-08",
+ "count": 880,
  "jobs": {
   "2648640": {
    "id": "2648640",
@@ -19,6 +19,132 @@
    "company": "HP",
    "role": "College Intern - Business Analyst",
    "location": "South West"
+  },
+  "47554a5dbe9c4d13d3a92cba5a791664": {
+   "id": "47554a5dbe9c4d13d3a92cba5a791664",
+   "company": "Hong Leong Bank",
+   "role": "Intern - Credit (policy & Analytics)",
+   "location": "Singapore"
+  },
+  "c4e74fea9c7d5e507bc9803be8454117": {
+   "id": "c4e74fea9c7d5e507bc9803be8454117",
+   "company": "Hong Leong Bank",
+   "role": "Intern - Personal Financial Services",
+   "location": "Singapore"
+  },
+  "360348d1ffbeec00e45ed6d73c3a7d80": {
+   "id": "360348d1ffbeec00e45ed6d73c3a7d80",
+   "company": "Applied Materials",
+   "role": "Manufacturing Internship Program",
+   "location": "Singapore"
+  },
+  "8f4d330528e4e6b4728db6eac28e8d51": {
+   "id": "8f4d330528e4e6b4728db6eac28e8d51",
+   "company": "ABB Ltd",
+   "role": "Operations Support Intern",
+   "location": "Central Singapore"
+  },
+  "f9e354345def3f222a24d50a48149b86": {
+   "id": "f9e354345def3f222a24d50a48149b86",
+   "company": "CapitaLand",
+   "role": "Intern, Investor Relations & Communications (jan 27 - Jun 27)",
+   "location": "Central Singapore"
+  },
+  "f2e3f888b86eabf9b5cea294edd352c2": {
+   "id": "f2e3f888b86eabf9b5cea294edd352c2",
+   "company": "CapitaLand",
+   "role": "Intern, Listed Funds - Capital Markets (jan 27 - Jun 27)",
+   "location": "Central Singapore"
+  },
+  "94651ea712b923b0c993f1180a8aeb41": {
+   "id": "94651ea712b923b0c993f1180a8aeb41",
+   "company": "CapitaLand",
+   "role": "Intern, Product Management (ui/ux)",
+   "location": "Central Singapore"
+  },
+  "9d561a60d70de440933c4e0c64ee1fd6": {
+   "id": "9d561a60d70de440933c4e0c64ee1fd6",
+   "company": "CapitaLand",
+   "role": "Intern, Digital Experience (mar - Aug 2027 / Apr 2027 - Feb 2028)",
+   "location": "Central Singapore"
+  },
+  "512d5cf2c4693a4d089c24e9ed89033f": {
+   "id": "512d5cf2c4693a4d089c24e9ed89033f",
+   "company": "CapitaLand",
+   "role": "Intern, Brand & Marketing (performance Marketing) (jan - Jul 2027)",
+   "location": "Central Singapore"
+  },
+  "dac1062669df6fa011d1875e17cdaed7": {
+   "id": "dac1062669df6fa011d1875e17cdaed7",
+   "company": "PIL UAE LLC",
+   "role": "Global Sustainability And Esg Intern",
+   "location": "Singapore"
+  },
+  "1c4053a1bbb454aaad78bccdf9d3cb73": {
+   "id": "1c4053a1bbb454aaad78bccdf9d3cb73",
+   "company": "PIL UAE LLC",
+   "role": "Internship 2026",
+   "location": "Singapore"
+  },
+  "65c69e28e38f1a22f8a2b0640b5b1e58": {
+   "id": "65c69e28e38f1a22f8a2b0640b5b1e58",
+   "company": "PIL UAE LLC",
+   "role": "Hr Intern, International Hr Business Partner Team",
+   "location": "Singapore"
+  },
+  "3e3569cc01aea670e2d975d1505334f9": {
+   "id": "3e3569cc01aea670e2d975d1505334f9",
+   "company": "Micron Technology Inc",
+   "role": "Intern - Nand Probe Product Engineering (test Mode Integration)",
+   "location": "Singapore"
+  },
+  "0239d6c59ca79f607fab4ab5d9230f75": {
+   "id": "0239d6c59ca79f607fab4ab5d9230f75",
+   "company": "Micron Technology Inc",
+   "role": "Intern - Nand Process And Equipment Engineer",
+   "location": "Singapore"
+  },
+  "f6686a4f7d121017614c6e2bcb4392e1": {
+   "id": "f6686a4f7d121017614c6e2bcb4392e1",
+   "company": "Halenessszt",
+   "role": "Intern - Marketing - Pain & Respiratory Health",
+   "location": "Rochester Park"
+  },
+  "a5287ccfd448e5882be978c497f8f0fc": {
+   "id": "a5287ccfd448e5882be978c497f8f0fc",
+   "company": "Halenessszt",
+   "role": "Intern - Hr",
+   "location": "Rochester Park"
+  },
+  "de3d80d31e6fc926144751dc265cd5b1": {
+   "id": "de3d80d31e6fc926144751dc265cd5b1",
+   "company": "ING WB Asia",
+   "role": "Intern, Financial Markets Business Management",
+   "location": "Singapore"
+  },
+  "fe99d3085ecd62931e81c8a38f5afc2e": {
+   "id": "fe99d3085ecd62931e81c8a38f5afc2e",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Tax - Tax Technology & Transformation / Off-cycle Internship (jan 2027 To Jun 2027)",
+   "location": "Singapore"
+  },
+  "046d4c329aad0f3f79dee3dd9b51cd77": {
+   "id": "046d4c329aad0f3f79dee3dd9b51cd77",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Advisory - Consulting, Esg / Off-cycle Internship (jan 2027 To Jun 2027)",
+   "location": "Singapore"
+  },
+  "9d6f5264963fb31f37ff750a9dbb6b0b": {
+   "id": "9d6f5264963fb31f37ff750a9dbb6b0b",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Tax - Tax Reimagined / Off-cycle Internship (jan 2027 To Jun 2027)",
+   "location": "Singapore"
+  },
+  "a1c0b6b080d65db33c78f3866c9e7e64": {
+   "id": "a1c0b6b080d65db33c78f3866c9e7e64",
+   "company": "COFCO International",
+   "role": "Cfs Finance Intern",
+   "location": "Singapore"
   },
   "75c0f4e423347d08457270ee8641b9f7": {
    "id": "75c0f4e423347d08457270ee8641b9f7",
@@ -372,132 +498,6 @@
    "id": "85d0c3fe2d5f39be35d759c2dedc60d1",
    "company": "KPMG Services Pte Ltd",
    "role": "Mid-year Internship 2026 (aug - Dec 2026), Consulting, Organisation Transformation",
-   "location": "Singapore"
-  },
-  "df38fe4e7deb999b46991cba77a777ba": {
-   "id": "df38fe4e7deb999b46991cba77a777ba",
-   "company": "Infineon",
-   "role": "Internship - Tax",
-   "location": "Singapore"
-  },
-  "f8bdbd94e2f9d73e77b637914b961165": {
-   "id": "f8bdbd94e2f9d73e77b637914b961165",
-   "company": "Infineon",
-   "role": "Internship - Strategy M&a Infineon Asia Pacific",
-   "location": "Singapore"
-  },
-  "9e8aeb01dc9b44ce34d2603a22424463": {
-   "id": "9e8aeb01dc9b44ce34d2603a22424463",
-   "company": "Infineon",
-   "role": "Internship - Industrial Engineering",
-   "location": "Singapore"
-  },
-  "709400b3d6e21f99fb5c58df583a75e7": {
-   "id": "709400b3d6e21f99fb5c58df583a75e7",
-   "company": "Infineon",
-   "role": "Internship - Ai Solutions & Analytics",
-   "location": "Singapore"
-  },
-  "8d3f8b76206a7f4146c79bafaf33291d": {
-   "id": "8d3f8b76206a7f4146c79bafaf33291d",
-   "company": "Infineon",
-   "role": "Internship - Failure Analysis (ai Modelling And Digitalisation)",
-   "location": "Singapore"
-  },
-  "82286ea77b2f679727b3bfd7f79b7699": {
-   "id": "82286ea77b2f679727b3bfd7f79b7699",
-   "company": "Infineon",
-   "role": "Internship - Artificial Intelligence And Machine Learning (finance)",
-   "location": "Singapore"
-  },
-  "f8a501c39acba8e924e8f457c5d3febd": {
-   "id": "f8a501c39acba8e924e8f457c5d3febd",
-   "company": "Infineon",
-   "role": "Internship - Corporate Communications",
-   "location": "Singapore"
-  },
-  "d17f87721340b2957ce3922f2553a0c2": {
-   "id": "d17f87721340b2957ce3922f2553a0c2",
-   "company": "Infineon",
-   "role": "Internship – Be Dev Project Office (digitalization & Low-code Automation)",
-   "location": "Singapore"
-  },
-  "ce81c2de6a906748cbef805658ee8f12": {
-   "id": "ce81c2de6a906748cbef805658ee8f12",
-   "company": "Infineon",
-   "role": "Internship – Supply Chain Planning Data Analyst",
-   "location": "Singapore"
-  },
-  "79dccb99295214b87d953cf20c38869d": {
-   "id": "79dccb99295214b87d953cf20c38869d",
-   "company": "Infineon",
-   "role": "Internship - Test Data Analytics",
-   "location": "Singapore"
-  },
-  "5fa982777360785a0078289224a0ced7": {
-   "id": "5fa982777360785a0078289224a0ced7",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern, Treasury Front Office",
-   "location": "Singapore"
-  },
-  "b6853193b49ef9db6deb39fa5dd87ffa": {
-   "id": "b6853193b49ef9db6deb39fa5dd87ffa",
-   "company": "Deutsche Boerse AG",
-   "role": "Equity-linked Notes Singapore Intern",
-   "location": "Singapore"
-  },
-  "ea4df7eeccb789a538ef2dda56eac2d3": {
-   "id": "ea4df7eeccb789a538ef2dda56eac2d3",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern, Human Resources",
-   "location": "Singapore"
-  },
-  "1aaf46b0bf2cc5cd1585df5d548c76a4": {
-   "id": "1aaf46b0bf2cc5cd1585df5d548c76a4",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern, Fund Services Product Management",
-   "location": "Singapore"
-  },
-  "b58f0167839e5bb3e5c9d500733195b8": {
-   "id": "b58f0167839e5bb3e5c9d500733195b8",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern, Content Creator & Marketing",
-   "location": "Singapore"
-  },
-  "253f9ceb375f564806c79340a4164418": {
-   "id": "253f9ceb375f564806c79340a4164418",
-   "company": "Deutsche Boerse AG",
-   "role": "Intern, Financial Derivatives Sales & Business Development Support - Singapore",
-   "location": "Singapore"
-  },
-  "61b0b365f269f0f06f4641020f2201a2": {
-   "id": "61b0b365f269f0f06f4641020f2201a2",
-   "company": "Exxon Mobil",
-   "role": "Internship - Trading Analyst (1h2027)",
-   "location": "Singapore"
-  },
-  "e16a998703a0de3c": {
-   "id": "e16a998703a0de3c",
-   "company": "APBA TG HUMAN RESOURCE PTE. LTD.",
-   "role": "Temp HR Intern II 6 Months Contract II Central",
-   "location": "Islandwide"
-  },
-  "2ceace81d148e243": {
-   "id": "2ceace81d148e243",
-   "company": "AURATALENTSG",
-   "role": "🌟 Entry-Level Marketing Executive (Brand & Campaigns / Training Provided) 🌟",
-   "location": "D05 Pasir Panjang"
-  },
-  "0a81d0b153124558": {
-   "id": "0a81d0b153124558",
-   "company": "A.LOD PTE. LTD.",
-   "role": "marketing intern",
-   "location": "Tanjong Pagar"
-  },
-  "aa3beeb97853cc16172aea3450fa86d2": {
-   "id": "aa3beeb97853cc16172aea3450fa86d2",
-   "company": "Avanade",
-   "role": "Product Development & Business Analysis Intern",
    "location": "Singapore"
   },
   "d4e3375463df0f49": {
@@ -1076,11 +1076,29 @@
    "role": "Early Career Cyber Defense Centre Analyst, Officer-1",
    "location": "Singapore"
   },
+  "d67a22d0bec72b0fd4b32b4b4bc902b9": {
+   "id": "d67a22d0bec72b0fd4b32b4b4bc902b9",
+   "company": "Surbana Jurong",
+   "role": "Technical Support Engineer",
+   "location": "Singapore"
+  },
+  "8b1c454e8fb506f71eea60c714c94d1a": {
+   "id": "8b1c454e8fb506f71eea60c714c94d1a",
+   "company": "Google",
+   "role": "Software Engineer Iii, Full Stack",
+   "location": "Singapore"
+  },
   "ce1dbd583a5b5fbc8feeb29dfc72364f": {
    "id": "ce1dbd583a5b5fbc8feeb29dfc72364f",
    "company": "Idexx",
    "role": "Technical Support Representative",
    "location": "Singapore"
+  },
+  "e81bfef474296d79b7e141280008be11": {
+   "id": "e81bfef474296d79b7e141280008be11",
+   "company": "OKX",
+   "role": "Rust Developer, Exchange Os Trading Engine",
+   "location": "Hong Kong +1"
   },
   "e1d16a976f4a620ef50126728e3e5897": {
    "id": "e1d16a976f4a620ef50126728e3e5897",
@@ -1538,22 +1556,10 @@
    "role": "Software Engineer (RHINO) / Agency Contract / RYN",
    "location": "Islandwide"
   },
-  "8a3453001e79667d": {
-   "id": "8a3453001e79667d",
-   "company": "CAPGEMINI SINGAPORE PTE. LTD.",
-   "role": "Software Engineer (React, Node.js)",
-   "location": "Singapore"
-  },
-  "9b9efce9147bcbbe": {
-   "id": "9b9efce9147bcbbe",
-   "company": "SCIENTEC CONSULTING PTE. LTD.",
-   "role": "*GOV* Software Engineer",
-   "location": "Islandwide"
-  },
-  "43dee9b0518104c7": {
-   "id": "43dee9b0518104c7",
-   "company": "INFERACT SINGAPORE PTE. LTD.",
-   "role": "Member of Technical Staff, Kernel Engineering",
+  "96aa0855a66f38a57f0c9a9cbbf07523": {
+   "id": "96aa0855a66f38a57f0c9a9cbbf07523",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Intern, Data Analyst",
    "location": "Singapore"
   },
   "6b9b88bbfe343d7f22370491cd05f6e0": {
@@ -1788,6 +1794,12 @@
    "id": "5739a01178427742",
    "company": "TIKTOK PTE. LTD.",
    "role": "LLM & Agent Algorithm Graduate (Search) - 2027 Start (PhD)",
+   "location": "Singapore"
+  },
+  "4b806ad5501b25ed926f6a62fa00a7c6": {
+   "id": "4b806ad5501b25ed926f6a62fa00a7c6",
+   "company": "Health Sciences Authority (Singapore)",
+   "role": "Assistant Data Scientist (contract)",
    "location": "Singapore"
   },
   "ad421747d2b9b1ce5427bc9f41c77991": {
@@ -2264,11 +2276,11 @@
    "role": "Large Language Model (LLM) Evaluation Engineer",
    "location": "Singapore"
   },
-  "0ca48ee0fb6fb179": {
-   "id": "0ca48ee0fb6fb179",
-   "company": "XG TECH PTE. LTD.",
-   "role": "Large Model Quantization Algorithm Engineer",
-   "location": "Singapore"
+  "b1583e51b61e3472065d0603b05417fb": {
+   "id": "b1583e51b61e3472065d0603b05417fb",
+   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
+   "role": "Intern Group Internal Audit",
+   "location": "Novena Square"
   },
   "ab187c52e15dfd08bb55318a40fd9417": {
    "id": "ab187c52e15dfd08bb55318a40fd9417",
@@ -2870,6 +2882,24 @@
    "role": "Graduate Internal Audit Consultant",
    "location": "D06 Beach Road"
   },
+  "f64e961d4e9a66dfe651a0b64deac480": {
+   "id": "f64e961d4e9a66dfe651a0b64deac480",
+   "company": "Nomura International PLC",
+   "role": "Associate, Credit Specialist",
+   "location": "Singapore"
+  },
+  "a3c681e5bc6ab3d510c5846a6e3e46fb": {
+   "id": "a3c681e5bc6ab3d510c5846a6e3e46fb",
+   "company": "AvePoint",
+   "role": "Business Analyst (managed Services)",
+   "location": "Singapore"
+  },
+  "5d089fa4a0e6e8e64750480780095a0c": {
+   "id": "5d089fa4a0e6e8e64750480780095a0c",
+   "company": "Wells Fargo",
+   "role": "Analyst, Apac Markets Middle Office (singapore)",
+   "location": "Central Singapore"
+  },
   "74960b9245667afff206449366fdeb50": {
    "id": "74960b9245667afff206449366fdeb50",
    "company": "Caterpillar of Australia",
@@ -3332,22 +3362,22 @@
    "role": "3 Months Compliance Executive ($3500 to $5500) #NJN",
    "location": "Raffles Place"
   },
-  "f234fd7a9339becf": {
-   "id": "f234fd7a9339becf",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "[0580] Compliance Officer / Financial Advisory / BSC Audit - Central/ 5 days/ $4.5k",
+  "83374775ee35428d0681c37e913b8bce": {
+   "id": "83374775ee35428d0681c37e913b8bce",
+   "company": "Mmlab Ntu",
+   "role": "Research Assistant [lkcmedicine]",
    "location": "Singapore"
   },
-  "37c62cc912faf9ae": {
-   "id": "37c62cc912faf9ae",
-   "company": "REVUP PROSERVICES PTE. LTD.",
-   "role": "Accounts Assistant / Tech Mobility / Up to 3k + VB!",
+  "4e2740497358f8fafce17818ff2f69f3": {
+   "id": "4e2740497358f8fafce17818ff2f69f3",
+   "company": "National Institute of Education",
+   "role": "Technical Specialist (natural Sciences And Science Education Department) [nie]",
    "location": "Singapore"
   },
-  "95c6cd16899edac2": {
-   "id": "95c6cd16899edac2",
-   "company": "KOYO ENGINEERING (S.E. ASIA) PTE. LTD.",
-   "role": "ACCOUNTS ASSISTANT",
+  "5dd0647584921708e75b28d986b03f1d": {
+   "id": "5dd0647584921708e75b28d986b03f1d",
+   "company": "Bosch Rexroth Pty. Ltd.",
+   "role": "Intern, Supply Chain Project Assistant",
    "location": "Singapore"
   },
   "134a9bb3cc17be3f41ce25dd615eec9b": {
@@ -3810,24 +3840,6 @@
    "id": "2dd11eb438c340ae",
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "Lab Technician, Microbiology (East) #HJO",
-   "location": "Singapore"
-  },
-  "cd45e703463bdc2009fb19400e187819": {
-   "id": "cd45e703463bdc2009fb19400e187819",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacist",
-   "location": "Singapore"
-  },
-  "72a9fa81a743a8cff20c51bebfad43d0": {
-   "id": "72a9fa81a743a8cff20c51bebfad43d0",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Technician",
-   "location": "Singapore"
-  },
-  "af0f9235130d72d5c8bf81e3c738887b": {
-   "id": "af0f9235130d72d5c8bf81e3c738887b",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Locum Physiotherapist",
    "location": "Singapore"
   },
   "816e89dbee6938d876efd390840029fa": {
@@ -4790,6 +4802,18 @@
    "role": "Fast Start* Junior Sales Associate (Office hours/Weekly Pay)",
    "location": "Islandwide"
   },
+  "663349949d8e6c49cb057554166db456": {
+   "id": "663349949d8e6c49cb057554166db456",
+   "company": "Jll Com Sg",
+   "role": "Business Support, Events",
+   "location": "Singapore"
+  },
+  "894f84a5e92e0d7f0b93030c9ea156f3": {
+   "id": "894f84a5e92e0d7f0b93030c9ea156f3",
+   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
+   "role": "Logistics Coordinator",
+   "location": "Jalan Buroh"
+  },
   "4de766e40d6b9780de3bd37b2bd170bd": {
    "id": "4de766e40d6b9780de3bd37b2bd170bd",
    "company": "JLL UK",
@@ -5257,18 +5281,6 @@
    "company": "ARSLAN SRS PTE. LTD.",
    "role": "HR Administrator (HR Generalist Support)",
    "location": "Singapore"
-  },
-  "af9e949fa158cdbc": {
-   "id": "af9e949fa158cdbc",
-   "company": "CODEX SOLUTIONS PTE. LTD.",
-   "role": "HR Intern",
-   "location": "Singapore"
-  },
-  "a5b6adbd1c7f2cbc": {
-   "id": "a5b6adbd1c7f2cbc",
-   "company": "NOVEX ORGANIZATION",
-   "role": "💫Events & Marketing Executive / Entry Level💫",
-   "location": "Islandwide"
   }
  }
 }

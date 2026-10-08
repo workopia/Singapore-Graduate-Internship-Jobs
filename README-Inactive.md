@@ -18905,4 +18905,37 @@
 <tr><td>SKYWORKS GLOBAL PTE. LTD.</td><td>Training Specialist</td><td>Singapore</td><td>2026-10-07</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Part Time Healthcare Admin Executive (Office Hours/ Islandwide / Training Provided) #HYNA</td><td>D09 Cairnhill</td><td>2026-10-07</td></tr>
 <tr><td>LINCOTRADE & ASSOCIATES PTE LTD</td><td>Admin Assistant</td><td>Singapore</td><td>2026-10-07</td></tr>
+<tr><td>Infineon</td><td>Internship - Tax</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Strategy M&a Infineon Asia Pacific</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Industrial Engineering</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Ai Solutions & Analytics</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Failure Analysis (ai Modelling And Digitalisation)</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Artificial Intelligence And Machine Learning (finance)</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Corporate Communications</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship – Be Dev Project Office (digitalization & Low-code Automation)</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship – Supply Chain Planning Data Analyst</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Infineon</td><td>Internship - Test Data Analytics</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Treasury Front Office</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Equity-linked Notes Singapore Intern</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Human Resources</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Fund Services Product Management</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Content Creator & Marketing</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Deutsche Boerse AG</td><td>Intern, Financial Derivatives Sales & Business Development Support - Singapore</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Exxon Mobil</td><td>Internship - Trading Analyst (1h2027)</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>APBA TG HUMAN RESOURCE PTE. LTD.</td><td>Temp HR Intern II 6 Months Contract II Central</td><td>Islandwide</td><td>2026-10-08</td></tr>
+<tr><td>AURATALENTSG</td><td>🌟 Entry-Level Marketing Executive (Brand & Campaigns / Training Provided) 🌟</td><td>D05 Pasir Panjang</td><td>2026-10-08</td></tr>
+<tr><td>A.LOD PTE. LTD.</td><td>marketing intern</td><td>Tanjong Pagar</td><td>2026-10-08</td></tr>
+<tr><td>Avanade</td><td>Product Development & Business Analysis Intern</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>CAPGEMINI SINGAPORE PTE. LTD.</td><td>Software Engineer (React, Node.js)</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>*GOV* Software Engineer</td><td>Islandwide</td><td>2026-10-08</td></tr>
+<tr><td>INFERACT SINGAPORE PTE. LTD.</td><td>Member of Technical Staff, Kernel Engineering</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>XG TECH PTE. LTD.</td><td>Large Model Quantization Algorithm Engineer</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Compliance Officer / Financial Advisory / BSC Audit - Central/ 5 days/ $4.5k</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Accounts Assistant / Tech Mobility / Up to 3k + VB!</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>KOYO ENGINEERING (S.E. ASIA) PTE. LTD.</td><td>ACCOUNTS ASSISTANT</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Pharmacist</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Pharmacy Technician</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Locum Physiotherapist</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>CODEX SOLUTIONS PTE. LTD.</td><td>HR Intern</td><td>Singapore</td><td>2026-10-08</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>💫Events & Marketing Executive / Entry Level💫</td><td>Islandwide</td><td>2026-10-08</td></tr>
 </table>
