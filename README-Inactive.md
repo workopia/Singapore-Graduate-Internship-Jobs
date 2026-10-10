@@ -19325,4 +19325,44 @@
 <tr><td>HRNET VENTURES PTE. LTD.</td><td>📢 HIRING: TEMP / PART-TIME HR ASSISTANT / $14/HR (1 Year Contract)</td><td>Tuas</td><td>2026-10-09</td></tr>
 <tr><td>HRNET VENTURES PTE. LTD.</td><td>TEMP HR ASSISTANT / 3 DAYS/WEEK / $14/HR / WEST</td><td>Orchard</td><td>2026-10-09</td></tr>
 <tr><td>ARSLAN SRS PTE. LTD.</td><td>HR Administrator (HR Generalist Support)</td><td>Singapore</td><td>2026-10-09</td></tr>
+<tr><td>KILLINEY 88 PTE. LTD.</td><td>Social Content Creation & Design Intern</td><td>Islandwide</td><td>2026-10-10</td></tr>
+<tr><td>FAIR CONSULTANTS PTE. LTD.</td><td>Corporate Secretarial Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>MS. DURIAN PTE. LTD.</td><td>Marketing Intern - 5 Days Work</td><td>D08 Little India</td><td>2026-10-10</td></tr>
+<tr><td>NAVA 1872 PTE. LTD.</td><td>Digital & Ecommerce Marketing Intern (A Premium Tea Brand)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>MSR INTERIOR DESIGN PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - F10 Hvm Photo Pee</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Logistics Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>The Lubrizol Corporation</td><td>R&d Chemistry Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Lubrizol</td><td>Beauty & Home Care Lab Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Lubrizol</td><td>Marketing Communication Intern</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cyle Intern, Investment Stewardship, (governance & Shareholder Value) (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Ecosperity (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Workplace Transformation & Administration (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Partnerships (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Policy Research Intern, Sustainability Strategy (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Sustainable Solutions (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Portfolio Construction (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cyle Intern, Investment Stewardship (capital Markets) (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Temasek</td><td>Off-cycle Intern, Esg Investment Management (jan - Jun 2027)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Consulting - Financial Services Advisory (data Analyst) / Graduate Associate 2027</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>IMMEDIATE HIRING- IT Engineer</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Tax Technology Consulting (2026 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Deloitte</td><td>A&a - Associate - External Audit (2026 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - International Tax Advisory (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Process Solutions (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Global Employer Services (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Business Tax Financial Services (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Tax Technology Consulting (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Merger And Acquisition Tax (2027 Graduate)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>LIONCITY LIANYI PTE. LTD.</td><td>Accounts Assistant</td><td>D08 Little India</td><td>2026-10-10</td></tr>
+<tr><td>THINK ONE AUTOMOBILE & TRADING PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Network for Electronic Transfers (Singapore) Pte Ltd</td><td>Merchant Assessment Officer (12 Months Contract)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Analyst/avp, Corporate Compliance (cpdap)</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Sumitomo Mitsui Banking Corporation</td><td>Vice President, Compliance - Markets Compliance, Compliance Department, Asia Pacific Division</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN</td><td>Research Assistant</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>Mmlab Ntu</td><td>Pre-doctoral Research Assistant / Research Associate</td><td>Singapore</td><td>2026-10-10</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Service Technician [WCAN]</td><td>Islandwide</td><td>2026-10-10</td></tr>
+<tr><td>NXTLVL.UP</td><td>🚀 Brand Experience Associate 🚀</td><td>Islandwide</td><td>2026-10-10</td></tr>
 </table>

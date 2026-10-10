@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-09",
- "count": 883,
+ "asOf": "2026-10-10",
+ "count": 888,
  "jobs": {
   "2648640": {
    "id": "2648640",
@@ -19,6 +19,114 @@
    "company": "HP",
    "role": "College Intern - Business Analyst",
    "location": "South West"
+  },
+  "47367db558bc430b8e22e494304e8c5b": {
+   "id": "47367db558bc430b8e22e494304e8c5b",
+   "company": "Micron",
+   "role": "Intern - Hvm Pee Photo (ai)",
+   "location": "Singapore"
+  },
+  "b371913e267e14381fe9aa76347818f2": {
+   "id": "b371913e267e14381fe9aa76347818f2",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Intern - Global Energy Management (gem)",
+   "location": "Singapore"
+  },
+  "2010dc7a70877c697ebad69199514f12": {
+   "id": "2010dc7a70877c697ebad69199514f12",
+   "company": "EDP - ENERGIAS DE PORTUGAL S.A",
+   "role": "Digital Solutions Intern",
+   "location": "Singapore"
+  },
+  "6ea44287d535847fc13fb79e2a9f95f9": {
+   "id": "6ea44287d535847fc13fb79e2a9f95f9",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Advisory - Consulting, Organisation Transformation / Winter Internship (nov 2026 To Jan 2027)",
+   "location": "Singapore"
+  },
+  "097faa693df7678b6db6354e4d9eecf6": {
+   "id": "097faa693df7678b6db6354e4d9eecf6",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Advisory - Consulting, Forensic Technology / Off-cycle Internship (jan 2027 To Jun 2027)",
+   "location": "Singapore"
+  },
+  "814bd1c301e12277b22e05162a670110": {
+   "id": "814bd1c301e12277b22e05162a670110",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Advisory - Consulting, Forensic (non-tech) / Off-cycle Internship (jan 2027 To Jun 2027)",
+   "location": "Singapore"
+  },
+  "d30dfe1f4511e1d1a04f65add61aa189": {
+   "id": "d30dfe1f4511e1d1a04f65add61aa189",
+   "company": "sea",
+   "role": "Growth Intern - Executive Engagement (winter 2026)",
+   "location": "Singapore"
+  },
+  "d75bfefe7aaeed9ecd85eb5e13f194ee": {
+   "id": "d75bfefe7aaeed9ecd85eb5e13f194ee",
+   "company": "sea",
+   "role": "Growth Intern - Marketing & Communications (winter 2026)",
+   "location": "Singapore"
+  },
+  "50f2bcab0fc8d9b780f012cbac3ca4cd": {
+   "id": "50f2bcab0fc8d9b780f012cbac3ca4cd",
+   "company": "Sea Deloitte",
+   "role": "Growth Intern - Business Development (winter 2026)",
+   "location": "Singapore"
+  },
+  "b4003e633ac3f558654b861d42d562d2": {
+   "id": "b4003e633ac3f558654b861d42d562d2",
+   "company": "sea",
+   "role": "Growth Intern - Sports Business Group (winter 2026)",
+   "location": "Singapore"
+  },
+  "72390017a51669ee3bbf71d7fdc1c944": {
+   "id": "72390017a51669ee3bbf71d7fdc1c944",
+   "company": "Deloitte",
+   "role": "Growth Intern - Ai Pursuit Center Of Excellence ( Ai Pcoe) (sg)",
+   "location": "Singapore"
+  },
+  "b379ff7b86a2f564061d63058762c50a": {
+   "id": "b379ff7b86a2f564061d63058762c50a",
+   "company": "Deloitte",
+   "role": "A&a - External Audit Intern - Audit & Assurance (fastrack - Winter 2026)",
+   "location": "Singapore"
+  },
+  "79f1aa4e9d78b05c947834be55dd2624": {
+   "id": "79f1aa4e9d78b05c947834be55dd2624",
+   "company": "Deloitte",
+   "role": "Duap Intern - Project Operation",
+   "location": "Singapore"
+  },
+  "b5d33903b35bcdbf7ac3ae5e0a031653": {
+   "id": "b5d33903b35bcdbf7ac3ae5e0a031653",
+   "company": "sea",
+   "role": "Growth Intern - Clients & Industries (winter 2026)",
+   "location": "Singapore"
+  },
+  "1b8e36e8fe129fce4293d954fc7106d6": {
+   "id": "1b8e36e8fe129fce4293d954fc7106d6",
+   "company": "Deloitte",
+   "role": "Internal Client Services - Growth Winter Internship (greenhouse)",
+   "location": "Singapore"
+  },
+  "396c6ba3f33d529f0aecb37513c4892d": {
+   "id": "396c6ba3f33d529f0aecb37513c4892d",
+   "company": "ING WB Asia",
+   "role": "Intern, Food, Beverage & Agribusiness",
+   "location": "Singapore"
+  },
+  "ee47fa7ccdf7696c447f6337cb242a6f": {
+   "id": "ee47fa7ccdf7696c447f6337cb242a6f",
+   "company": "Coty",
+   "role": "Legal Intern",
+   "location": "Singapore"
+  },
+  "c6b5f81c437e8d1fe1ba8bc6ea546141": {
+   "id": "c6b5f81c437e8d1fe1ba8bc6ea546141",
+   "company": "Coty",
+   "role": "Logistics Intern",
+   "location": "Singapore"
   },
   "bac7bc6c41c83dcef0480734ef72ed33": {
    "id": "bac7bc6c41c83dcef0480734ef72ed33",
@@ -139,6 +247,18 @@
    "company": "Sanofi Genzyme",
    "role": "Procurement Intern",
    "location": "City Of Singapore"
+  },
+  "41b9cf33667b1f6491caef04e12f3485": {
+   "id": "41b9cf33667b1f6491caef04e12f3485",
+   "company": "Rolls-Royce",
+   "role": "Intern, Human Resources",
+   "location": "Tukang"
+  },
+  "86c2243e81360031aa3bcf09834795d1": {
+   "id": "86c2243e81360031aa3bcf09834795d1",
+   "company": "Rolls-Royce",
+   "role": "Intern, Order Management (MGOA)",
+   "location": "Tukang"
   },
   "a25264e8c8a686e9c41bfeeea6f69ab8": {
    "id": "a25264e8c8a686e9c41bfeeea6f69ab8",
@@ -379,126 +499,6 @@
    "company": "FABRICA ROBOTICS PTE. LTD.",
    "role": "Fabrica AI OPERATIONS and HR INTERNSHIP",
    "location": "D05 Pasir Panjang"
-  },
-  "6ae4cd49c583c84f": {
-   "id": "6ae4cd49c583c84f",
-   "company": "KILLINEY 88 PTE. LTD.",
-   "role": "Social Content Creation & Design Intern",
-   "location": "Islandwide"
-  },
-  "1fb9f5c53f9dedb2": {
-   "id": "1fb9f5c53f9dedb2",
-   "company": "FAIR CONSULTANTS PTE. LTD.",
-   "role": "Corporate Secretarial Intern",
-   "location": "Singapore"
-  },
-  "69bfa899bab486fd": {
-   "id": "69bfa899bab486fd",
-   "company": "MS. DURIAN PTE. LTD.",
-   "role": "Marketing Intern - 5 Days Work",
-   "location": "D08 Little India"
-  },
-  "d38d0734034ba469": {
-   "id": "d38d0734034ba469",
-   "company": "NAVA 1872 PTE. LTD.",
-   "role": "Digital & Ecommerce Marketing Intern (A Premium Tea Brand)",
-   "location": "Singapore"
-  },
-  "7710709c8a6f0af0": {
-   "id": "7710709c8a6f0af0",
-   "company": "MSR INTERIOR DESIGN PTE. LTD.",
-   "role": "Marketing Intern",
-   "location": "Singapore"
-  },
-  "0e8265129c9ea5aecb0bc558c33e97ad": {
-   "id": "0e8265129c9ea5aecb0bc558c33e97ad",
-   "company": "Micron Technology Inc",
-   "role": "Intern - F10 Hvm Photo Pee",
-   "location": "Singapore"
-  },
-  "f9a0a47df7e861b55c7564a98b37a21b": {
-   "id": "f9a0a47df7e861b55c7564a98b37a21b",
-   "company": "The Lubrizol Corporation",
-   "role": "Logistics Intern",
-   "location": "Singapore"
-  },
-  "8f34d8b819c13e2af17f62742274da19": {
-   "id": "8f34d8b819c13e2af17f62742274da19",
-   "company": "The Lubrizol Corporation",
-   "role": "Supply Chain Intern",
-   "location": "Singapore"
-  },
-  "1fb5ef54a211d9d0f8337411c358f92e": {
-   "id": "1fb5ef54a211d9d0f8337411c358f92e",
-   "company": "The Lubrizol Corporation",
-   "role": "R&d Chemistry Intern",
-   "location": "Singapore"
-  },
-  "8f870ca6db7d9cfe6edbfd9ebf064198": {
-   "id": "8f870ca6db7d9cfe6edbfd9ebf064198",
-   "company": "Lubrizol",
-   "role": "Beauty & Home Care Lab Intern",
-   "location": "Singapore"
-  },
-  "cd4c36eab27790b8f8f3366a338ed578": {
-   "id": "cd4c36eab27790b8f8f3366a338ed578",
-   "company": "Lubrizol",
-   "role": "Marketing Communication Intern",
-   "location": "Singapore"
-  },
-  "5fa151f9684dada209f5ea7da2d6e7f5": {
-   "id": "5fa151f9684dada209f5ea7da2d6e7f5",
-   "company": "Temasek",
-   "role": "Off-cyle Intern, Investment Stewardship, (governance & Shareholder Value) (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "5ea713671479b34ba12d4d9a7a4f4fbd": {
-   "id": "5ea713671479b34ba12d4d9a7a4f4fbd",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Ecosperity (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "bb19fe7f836c10df430c3fd9c974e274": {
-   "id": "bb19fe7f836c10df430c3fd9c974e274",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Workplace Transformation & Administration (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "ed348ed587db7f4c6a8c86ae5015c2c9": {
-   "id": "ed348ed587db7f4c6a8c86ae5015c2c9",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Partnerships (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "6f64e8095dadcc4f954215d316a28d14": {
-   "id": "6f64e8095dadcc4f954215d316a28d14",
-   "company": "Temasek",
-   "role": "Policy Research Intern, Sustainability Strategy (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "21304d5e3c3b04f5b5c8dc1715ddc784": {
-   "id": "21304d5e3c3b04f5b5c8dc1715ddc784",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Sustainable Solutions (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "4307d808f5a2f737a1415c3fc132f1f3": {
-   "id": "4307d808f5a2f737a1415c3fc132f1f3",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Portfolio Strategy & Risk Group, Psrgo Portfolio Construction (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "2b0cc58ec8e8c820ffe47e2e1f7adff4": {
-   "id": "2b0cc58ec8e8c820ffe47e2e1f7adff4",
-   "company": "Temasek",
-   "role": "Off-cyle Intern, Investment Stewardship (capital Markets) (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "034299e6489d10ec2e68b5d1e237ebf6": {
-   "id": "034299e6489d10ec2e68b5d1e237ebf6",
-   "company": "Temasek",
-   "role": "Off-cycle Intern, Esg Investment Management (jan - Jun 2027)",
-   "location": "Singapore"
   },
   "8cfb69ab40e986a2": {
    "id": "8cfb69ab40e986a2",
@@ -1784,22 +1784,40 @@
    "role": "Business Intelligence Analyst Intern (IT Department)",
    "location": "Singapore"
   },
+  "8cdc44718b765668de2e3903e0cd2de0": {
+   "id": "8cdc44718b765668de2e3903e0cd2de0",
+   "company": "KPMG Services Pte Ltd",
+   "role": "Consulting - Financial Services Advisory (data Analyst) / Graduate Associate 2027",
+   "location": "Singapore"
+  },
   "9616b88aff40119b": {
    "id": "9616b88aff40119b",
    "company": "PIPO RESOURCE (SG) PTE. LTD.",
    "role": "Data Science Graduate (Global Payment) - 2027 Start",
    "location": "Singapore"
   },
-  "8729f6112294e424b62b2bf7fe85822b": {
-   "id": "8729f6112294e424b62b2bf7fe85822b",
-   "company": "KPMG Services Pte Ltd",
-   "role": "Consulting - Financial Services Advisory (data Analyst) / Graduate Associate 2027",
-   "location": "Singapore"
-  },
   "5739a01178427742": {
    "id": "5739a01178427742",
    "company": "TIKTOK PTE. LTD.",
    "role": "LLM & Agent Algorithm Graduate (Search) - 2027 Start (PhD)",
+   "location": "Singapore"
+  },
+  "ed4ae7e533d73883412bb3ee19e6d8b6": {
+   "id": "ed4ae7e533d73883412bb3ee19e6d8b6",
+   "company": "Deloitte",
+   "role": "A&a - Digital Assurance - It Audit Analytics Analyst",
+   "location": "Singapore"
+  },
+  "4ea2c9f4859ef077d026fe5b45a1db6a": {
+   "id": "4ea2c9f4859ef077d026fe5b45a1db6a",
+   "company": "Deloitte",
+   "role": "A&a - Sg - Digital Assurance - Data Analytics Analyst",
+   "location": "Singapore"
+  },
+  "9c2002ed57e0faf9ed7d0e45510e2de3": {
+   "id": "9c2002ed57e0faf9ed7d0e45510e2de3",
+   "company": "sea",
+   "role": "Sg - A&a - Ca (ai/ Data) - Analyst",
    "location": "Singapore"
   },
   "4b806ad5501b25ed926f6a62fa00a7c6": {
@@ -2192,22 +2210,10 @@
    "role": "Data Center IT Engineer",
    "location": "Singapore"
   },
-  "9c2002ed57e0faf9ed7d0e45510e2de3": {
-   "id": "9c2002ed57e0faf9ed7d0e45510e2de3",
-   "company": "sea",
-   "role": "Sg - A&a - Ca (ai/ Data) - Analyst",
-   "location": "Singapore"
-  },
   "71fce77a85f513009b1c918ad2dc4fff": {
    "id": "71fce77a85f513009b1c918ad2dc4fff",
    "company": "sea",
    "role": "A&a - Digital Assurance - It Audit Analytics Analyst",
-   "location": "Singapore"
-  },
-  "4ea2c9f4859ef077d026fe5b45a1db6a": {
-   "id": "4ea2c9f4859ef077d026fe5b45a1db6a",
-   "company": "Deloitte",
-   "role": "A&a - Sg - Digital Assurance - Data Analytics Analyst",
    "location": "Singapore"
   },
   "f6cd18fe3cc70f3e": {
@@ -2276,10 +2282,16 @@
    "role": "Research Scientist (Computer Science / Computer Science / Artificial Intelligence / Data Science / Electrical Engineering)",
    "location": "Singapore"
   },
-  "5b57518a25265583": {
-   "id": "5b57518a25265583",
-   "company": "ITCAN PTE. LIMITED",
-   "role": "IMMEDIATE HIRING- IT Engineer",
+  "abbaba932472c8145406fe0b2dc51a98": {
+   "id": "abbaba932472c8145406fe0b2dc51a98",
+   "company": "sea",
+   "role": "A&a - External Audit Intern - Audit & Assurance (winter 2026 Internship)",
+   "location": "Singapore"
+  },
+  "06579d534f9661781bc36559ed6f44ab": {
+   "id": "06579d534f9661781bc36559ed6f44ab",
+   "company": "Deloitte Singapore",
+   "role": "A&a - External Audit Intern - Audit & Assurance (fastrack - Summer 2027)",
    "location": "Singapore"
   },
   "0b3921cbe91b9ca858929accaa738c8b": {
@@ -2347,12 +2359,6 @@
    "company": "NERA Economic Consulting",
    "role": "Intern, Rewards Consulting (may 2027 Intake)",
    "location": "Marina View"
-  },
-  "abbaba932472c8145406fe0b2dc51a98": {
-   "id": "abbaba932472c8145406fe0b2dc51a98",
-   "company": "sea",
-   "role": "A&a - External Audit Intern - Audit & Assurance (winter 2026 Internship)",
-   "location": "Singapore"
   },
   "1293c3665287685a9a5bbc180f1f39cb": {
    "id": "1293c3665287685a9a5bbc180f1f39cb",
@@ -2690,6 +2696,84 @@
    "role": "Intern, Business Assurance",
    "location": "Singapore"
   },
+  "3c6b86d591da5f1416e06ff9c1a0737b": {
+   "id": "3c6b86d591da5f1416e06ff9c1a0737b",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Global Trade Advisory (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "e1889f6d0250f191e8162fc6b50d0677": {
+   "id": "e1889f6d0250f191e8162fc6b50d0677",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "42418a06c68c93c74dd539619f91c299": {
+   "id": "42418a06c68c93c74dd539619f91c299",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Transfer Pricing (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "d6912048a0dac07632fc28b8621a1048": {
+   "id": "d6912048a0dac07632fc28b8621a1048",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Goods & Services Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "3033a79a6a96798825185a556bbf19e9": {
+   "id": "3033a79a6a96798825185a556bbf19e9",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Tax Technology Consulting (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "9399f5a353f3d2d5d083a350aa74a379": {
+   "id": "9399f5a353f3d2d5d083a350aa74a379",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Global Employer Services (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "c2d26866243ac024232af334cbb53cba": {
+   "id": "c2d26866243ac024232af334cbb53cba",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Business Process Solutions (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "e2b6dcb305225d3dab71311924c14149": {
+   "id": "e2b6dcb305225d3dab71311924c14149",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - International Tax Advisory (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "a1fe41600f0655432e65c4700411dbb1": {
+   "id": "a1fe41600f0655432e65c4700411dbb1",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Business Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "143441b3f9d274cfee81d70a2ed26954": {
+   "id": "143441b3f9d274cfee81d70a2ed26954",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Merger And Acquisition Tax (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "969c853008f213417d0b8dd7ac99da44": {
+   "id": "969c853008f213417d0b8dd7ac99da44",
+   "company": "Sea Deloitte",
+   "role": "T&l: Associate - Business Tax Financial Services (2027 Graduate)",
+   "location": "Singapore"
+  },
+  "ba43e9aab9f6093d7213ac01ee547d9c": {
+   "id": "ba43e9aab9f6093d7213ac01ee547d9c",
+   "company": "Deloitte",
+   "role": "A&a - Associate - External Audit (2026 Graduate)",
+   "location": "Singapore"
+  },
+  "1849351abbb58db28e2329f46585afba": {
+   "id": "1849351abbb58db28e2329f46585afba",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Tax Technology Consulting (2026 Graduate)",
+   "location": "Singapore"
+  },
   "a048a27fa3caf29d": {
    "id": "a048a27fa3caf29d",
    "company": "SHOPEE SINGAPORE PRIVATE LIMITED",
@@ -2786,12 +2870,6 @@
    "role": "T&l: Associate - Business Tax (2026 Graduate)",
    "location": "Singapore"
   },
-  "b332c9aa6f12a8df7d3eeeb9d046b366": {
-   "id": "b332c9aa6f12a8df7d3eeeb9d046b366",
-   "company": "Deloitte",
-   "role": "T&l: Associate - Tax Technology Consulting (2026 Graduate)",
-   "location": "Singapore"
-  },
   "d0a73b6fa9547289f96718d00ec27630": {
    "id": "d0a73b6fa9547289f96718d00ec27630",
    "company": "sea",
@@ -2804,34 +2882,10 @@
    "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2026 Graduate)",
    "location": "Singapore"
   },
-  "a8c803bfe26be40480bc57931503b90c": {
-   "id": "a8c803bfe26be40480bc57931503b90c",
-   "company": "Deloitte",
-   "role": "A&a - Associate - External Audit (2026 Graduate)",
-   "location": "Singapore"
-  },
-  "2ae8859942bb77fe06bf4cff27596614": {
-   "id": "2ae8859942bb77fe06bf4cff27596614",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)",
-   "location": "Singapore"
-  },
   "ead201033e905a63b9e32343c52ca1b3": {
    "id": "ead201033e905a63b9e32343c52ca1b3",
    "company": "Deloitte",
    "role": "T&l: Associate - Business Tax (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "6880376b4a8c819d76c62e1e2556b2a1": {
-   "id": "6880376b4a8c819d76c62e1e2556b2a1",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - International Tax Advisory (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "1f665de8224ebad25fef572bc18c1835": {
-   "id": "1f665de8224ebad25fef572bc18c1835",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Business Process Solutions (2027 Graduate)",
    "location": "Singapore"
   },
   "6eb056ede2fccefedc468b298e3e7ed7": {
@@ -2850,30 +2904,6 @@
    "id": "6bffe37fb17a732224add16c8ebe61e6",
    "company": "Deloitte",
    "role": "T&l: Associate - Global Trade Advisory (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "5410992b52cafd34ca2f4c0fe3a575a0": {
-   "id": "5410992b52cafd34ca2f4c0fe3a575a0",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Global Employer Services (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "99245b17e7acc3a501613ab2b75d8b57": {
-   "id": "99245b17e7acc3a501613ab2b75d8b57",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Business Tax Financial Services (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "f19e83a2bacb117f108ca28e554c4215": {
-   "id": "f19e83a2bacb117f108ca28e554c4215",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Tax Technology Consulting (2027 Graduate)",
-   "location": "Singapore"
-  },
-  "0037578474f6cfc95ee5184fab837808": {
-   "id": "0037578474f6cfc95ee5184fab837808",
-   "company": "Sea Deloitte",
-   "role": "T&l: Associate - Merger And Acquisition Tax (2027 Graduate)",
    "location": "Singapore"
   },
   "a97e6947c91970630007751e893defd0": {
@@ -2899,6 +2929,36 @@
    "company": "VIRTUS ASSURE PTE. LTD.",
    "role": "Graduate Internal Audit Consultant",
    "location": "D06 Beach Road"
+  },
+  "62f727050e9a8712acf48eaa63bd45a7": {
+   "id": "62f727050e9a8712acf48eaa63bd45a7",
+   "company": "COFCO International",
+   "role": "Accountant",
+   "location": "Singapore"
+  },
+  "4b8ae43af0194787778c930fd8b67ed6": {
+   "id": "4b8ae43af0194787778c930fd8b67ed6",
+   "company": "sea",
+   "role": "A&a - Sg - Internal Audit ( Analyst)",
+   "location": "Singapore"
+  },
+  "8a31a0abc9345bf641640616b73b024e": {
+   "id": "8a31a0abc9345bf641640616b73b024e",
+   "company": "sea",
+   "role": "T&l: Associate - Global Trade Advisory (indirect Tax)",
+   "location": "Singapore"
+  },
+  "c22a7e987ee3c8fc5c3aa3b27ea5e34a": {
+   "id": "c22a7e987ee3c8fc5c3aa3b27ea5e34a",
+   "company": "Deloitte",
+   "role": "T&l: Associate - Private Tax",
+   "location": "Singapore"
+  },
+  "0e077387fdfc7827cd18b5b052170c86": {
+   "id": "0e077387fdfc7827cd18b5b052170c86",
+   "company": "Deloitte",
+   "role": "A&a - Sg - Internal Audit (analyst)",
+   "location": "Singapore"
   },
   "957c680f235814252771483265b74a55": {
    "id": "957c680f235814252771483265b74a55",
@@ -3350,34 +3410,16 @@
    "role": "Junior Accounts Assistant (AR/AP) #10367",
    "location": "Islandwide"
   },
-  "340889b40c93c472": {
-   "id": "340889b40c93c472",
-   "company": "LIONCITY LIANYI PTE. LTD.",
-   "role": "Accounts Assistant",
-   "location": "D08 Little India"
-  },
-  "961bf4b877484f46": {
-   "id": "961bf4b877484f46",
-   "company": "THINK ONE AUTOMOBILE & TRADING PTE. LTD.",
-   "role": "Accounts Assistant",
+  "f535c1340159c99a1face9f71e6e76b6": {
+   "id": "f535c1340159c99a1face9f71e6e76b6",
+   "company": "Morgan Stanley",
+   "role": "Research Associate - Asean",
    "location": "Singapore"
   },
-  "ac183f219dda53f6219b4bdd673d4917": {
-   "id": "ac183f219dda53f6219b4bdd673d4917",
-   "company": "Network for Electronic Transfers (Singapore) Pte Ltd",
-   "role": "Merchant Assessment Officer (12 Months Contract)",
-   "location": "Singapore"
-  },
-  "654f94f2828c228a990ba9c46c272abc": {
-   "id": "654f94f2828c228a990ba9c46c272abc",
-   "company": "Sumitomo Mitsui Banking Corporation",
-   "role": "Analyst/avp, Corporate Compliance (cpdap)",
-   "location": "Singapore"
-  },
-  "8049f6b29575a1c56cfc4b061031433a": {
-   "id": "8049f6b29575a1c56cfc4b061031433a",
-   "company": "Sumitomo Mitsui Banking Corporation",
-   "role": "Vice President, Compliance - Markets Compliance, Compliance Department, Asia Pacific Division",
+  "a34c92ff3a4faa945657453bc30cc13a": {
+   "id": "a34c92ff3a4faa945657453bc30cc13a",
+   "company": "Singapore University of Technology and Design",
+   "role": "Research Assistant",
    "location": "Singapore"
   },
   "dfe52387ef5ae745ea648d99ca9114a3": {
@@ -3764,12 +3806,6 @@
    "role": "Research Assistant (Microbiology & Immunology)",
    "location": "D05 Pasir Panjang"
   },
-  "ae32089ffb9cd5c5": {
-   "id": "ae32089ffb9cd5c5",
-   "company": "SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN",
-   "role": "Research Assistant",
-   "location": "Singapore"
-  },
   "ce3256d71010b760": {
    "id": "ce3256d71010b760",
    "company": "HYPERSCAL SOLUTIONS PTE. LTD.",
@@ -3854,10 +3890,10 @@
    "role": "Research Assistant (temp)",
    "location": "Singapore"
   },
-  "f8e4a64b414f4290f3ff566bc82a7cf1": {
-   "id": "f8e4a64b414f4290f3ff566bc82a7cf1",
-   "company": "Mmlab Ntu",
-   "role": "Pre-doctoral Research Assistant / Research Associate",
+  "3a0e2afb567a28ce0cc318c80446a624": {
+   "id": "3a0e2afb567a28ce0cc318c80446a624",
+   "company": "42",
+   "role": "Building Technician",
    "location": "Singapore"
   },
   "b39cb5b0c31f500747e8476eb1cfa111": {
@@ -4334,11 +4370,11 @@
    "role": "Service & Maintenance Technician [WCAN]",
    "location": "Islandwide"
   },
-  "24859f3cb84aa927": {
-   "id": "24859f3cb84aa927",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Service Technician [WCAN]",
-   "location": "Islandwide"
+  "f423e09fde19b1c2edea969951a13f1c": {
+   "id": "f423e09fde19b1c2edea969951a13f1c",
+   "company": "Aspial",
+   "role": "Sales Advisor (eg)",
+   "location": "Singapore"
   },
   "8016ef8eb8c7bbb6cc80fdde37b3c639": {
    "id": "8016ef8eb8c7bbb6cc80fdde37b3c639",
@@ -4812,12 +4848,6 @@
    "id": "c443da9b116df2df",
    "company": "ALTIUS ORG",
    "role": "Event & Sales Ambassador⚡️(No experience is needed!)",
-   "location": "Islandwide"
-  },
-  "0038b9ce34c1497b": {
-   "id": "0038b9ce34c1497b",
-   "company": "NXTLVL.UP",
-   "role": "🚀 Brand Experience Associate 🚀",
    "location": "Islandwide"
   },
   "86bcfde2aef4f12720693b30cf3d2ccf": {
