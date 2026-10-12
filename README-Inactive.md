@@ -19742,4 +19742,73 @@
 <tr><td>BANK OF CHINA LIMITED</td><td>HR Intern</td><td>D01 Marina</td><td>2026-10-11</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Specialist - Up to $4.5K (Manufacturing / Production) - #HTJ</td><td>Islandwide</td><td>2026-10-11</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Specialist - Up to $4.5K (Manufacturing / Construction) - North #HKH</td><td>Islandwide</td><td>2026-10-11</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Personal & Premier Banking Onshore - Personal And Premier Banking West Cluster [dec To May 2027]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Card Payments & Personal Loans - Regional & Sg Pmo & In Control Risks [jan To Jun 2027]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Card Payments & Personal Loans - Merchant Business & Digital Payments [nov To Apr 2027]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Card Payments & Personal Loans - Portfolio / Ec/ Edu Loans [jan - Jun 2027]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Cfs Finance - Business Performance And Analysis</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>OCBC Bank</td><td>Internship: Global Consumer Financial Services, Gcfs Digital Business & Transformation - Gcfs Digital Business [jan To Jun 2027]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Razer Inc.</td><td>Reinforcement Learning Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Markets Intern Sg 2027</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>GE Aerospace</td><td>Quality Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Manufacturing Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Sourcing Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Lithography Process Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Npi Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Factory Automation (hardware) Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Material Usage Management Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Product Cycle Time Management Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Sanofi Genzyme</td><td>Procurement Intern</td><td>City Of Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Rolls-Royce</td><td>Intern, Human Resources</td><td>Tukang</td><td>2026-10-12</td></tr>
+<tr><td>Rolls-Royce</td><td>Intern, Order Management (MGOA)</td><td>Tukang</td><td>2026-10-12</td></tr>
+<tr><td>HL BANK</td><td>Intern – RM assistant (SME Banking)</td><td>D02 Anson</td><td>2026-10-12</td></tr>
+<tr><td>HL BANK</td><td>Intern - Business & Corporate Banking (6 months)</td><td>D02 Anson</td><td>2026-10-12</td></tr>
+<tr><td>ONEKIND CULTURE (PTE. LTD.)</td><td>Social Media & Design Intern</td><td>D01 Marina</td><td>2026-10-12</td></tr>
+<tr><td>TUTORJOHN</td><td>Systems, IT & AI Automation Intern</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>TUTORJOHN</td><td>Teaching Intern</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>Cheng Hong Welfare Service Society</td><td>Finance Intern</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>TUTORJOHN</td><td>Looking for Marketing Interns!</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>IST SG PTE. LTD.</td><td>Sales & Marketing Intern</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>GS CLEANING SERVICES PTE. LTD.</td><td>Management Trainee (Operations)</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>NESHORA</td><td>Marketing & Leadership Development Executive</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>JOBLINE RESOURCES PTE. LTD.</td><td>IT Support Engineer (Applications Support & Testing) (Ref 25090)</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>HEXAWARE TECHNOLOGIES ASIA PACIFIC PTE LTD</td><td>IT Support Engineer</td><td>D25 Kranji</td><td>2026-10-12</td></tr>
+<tr><td>DIMENSIONS INTERNATIONAL COLLEGE PTE. LTD.</td><td>IT Assistant</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>MASTERFOX CONNECTIONS PTE. LTD.</td><td>SERVICES SUPPORT SPECIALISTS (IT SUPPORT)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>IT Desktop Support Engineer (12 hr Shift Based)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>TOSS-EX PR PTE. LTD.</td><td>IT Support Engineer</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Ampol</td><td>Analytics Internship - Trading & Shipping</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Associate (Artificial Intelligence, Computer Science, Data Science)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>PASONA SINGAPORE PTE. LTD.</td><td>Associate Engineer - JY</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Financial Services Technology / Off-cycle Internship (jan 2027 To June 2027)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Digital Village (consulting) / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Consulting, Customer Transformation (business Analyst) / Graduate Associate 2027</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Syndicated Loan Operations Analyst</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>ROBERT WALTERS (SINGAPORE) PTE LTD</td><td>Clearing Operations Analyst - Brokerage Operations</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>VISTA HUB PTE. LTD.</td><td>Research and Content Associate (Remote)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Built Environment & Behaviour) - NUS Cities</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (BISI)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract Lab Technician, Microbiology (Changi / $3500 / Office Hours) #HGNJ</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Contract QA Lab Technician, CAPA, GMP #HJN</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>SINGAPORE GENERAL HOSPITAL PTE LTD</td><td>Medical Laboratory Technologist (Diagnostic Bacteriology)</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>CHEVRON ORONITE PTE LTD</td><td>Laboratory Technician</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Manufacturing Lab Exp] Lab Technician, Microbiology (18 months) #HCY</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Mmlab Ntu</td><td>Research Assistant [lkcmedicine]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>National Institute of Education</td><td>Technical Specialist (natural Sciences And Science Education Department) [nie]</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>Bosch Rexroth Pty. Ltd.</td><td>Intern, Supply Chain Project Assistant</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Surface Treatment Technician #10442</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Aircon Technician (with Class 3) #10161</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>DAY ONE PTE. LTD.</td><td>AIRCON SERVICING TECHNICIAN</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Electrical Technician #10069</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>TECHELM SERVICES PTE. LTD.</td><td>Weekend Part-Time Call Centre Associates</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>JOB EXPRESS SERVICES PTE. LTD.</td><td>Warehouse Assistant (Up to $2800 / 5 days / Woodlands)</td><td>D23 Hillview</td><td>2026-10-12</td></tr>
+<tr><td>DAY ONE PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>MANDATE OF MANPOWER PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>B.S. FURNITURE PTE. LTD.</td><td>Warehouse Associate</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>B.S. FURNITURE PTE. LTD.</td><td>Operations (Warehouse) Associate</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>WE-TRUST RECRUITMENT PTE. LTD.</td><td>WAREHOUSE ASSISTANT</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>THE MOVEMENT ACADEMY PTE. LTD.</td><td>The Movement Academy (TMA) Programme Coordinator</td><td>Singapore</td><td>2026-10-12</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>Marketing & Events Associate / Training Provided</td><td>Islandwide</td><td>2026-10-12</td></tr>
+<tr><td>REVUP PROSERVICES PTE. LTD.</td><td>Marketing Executive – Brand & Campaigns / 9 Months Contract / Up to $4,000/mth</td><td>Singapore</td><td>2026-10-12</td></tr>
 </table>
