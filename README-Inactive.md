@@ -20279,4 +20279,44 @@
 <tr><td>INITIUM 22 PTE. LTD.</td><td>Insurance Admin/Secretary</td><td>Singapore</td><td>2026-10-14</td></tr>
 <tr><td>YINFENG GLOBAL TRADING PTE. LTD.</td><td>Admin Assistant</td><td>Singapore</td><td>2026-10-14</td></tr>
 <tr><td>LUMI SOLUTIONS PTE. LTD.</td><td>Administrative Assistant Part-Time</td><td>Singapore</td><td>2026-10-14</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Audit Innovation / Winter Internship (nov 2026 To Jan 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory-deal Adv, Infrastructure Advisory Ipa / Off-cycle Internship 2027 (jan 2027 - Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Tax - Managed Services / Polytechnic Internship (feb 2027 To Sep 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Deal Adv, Transaction Services / Off-cycle Internship 2027 (jan 2027- Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Insurance / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Digital Village (dv-ai) / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Accounting Advisory Services / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Governance & Risk / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Partners Group AG</td><td>Intern (6-months)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Coty Inc</td><td>Retail Commercial Analyst Intern</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Marriott International</td><td>Asia Pacific Excluding China - Hotel Internship Program 2027</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>St. Regis Hotels & Resorts</td><td>Intern</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Strategic Advisory & Solutions intern Singapore 2027</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Global Banking Intern Singapore 2027</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Transaction Services Intern Singapore 2027</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Shiseido</td><td>Asia Pacific - Workplace Engagement Intern (1h 2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>PSA International Pte Ltd</td><td>University Internship - Corporate Functions (2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>PSA International Pte Ltd</td><td>University Internship - Engineering (2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>PSA International Pte Ltd</td><td>University Internship - Infocomm Technology (2027)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>ING Bank</td><td>Intern, Working Capital Solutions</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Corning Inc.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>DXC Technology UK</td><td>Service Desk Agent (intern)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Consumer Financial Services, Marketing - Lifestyle Marketing [jan To Jun 2027]</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Consumer Financial Services, Marketing - Customer Value Marketing [jan To Jun 2027]</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>OCBC</td><td>Internship: Global Consumer Financial Services, Gcfs Digital Business & Transformation - Gcfs Digital Business [jan To Jun 2027]</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>PRAXIS AUTOMATION FAR EAST PTE. LTD.</td><td>Assistant Automation Engineer</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>SURBANA JURONG PRIVATE LIMITED</td><td>AI Value Realisation & Data Analyst</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>ZENITH INFOTECH (S) PTE LTD.</td><td>Data Scientist</td><td>Central West Region</td><td>2026-10-15</td></tr>
+<tr><td>DKSH Corporate Shared Services Center Sdn Bhd</td><td>Intern Group Internal Audit</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>D L RESOURCES PTE LTD</td><td>Lombard Credit Officer - Private Banking</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.</td><td>Internal Audit - Associate</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Agency Research Nurse (Part-Time / Flexible Hours) #HVN</td><td>Orchard</td><td>2026-10-15</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Engineer / Research Associate (Systems Integration and Prototyping)</td><td>Jurong Island +2</td><td>2026-10-15</td></tr>
+<tr><td>Applied Materials Inc</td><td>Manufacturing Technician</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>Excelitas Technologies Corporation</td><td>Technician (main Line)</td><td>Singapore</td><td>2026-10-15</td></tr>
+<tr><td>YVOLVE MG</td><td>Ready for Something New? Join Our Sales Team!</td><td>Islandwide</td><td>2026-10-15</td></tr>
+<tr><td>ALTIUS ORG</td><td>Event</td><td>Islandwide</td><td>2026-10-15</td></tr>
+<tr><td>ASCEND MARKETING SOLUTIONS</td><td>Events & Marketing Executive</td><td>D01 Marina</td><td>2026-10-15</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Events & Marketing Executive / Fast-Track Your Career 🚀</td><td>D01 Marina</td><td>2026-10-15</td></tr>
+<tr><td>STRIKE TALENTS PTE. LTD.</td><td>Roadshow & Events Associate</td><td>Islandwide</td><td>2026-10-15</td></tr>
 </table>
