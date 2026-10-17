@@ -20716,4 +20716,18 @@
 <tr><td>TRIGON ORGANISATION</td><td>Events Marketing (Entry)</td><td>Islandwide</td><td>2026-10-16</td></tr>
 <tr><td>FITNESS BADMINTON</td><td>Marketing Campaign Executive (Training Provided)</td><td>Islandwide</td><td>2026-10-16</td></tr>
 <tr><td>ANEMO MARKETING SOLUTIONS</td><td>JULY START🔥 Junior Corporate Marketing🔥 - office hours/ travelling opportunities</td><td>Islandwide</td><td>2026-10-16</td></tr>
+<tr><td>Shipping World Logistics Pte Ltd</td><td>Accounting Intern</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>TRENDY EGG DISTRIBUTOR</td><td>Operations intern</td><td>Kranji +3</td><td>2026-10-17</td></tr>
+<tr><td>ACTIVATE INTERACTIVE PTE LTD</td><td>Full-Stack Engineer - A26384</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>ENCORA TECHNOLOGIES PTE. LTD.</td><td>Junior AI Engineer</td><td>Islandwide</td><td>2026-10-17</td></tr>
+<tr><td>DADACONSULTANTS PTE. LTD.</td><td>Business Analyst – Enterprise Software</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>FLENDER PTE. LTD.</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Process Technician (Basic Up to $4.5K)</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Test Technician (Up to $4.5K)</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>Mango</td><td>Sales Assistant</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Luxury Jewelry Retail Sales (4.5 days workweek / Training Provided) (1358)</td><td>Islandwide</td><td>2026-10-17</td></tr>
+<tr><td>LITETITUDE BATH GALLERY PTE. LTD.</td><td>Retail Sales *Basic + Commission</td><td>Islandwide</td><td>2026-10-17</td></tr>
+<tr><td>AEDGE HOLDINGS PTE. LTD.</td><td>Retail Stall Assistant (Part-Time / Contract)</td><td>Singapore</td><td>2026-10-17</td></tr>
+<tr><td>NAVA 1872 PTE. LTD.</td><td>Retail Associate (A Premium Tea Brand))</td><td>Islandwide</td><td>2026-10-17</td></tr>
+<tr><td>CLOSIO CATALYST</td><td>Events Management Trainee (Work with Friends!! Training Provided!!)</td><td>Singapore</td><td>2026-10-17</td></tr>
 </table>

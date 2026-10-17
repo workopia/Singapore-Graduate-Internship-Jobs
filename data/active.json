@@ -1,18 +1,18 @@
 {
- "asOf": "2026-10-16",
- "count": 900,
+ "asOf": "2026-10-17",
+ "count": 901,
  "jobs": {
-  "2648640": {
-   "id": "2648640",
-   "company": "Shipping World Logistics Pte Ltd",
-   "role": "Accounting Intern",
-   "location": "Singapore"
-  },
   "44236241": {
    "id": "44236241",
    "company": "HP",
    "role": "College Intern - Business Analyst",
    "location": "South West"
+  },
+  "8901ce925b420815592a85ea4e0d6f24": {
+   "id": "8901ce925b420815592a85ea4e0d6f24",
+   "company": "Siemens",
+   "role": "Technical Bids Intern",
+   "location": "Singapore"
   },
   "af543fab4acf1ed8ca631731ed4d18e2": {
    "id": "af543fab4acf1ed8ca631731ed4d18e2",
@@ -487,12 +487,6 @@
    "company": "OCBC",
    "role": "Internship: Global Corporate Banking, Greater China Business Office [jan To May 2027]",
    "location": "Singapore"
-  },
-  "757db39bccab3ac6": {
-   "id": "757db39bccab3ac6",
-   "company": "TRENDY EGG DISTRIBUTOR",
-   "role": "Operations intern",
-   "location": "Kranji +3"
   },
   "ffe1e570fb15724a": {
    "id": "ffe1e570fb15724a",
@@ -980,6 +974,12 @@
    "role": "Uni Internship Jan To July 2027 - Frontend Developer, Angular",
    "location": "Singapore"
   },
+  "f95ceef8d32d7eea83db79acb234b268": {
+   "id": "f95ceef8d32d7eea83db79acb234b268",
+   "company": "Grab",
+   "role": "Intern, Software Engineer - Backend",
+   "location": "Singapore"
+  },
   "811a1e5a03eb698d03936e56f8a9be09": {
    "id": "811a1e5a03eb698d03936e56f8a9be09",
    "company": "Grab",
@@ -1092,6 +1092,12 @@
    "id": "5a96d1eb4ee8f86d7160ba757d8891b0",
    "company": "State Street Corporation",
    "role": "Early Career Cyber Defense Centre Analyst, Officer-1",
+   "location": "Singapore"
+  },
+  "d4198e2b043a2b55bb735a4640dcfab3": {
+   "id": "d4198e2b043a2b55bb735a4640dcfab3",
+   "company": "Michael Page Singapore",
+   "role": "Finance Systems Analyst",
    "location": "Singapore"
   },
   "06dd876e0b3287ab3c9c9db97f94214f": {
@@ -1568,12 +1574,6 @@
    "role": "Full-stack Engineer - A26385",
    "location": "Balestier"
   },
-  "717e5941dd653ba1": {
-   "id": "717e5941dd653ba1",
-   "company": "ACTIVATE INTERACTIVE PTE LTD",
-   "role": "Full-Stack Engineer - A26384",
-   "location": "Singapore"
-  },
   "2b791393c29957506e8c1e647dfab9c6": {
    "id": "2b791393c29957506e8c1e647dfab9c6",
    "company": "Synapxe Pte Ltd",
@@ -1848,6 +1848,12 @@
    "id": "5739a01178427742",
    "company": "TIKTOK PTE. LTD.",
    "role": "LLM & Agent Algorithm Graduate (Search) - 2027 Start (PhD)",
+   "location": "Singapore"
+  },
+  "ba0a0734aa132a459867dcf283d44e4c": {
+   "id": "ba0a0734aa132a459867dcf283d44e4c",
+   "company": "National Institute of Education",
+   "role": "Research Engineer I (computer Science / Artificial Intelligence / Software Engineering / Information Systems)",
    "location": "Singapore"
   },
   "07901eae433e22d8a4dc27344a191ea8": {
@@ -2324,16 +2330,16 @@
    "role": "AI Engineer",
    "location": "Islandwide"
   },
-  "d006e954bd39336b": {
-   "id": "d006e954bd39336b",
-   "company": "ENCORA TECHNOLOGIES PTE. LTD.",
-   "role": "Junior AI Engineer",
-   "location": "Islandwide"
-  },
   "a412de67883b6ff2602806c569654857": {
    "id": "a412de67883b6ff2602806c569654857",
    "company": "Synapxe Pte Ltd",
    "role": "Uni Internship Jan To July 2027 - Business Analyst, Tandem",
+   "location": "Singapore"
+  },
+  "77a7c847e3f0766c03a73370d51fa2fb": {
+   "id": "77a7c847e3f0766c03a73370d51fa2fb",
+   "company": "Grab",
+   "role": "Intern, Business Analyst",
    "location": "Singapore"
   },
   "69a83df7edc7115f": {
@@ -3002,6 +3008,12 @@
    "role": "Graduate Internal Audit Consultant",
    "location": "D06 Beach Road"
   },
+  "fce11c28881c6ff2618b714af3cac8d0": {
+   "id": "fce11c28881c6ff2618b714af3cac8d0",
+   "company": "Michael Page Singapore",
+   "role": "Regional Consolidation Accountant",
+   "location": "Singapore"
+  },
   "d1d08a7899b0fd1ce9725be3d7b86eb6": {
    "id": "d1d08a7899b0fd1ce9725be3d7b86eb6",
    "company": "Randstad Singapore",
@@ -3474,12 +3486,6 @@
    "id": "9e72ae238555d92d",
    "company": "DADACONSULTANTS PTE. LTD.",
    "role": "Business Analyst – CRM Implementation",
-   "location": "Singapore"
-  },
-  "dee6485d9c36de12": {
-   "id": "dee6485d9c36de12",
-   "company": "DADACONSULTANTS PTE. LTD.",
-   "role": "Business Analyst – Enterprise Software",
    "location": "Singapore"
   },
   "1c405dd212bfaf6499cba22976d05b73": {
@@ -3962,6 +3968,24 @@
    "role": "Locum Pharmacy Technician (Clementi / Entry level / Office Hours) #HGNJ",
    "location": "Islandwide"
   },
+  "e1c24bb12b129db1f73b30eab31af05f": {
+   "id": "e1c24bb12b129db1f73b30eab31af05f",
+   "company": "cfa-ascenseur.fr",
+   "role": "Prodctn/maint, Field Svc",
+   "location": "Singapore"
+  },
+  "686df5b2b69267fc63f2bc10468ba091": {
+   "id": "686df5b2b69267fc63f2bc10468ba091",
+   "company": "dormakaba International Holding AG",
+   "role": "Service Engineer",
+   "location": "Singapore"
+  },
+  "079acd5806da1bee8232880addbb1e0f": {
+   "id": "079acd5806da1bee8232880addbb1e0f",
+   "company": "Far East Organization",
+   "role": "Technician (orchard Rendezvous Hotel)",
+   "location": "Singapore"
+  },
   "55edeebef011354484e0a07bfc700004": {
    "id": "55edeebef011354484e0a07bfc700004",
    "company": "Applied Materials Inc",
@@ -4424,22 +4448,16 @@
    "role": "Technical Officer, Iscs & Comms",
    "location": "Singapore"
   },
-  "6e67901bbb79e103": {
-   "id": "6e67901bbb79e103",
-   "company": "FLENDER PTE. LTD.",
-   "role": "Field Service Engineer",
+  "2a66ea8595ff42a0364b11136ead5f29": {
+   "id": "2a66ea8595ff42a0364b11136ead5f29",
+   "company": "Mango",
+   "role": "Sales Assistant",
    "location": "Singapore"
   },
-  "bf69809a23d2f659": {
-   "id": "bf69809a23d2f659",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Process Technician (Basic Up to $4.5K)",
-   "location": "Singapore"
-  },
-  "a1e7e0ad0019e21a": {
-   "id": "a1e7e0ad0019e21a",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Test Technician (Up to $4.5K)",
+  "b841a15d3b0ce3daea954ef8417c4db4": {
+   "id": "b841a15d3b0ce3daea954ef8417c4db4",
+   "company": "Maersk",
+   "role": "Fl Customer Service Support [flo Flc]",
    "location": "Singapore"
   },
   "21d0c315a729dac5a7e35ef895135390": {
@@ -4598,6 +4616,12 @@
    "role": "Part Time Sales Advisor (vivocity)",
    "location": "Singapore"
   },
+  "0a879c258876bec3": {
+   "id": "0a879c258876bec3",
+   "company": "NXTLVL.UP",
+   "role": "💸SALES SUPERSTAR💸 (1-1 Mentorship)",
+   "location": "Islandwide"
+  },
   "d2afc050a4ef0e72": {
    "id": "d2afc050a4ef0e72",
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
@@ -4716,6 +4740,12 @@
    "id": "6c7f7f6f04e312ae",
    "company": "JABIL CIRCUIT (SINGAPORE) PTE. LTD.",
    "role": "Sales Assistant",
+   "location": "Singapore"
+  },
+  "b7296f76626bac9a": {
+   "id": "b7296f76626bac9a",
+   "company": "K.P.P. PACKAGING PTE LTD",
+   "role": "Store assistant",
    "location": "Singapore"
   },
   "1ccb7934bc392c7b": {
@@ -4850,12 +4880,6 @@
    "role": "Patient Service Associate",
    "location": "Singapore"
   },
-  "dbcda51d229244a9368a766aa2d55ab0": {
-   "id": "dbcda51d229244a9368a766aa2d55ab0",
-   "company": "Mango",
-   "role": "Sales Assistant",
-   "location": "Singapore"
-  },
   "a12da4870f06a3b1": {
    "id": "a12da4870f06a3b1",
    "company": "ALTIUS ORG",
@@ -4898,28 +4922,10 @@
    "role": "Retail Sales Associates (Women's fashion)",
    "location": "Singapore"
   },
-  "0a5f51b8bb095a12": {
-   "id": "0a5f51b8bb095a12",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Luxury Jewelry Retail Sales (4.5 days workweek / Training Provided) (1358)",
-   "location": "Islandwide"
-  },
-  "a9dd6134abc16c95": {
-   "id": "a9dd6134abc16c95",
-   "company": "LITETITUDE BATH GALLERY PTE. LTD.",
-   "role": "Retail Sales *Basic + Commission",
-   "location": "Islandwide"
-  },
-  "4d8a6cd74136259b": {
-   "id": "4d8a6cd74136259b",
-   "company": "AEDGE HOLDINGS PTE. LTD.",
-   "role": "Retail Stall Assistant (Part-Time / Contract)",
-   "location": "Singapore"
-  },
-  "96b83af03864254f": {
-   "id": "96b83af03864254f",
-   "company": "NAVA 1872 PTE. LTD.",
-   "role": "Retail Associate (A Premium Tea Brand))",
+  "5f8e73a6885e0190": {
+   "id": "5f8e73a6885e0190",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "Retail Sales Associate #72519",
    "location": "Islandwide"
   },
   "b93bf425a9f0a2593a79117d1165d336": {
@@ -5384,6 +5390,12 @@
    "role": "Admin & Operations Support",
    "location": "Singapore"
   },
+  "d1955e188bb638c3": {
+   "id": "d1955e188bb638c3",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "Junior Events Project Coordinator #10345",
+   "location": "Islandwide"
+  },
   "3e730d5e7a59a3df": {
    "id": "3e730d5e7a59a3df",
    "company": "SIMPLE RECRUIT",
@@ -5394,12 +5406,6 @@
    "id": "c256d03de8d9f8d9",
    "company": "BRANDOVA",
    "role": "Promotions & Events Associate / Join Us",
-   "location": "Singapore"
-  },
-  "afbfcd7bd456b2ec": {
-   "id": "afbfcd7bd456b2ec",
-   "company": "CLOSIO CATALYST",
-   "role": "Events Management Trainee (Work with Friends!! Training Provided!!)",
    "location": "Singapore"
   }
  }
