@@ -1,6 +1,6 @@
 {
- "asOf": "2026-10-17",
- "count": 901,
+ "asOf": "2026-10-18",
+ "count": 907,
  "jobs": {
   "44236241": {
    "id": "44236241",
@@ -8,10 +8,394 @@
    "role": "College Intern - Business Analyst",
    "location": "South West"
   },
+  "09d5a3380fdda43a35f329bdeb21c7ad": {
+   "id": "09d5a3380fdda43a35f329bdeb21c7ad",
+   "company": "Reckitt",
+   "role": "Social Commerce Intern",
+   "location": "Central Singapore"
+  },
+  "af7d23d3d034c33e3c805d9d279d4c5c": {
+   "id": "af7d23d3d034c33e3c805d9d279d4c5c",
+   "company": "Xiaomi",
+   "role": "Information Security Compliance Intern",
+   "location": "Singapore"
+  },
+  "76ab2f55336f1834206d04b38f146ac3": {
+   "id": "76ab2f55336f1834206d04b38f146ac3",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Game Ml Researcher Intern",
+   "location": "Capitasky"
+  },
+  "987ea58f489dc09b56f83853eca96bc8": {
+   "id": "987ea58f489dc09b56f83853eca96bc8",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Speech Synthesis Intern",
+   "location": "Singapore"
+  },
+  "7531842784142d3e26a1676df3f3b0d1": {
+   "id": "7531842784142d3e26a1676df3f3b0d1",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Financial Accounting And Analysis Intern",
+   "location": "Capitasky"
+  },
+  "2adb59741c6c9881e6410fba73219a1c": {
+   "id": "2adb59741c6c9881e6410fba73219a1c",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Advertising Product Manager Intern",
+   "location": "Capitasky"
+  },
+  "d8bab9fa206b9c50a79035acdd226717": {
+   "id": "d8bab9fa206b9c50a79035acdd226717",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Product Operations Intern (monetization)",
+   "location": "Capitasky"
+  },
+  "f9885ca64dc6214cdd7d048c428331c9": {
+   "id": "f9885ca64dc6214cdd7d048c428331c9",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Global Talent Sourcing Intern",
+   "location": "Capitasky"
+  },
+  "4d7f81236b2371e8d6363eea9f3fe181": {
+   "id": "4d7f81236b2371e8d6363eea9f3fe181",
+   "company": "Tencent Cloud",
+   "role": "Global Talent Sourcing Intern",
+   "location": "Capitasky"
+  },
+  "4de1d5d699b7c5394038d5588f894e52": {
+   "id": "4de1d5d699b7c5394038d5588f894e52",
+   "company": "Tencent Music Entertainment Group",
+   "role": "Data Science Intern (analytics), 6-month Internship",
+   "location": "Capitasky"
+  },
+  "98f47d4e892d54e6efc2c17f8a40931d": {
+   "id": "98f47d4e892d54e6efc2c17f8a40931d",
+   "company": "ING",
+   "role": "Intern, Hr Operations",
+   "location": "Singapore"
+  },
+  "64548b3304a758b3232dc53c6105aa1e": {
+   "id": "64548b3304a758b3232dc53c6105aa1e",
+   "company": "Valmont Industries, Inc",
+   "role": "Intern, Portfolio Management",
+   "location": "Singapore"
+  },
+  "c36979b6b8a8bb46a7e9d6272769e087": {
+   "id": "c36979b6b8a8bb46a7e9d6272769e087",
+   "company": "olam food ingredients (ofi)",
+   "role": "Internship - Food Regulatory & Compliance Intern (6 Months + From Nov 2026)",
+   "location": "Singapore"
+  },
+  "0c5c528d319262f2472a560c9c02badf": {
+   "id": "0c5c528d319262f2472a560c9c02badf",
+   "company": "olam food ingredients (ofi)",
+   "role": "Internship - Marketing Intern (food And Beverage Solutions)",
+   "location": "Biopolis"
+  },
+  "fa58e8191b16d077fda297e36618a3b3": {
+   "id": "fa58e8191b16d077fda297e36618a3b3",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Hardware Test Automation Intern",
+   "location": "Central Singapore"
+  },
+  "1a8e732da8b1ee2dc88358b2ef8652e4": {
+   "id": "1a8e732da8b1ee2dc88358b2ef8652e4",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Embedded Software (firmware) Internship",
+   "location": "Central Singapore"
+  },
+  "efac6c40211b8341b0b583cd09ee3ae1": {
+   "id": "efac6c40211b8341b0b583cd09ee3ae1",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Ai And Machine Learning Intern",
+   "location": "Central Singapore"
+  },
+  "6b05ee7cd3dda21be5b810b39189789d": {
+   "id": "6b05ee7cd3dda21be5b810b39189789d",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Digital Transformation (supply Chain) Intern",
+   "location": "Central Singapore"
+  },
+  "cc40db5709a934d7d8c9423cb1d93a68": {
+   "id": "cc40db5709a934d7d8c9423cb1d93a68",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Robotics - Smart Factory Internship",
+   "location": "Central Singapore"
+  },
+  "0017621b1dbc2c9202086da63707c8d1": {
+   "id": "0017621b1dbc2c9202086da63707c8d1",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Supply Chain Intern",
+   "location": "Central Singapore"
+  },
+  "5626c69169e223209095007338461a65": {
+   "id": "5626c69169e223209095007338461a65",
+   "company": "HPE (Hewlett Packard Enterprise)",
+   "role": "Data Analytics (supply Chain) Intern",
+   "location": "Central Singapore"
+  },
+  "635624673d4d328d947960553888bc78": {
+   "id": "635624673d4d328d947960553888bc78",
+   "company": "DXC Technology Australia",
+   "role": "Servicedesk Intern",
+   "location": "Singapore"
+  },
+  "19003dc87f85b2eb0a673edb68c2efd4": {
+   "id": "19003dc87f85b2eb0a673edb68c2efd4",
+   "company": "DXC Technology Australia",
+   "role": "Rr-0393497 Service Desk Intern-19",
+   "location": "Singapore"
+  },
+  "e16de158c4c3c81d3d5b81e2653a6942": {
+   "id": "e16de158c4c3c81d3d5b81e2653a6942",
+   "company": "Sanofi Consumer Healthcare",
+   "role": "Hse Intern",
+   "location": "City Of Singapore"
+  },
+  "ed42133119d93abe4b642b2b043aeb82": {
+   "id": "ed42133119d93abe4b642b2b043aeb82",
+   "company": "Sanofi Consumer Healthcare",
+   "role": "Quality System Management Intern",
+   "location": "City Of Singapore"
+  },
+  "f45635c169118c7bd4f753434f9421df": {
+   "id": "f45635c169118c7bd4f753434f9421df",
+   "company": "nlb.gov.sg",
+   "role": "Intern, Lifeskills And Lifestyle Division",
+   "location": "Pas"
+  },
+  "1ae4ee8c2199f53a": {
+   "id": "1ae4ee8c2199f53a",
+   "company": "AURATALENTSG",
+   "role": "✨Junior Brand Marketing✨(NO EXPERIENCE NEEDED)",
+   "location": "D05 Pasir Panjang"
+  },
+  "0d20cf497f1edc55b904e9608864b71f": {
+   "id": "0d20cf497f1edc55b904e9608864b71f",
+   "company": "Coty Inc",
+   "role": "Legal Intern",
+   "location": "Singapore"
+  },
+  "ce1679735de6dfd044d5dd9dee805b04": {
+   "id": "ce1679735de6dfd044d5dd9dee805b04",
+   "company": "DSV Panalpina AS",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "ac541c7ed187379eaf29378b166e0dd9": {
+   "id": "ac541c7ed187379eaf29378b166e0dd9",
+   "company": "Micron Technology Inc",
+   "role": "Intern - Pee Cvd",
+   "location": "Singapore"
+  },
+  "6601c3a3bd3062154b033ae563f7e2f8": {
+   "id": "6601c3a3bd3062154b033ae563f7e2f8",
+   "company": "Micron Technology Inc",
+   "role": "Intern - Planning Strategic Layout",
+   "location": "Singapore"
+  },
+  "62cb4d305842ae197e1bf6990eee12fd": {
+   "id": "62cb4d305842ae197e1bf6990eee12fd",
+   "company": "Micron Technology Inc",
+   "role": "Intern - Chemical Laboratory And Document Management",
+   "location": "Singapore"
+  },
+  "e57e70948114a318a44f2db9ae9a19b7": {
+   "id": "e57e70948114a318a44f2db9ae9a19b7",
+   "company": "THALES",
+   "role": "Hr Automation Intern",
+   "location": "Singapore"
+  },
+  "4a242cdefe821c13": {
+   "id": "4a242cdefe821c13",
+   "company": "ALIGNE STUDIO PTE. LTD.",
+   "role": "Marketing and Operations Intern",
+   "location": "Islandwide"
+  },
+  "62851f7a33638e5f": {
+   "id": "62851f7a33638e5f",
+   "company": "AMPERESAND PTE. LTD.",
+   "role": "Supply Chain Intern",
+   "location": "D05 Pasir Panjang"
+  },
+  "d21925b1bea78761": {
+   "id": "d21925b1bea78761",
+   "company": "22 CROSS ST PTE. LTD.",
+   "role": "Human Resource Intern",
+   "location": "Islandwide"
+  },
   "8901ce925b420815592a85ea4e0d6f24": {
    "id": "8901ce925b420815592a85ea4e0d6f24",
    "company": "Siemens",
    "role": "Technical Bids Intern",
+   "location": "Singapore"
+  },
+  "a7267638adecd376": {
+   "id": "a7267638adecd376",
+   "company": "FOMO PAY PTE. LTD.",
+   "role": "Strategic Partnerships Intern",
+   "location": "Singapore"
+  },
+  "ac1ad89e8b678f99": {
+   "id": "ac1ad89e8b678f99",
+   "company": "IFAST FINANCIAL PTE. LTD.",
+   "role": "Compliance Intern",
+   "location": "Singapore"
+  },
+  "d16c44230f04a10a": {
+   "id": "d16c44230f04a10a",
+   "company": "KIZTOPIA SERVICES PTE. LTD.",
+   "role": "Social Media & Content Creation Intern",
+   "location": "Singapore"
+  },
+  "41cb56081b694170": {
+   "id": "41cb56081b694170",
+   "company": "IFAST FINANCIAL PTE. LTD.",
+   "role": "Intern, Financial Crime Compliance (Full time/Part time)",
+   "location": "Singapore"
+  },
+  "49b221b6610b0431": {
+   "id": "49b221b6610b0431",
+   "company": "IFAST FINANCIAL PTE. LTD.",
+   "role": "Operations Intern (Collections and Transfers)",
+   "location": "Singapore"
+  },
+  "7e595b057d870345": {
+   "id": "7e595b057d870345",
+   "company": "NINEMER COMMUNICATIONS PTE. LTD.",
+   "role": "Graphic Designer Internship",
+   "location": "Singapore"
+  },
+  "e5a0cf7078856a6a": {
+   "id": "e5a0cf7078856a6a",
+   "company": "ST.HUA PRIVATE SCHOOL PTE. LTD.",
+   "role": "AY2026/2027: Administration cum Customer Service Internship Program / Part-Time",
+   "location": "Singapore"
+  },
+  "142d9463362b6682": {
+   "id": "142d9463362b6682",
+   "company": "WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED",
+   "role": "Education & Outreach Intern - Schools Programme",
+   "location": "Singapore"
+  },
+  "f700200b477d5752": {
+   "id": "f700200b477d5752",
+   "company": "35 EMBER PTE. LTD.",
+   "role": "Human Resource Intern",
+   "location": "Singapore"
+  },
+  "2207e41f30f4f732": {
+   "id": "2207e41f30f4f732",
+   "company": "THE STYLE SOIREE (TSS)",
+   "role": "Creative Intern",
+   "location": "Singapore"
+  },
+  "0a3a5285f2d0cb97": {
+   "id": "0a3a5285f2d0cb97",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "❤️‍🔥⭐️ Marketing Team (Fresh Grads!)",
+   "location": "D01 Marina"
+  },
+  "5ee31ccbc42ec949868194f44c6dc69b": {
+   "id": "5ee31ccbc42ec949868194f44c6dc69b",
+   "company": "Siemens",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "54cbe3ede0524f0e": {
+   "id": "54cbe3ede0524f0e",
+   "company": "HAVE FUN COLLECTIVE PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "ac945bd75c9a502b": {
+   "id": "ac945bd75c9a502b",
+   "company": "HAVE FUN SELETAR PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "54b6e376f77cf41c": {
+   "id": "54b6e376f77cf41c",
+   "company": "HF CHINATOWN PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "9e5647b89a60f76e": {
+   "id": "9e5647b89a60f76e",
+   "company": "HAVE FUN YISHUN PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "8c5410e50c99cd85": {
+   "id": "8c5410e50c99cd85",
+   "company": "HAVE FUN TPY PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "ec6eaf7845411ca4": {
+   "id": "ec6eaf7845411ca4",
+   "company": "HAVE FUN SUNTEC PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "98c98764969b77eb": {
+   "id": "98c98764969b77eb",
+   "company": "ASIAN SKIN SOLUTION PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "fb09554225c5ecb1": {
+   "id": "fb09554225c5ecb1",
+   "company": "SLEEK R&D AND MANAGEMENT (PTE. LTD.)",
+   "role": "Business Process Management Intern",
+   "location": "Singapore"
+  },
+  "8eba1f784d8d8644": {
+   "id": "8eba1f784d8d8644",
+   "company": "HAVE FUN PASIR RIS PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "d9cae82d7bb0aeed": {
+   "id": "d9cae82d7bb0aeed",
+   "company": "HAVE FUN ORCHARD PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "1464417c6a6b024e": {
+   "id": "1464417c6a6b024e",
+   "company": "HAVE FUN DTE PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "ae93122586ca26a0": {
+   "id": "ae93122586ca26a0",
+   "company": "HAVE FUN CINELEISURE PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "f4fa4ffb78979df3": {
+   "id": "f4fa4ffb78979df3",
+   "company": "HAVE FUN BUGIS PLUS PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "53ba2d3bb0f7a5c4": {
+   "id": "53ba2d3bb0f7a5c4",
+   "company": "7-24 ENTERTAINMENT PTE. LTD.",
+   "role": "Marketing Intern",
+   "location": "Singapore"
+  },
+  "f9fd00ab0768576b": {
+   "id": "f9fd00ab0768576b",
+   "company": "CLIFFORD CHANCE PTE. LTD.",
+   "role": "Business Development and Marketing Intern",
+   "location": "Singapore"
+  },
+  "582710c7bc4e50fa": {
+   "id": "582710c7bc4e50fa",
+   "company": "Singapore Business Federation",
+   "role": "Intern, Marketing and Communications",
    "location": "Singapore"
   },
   "af543fab4acf1ed8ca631731ed4d18e2": {
@@ -104,388 +488,70 @@
    "role": "Uni Internship Jan To July 2027 - Ai Strategy &amp; Innovation Internship",
    "location": "Singapore"
   },
-  "394b55e5ecc24587180a91f9bbe0c019": {
-   "id": "394b55e5ecc24587180a91f9bbe0c019",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai &amp; Edge Deployment Focus",
-   "location": "Singapore"
+  "63e882aed3090d7e": {
+   "id": "63e882aed3090d7e",
+   "company": "LOOK CAPITAL PTE. LTD.",
+   "role": "Management Associate – Operations (Private Wealth)",
+   "location": "D01 Marina"
   },
-  "45c8fd0b9e70f8d86d33aeb78b555260": {
-   "id": "45c8fd0b9e70f8d86d33aeb78b555260",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Advanced Data Science And Ai Innovations Internship",
-   "location": "Singapore"
-  },
-  "a626fc203a046f84b9691cd322d272f8": {
-   "id": "a626fc203a046f84b9691cd322d272f8",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Nhg Digital Transformation - Automation Internship",
-   "location": "Singapore"
-  },
-  "9c4bebc97b1f13c64841e10cd81fce30": {
-   "id": "9c4bebc97b1f13c64841e10cd81fce30",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - National Billing System Deployment",
-   "location": "Singapore"
-  },
-  "255803f8e6d42849d145de5cc94a02df": {
-   "id": "255803f8e6d42849d145de5cc94a02df",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - National Billing System Support &amp; Operations",
-   "location": "Singapore"
-  },
-  "64fec8e480fd8652b9624139c2c3f1de": {
-   "id": "64fec8e480fd8652b9624139c2c3f1de",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Ai &amp; Eprocurement Internship",
-   "location": "Singapore"
-  },
-  "01bb947ec539766a8df9ed3be16c4e95": {
-   "id": "01bb947ec539766a8df9ed3be16c4e95",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Microsoft Dynamics Crm System Implementation &amp; Testing",
-   "location": "Singapore"
-  },
-  "73146a6737c59d43ff3b27e85c6e03c2": {
-   "id": "73146a6737c59d43ff3b27e85c6e03c2",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - It Audit Management",
-   "location": "Singapore"
-  },
-  "5d20583e1002862c42ce754f55aab8aa": {
-   "id": "5d20583e1002862c42ce754f55aab8aa",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Model Development Of Image Recognition",
-   "location": "Singapore"
-  },
-  "9a36b63a807d69787ec3c2d892f52e59": {
-   "id": "9a36b63a807d69787ec3c2d892f52e59",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Integrated Risk Management (irm) Design Implementation",
-   "location": "Singapore"
-  },
-  "ba32d3aa5b8e74c8e32e17b45e1ea744": {
-   "id": "ba32d3aa5b8e74c8e32e17b45e1ea744",
-   "company": "Synapxe Pte Ltd",
-   "role": "Uni Internship Jan To July 2027 - Hr Rewards &amp; Benefits",
-   "location": "Singapore"
-  },
-  "486ad7df9276c20e0a9fbbd53e0c96a1": {
-   "id": "486ad7df9276c20e0a9fbbd53e0c96a1",
-   "company": "Hitachi Rail Singapore Pte. Ltd.",
-   "role": "Uxui / Ai Transformation Intern",
-   "location": "Central Singapore"
-  },
-  "0a3a5285f2d0cb97": {
-   "id": "0a3a5285f2d0cb97",
+  "5f87f6eb74646dd1": {
+   "id": "5f87f6eb74646dd1",
    "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "❤️‍🔥⭐️ Marketing Team (Fresh Grads!)",
+   "role": "[No Experience Needed] Marketing & Business Trainee ✨",
    "location": "D01 Marina"
   },
-  "ac1080f24fe0a79808a72644552675a3": {
-   "id": "ac1080f24fe0a79808a72644552675a3",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Management Interns (jan - Jun 2027)",
-   "location": "Singapore"
-  },
-  "719895703675a5e2b448c6a2f5ea0170": {
-   "id": "719895703675a5e2b448c6a2f5ea0170",
-   "company": "Hong Leong Bank",
-   "role": "Intern - Compliance (transaction Monitoring)",
-   "location": "Singapore"
-  },
-  "e4110a4732ae3e5aecebf387f1daff43": {
-   "id": "e4110a4732ae3e5aecebf387f1daff43",
-   "company": "Hong Leong Bank",
-   "role": "Intern - Compliance (kyc)",
-   "location": "Singapore"
-  },
-  "ed813eb304924acfad54c82ab1408687": {
-   "id": "ed813eb304924acfad54c82ab1408687",
-   "company": "Marina Bay Sands",
-   "role": "Intern, System Development",
-   "location": "Marina Bay Sands"
-  },
-  "e3dfa4f57e9c06eebbab8647cc52e289": {
-   "id": "e3dfa4f57e9c06eebbab8647cc52e289",
-   "company": "Marina Bay Sands",
-   "role": "Intern, Sustainability (water & Energy Conservation And Engagement)",
-   "location": "Marina Bay Sands"
-  },
-  "873c0bcf17207c93971c750349e6abcb": {
-   "id": "873c0bcf17207c93971c750349e6abcb",
-   "company": "Amperesand",
-   "role": "Supply Chain Intern",
-   "location": "Singapore"
-  },
-  "25ae054e59bcec83e9c39439a0032d7a": {
-   "id": "25ae054e59bcec83e9c39439a0032d7a",
-   "company": "Micron Technology Inc",
-   "role": "Intern - F10 Mfg Implant (bench)",
-   "location": "Singapore"
-  },
-  "11fb9116037cd2185c05bbe17d16b9c6": {
-   "id": "11fb9116037cd2185c05bbe17d16b9c6",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Ate Pto",
-   "location": "Singapore"
-  },
-  "97bda0e9cd9d0bc157c86da76bab5bcd": {
-   "id": "97bda0e9cd9d0bc157c86da76bab5bcd",
-   "company": "Danone",
-   "role": "M&amp;a Intern (jan - Jul 2027)",
-   "location": "Singapore"
-  },
-  "fe13ff7a653596834e7d1d5970666bfd": {
-   "id": "fe13ff7a653596834e7d1d5970666bfd",
-   "company": "Danone",
-   "role": "Cycles &amp; Procurement Intern - Dairy Ingredients (jan - Jul 2027)",
-   "location": "Singapore"
-  },
-  "1766616c4e77f34ac25f370f7ea7ac1f": {
-   "id": "1766616c4e77f34ac25f370f7ea7ac1f",
-   "company": "Danone",
-   "role": "Procurement Excellence Intern (jan - Jul 2027)",
-   "location": "Singapore"
-  },
-  "2412d3c8445d1c5ef75e99099936b265": {
-   "id": "2412d3c8445d1c5ef75e99099936b265",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Risk & Prevention, Regional Risk & Prevention [jan To Jun 2027]",
-   "location": "Singapore"
-  },
-  "258bfde4bfdc9fd884f140648387bb38": {
-   "id": "258bfde4bfdc9fd884f140648387bb38",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Consumer Secured Lending, Home Financing & Secured Lending Portfolio Management [jan To Jun 2027]",
-   "location": "Singapore"
-  },
-  "6555f29126cac224e468112a21e412e0": {
-   "id": "6555f29126cac224e468112a21e412e0",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Personal & Premier Banking Onshore - Business Management Office [dec 2026 To Jun 2027]",
-   "location": "Singapore"
-  },
-  "9239776cc7aba1402f0d14196830cb7b": {
-   "id": "9239776cc7aba1402f0d14196830cb7b",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Cfs Finance, Strategy And Execution, Division [dec 2026 To Jul 2027]",
-   "location": "Singapore"
-  },
-  "4588c83d6966667cadc9505e724a0cc3": {
-   "id": "4588c83d6966667cadc9505e724a0cc3",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Cfs Finance, Strategy And Execution [dec 2026 To Jul 2027]",
-   "location": "Singapore"
-  },
-  "0487172079b4e00892ec16b956952d4e": {
-   "id": "0487172079b4e00892ec16b956952d4e",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Risk & Prevention, Financial Crime & Digital Business Risk Advisory [jan To May 2027]",
-   "location": "Singapore"
-  },
-  "a746295cd88d19bca3836642477e55bb": {
-   "id": "a746295cd88d19bca3836642477e55bb",
-   "company": "OCBC",
-   "role": "Internship: Global Consumer Financial Services, Marketing, Digital Marketing & Martech [jan To Jun 2027]",
-   "location": "Singapore"
-  },
-  "e103a9bc8236265b28843b76996739d5": {
-   "id": "e103a9bc8236265b28843b76996739d5",
-   "company": "Procter & Gamble (SK-II)",
-   "role": "Sk-ii It Intern (semester 2027) - P&g Management Internship Program",
-   "location": "Singapore"
-  },
-  "fd258d5c256f55fb": {
-   "id": "fd258d5c256f55fb",
-   "company": "RFNG TRADING",
-   "role": "Finance & Wealth Management Internship",
-   "location": "Islandwide"
-  },
-  "ba2acfe83e2d21c8": {
-   "id": "ba2acfe83e2d21c8",
-   "company": "PLAZA PREMIUM LOUNGE SINGAPORE PTE. LTD.",
-   "role": "Project Admin Intern",
-   "location": "Changi"
-  },
-  "47355a50812e4e8e": {
-   "id": "47355a50812e4e8e",
-   "company": "OMNIVISION TECHNOLOGIES SINGAPORE PTE. LTD.",
-   "role": "HR & Admin Intern",
-   "location": "Jurong Island"
-  },
-  "fee8518dd640ccc3": {
-   "id": "fee8518dd640ccc3",
-   "company": "GREEN SPADE PTE. LTD.",
-   "role": "Marketing Intern (Horticulture Industry)",
-   "location": "Islandwide"
-  },
-  "6c59bc699355ced0": {
-   "id": "6c59bc699355ced0",
-   "company": "AGENCE TESLA PTE. LTD.",
-   "role": "RESEARCH AND PROJECT MANAGEMENT INTERN",
+  "3143a95ff0839d63": {
+   "id": "3143a95ff0839d63",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "Management Trainee – Events, Sales & Leadership Development",
    "location": "D01 Marina"
   },
-  "7bde72ec87115682": {
-   "id": "7bde72ec87115682",
-   "company": "GLOBEWERKS INTERNATIONAL PTE. LTD.",
-   "role": "Marketing Intern",
+  "d7f4aef648dfb41e": {
+   "id": "d7f4aef648dfb41e",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Business Management Trainee (APAC) (18 Months Programme) #NKC",
+   "location": "Islandwide"
+  },
+  "8931dd56126db9b2": {
+   "id": "8931dd56126db9b2",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "HR Management Trainee – APAC Regional Programme / Up to $5,000 #HHLT",
    "location": "Singapore"
   },
-  "1ae4ee8c2199f53a": {
-   "id": "1ae4ee8c2199f53a",
-   "company": "AURATALENTSG",
-   "role": "✨Junior Brand Marketing✨(NO EXPERIENCE NEEDED)",
+  "dc6ce1ea4f90cb9b": {
+   "id": "dc6ce1ea4f90cb9b",
+   "company": "HENG GOT MANPOWER PTE. LTD.",
+   "role": "MANAGEMENT TRAINEE (F&B)",
    "location": "Singapore"
   },
-  "f350cb7718940642": {
-   "id": "f350cb7718940642",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Love Talking to People? Turn It Into a Career / Sales Traine",
+  "8367d437783001ef": {
+   "id": "8367d437783001ef",
+   "company": "HENG GOT MANPOWER PTE. LTD.",
+   "role": "MANAGEMENT ASSOCIATE",
    "location": "Singapore"
   },
-  "8052c3b84c9bb96a172e40d3c5d2b96b": {
-   "id": "8052c3b84c9bb96a172e40d3c5d2b96b",
-   "company": "NETS",
-   "role": "It Ops Intern",
-   "location": "Braddell"
-  },
-  "b74d2803978effad6805c1bdbe3994bc": {
-   "id": "b74d2803978effad6805c1bdbe3994bc",
-   "company": "NETS",
-   "role": "Project Management Intern",
-   "location": "Braddell"
-  },
-  "1df6d0c9509e0b133e9a3ec2d80a09b9": {
-   "id": "1df6d0c9509e0b133e9a3ec2d80a09b9",
-   "company": "NETS",
-   "role": "It Security Intern",
-   "location": "Braddell"
-  },
-  "f8fceb79913c8c9f9974231b47e84c56": {
-   "id": "f8fceb79913c8c9f9974231b47e84c56",
-   "company": "Banking Computer Services Pte Ltd",
-   "role": "Management Information System Intern",
-   "location": "Braddell"
-  },
-  "0b68ae0d68d6eeb453feb832e4aebaa2": {
-   "id": "0b68ae0d68d6eeb453feb832e4aebaa2",
-   "company": "NETS",
-   "role": "Cybersecurity Intern",
-   "location": "Braddell"
-  },
-  "09b116c8e3727da3bc4b818a15e2dd96": {
-   "id": "09b116c8e3727da3bc4b818a15e2dd96",
-   "company": "Maravet",
-   "role": "Physical Design Intern - Master's Degree",
+  "fd1c2dd220e16c15": {
+   "id": "fd1c2dd220e16c15",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "18 Months HR Management Trainee / Overseas Travel / Up to $5000 #NKA",
    "location": "Singapore"
   },
-  "3171caf37ac68195c276edfdb17d6e44": {
-   "id": "3171caf37ac68195c276edfdb17d6e44",
-   "company": "CapitaLand",
-   "role": "Intern, Business Development, Commercial Management (singapore) (jan - Jun 2027)",
-   "location": "Central Singapore"
-  },
-  "7cd9fac96dc1ea65f00b11477f885383": {
-   "id": "7cd9fac96dc1ea65f00b11477f885383",
-   "company": "CapitaLand",
-   "role": "Intern, Asset Management (jan - Jun 2027)",
-   "location": "Central Singapore"
-  },
-  "a89a8adc985da23390234419f7ec0127": {
-   "id": "a89a8adc985da23390234419f7ec0127",
-   "company": "CapitaLand",
-   "role": "Intern, Data Analytics",
-   "location": "Central Singapore"
-  },
-  "9fa9a00991d30332e0d286a958e4ac16": {
-   "id": "9fa9a00991d30332e0d286a958e4ac16",
-   "company": "Coty Inc",
-   "role": "Project Management Intern, Visual Merchandising",
+  "75ae0e753583d90c": {
+   "id": "75ae0e753583d90c",
+   "company": "SINBOR COMPANY (PRIVATE) LIMITED",
+   "role": "Management Associate",
    "location": "Singapore"
   },
-  "f24fbcb3e81ec89729676c8aec900c51": {
-   "id": "f24fbcb3e81ec89729676c8aec900c51",
-   "company": "Coty Inc",
-   "role": "Digital Intern",
-   "location": "01"
-  },
-  "884ed58c28b062bc24643f9bcf5a920c": {
-   "id": "884ed58c28b062bc24643f9bcf5a920c",
-   "company": "Coty Inc",
-   "role": "Procurement Logistics Intern",
+  "7e5afc2929f19045": {
+   "id": "7e5afc2929f19045",
+   "company": "1HORIZEN",
+   "role": "Marketing Management Trainee",
    "location": "Singapore"
   },
-  "4b0e786826d29af6af518febf565acc2": {
-   "id": "4b0e786826d29af6af518febf565acc2",
-   "company": "Coty Inc",
-   "role": "Supply Chain Intern",
-   "location": "01"
-  },
-  "c27304a363e9b994eba76ad65bac2c0c": {
-   "id": "c27304a363e9b994eba76ad65bac2c0c",
-   "company": "Coty Inc",
-   "role": "Marketing Intern, Regional Prestige",
-   "location": "01"
-  },
-  "d426cedde334c95494da81715e127ad1": {
-   "id": "d426cedde334c95494da81715e127ad1",
-   "company": "Coty Inc",
-   "role": "Retail Design Project Management Intern",
-   "location": "Singapore"
-  },
-  "2e462d07ee6a9506739d0773d494b8ac": {
-   "id": "2e462d07ee6a9506739d0773d494b8ac",
-   "company": "Coty Inc",
-   "role": "Commercial Finance Intern",
-   "location": "01"
-  },
-  "405b9c998c6b639bb305314be41232c1": {
-   "id": "405b9c998c6b639bb305314be41232c1",
-   "company": "Hong Leong Bank",
-   "role": "Intern - Regional Wealth Management",
-   "location": "Singapore"
-  },
-  "ce4439ccf0b240d72dcbbcd0e02d11c0": {
-   "id": "ce4439ccf0b240d72dcbbcd0e02d11c0",
-   "company": "pfizer.de",
-   "role": "Specialty Care Marketing Intern (full-time; 6-month)",
-   "location": "Singapore"
-  },
-  "15632704934cad09980bd3c798f0a117": {
-   "id": "15632704934cad09980bd3c798f0a117",
-   "company": "WS Audiology",
-   "role": "It Procurement Support Intern",
-   "location": "Singapore"
-  },
-  "eb77bf3c31ce3d137d67236a5738cc39": {
-   "id": "eb77bf3c31ce3d137d67236a5738cc39",
-   "company": "Applied Materials Inc",
-   "role": "Communications And Public Affairs Intern",
-   "location": "Singapore"
-  },
-  "d6bf242f24fb8a0af285e0c66bc48d19": {
-   "id": "d6bf242f24fb8a0af285e0c66bc48d19",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Chemical Mechanical Planarization Process Engineering",
-   "location": "Fab 10N/X"
-  },
-  "7c15d005ade17f06606288bb8dd4bb8c": {
-   "id": "7c15d005ade17f06606288bb8dd4bb8c",
-   "company": "Micron Technology Inc",
-   "role": "Intern - Fe Materials Procurement Operations",
-   "location": "Singapore"
-  },
-  "dc979f827f893b632ebb166711710afa": {
-   "id": "dc979f827f893b632ebb166711710afa",
-   "company": "GenScript USA Inc",
-   "role": "Intern - Qa",
-   "location": "Singapore"
-  },
-  "16437e462cd82a9c3664a33c303e9dc7": {
-   "id": "16437e462cd82a9c3664a33c303e9dc7",
-   "company": "OCBC",
-   "role": "Internship: Global Corporate Banking, Greater China Business Office [jan To May 2027]",
+  "0957c63436ffeac4": {
+   "id": "0957c63436ffeac4",
+   "company": "ELEVATEH ORG",
+   "role": "😎💂🏼‍♂️ Prefer to Lead and Coach? ( Entry Level )",
    "location": "Singapore"
   },
   "ffe1e570fb15724a": {
@@ -512,16 +578,58 @@
    "role": "[FRESH GRAD/ORD WELCOMED] Events Management Associate ✨",
    "location": "Raffles Place"
   },
+  "85d09d1333e2ce39": {
+   "id": "85d09d1333e2ce39",
+   "company": "HAWKERS STREET PTE. LTD.",
+   "role": "MANAGEMENT TRAINEE",
+   "location": "Islandwide"
+  },
+  "dc211b8649da4f64": {
+   "id": "dc211b8649da4f64",
+   "company": "TAKAGI FOOD PTE. LTD.",
+   "role": "Management Trainee",
+   "location": "Islandwide"
+  },
+  "de07ebf1acecd3a7": {
+   "id": "de07ebf1acecd3a7",
+   "company": "RECRUITFIRST PTE. LTD.",
+   "role": "Recruitment Management Associate (Temp)",
+   "location": "Orchard"
+  },
+  "ccca5b16b9b67cb4": {
+   "id": "ccca5b16b9b67cb4",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Human Resource Management Trainee (APAC) #ESY",
+   "location": "Orchard"
+  },
   "970211eaee091e7f": {
    "id": "970211eaee091e7f",
    "company": "SUPER45 GOURMET PTE. LTD.",
    "role": "Management Trainee",
    "location": "Singapore"
   },
-  "5f87f6eb74646dd1": {
-   "id": "5f87f6eb74646dd1",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "[No Experience Needed] Marketing & Business Trainee ✨",
+  "fc4be3abaa1c39a3": {
+   "id": "fc4be3abaa1c39a3",
+   "company": "BEARYFUN GYM PTE. LTD.",
+   "role": "Management Trainee",
+   "location": "Singapore"
+  },
+  "d55656f4526d152e": {
+   "id": "d55656f4526d152e",
+   "company": "MOLLY TEA SINGAPORE PTE. LTD.",
+   "role": "Management Trainees",
+   "location": "Singapore"
+  },
+  "92b6b10504a36c91": {
+   "id": "92b6b10504a36c91",
+   "company": "BUDDY HOAGIES PTE. LTD.",
+   "role": "Management Trainee - F&B Operations - 5 Days Work Week",
+   "location": "Singapore"
+  },
+  "3bb9a7d0e66ede90": {
+   "id": "3bb9a7d0e66ede90",
+   "company": "ROYAL ORG PTE. LTD.",
+   "role": "MARKETING MANAGEMENT TRAINEE",
    "location": "Singapore"
   },
   "51a0d28f6167d72e": {
@@ -540,12 +648,6 @@
    "id": "6c9ca1eece596290",
    "company": "KIM ANN ENGINEERING PRIVATE LIMITED",
    "role": "Management Trainee",
-   "location": "Singapore"
-  },
-  "3143a95ff0839d63": {
-   "id": "3143a95ff0839d63",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Management Trainee – Events, Sales & Leadership Development",
    "location": "Singapore"
   },
   "73b67de6b3bbec09": {
@@ -866,108 +968,6 @@
    "role": "Management Trainee",
    "location": "Islandwide"
   },
-  "b81e1721d18c8a33": {
-   "id": "b81e1721d18c8a33",
-   "company": "BTG-WPC VENTURE PTE. LTD.",
-   "role": "MANAGEMENT TRAINEE",
-   "location": "Islandwide"
-  },
-  "889a817f43030466": {
-   "id": "889a817f43030466",
-   "company": "BREADTALK PTE LTD",
-   "role": "MANAGEMENT TRAINEE",
-   "location": "Islandwide"
-  },
-  "2c056e8778388c9f": {
-   "id": "2c056e8778388c9f",
-   "company": "ASCEND MARKETING SOLUTIONS",
-   "role": "[NO EXP NEEDED] Sales & Marketing Trainee",
-   "location": "D01 Marina"
-  },
-  "f694fef9553328ed": {
-   "id": "f694fef9553328ed",
-   "company": "AXIONIS MARKETING SOLUTIONS",
-   "role": "Sales and Marketing Trainee",
-   "location": "Islandwide"
-  },
-  "cafe024e593590dd": {
-   "id": "cafe024e593590dd",
-   "company": "UNDER DER LINDEN PTE. LTD.",
-   "role": "Management Trainee",
-   "location": "D01 Marina"
-  },
-  "56aa9d50d9fe1737": {
-   "id": "56aa9d50d9fe1737",
-   "company": "THRIVE ORGANIZATION PTE. LTD.",
-   "role": "💡 Sales & Marketing Trainee – Full Training Provided",
-   "location": "D01 Marina"
-  },
-  "467584047f1eb160": {
-   "id": "467584047f1eb160",
-   "company": "KAPTIVATE LLP",
-   "role": "Finance Management Associate",
-   "location": "Singapore"
-  },
-  "55f4597f5692177b": {
-   "id": "55f4597f5692177b",
-   "company": "THE PIQUE LAB PTE. LTD.",
-   "role": "Lower Secondary Science Teacher, Management Associate",
-   "location": "Singapore"
-  },
-  "894dba1b675cc857": {
-   "id": "894dba1b675cc857",
-   "company": "CHINA UNICOM (SINGAPORE) OPERATIONS PTE. LTD.",
-   "role": "Management Trainee Program – 2026 Intake",
-   "location": "Singapore"
-  },
-  "0526d3033a18a4ab": {
-   "id": "0526d3033a18a4ab",
-   "company": "CLOSIO CATALYST",
-   "role": "(Entry-Level) Junior Events & Marketing Trainee",
-   "location": "D01 Marina"
-  },
-  "3f9e6c050bfc332b": {
-   "id": "3f9e6c050bfc332b",
-   "company": "CLOSIO CATALYST",
-   "role": "Marketing & Sales Trainee",
-   "location": "D01 Marina"
-  },
-  "547d358978742dd6": {
-   "id": "547d358978742dd6",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "LEADER-TO-BE TRAINEE (TRAVEL OPPORTUNITIES, ENTRY-LEVEL)",
-   "location": "D01 Marina"
-  },
-  "b85458e3292b2974": {
-   "id": "b85458e3292b2974",
-   "company": "FORTE MARKETING",
-   "role": "🔥Fresh Grads/Just ORD can apply🔥 Junior Sales Trainee",
-   "location": "Islandwide"
-  },
-  "77981d96d2839840": {
-   "id": "77981d96d2839840",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Junior Marketing Trainee: No Exp Required",
-   "location": "Singapore"
-  },
-  "ef96646df8b83be9": {
-   "id": "ef96646df8b83be9",
-   "company": "ROYAL ORG PTE. LTD.",
-   "role": "Junior Marketing Leadership Trainee (Travel Opportunities)",
-   "location": "Singapore"
-  },
-  "c3b586ad381aa033": {
-   "id": "c3b586ad381aa033",
-   "company": "CAREER PLUG SG LTD.",
-   "role": "Event Sales & Management Trainee",
-   "location": "D01 Marina"
-  },
-  "7579409e7797ec2f": {
-   "id": "7579409e7797ec2f",
-   "company": "FITNESS BADMINTON",
-   "role": "Marketing Management Trainee (Career Growth)",
-   "location": "Singapore"
-  },
   "e0d18567f684c8bc18d4b45d93c3c613": {
    "id": "e0d18567f684c8bc18d4b45d93c3c613",
    "company": "Synapxe Pte Ltd",
@@ -1046,6 +1046,12 @@
    "role": "IT Security Intern (6 months)",
    "location": "Singapore"
   },
+  "3158edc576f7de39031657e70ea0bb3a": {
+   "id": "3158edc576f7de39031657e70ea0bb3a",
+   "company": "Xiaomi",
+   "role": "Computer Software Engineer (fresh Graduate)",
+   "location": "Singapore"
+  },
   "064eca12326c4c4f976dd0e5a425f44b": {
    "id": "064eca12326c4c4f976dd0e5a425f44b",
    "company": "NCS",
@@ -1094,6 +1100,108 @@
    "role": "Early Career Cyber Defense Centre Analyst, Officer-1",
    "location": "Singapore"
   },
+  "79b479288357f06dd3b376a2458c7ccb": {
+   "id": "79b479288357f06dd3b376a2458c7ccb",
+   "company": "Xiaomi",
+   "role": "Software Engineer - Data Development",
+   "location": "Singapore"
+  },
+  "b5bbcb9e5a2347334b30c1e6e5549ff0": {
+   "id": "b5bbcb9e5a2347334b30c1e6e5549ff0",
+   "company": "NTT Communications",
+   "role": "Cross Technology Service Delivery Field Support Engineer (l2)",
+   "location": "Singapore"
+  },
+  "5ddc6242bb775913d630ba3ab89f7482": {
+   "id": "5ddc6242bb775913d630ba3ab89f7482",
+   "company": "Google",
+   "role": "Software Engineer, Content Safety, Core",
+   "location": "Singapore"
+  },
+  "1210c32182130691": {
+   "id": "1210c32182130691",
+   "company": "TRULYYY PTE. LTD.",
+   "role": "Backend Engineer",
+   "location": "Singapore"
+  },
+  "8c741c76a67199be": {
+   "id": "8c741c76a67199be",
+   "company": "XTREMAX PTE. LTD.",
+   "role": "Full Stack Engineer",
+   "location": "Singapore"
+  },
+  "d532334be06d1bf3": {
+   "id": "d532334be06d1bf3",
+   "company": "ACTIVATE INTERACTIVE PTE LTD",
+   "role": "Full Stack Engineer - A26397",
+   "location": "Singapore"
+  },
+  "078cb58ae257dd69cde31d8c59a13f9e": {
+   "id": "078cb58ae257dd69cde31d8c59a13f9e",
+   "company": "Activate Interactive",
+   "role": "Full Stack Engineer - A26397",
+   "location": "Singapore"
+  },
+  "3f484ba9ba84c6d2": {
+   "id": "3f484ba9ba84c6d2",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "IT Support Engineer #10379",
+   "location": "Islandwide"
+  },
+  "1203b011fd09d7db": {
+   "id": "1203b011fd09d7db",
+   "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
+   "role": "IT Support/ Desktop Support",
+   "location": "Islandwide"
+  },
+  "b3a3984208f85d7c": {
+   "id": "b3a3984208f85d7c",
+   "company": "RMA CONTRACTS PTE. LTD.",
+   "role": "IT Support Executive (Govt Sector / Onboarding in Jan / Feb 2026)",
+   "location": "Singapore"
+  },
+  "a46dda701162e92d": {
+   "id": "a46dda701162e92d",
+   "company": "PERCEPT SOLUTIONS PTE. LTD.",
+   "role": "Level 1 / Junior Desktop Support Engineer (Changi)",
+   "location": "Singapore"
+  },
+  "63568c3cc5a734c7": {
+   "id": "63568c3cc5a734c7",
+   "company": "INTERNATIONAL FRENCH SCHOOL (SINGAPORE) LTD.",
+   "role": "IT SUPPORT TECHNICIAN",
+   "location": "Singapore"
+  },
+  "ee905cc86b1c0c45": {
+   "id": "ee905cc86b1c0c45",
+   "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+   "role": "Finance Systems Analyst",
+   "location": "Islandwide"
+  },
+  "2e5656de664efd71": {
+   "id": "2e5656de664efd71",
+   "company": "ALLINTON ENGINEERING & TRADING PTE. LTD.",
+   "role": "Junior Technical Product Specialist",
+   "location": "Singapore"
+  },
+  "6552c7ef5196d1f3": {
+   "id": "6552c7ef5196d1f3",
+   "company": "ZY FUTURE INTERNATIONAL PTE. LTD.",
+   "role": "Technical Specialist",
+   "location": "Singapore"
+  },
+  "7931381a6deca79f": {
+   "id": "7931381a6deca79f",
+   "company": "PERSOL SINGAPORE PTE. LTD.",
+   "role": "Desktop Engineer (Changi)",
+   "location": "Singapore"
+  },
+  "68fab4641fc40018": {
+   "id": "68fab4641fc40018",
+   "company": "U3 INFOTECH PTE. LTD.",
+   "role": "Desktop Support Engineer 007",
+   "location": "Singapore"
+  },
   "d4198e2b043a2b55bb735a4640dcfab3": {
    "id": "d4198e2b043a2b55bb735a4640dcfab3",
    "company": "Michael Page Singapore",
@@ -1106,16 +1214,172 @@
    "role": "Software Engineer, Google Pay, Growth And Communications",
    "location": "Singapore"
   },
+  "2d80426d9c23fd473600f67400f9f03a": {
+   "id": "2d80426d9c23fd473600f67400f9f03a",
+   "company": "Fastly",
+   "role": "Threat Detection Analyst (japanese Speaking Desirable)",
+   "location": "Singapore"
+  },
   "a78a8baf732ca65c98f38abd1ed98d65": {
    "id": "a78a8baf732ca65c98f38abd1ed98d65",
    "company": "Building and Construction Authority (Singapore)",
    "role": "Software Engineer (geospatial)",
    "location": "Ura"
   },
+  "37cb086a39f18128": {
+   "id": "37cb086a39f18128",
+   "company": "MAESTRO HUMAN RESOURCE PTE. LTD.",
+   "role": "Software Engineer (No Exp required) (C++) AMK",
+   "location": "Islandwide"
+  },
+  "81e89d73014ee27f": {
+   "id": "81e89d73014ee27f",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Software Engineer in Machine Learning Infra, Recommendation Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "467681d819a9f7da": {
+   "id": "467681d819a9f7da",
+   "company": "ITCAN PTE. LIMITED",
+   "role": "We’re Hiring! - Software Engineer (Java programming Prefer Oracle PL/SQL,React,Spring Boot)",
+   "location": "Islandwide"
+  },
+  "1ae137cf579e1d86": {
+   "id": "1ae137cf579e1d86",
+   "company": "TIKTOK PTE. LTD.",
+   "role": "Backend Engineer, TikTok Recommendation Developer Infrastructure",
+   "location": "D01 Marina"
+  },
+  "06455cdcd6b7ecec": {
+   "id": "06455cdcd6b7ecec",
+   "company": "TIKTOK PTE. LTD.",
+   "role": "RAG Content Retrieval Backend Engineer, ByteRec",
+   "location": "D01 Marina"
+  },
+  "f93feef7998edd0b": {
+   "id": "f93feef7998edd0b",
+   "company": "TIKTOK PTE. LTD.",
+   "role": "Backend Software Engineer, Recommendation Content Understanding Architecture",
+   "location": "D01 Marina"
+  },
+  "559188aa8d1f6d14": {
+   "id": "559188aa8d1f6d14",
+   "company": "TIKTOK PTE. LTD.",
+   "role": "Backend Engineer, TikTok ShortText Recommendation Architecture",
+   "location": "D01 Marina"
+  },
+  "91e7204ce03bd72e": {
+   "id": "91e7204ce03bd72e",
+   "company": "TIKTOK PTE. LTD.",
+   "role": "Backend Engineer, TikTok Recommendation Architecture Live",
+   "location": "D01 Marina"
+  },
+  "cd02656239ebf495": {
+   "id": "cd02656239ebf495",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Large Model Knowledge System/Content understanding/RAG (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "7b7fdd2f168d58f0": {
+   "id": "7b7fdd2f168d58f0",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Search Growth Rec Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "68cad26d724f7821": {
+   "id": "68cad26d724f7821",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Live Recommendation Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "9825e900793056f2": {
+   "id": "9825e900793056f2",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Ecommerce Recommendation Infrastructure (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "ddbacef07e8aa298": {
+   "id": "ddbacef07e8aa298",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Recommendation Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "35bb553cd64726c0": {
+   "id": "35bb553cd64726c0",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, E-commerce Search Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "7d6544ffd3a37412": {
+   "id": "7d6544ffd3a37412",
+   "company": "BYTEDANCE PTE. LTD.",
+   "role": "Backend Engineer, Search Architecture (ByteDance Singapore)",
+   "location": "D01 Marina"
+  },
+  "9fa6e0625d42c848": {
+   "id": "9fa6e0625d42c848",
+   "company": "ACTIVATE INTERACTIVE PTE LTD",
+   "role": "Backend Engineer - A26394",
+   "location": "Singapore"
+  },
+  "6e315b7ceb869225f5bd92d331b19b70": {
+   "id": "6e315b7ceb869225f5bd92d331b19b70",
+   "company": "Activate Interactive",
+   "role": "Backend Engineer - A26394",
+   "location": "Singapore"
+  },
+  "5a682d0ad97a77a1": {
+   "id": "5a682d0ad97a77a1",
+   "company": "ACTIVATE INTERACTIVE PTE LTD",
+   "role": "Full Stack Engineer - A26393",
+   "location": "Singapore"
+  },
+  "cfd1ea355ef54c9dffe96e4706dd4a8c": {
+   "id": "cfd1ea355ef54c9dffe96e4706dd4a8c",
+   "company": "Activate Interactive",
+   "role": "Full Stack Engineer - A26393",
+   "location": "Singapore"
+  },
+  "1f8b6b32b718fc56": {
+   "id": "1f8b6b32b718fc56",
+   "company": "PEOPLE CONNECTS PTE. LTD.",
+   "role": "IT Support Engineer (L1 / Desktop Support) – Roaming",
+   "location": "Singapore"
+  },
+  "60dae871fc7e4189": {
+   "id": "60dae871fc7e4189",
+   "company": "PEOPLE CONNECTS PTE. LTD.",
+   "role": "IT Support Engineer (L2) – Systems & Infrastructure",
+   "location": "Singapore"
+  },
+  "8555e0d95925cbba": {
+   "id": "8555e0d95925cbba",
+   "company": "ITCAN PTE. LIMITED",
+   "role": "Immediate Hiring- Desktop Engineer / IT Support",
+   "location": "Singapore"
+  },
+  "ad5c0f445094bbb2": {
+   "id": "ad5c0f445094bbb2",
+   "company": "UNTHREATS PTE. LTD.",
+   "role": "IT Security Analyst",
+   "location": "D05 Pasir Panjang"
+  },
   "f1790e0ff8b56f1c": {
    "id": "f1790e0ff8b56f1c",
    "company": "NOVEXX PTE. LTD.",
    "role": "Laboratory Support Specialist",
+   "location": "Singapore"
+  },
+  "e34b8630895c608b": {
+   "id": "e34b8630895c608b",
+   "company": "ITCAN PTE. LIMITED",
+   "role": "We’re Hiring! - Desktop Support Engineer",
+   "location": "Islandwide"
+  },
+  "38e3c521e681ef37": {
+   "id": "38e3c521e681ef37",
+   "company": "QUESSCORP SINGAPORE PTE. LTD.",
+   "role": "Deskside engineer",
    "location": "Singapore"
   },
   "4e3a20e11679adfebc235d1cb34af7b2": {
@@ -1316,263 +1580,11 @@
    "role": "Desktop Support Engineer",
    "location": "Islandwide"
   },
-  "795ec6e245ad3da591f755db2e8ddbf4": {
-   "id": "795ec6e245ad3da591f755db2e8ddbf4",
-   "company": "Ernst & Young",
-   "role": "It Support, Data & Analytics - Technology Consulting (1 Year Contract)",
+  "809afbc18eac86607f958e52d40be0c1": {
+   "id": "809afbc18eac86607f958e52d40be0c1",
+   "company": "SingPost",
+   "role": "Intern, Data Analytics (post Office Network)",
    "location": "Singapore"
-  },
-  "6da46cda3316240ab4971653bf163463": {
-   "id": "6da46cda3316240ab4971653bf163463",
-   "company": "EY",
-   "role": "Servicenow Techno-functional Analyst (sa/m),digital And Emerging Tech, Technology Consulting",
-   "location": "Singapore"
-  },
-  "f3618140e2edddd0": {
-   "id": "f3618140e2edddd0",
-   "company": "TALENTSIS PTE. LTD.",
-   "role": "Software Engineer (Many Positions)",
-   "location": "Islandwide"
-  },
-  "657dc2c66be630be": {
-   "id": "657dc2c66be630be",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Software Engineer in Machine Learning Infra, TikTok Recommendation Architecture",
-   "location": "D01 Marina"
-  },
-  "fdffc217f27ae744": {
-   "id": "fdffc217f27ae744",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Software Engineer (Big Data), Application Computing",
-   "location": "D01 Marina"
-  },
-  "c08cb1e3a237f0d3": {
-   "id": "c08cb1e3a237f0d3",
-   "company": "REALTEK SINGAPORE PRIVATE LIMITED",
-   "role": "Software Engineer – WiFi/ Embedded System Development",
-   "location": "Singapore"
-  },
-  "2ecca1cceb5f3e58": {
-   "id": "2ecca1cceb5f3e58",
-   "company": "REALTEK SINGAPORE PRIVATE LIMITED",
-   "role": "Software Engineer - Test Automation",
-   "location": "Singapore"
-  },
-  "2c198342da151063": {
-   "id": "2c198342da151063",
-   "company": "BYTEDANCE PTE. LTD.",
-   "role": "Software Engineer, Messaging Middleware - Infrastructure",
-   "location": "Singapore"
-  },
-  "45d69df660dc3734": {
-   "id": "45d69df660dc3734",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Engineer, TikTok Ecommerce Recommendation Infrastructure",
-   "location": "D01 Marina"
-  },
-  "f6d7967471a5b5a2": {
-   "id": "f6d7967471a5b5a2",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Engineer, TikTok Recommendation Architecture",
-   "location": "D01 Marina"
-  },
-  "99bced10eb48b30a": {
-   "id": "99bced10eb48b30a",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Software Engineer, TikTok Data Ecosystem (Data Lake)",
-   "location": "D01 Marina"
-  },
-  "f73b585def4c3433": {
-   "id": "f73b585def4c3433",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Software Engineer, TikTok Data Ecosystem (Storage)",
-   "location": "D01 Marina"
-  },
-  "9fd3a5dc9838890b": {
-   "id": "9fd3a5dc9838890b",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Engineer, TikTok E-commerce Search Architecture - Singapore",
-   "location": "D01 Marina"
-  },
-  "2d062a25a050f923": {
-   "id": "2d062a25a050f923",
-   "company": "TIKTOK PTE. LTD.",
-   "role": "Backend Engineer, TikTok Search Architecture - Singapore",
-   "location": "D01 Marina"
-  },
-  "9de09c3c85829eac": {
-   "id": "9de09c3c85829eac",
-   "company": "WEBSPARKS PTE. LTD.",
-   "role": "Full Stack Engineer - Python/Typescript (Public Sector)",
-   "location": "Islandwide"
-  },
-  "df645822611ef927": {
-   "id": "df645822611ef927",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Frontend Software Engineer / Up to $4k / Figma / GitHub - JL99",
-   "location": "Singapore"
-  },
-  "086f0b4c6742db62": {
-   "id": "086f0b4c6742db62",
-   "company": "B ALLIANCE PRIVATE LIMITED",
-   "role": "IT Helpdesk Engineer",
-   "location": "Islandwide"
-  },
-  "cfabd29e16e651d4": {
-   "id": "cfabd29e16e651d4",
-   "company": "PERSOL SINGAPORE PTE. LTD.",
-   "role": "IT Support Engineer - Changi Business Park",
-   "location": "Changi Business Park"
-  },
-  "e62ceccf55f49bbd": {
-   "id": "e62ceccf55f49bbd",
-   "company": "EYE-SHARE SINGAPORE PTE. LTD.",
-   "role": "Software Helpdesk Support (L1)",
-   "location": "Singapore"
-  },
-  "288ffce1ed1cf524": {
-   "id": "288ffce1ed1cf524",
-   "company": "PERCEPT SOLUTIONS PTE. LTD.",
-   "role": "Vulnerability Management & Application Security Analyst",
-   "location": "Islandwide"
-  },
-  "c6163b3985a6aed5": {
-   "id": "c6163b3985a6aed5",
-   "company": "MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD",
-   "role": "Vulnerability Analyst",
-   "location": "Singapore"
-  },
-  "7489f00b5f1339ac": {
-   "id": "7489f00b5f1339ac",
-   "company": "JUST RECRUIT SINGAPORE PTE. LTD.",
-   "role": "Application Support Analyst",
-   "location": "Singapore"
-  },
-  "e49daaff261a562c": {
-   "id": "e49daaff261a562c",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "0731 - Technical Support Engineer",
-   "location": "Singapore"
-  },
-  "4f606ab7af8408df5f077c547bb814c7": {
-   "id": "4f606ab7af8408df5f077c547bb814c7",
-   "company": "Singtel",
-   "role": "#eg It Service Desk Engineer",
-   "location": "Singapore"
-  },
-  "7f3d1a1a49fddaaec758013d70cd0cc5": {
-   "id": "7f3d1a1a49fddaaec758013d70cd0cc5",
-   "company": "NCS",
-   "role": "#eg It Desktop Support",
-   "location": "Singapore"
-  },
-  "7914d87b3d1f048d4902b9058e525bf7": {
-   "id": "7914d87b3d1f048d4902b9058e525bf7",
-   "company": "Google",
-   "role": "Software Engineer, Google Pay, Server",
-   "location": "Singapore"
-  },
-  "520a52c65811428688afe573130507cf": {
-   "id": "520a52c65811428688afe573130507cf",
-   "company": "Google",
-   "role": "Software Engineer, Content Safety",
-   "location": "Singapore"
-  },
-  "04066f56da9789e6": {
-   "id": "04066f56da9789e6",
-   "company": "PIVOT SEARCH PTE. LTD.",
-   "role": "Java Backend Engineer",
-   "location": "Singapore"
-  },
-  "07077ccdd9370a85b8cc14fac3555680": {
-   "id": "07077ccdd9370a85b8cc14fac3555680",
-   "company": "KPMG Services Pte Ltd",
-   "role": "Ai Centre Of Excellence, Full-stack Engineer (generative Ai)",
-   "location": "Singapore"
-  },
-  "5c7bd826c0d1694e": {
-   "id": "5c7bd826c0d1694e",
-   "company": "PARISILK ELECTRONICS & COMPUTERS PTE LTD",
-   "role": "IT Support",
-   "location": "Singapore"
-  },
-  "5aec7888200d4dd4": {
-   "id": "5aec7888200d4dd4",
-   "company": "GAIN EMPLOYMENT SERVICES PTE. LTD.",
-   "role": "Media Tech Support - Ang Mo Kio",
-   "location": "Singapore"
-  },
-  "a75e88dd6c2a5d06": {
-   "id": "a75e88dd6c2a5d06",
-   "company": "TOPMED PTE. LTD.",
-   "role": "Clinical Support Specialist",
-   "location": "Singapore"
-  },
-  "331d7b286f624ad5": {
-   "id": "331d7b286f624ad5",
-   "company": "SUNNYHILL ACE PTE. LTD.",
-   "role": "Media Tech Support",
-   "location": "Singapore"
-  },
-  "cba9a59e6bfdc73709900b6884990e4e": {
-   "id": "cba9a59e6bfdc73709900b6884990e4e",
-   "company": "Thunes",
-   "role": "Software Engineer (b2b/b2x)",
-   "location": "Central"
-  },
-  "2b88dc231709ed5a7849da292761266f": {
-   "id": "2b88dc231709ed5a7849da292761266f",
-   "company": "HOK",
-   "role": "Software Engineer Ii",
-   "location": "Capitasky"
-  },
-  "6144b1e5a251dc1813e99369e51defda": {
-   "id": "6144b1e5a251dc1813e99369e51defda",
-   "company": "PayPal Payments",
-   "role": "Software Engineer",
-   "location": "Central Singapore"
-  },
-  "04770ad92a33a5f5": {
-   "id": "04770ad92a33a5f5",
-   "company": "DCONSTRUCT ROBOTICS PTE. LTD.",
-   "role": "C/C++ Software Engineer",
-   "location": "D05 Pasir Panjang"
-  },
-  "a506dc85247cf732": {
-   "id": "a506dc85247cf732",
-   "company": "CORVANTA TRADING PTE. LTD.",
-   "role": "Software Engineer",
-   "location": "Singapore"
-  },
-  "ce2563d15eadb295": {
-   "id": "ce2563d15eadb295",
-   "company": "COMBUILDER PTE LTD",
-   "role": "Software Engineer (C#/Python) — AMK",
-   "location": "Singapore"
-  },
-  "6080ab28b27a09d6": {
-   "id": "6080ab28b27a09d6",
-   "company": "JOBSTER PRIVATE LTD.",
-   "role": "Full-Stack Engineer - #1692",
-   "location": "Islandwide"
-  },
-  "2987aeb3859bbf5c": {
-   "id": "2987aeb3859bbf5c",
-   "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-   "role": "Full Stack Software Engineer",
-   "location": "Islandwide"
-  },
-  "24bc1098686092f7": {
-   "id": "24bc1098686092f7",
-   "company": "ACTIVATE INTERACTIVE PTE LTD",
-   "role": "Full-Stack Engineer - A26385",
-   "location": "Balestier"
-  },
-  "66432e5be4845135bbe7fdfd19a0fbd2": {
-   "id": "66432e5be4845135bbe7fdfd19a0fbd2",
-   "company": "Activate Interactive",
-   "role": "Full-stack Engineer - A26385",
-   "location": "Balestier"
   },
   "2b791393c29957506e8c1e647dfab9c6": {
    "id": "2b791393c29957506e8c1e647dfab9c6",
@@ -1850,10 +1862,94 @@
    "role": "LLM & Agent Algorithm Graduate (Search) - 2027 Start (PhD)",
    "location": "Singapore"
   },
+  "8d461a5813c42c6792142471dd98fcb2": {
+   "id": "8d461a5813c42c6792142471dd98fcb2",
+   "company": "TikTok Shop",
+   "role": "LLM & Agent Algorithm Graduate (Search)",
+   "location": "Singapore"
+  },
+  "709bf94914075bfe4c0e280067f87a8f": {
+   "id": "709bf94914075bfe4c0e280067f87a8f",
+   "company": "Alibaba Group",
+   "role": "Agentic数据库智能管理与运维体系-阿里星/a Star",
+   "location": "Singapore"
+  },
+  "f93eb526abb89f374792f5452e1e2eb9": {
+   "id": "f93eb526abb89f374792f5452e1e2eb9",
+   "company": "Xiaomi",
+   "role": "数据科学家",
+   "location": "Singapore"
+  },
+  "afeda9bf80892e00da1ba74ee39cdb9e": {
+   "id": "afeda9bf80892e00da1ba74ee39cdb9e",
+   "company": "Rakuten Asia",
+   "role": "Edb-ipp Project: Advancing Domain-specific Multimodal Large Language Models And Ai Governance For Vertical Domain Applications",
+   "location": "Singapore"
+  },
+  "eea847017eaf6b6ba21ada7eb495fe12": {
+   "id": "eea847017eaf6b6ba21ada7eb495fe12",
+   "company": "Rakuten Asia",
+   "role": "Edb-ipp Project: Personalization And Long-context Modeling In Large Language Models",
+   "location": "Singapore"
+  },
+  "8620eb32ce5f0b7d5204901614deebd3": {
+   "id": "8620eb32ce5f0b7d5204901614deebd3",
+   "company": "Rakuten Asia",
+   "role": "Edb-ipp Project: Advancing Gpu Optimization For Large Language Models",
+   "location": "Singapore"
+  },
+  "d0676e76af10f31f568ba96268ecfe0f": {
+   "id": "d0676e76af10f31f568ba96268ecfe0f",
+   "company": "Reolink",
+   "role": "Artificial Intelligence Algorithms Specialist [ Master / Phd Holder ]",
+   "location": "Singapore"
+  },
   "ba0a0734aa132a459867dcf283d44e4c": {
    "id": "ba0a0734aa132a459867dcf283d44e4c",
    "company": "National Institute of Education",
    "role": "Research Engineer I (computer Science / Artificial Intelligence / Software Engineering / Information Systems)",
+   "location": "Singapore"
+  },
+  "218586efa03aa055": {
+   "id": "218586efa03aa055",
+   "company": "NTT SINGAPORE PTE. LTD.",
+   "role": "Application/ Data Analyst - HealthTech Domain",
+   "location": "Singapore"
+  },
+  "3042043e6cc2ba47": {
+   "id": "3042043e6cc2ba47",
+   "company": "GMP TECHNOLOGIES (S) PTE LTD",
+   "role": "Applied AI Engineer",
+   "location": "Islandwide"
+  },
+  "794e83ea7bc3378a": {
+   "id": "794e83ea7bc3378a",
+   "company": "JDLL SINGAPORE PTE. LTD.",
+   "role": "PLC Programmer / Automation Engineer",
+   "location": "Jurong Island +2"
+  },
+  "6b88591adb47010a": {
+   "id": "6b88591adb47010a",
+   "company": "FU YU CORPORATION LIMITED",
+   "role": "IT Engineer",
+   "location": "Jurong Island"
+  },
+  "68ed1b9440b327d1": {
+   "id": "68ed1b9440b327d1",
+   "company": "AZTECH TECHNOLOGIES PTE. LTD.",
+   "role": "AI Engineer (Computer Vision)",
+   "location": "Singapore"
+  },
+  "8ade17bda2fc249f": {
+   "id": "8ade17bda2fc249f",
+   "company": "KUAILU SOFTWARE (SINGAPORE) PTE. LTD.",
+   "role": "LLM Evaluation Engineer",
+   "location": "Singapore"
+  },
+  "3584fdc8aa0307ba": {
+   "id": "3584fdc8aa0307ba",
+   "company": "UNIZEN TECHNOLOGIES PTE. LTD.",
+   "role": "AI/ML Engineer (Agentic AI & Data Science)",
    "location": "Singapore"
   },
   "07901eae433e22d8a4dc27344a191ea8": {
@@ -1866,6 +1962,18 @@
    "id": "792648ecebc5f56a",
    "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
    "role": "Applied Data Scientist – Risk & Anomaly Detection",
+   "location": "Islandwide"
+  },
+  "1d778dabd9e7e298": {
+   "id": "1d778dabd9e7e298",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Engineer I (Computer Science / Artificial Intelligence / Software Engineering / Information Systems)",
+   "location": "Jurong +2"
+  },
+  "d935ff7922169e28": {
+   "id": "d935ff7922169e28",
+   "company": "A*STAR RESEARCH ENTITIES",
+   "role": "Research Engineer, Social & Cognitive Computing, IAIC",
    "location": "Islandwide"
   },
   "8b2a3be09dfe4d891766fa9e8cb01d16": {
@@ -2078,6 +2186,12 @@
    "role": "Data Analyst",
    "location": "Singapore"
   },
+  "08c35c3e68151a94": {
+   "id": "08c35c3e68151a94",
+   "company": "TITANSOFT PTE. LTD.",
+   "role": "Data Scientist",
+   "location": "Singapore"
+  },
   "d2957c3bf947b8da": {
    "id": "d2957c3bf947b8da",
    "company": "ECS CLOUD INFOTECH PRIVATE LIMITED",
@@ -2174,6 +2288,12 @@
    "role": "Data Specialist (Analytics & Insights)",
    "location": "Singapore"
   },
+  "0d619f023e4f3df9": {
+   "id": "0d619f023e4f3df9",
+   "company": "LEGO SINGAPORE PTE. LTD.",
+   "role": "Data Specialist (Analytics & Insights) - 12 month Contract",
+   "location": "Singapore"
+  },
   "90d43fa4f3e3b3e8": {
    "id": "90d43fa4f3e3b3e8",
    "company": "RAKUTEN ASIA PTE. LTD.",
@@ -2228,112 +2348,22 @@
    "role": "AI Engineer",
    "location": "Islandwide"
   },
-  "fd6a8d72c9c97a00": {
-   "id": "fd6a8d72c9c97a00",
-   "company": "OPTIMUM SOLUTIONS (SINGAPORE) PTE LTD",
-   "role": "AI Engineer",
-   "location": "Singapore"
-  },
-  "67f4a49e39bea49a": {
-   "id": "67f4a49e39bea49a",
-   "company": "NTT SINGAPORE PTE. LTD.",
-   "role": "Associate AI Engineer (Banking Sector)",
-   "location": "Singapore"
-  },
-  "03196b58a12ef9c4": {
-   "id": "03196b58a12ef9c4",
-   "company": "NTT SINGAPORE PTE. LTD.",
-   "role": "AI Engineer - Contract",
-   "location": "Singapore"
-  },
-  "15d34da201e56970": {
-   "id": "15d34da201e56970",
-   "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
-   "role": "AI Scientist – Generative AI & 3D Technology / Contract",
-   "location": "Singapore"
-  },
-  "ed4ae7e533d73883412bb3ee19e6d8b6": {
-   "id": "ed4ae7e533d73883412bb3ee19e6d8b6",
-   "company": "Deloitte",
-   "role": "A&a - Digital Assurance - It Audit Analytics Analyst",
-   "location": "Singapore"
-  },
-  "4ea2c9f4859ef077d026fe5b45a1db6a": {
-   "id": "4ea2c9f4859ef077d026fe5b45a1db6a",
-   "company": "Deloitte",
-   "role": "A&a - Sg - Digital Assurance - Data Analytics Analyst",
-   "location": "Singapore"
-  },
-  "9c2002ed57e0faf9ed7d0e45510e2de3": {
-   "id": "9c2002ed57e0faf9ed7d0e45510e2de3",
-   "company": "sea",
-   "role": "Sg - A&a - Ca (ai/ Data) - Analyst",
-   "location": "Singapore"
-  },
-  "776431c9fc800637": {
-   "id": "776431c9fc800637",
-   "company": "INTELLECT MINDS PTE. LTD.",
-   "role": "Data Analyst (Databricks)",
-   "location": "Singapore"
-  },
-  "81bf317d2ad768f1": {
-   "id": "81bf317d2ad768f1",
-   "company": "ADECCO PERSONNEL PTE LTD",
-   "role": "Data Scientist",
-   "location": "Singapore"
-  },
-  "23ee59a0d7c91347": {
-   "id": "23ee59a0d7c91347",
-   "company": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
-   "role": "AI/ML Solution Specialist (Banking, 1-year renewable contract)",
-   "location": "Islandwide"
-  },
-  "1c37a4b873a4f8f4": {
-   "id": "1c37a4b873a4f8f4",
-   "company": "ARYAN SOLUTIONS PTE. LTD.",
-   "role": "AI Solutions Engineer – Generative AI & Agentic Automation",
-   "location": "Singapore"
-  },
-  "4b806ad5501b25ed926f6a62fa00a7c6": {
-   "id": "4b806ad5501b25ed926f6a62fa00a7c6",
-   "company": "Health Sciences Authority (Singapore)",
-   "role": "Assistant Data Scientist (contract)",
-   "location": "Singapore"
-  },
-  "97a4e58fd42dea34": {
-   "id": "97a4e58fd42dea34",
-   "company": "COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.",
-   "role": "Data Analyst",
-   "location": "Singapore"
-  },
-  "f70d6b8e8b039d87": {
-   "id": "f70d6b8e8b039d87",
-   "company": "PERSOL SINGAPORE PTE. LTD.",
-   "role": "Vision Perception Algorithm Engineer",
-   "location": "Islandwide"
-  },
-  "c76a7b26c84cf041": {
-   "id": "c76a7b26c84cf041",
-   "company": "NEXBRIDGE RECRUITMENT PTE. LTD.",
-   "role": "Automation Engineer – Manufacturing / West / Urgent Hiring",
-   "location": "Islandwide"
-  },
-  "3e1a48c5395867b9": {
-   "id": "3e1a48c5395867b9",
-   "company": "ZERO BYTE LABS PTE. LTD.",
-   "role": "Forward Deployed AI Engineer",
-   "location": "Islandwide"
-  },
-  "9979610656a4a5f3": {
-   "id": "9979610656a4a5f3",
-   "company": "ZERO BYTE LABS PTE. LTD.",
-   "role": "AI Engineer",
-   "location": "Islandwide"
+  "25df7c949e5840a33e68807b1d7839ca": {
+   "id": "25df7c949e5840a33e68807b1d7839ca",
+   "company": "Hewlett Packard Enterprise",
+   "role": "Supply Chain Business Analyst Intern",
+   "location": "Central Singapore"
   },
   "a412de67883b6ff2602806c569654857": {
    "id": "a412de67883b6ff2602806c569654857",
    "company": "Synapxe Pte Ltd",
    "role": "Uni Internship Jan To July 2027 - Business Analyst, Tandem",
+   "location": "Singapore"
+  },
+  "504ba0e1984aa1cbac65383acf40d471": {
+   "id": "504ba0e1984aa1cbac65383acf40d471",
+   "company": "Apple",
+   "role": "Operations Business Analyst Intern, Operations And Supply Chain (6 Month) - Singapore",
    "location": "Singapore"
   },
   "77a7c847e3f0766c03a73370d51fa2fb": {
@@ -2364,6 +2394,12 @@
    "id": "de017a7a9891e7ae8a031ad8dec0e602",
    "company": "Johnson Controls",
    "role": "Intern, Business Analyst",
+   "location": "Singapore"
+  },
+  "adf4f8b5832704403f288c3fa29375bd": {
+   "id": "adf4f8b5832704403f288c3fa29375bd",
+   "company": "Allianz Technology SE",
+   "role": "Finance Intern, Singapore (jan 2027)",
    "location": "Singapore"
   },
   "a8ad708ea440f894d41e7095a60bec7b": {
@@ -3008,10 +3044,268 @@
    "role": "Graduate Internal Audit Consultant",
    "location": "D06 Beach Road"
   },
+  "47361a1fdebd9c5c82f93df5cb066eab": {
+   "id": "47361a1fdebd9c5c82f93df5cb066eab",
+   "company": "Xiaomi",
+   "role": "Cybersecurity Engineer (governance, Risk & Compliance)",
+   "location": "Singapore"
+  },
+  "2d392fb06847b526943e7fbce3f9d574": {
+   "id": "2d392fb06847b526943e7fbce3f9d574",
+   "company": "PwC UK",
+   "role": "Accounting & Bookkeeping - Associate",
+   "location": "Singapore"
+  },
+  "873a04af7f6ad2ad452f0068586cf674": {
+   "id": "873a04af7f6ad2ad452f0068586cf674",
+   "company": "Randstad Singapore",
+   "role": "Business Analyst",
+   "location": "Singapore"
+  },
+  "7065d9c311be0ff53b39d3c116d63822": {
+   "id": "7065d9c311be0ff53b39d3c116d63822",
+   "company": "Bankstcharles",
+   "role": "Compliance Control Room Specialist - Avp",
+   "location": "Singapore"
+  },
+  "5badd92eb58d7451": {
+   "id": "5badd92eb58d7451",
+   "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+   "role": "Regional Consolidation Accountant",
+   "location": "Islandwide"
+  },
+  "f24f2f2705f6edb6": {
+   "id": "f24f2f2705f6edb6",
+   "company": "AVENTROSS PAC",
+   "role": "AUDIT ASSOCIATE",
+   "location": "D06 Beach Road"
+  },
+  "a4aff33d2cafa2ba": {
+   "id": "a4aff33d2cafa2ba",
+   "company": "KST ASSURANCE LLP",
+   "role": "Audit Assistant",
+   "location": "D01 Marina"
+  },
+  "66ab8c27b8a5cca3": {
+   "id": "66ab8c27b8a5cca3",
+   "company": "K.S. NG & CO",
+   "role": "Audit Associate",
+   "location": "Singapore"
+  },
+  "c6127013298cf3b1": {
+   "id": "c6127013298cf3b1",
+   "company": "BGC GROUP PTE. LTD.",
+   "role": "Auditor / 3-Month Contract / Multi-Site Audit",
+   "location": "Singapore"
+  },
+  "9d95f41c6cb04777": {
+   "id": "9d95f41c6cb04777",
+   "company": "ETHICAL PAC",
+   "role": "Auditor",
+   "location": "Singapore"
+  },
+  "20716adfae8194dd": {
+   "id": "20716adfae8194dd",
+   "company": "JPMORGAN CHASE BANK, N.A.",
+   "role": "Global Payments Screening Operations (Japanese & Mandarin Speaker) - Analyst",
+   "location": "Islandwide"
+  },
+  "31491c2a5c81c5c8": {
+   "id": "31491c2a5c81c5c8",
+   "company": "GOLDEN CENTURY ENGINEERING PTE. LTD.",
+   "role": "JUNIOR ACCOUNTANT",
+   "location": "Singapore"
+  },
+  "c7c32eeeb58e1cdf": {
+   "id": "c7c32eeeb58e1cdf",
+   "company": "COGNIZANT TECHNOLOGY SOLUTIONS ASIA PACIFIC PTE. LTD.",
+   "role": "Business Analyst",
+   "location": "Singapore"
+  },
+  "586532ce9b214863": {
+   "id": "586532ce9b214863",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Retail Banking Compliance Officer #HMS",
+   "location": "Raffles Place"
+  },
+  "03a9371629921b05": {
+   "id": "03a9371629921b05",
+   "company": "INDIAN STORY PTE. LTD.",
+   "role": "Halal Assurance Officer",
+   "location": "Singapore"
+  },
+  "f229053f29cb976a": {
+   "id": "f229053f29cb976a",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Sales Compliance Executive (1 Year Contract) #NKC",
+   "location": "Singapore"
+  },
+  "5929762f668ffd06": {
+   "id": "5929762f668ffd06",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "[0580] Compliance Officer – Financial Advisory Industry / BSC Audit Exp Required - Central/ 5 days/ $4.5k",
+   "location": "Singapore"
+  },
+  "b9b8e481273564f3": {
+   "id": "b9b8e481273564f3",
+   "company": "BRIGHT POINT CAPITAL PTE. LTD.",
+   "role": "Junior Analyst (Trading & Research)",
+   "location": "Singapore"
+  },
+  "ece8babc45f4bab9": {
+   "id": "ece8babc45f4bab9",
+   "company": "HELIUS TECHNOLOGIES PTE. LTD.",
+   "role": "Trade Finance Operations Analyst — Letter of Credit Advising",
+   "location": "Islandwide"
+  },
+  "12c91ee27d34bf04": {
+   "id": "12c91ee27d34bf04",
+   "company": "MST GOLF (SINGAPORE) PTE LTD",
+   "role": "Accounts Assistant (Part Time)",
+   "location": "Islandwide"
+  },
+  "a99f7205d25d6b34": {
+   "id": "a99f7205d25d6b34",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "6 Months Temp Accounts Admin Assistant (Healthcare)",
+   "location": "Bukit Merah"
+  },
+  "c984d694e3f8440c": {
+   "id": "c984d694e3f8440c",
+   "company": "A & ONE PRECISION ENGINEERING PTE. LTD.",
+   "role": "Accounts Assistant @ Tuas",
+   "location": "Tuas"
+  },
+  "0ee6fd8a0bdc8ecb": {
+   "id": "0ee6fd8a0bdc8ecb",
+   "company": "IDEALS RECRUITMENT PTE. LTD.",
+   "role": "Accounts Assistant (Contract)",
+   "location": "Singapore"
+  },
+  "49308bd71745e9fc": {
+   "id": "49308bd71745e9fc",
+   "company": "SWISSPRO PTE. LTD.",
+   "role": "Admin & Accounts Assistant",
+   "location": "Singapore"
+  },
   "fce11c28881c6ff2618b714af3cac8d0": {
    "id": "fce11c28881c6ff2618b714af3cac8d0",
    "company": "Michael Page Singapore",
    "role": "Regional Consolidation Accountant",
+   "location": "Singapore"
+  },
+  "a88c29b012c904d7": {
+   "id": "a88c29b012c904d7",
+   "company": "SEARCHASIA CONSULTING PTE. LTD.",
+   "role": "Accountant (Retail)",
+   "location": "Islandwide"
+  },
+  "f2707bc3b63f7f06": {
+   "id": "f2707bc3b63f7f06",
+   "company": "SHENGMIN INTERNATIONAL MARITIME CONSULTANTS PTE. LTD.",
+   "role": "Accountant",
+   "location": "Singapore"
+  },
+  "01723650bc55272e": {
+   "id": "01723650bc55272e",
+   "company": "COCKPIT INTERNATIONAL PTE. LTD.",
+   "role": "Company Accountan",
+   "location": "Singapore"
+  },
+  "b95e72474aa721db": {
+   "id": "b95e72474aa721db",
+   "company": "STEEL ALLY RESOURCES PTE. LTD.",
+   "role": "Job Opening / Account(Full Set Accountant)",
+   "location": "Singapore"
+  },
+  "f70853f9ec55ce5f": {
+   "id": "f70853f9ec55ce5f",
+   "company": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
+   "role": "Accountant (1 year contract)/$3.8k MAX",
+   "location": "Singapore"
+  },
+  "8144f09f38445000": {
+   "id": "8144f09f38445000",
+   "company": "SCIENTEC CONSULTING PTE. LTD.",
+   "role": "Auditor",
+   "location": "Singapore"
+  },
+  "a087e888b72611ac": {
+   "id": "a087e888b72611ac",
+   "company": "SEACARE MANPOWER SERVICES PTE LTD",
+   "role": "Auditor (MacPherson)",
+   "location": "Singapore"
+  },
+  "9ebdf7171d451f7d": {
+   "id": "9ebdf7171d451f7d",
+   "company": "CITIBANK N.A.",
+   "role": "261000024 Securities & Derivatives Analyst",
+   "location": "Changi Business Park"
+  },
+  "81ec3d8dc0f8d73c": {
+   "id": "81ec3d8dc0f8d73c",
+   "company": "PERSOL TECH SERVICES PTE. LTD.",
+   "role": "Finance Analyst (Financial Planning & Analysis) – 12 months contract",
+   "location": "Singapore"
+  },
+  "ac2a6222f2994299": {
+   "id": "ac2a6222f2994299",
+   "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
+   "role": "Accounting Officer *Entry level*",
+   "location": "Singapore"
+  },
+  "59d146c73f503728": {
+   "id": "59d146c73f503728",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "*PERM* Retail Banking Compliance (up to $4.5K) #NJA",
+   "location": "Orchard"
+  },
+  "f5cce7de23a1c692": {
+   "id": "f5cce7de23a1c692",
+   "company": "RANDSTAD PTE. LIMITED",
+   "role": "Compliance Officer (3-month) (Entry Level)",
+   "location": "Singapore"
+  },
+  "d48b2400e9137950": {
+   "id": "d48b2400e9137950",
+   "company": "EEX ASIA PTE. LTD.",
+   "role": "Market Operations Analyst",
+   "location": "D01 Marina"
+  },
+  "c6cc599e4e214996": {
+   "id": "c6cc599e4e214996",
+   "company": "LEICA INSTRUMENTS (SINGAPORE) PTE LIMITED",
+   "role": "Order Fulfillment Analyst",
+   "location": "Jurong Island +2"
+  },
+  "97d4861a25b4cf5a": {
+   "id": "97d4861a25b4cf5a",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "6723 - Accounts Assistant / Executive (Partial Set) / Logistics / $3,000–$3,200 / Changi",
+   "location": "Changi"
+  },
+  "c328fb827da5e8a1": {
+   "id": "c328fb827da5e8a1",
+   "company": "SKK WORKS PTE. LTD.",
+   "role": "Accounts Assistant",
+   "location": "Singapore"
+  },
+  "9a6a079051b923e7": {
+   "id": "9a6a079051b923e7",
+   "company": "ASIATIC AGRICULTURAL INDUSTRIES PTE LTD",
+   "role": "Accounts Assistant",
+   "location": "Singapore"
+  },
+  "bad2b4fbf069699e": {
+   "id": "bad2b4fbf069699e",
+   "company": "ROYAL QUEEN PTE LTD",
+   "role": "Accounts Assistant",
+   "location": "Singapore"
+  },
+  "22d9be4d4192f08c": {
+   "id": "22d9be4d4192f08c",
+   "company": "SEACARE MANPOWER SERVICES PTE LTD",
+   "role": "Accounts Assistant A (City Hall)",
    "location": "Singapore"
   },
   "d1d08a7899b0fd1ce9725be3d7b86eb6": {
@@ -3230,262 +3524,172 @@
    "role": "[0580] Financial Advisory Compliance Executive – BSC Audit Experience Required - Central/ 5 days/ $4.5k",
    "location": "Singapore"
   },
-  "9abd16f6b0361091": {
-   "id": "9abd16f6b0361091",
-   "company": "QUESS SELECTION & SERVICES PTE. LTD.",
-   "role": "Operations Analyst",
-   "location": "Islandwide"
-  },
-  "8eaa5f7ea2f8e628": {
-   "id": "8eaa5f7ea2f8e628",
-   "company": "RANDSTAD PTE. LIMITED",
-   "role": "Operations & Resource Analyst",
-   "location": "Islandwide"
-  },
-  "64fd244fc0acd14f": {
-   "id": "64fd244fc0acd14f",
-   "company": "ADECCO PERSONNEL PTE LTD",
-   "role": "Banking Operations Analyst (Bank I Central I Up to 3.5k)",
+  "595cb54de50a61060c64ee386a1174b8": {
+   "id": "595cb54de50a61060c64ee386a1174b8",
+   "company": "Grasslakeanimalhospital",
+   "role": "Lab Technician (1 Year Ftc)",
    "location": "Singapore"
   },
-  "98aed7715f394b13": {
-   "id": "98aed7715f394b13",
-   "company": "RMA CONTRACTS PTE. LTD.",
-   "role": "Equities Operations Analyst/12- month contract/ Central",
+  "a39a129fb8a3e830": {
+   "id": "a39a129fb8a3e830",
+   "company": "PANORAMA HEALTHCARE PTE. LTD.",
+   "role": "Part Time Clinic Assistant (Hougang)",
    "location": "Singapore"
   },
-  "d5bbe3ef72dfd0d4": {
-   "id": "d5bbe3ef72dfd0d4",
-   "company": "ENCASA ASIA EMPLOYMENT SERVICES LLP",
-   "role": "Accounts Assistant - AP (Temporary)",
-   "location": "Islandwide"
-  },
-  "c3278cf8bfcf6920": {
-   "id": "c3278cf8bfcf6920",
-   "company": "RMZ BTS RIG SERVICES PTE. LTD.",
-   "role": "Accounts Assistant",
-   "location": "Jurong Island +1"
-  },
-  "7cc530e0f5b5a5a6": {
-   "id": "7cc530e0f5b5a5a6",
-   "company": "UNITED PERSONNEL SERVICES",
-   "role": "Accounts cum Admin Assistant ($3k/Tradehub 21/5.5 Alt Sat)",
-   "location": "Singapore"
-  },
-  "a12b30ad20604f42": {
-   "id": "a12b30ad20604f42",
-   "company": "MILLENIA MOTION PICTURES PTE. LTD.",
-   "role": "Office Admin and Accounts Assistant",
-   "location": "Singapore"
-  },
-  "816e6887351c1ece": {
-   "id": "816e6887351c1ece",
-   "company": "YUN HAI DEVELOPMENT PTE. LTD.",
-   "role": "Accouting",
-   "location": "Singapore"
-  },
-  "e5002f12fdea20ad": {
-   "id": "e5002f12fdea20ad",
-   "company": "SINSTAR LOGISTICS PTE. LTD.",
-   "role": "Accountant for Invoicing and Aadministration",
-   "location": "Singapore"
-  },
-  "c7ee6f07ef23e38a": {
-   "id": "c7ee6f07ef23e38a",
-   "company": "NORMET SINGAPORE PTE. LTD.",
-   "role": "Asst Accountant",
-   "location": "Singapore"
-  },
-  "3193b5309b0b6d95": {
-   "id": "3193b5309b0b6d95",
-   "company": "VARNI PTE. LTD.",
-   "role": "Investment Analyst - Public Equity",
-   "location": "D01 Marina"
-  },
-  "2c484d4ba8997537": {
-   "id": "2c484d4ba8997537",
-   "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
-   "role": "Accounts Officer *Entry level*",
-   "location": "Singapore"
-  },
-  "845c4a3b287a9784": {
-   "id": "845c4a3b287a9784",
-   "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
-   "role": "Commercial Analyst (Partnerships)",
-   "location": "Singapore"
-  },
-  "23e817b2db6bf031": {
-   "id": "23e817b2db6bf031",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "FA Compliance Executive / Balanced Scorecard Audit & Due Diligence - JL99",
-   "location": "Islandwide"
-  },
-  "cd435427c138ea86": {
-   "id": "cd435427c138ea86",
+  "d9fab015a9e1793c": {
+   "id": "d9fab015a9e1793c",
    "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "*Entry Level* Bank Compliance Executive (ASAP to end Dec) #NJN",
+   "role": "2–3 Months Locum Staff Nurse – Renal/Dialysis ($30/hr / Flexible Work Days / Islandwide) #HGNT",
    "location": "Singapore"
   },
-  "99bb7eb44b1f0eca": {
-   "id": "99bb7eb44b1f0eca",
-   "company": "HELIUS TECHNOLOGIES PTE. LTD.",
-   "role": "Compliance Analyst",
-   "location": "Singapore"
-  },
-  "24d9ce9067cf7c7b": {
-   "id": "24d9ce9067cf7c7b",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Billing Admin / Invoicing Assistant ( $2500 - East)",
-   "location": "Islandwide"
-  },
-  "02beae4b95407332": {
-   "id": "02beae4b95407332",
-   "company": "RENDER PRIVATE LIMITED",
-   "role": "ACCOUNTS ASSISTANT",
-   "location": "Jurong Island"
-  },
-  "894fae435392c1ff": {
-   "id": "894fae435392c1ff",
-   "company": "JOHNASIA SHIPPING (S) PTE. LTD.",
-   "role": "Accounts Assistant",
-   "location": "Singapore"
-  },
-  "c94dd67b0d990986": {
-   "id": "c94dd67b0d990986",
-   "company": "FREIGHT LINKS EXPRESS PTE LTD",
-   "role": "Accounts Assistant",
-   "location": "Singapore"
-  },
-  "784fd9b4520e6d8c": {
-   "id": "784fd9b4520e6d8c",
-   "company": "ABSPRUNG ENGINEERING SYSTEMS PTE. LTD.",
-   "role": "ACCOUNTS ASSISTANT",
-   "location": "Singapore"
-  },
-  "a08dd0e5d4c57be4": {
-   "id": "a08dd0e5d4c57be4",
-   "company": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
-   "role": "Accounting Executive (Central/ up to $4,000)",
-   "location": "Islandwide"
-  },
-  "fb4a8be54a402eaa": {
-   "id": "fb4a8be54a402eaa",
-   "company": "RANDSTAD PTE. LIMITED",
-   "role": "Junior Accountant (6-Month Convertible/ Financial Services)",
-   "location": "Singapore"
-  },
-  "9aee92d5c593acdc": {
-   "id": "9aee92d5c593acdc",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Financial Advisory Compliance Executive / Balanced Scorecard Audit / Up to $4.5k - JL99",
-   "location": "Singapore"
-  },
-  "ef14aba4d639dbba": {
-   "id": "ef14aba4d639dbba",
-   "company": "RANDSTAD PTE. LIMITED",
-   "role": "Finance Assistant (3-Month Temp)",
-   "location": "Singapore"
-  },
-  "aa50f0b481b01487": {
-   "id": "aa50f0b481b01487",
-   "company": "PUFEI GLOBAL (SINGAPORE) SUPPLY CHAIN TECHNOLOGY PTE. LTD.",
-   "role": "Accounting Executive – Corporate Services",
-   "location": "Singapore"
-  },
-  "6578855e8af26b86": {
-   "id": "6578855e8af26b86",
-   "company": "THE RESOLUTE HUNTER PTE. LTD.",
-   "role": "Reputable and growing Commodities MNC: Risk Analyst/Middle Officer (Metals)",
-   "location": "Islandwide"
-  },
-  "33aaf3cc2f396236": {
-   "id": "33aaf3cc2f396236",
-   "company": "METHODIST CHURCH OF THE INCARNATION",
-   "role": "Admin cum Accounts Assistant",
-   "location": "D23 Hillview"
-  },
-  "892379139804feba566f1d35580e0eae": {
-   "id": "892379139804feba566f1d35580e0eae",
-   "company": "OCBC",
-   "role": "Business Analyst (global Markets)",
-   "location": "Singapore"
-  },
-  "89219fa0b947c687": {
-   "id": "89219fa0b947c687",
-   "company": "TRUST RECRUIT PTE. LTD.",
-   "role": "Account Assistant/ Admin (bookkeeping, Invoicing)",
-   "location": "Islandwide"
-  },
-  "d22e681ff284e419": {
-   "id": "d22e681ff284e419",
-   "company": "BENLENE SINGAPORE",
-   "role": "accountant",
-   "location": "Singapore"
-  },
-  "e19673c96c6af9d7": {
-   "id": "e19673c96c6af9d7",
-   "company": "STRAITS ASSURANCE PAC",
-   "role": "Audit Executive",
-   "location": "D01 Marina"
-  },
-  "ee2826111d16a2bc": {
-   "id": "ee2826111d16a2bc",
-   "company": "NEXIA SINGAPORE PAC",
-   "role": "Audit Associate",
-   "location": "D01 Marina"
-  },
-  "73bfceb2371a9129": {
-   "id": "73bfceb2371a9129",
-   "company": "ACFOSS PAC",
-   "role": "Audit Associate",
-   "location": "Pasir Panjang"
-  },
-  "05b914468f915304": {
-   "id": "05b914468f915304",
+  "098ed3aed227f990": {
+   "id": "098ed3aed227f990",
    "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Expense Audit Analyst / Internal / External Audit / Power BIn#HMS",
+   "role": "Nursing Home Care Associate/ Healthcare Assistant PERM/ Locum #HJN",
+   "location": "Islandwide"
+  },
+  "39bc1c84cfa62976": {
+   "id": "39bc1c84cfa62976",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Healthcare Assistant / HCA / Nursing Trained / 1 Month Temp / Novena Govt Healthcare / $18/hr CSA #HAC",
    "location": "Singapore"
   },
-  "ea58527cbf7672c7": {
-   "id": "ea58527cbf7672c7",
-   "company": "JPMORGAN CHASE BANK, N.A.",
-   "role": "2027 Global Private Bank Advisor Program – Full Time Analyst – Singapore",
+  "9e33b98f07075551": {
+   "id": "9e33b98f07075551",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "3 to 6mths Pharmacy Assistant - $12 / hr #HKH",
+   "location": "Islandwide"
+  },
+  "c5ed34f837c5e5ce": {
+   "id": "c5ed34f837c5e5ce",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Temp Pharmacy Assistant / $12/Hour #HHLT",
    "location": "Singapore"
   },
-  "4b6fedf856161d94": {
-   "id": "4b6fedf856161d94",
-   "company": "GOLDMAN SACHS SERVICES (SINGAPORE) PTE. LTD.",
-   "role": "Risk, Market Risk, Associate",
+  "d870ce4386e59df1": {
+   "id": "d870ce4386e59df1",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Locum Pharmacy Technician - $15/hr (Clementi, Office Hours) #HCY",
    "location": "Singapore"
   },
-  "378b0e75caeb1f53": {
-   "id": "378b0e75caeb1f53",
-   "company": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
-   "role": "Product Analyst (1-year renewable contract)",
+  "454b36c471bc7b82": {
+   "id": "454b36c471bc7b82",
+   "company": "ALBEST PTE. LTD.",
+   "role": "TCM Phsician",
    "location": "Singapore"
   },
-  "96c8cad7384e6384": {
-   "id": "96c8cad7384e6384",
-   "company": "EVOLUTION RECRUITMENT SOLUTIONS PTE. LTD.",
-   "role": "Business Analyst (AML / KYC) - 15-month renewable contract (Banking)",
+  "dcb7f95a6b2d668b": {
+   "id": "dcb7f95a6b2d668b",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "Medical Assistant (Beauty Aesthetic Clinic) #78742",
+   "location": "Islandwide"
+  },
+  "91605850c406f5a0": {
+   "id": "91605850c406f5a0",
+   "company": "BLOOM REHAB PTE. LTD.",
+   "role": "Clinic Receptionist",
+   "location": "D11 Watten Estate"
+  },
+  "b359343f79377616": {
+   "id": "b359343f79377616",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "*URGENT* Patient Service Officer (Clinic, 5.5 days Office Hours) #HRY",
    "location": "Singapore"
   },
-  "a890b9f27e869561": {
-   "id": "a890b9f27e869561",
-   "company": "ACTIVATE INTERACTIVE PTE LTD",
-   "role": "Business Analyst - A26389",
+  "bb68ab2d4b3aca4f": {
+   "id": "bb68ab2d4b3aca4f",
+   "company": "ATLAS VETERINARY CLINIC & SURGERY PTE. LTD.",
+   "role": "Vet Clinic Receptionist",
    "location": "Singapore"
   },
-  "892024b551718059": {
-   "id": "892024b551718059",
-   "company": "MORGAN MCKINLEY PTE. LTD.",
-   "role": "IT Business Analyst (1 year contract)",
+  "5e2cd1af1f1890c2": {
+   "id": "5e2cd1af1f1890c2",
+   "company": "TRUST DENTAL SURGERY (PTE. LTD.)",
+   "role": "Dental Assistant",
+   "location": "Islandwide"
+  },
+  "064945a6e1ea0930": {
+   "id": "064945a6e1ea0930",
+   "company": "DENTALIS PTE. LTD.",
+   "role": "Part-Time Dental Assistant / Receptionist - Dual Role/ Tanjong Pagar CBD",
+   "location": "Tanjong Pagar"
+  },
+  "4bc4dc9ee1896eb0": {
+   "id": "4bc4dc9ee1896eb0",
+   "company": "DENTAL&BRACES PTE. LTD.",
+   "role": "Part Time Dental Assistant",
    "location": "Singapore"
   },
-  "9e72ae238555d92d": {
-   "id": "9e72ae238555d92d",
-   "company": "DADACONSULTANTS PTE. LTD.",
-   "role": "Business Analyst – CRM Implementation",
+  "eb7953003e43db12": {
+   "id": "eb7953003e43db12",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant, School of Computing",
+   "location": "D05 Pasir Panjang"
+  },
+  "f063fcb6e8949ecc": {
+   "id": "f063fcb6e8949ecc",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Dept of Physiology)",
+   "location": "D05 Pasir Panjang"
+  },
+  "a2fba02488700d28": {
+   "id": "a2fba02488700d28",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Pharmacy and Pharmaceutical Sciences)",
+   "location": "D05 Pasir Panjang"
+  },
+  "afc740ca846bfd29": {
+   "id": "afc740ca846bfd29",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Asia Competitiveness Institute)",
+   "location": "D05 Pasir Panjang"
+  },
+  "20de03a5787ed1e4": {
+   "id": "20de03a5787ed1e4",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Asia Competitiveness Institute) (33658)",
+   "location": "D05 Pasir Panjang"
+  },
+  "49ca5262f7548137": {
+   "id": "49ca5262f7548137",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant/Associate (CHILD)",
+   "location": "D05 Pasir Panjang"
+  },
+  "75d90e8f4476d84a": {
+   "id": "75d90e8f4476d84a",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Assistant (Computer Engineering/Computer Science/Electronics Engineering)",
+   "location": "Singapore"
+  },
+  "aaf9728356cc8890": {
+   "id": "aaf9728356cc8890",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Assistant/Associate",
+   "location": "Singapore"
+  },
+  "411fc48727f7f42e": {
+   "id": "411fc48727f7f42e",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant/Associate (AI/ML and Medical Image Analysis)",
+   "location": "Singapore"
+  },
+  "69795ce9cdea4336": {
+   "id": "69795ce9cdea4336",
+   "company": "PERSOL SINGAPORE PTE. LTD.",
+   "role": "Lab Technician (Woodlands/1 Year Contract/Up to $3000)",
+   "location": "Islandwide"
+  },
+  "f02e98b96428b22c": {
+   "id": "f02e98b96428b22c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Lab Operations Associate, Contract ( Bioanalytical Laboratory) – West Area #HVN",
+   "location": "Islandwide"
+  },
+  "23bd8d542915a7e9": {
+   "id": "23bd8d542915a7e9",
+   "company": "WHITE HORSE LABORATORIES SINGAPORE PTE. LTD.",
+   "role": "Lab Technician (Semiconductor)",
    "location": "Singapore"
   },
   "1c405dd212bfaf6499cba22976d05b73": {
@@ -3506,16 +3710,220 @@
    "role": "Research Associate (biological Interfaces)",
    "location": "Singapore"
   },
+  "e1a919912690c10c": {
+   "id": "e1a919912690c10c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Registered Nurse – Operating Theatre #HJN",
+   "location": "Islandwide"
+  },
+  "f5903f08e8e30d40": {
+   "id": "f5903f08e8e30d40",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Registered Nurse – General Ward (3 Rotating Shifts) #HJN",
+   "location": "Islandwide"
+  },
+  "0b427ff53949bb62": {
+   "id": "0b427ff53949bb62",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Staff Nurse – Inpatient Ward (3 Rotating Shifts) #HJN",
+   "location": "Islandwide"
+  },
+  "9f22e119f4d22dcc": {
+   "id": "9f22e119f4d22dcc",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Staff Nurse (Elderly Care / 12-Hour Rotating Shifts) #HJN",
+   "location": "Islandwide"
+  },
+  "d363a7b3cc276eb7": {
+   "id": "d363a7b3cc276eb7",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Registered Nurse – Nursing Home (Day/Night Shifts) #HJN",
+   "location": "Islandwide"
+  },
+  "1eebc16d0637003a": {
+   "id": "1eebc16d0637003a",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Staff Nurse (Nursing Home / 12-Hour Shifts) #HJN",
+   "location": "Islandwide"
+  },
+  "2584d50345a9e5c7": {
+   "id": "2584d50345a9e5c7",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "[Min 4 Days, Nursing Trained] 1 Month Locum Care Support Assistant - $18/hr #HLV",
+   "location": "D09 Cairnhill"
+  },
+  "7ccdfc4dd1e333ac": {
+   "id": "7ccdfc4dd1e333ac",
+   "company": "CHARTERHOUSE RESOURCES PTE. LTD.",
+   "role": "Healthcare Assistant / Basic Care Assistant / Private Nursing Home / Mon-Fri",
+   "location": "Islandwide"
+  },
+  "5df47b40c9f30274": {
+   "id": "5df47b40c9f30274",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Care Support Associate/ Healthcare Assistant (Hospital/ Full Time) #HZO",
+   "location": "Orchard"
+  },
+  "6382b26d28573a8e": {
+   "id": "6382b26d28573a8e",
+   "company": "MCI CAREER SERVICES PTE. LTD.",
+   "role": "Patient Care Assistants / Nursing Aide xMany - QQ",
+   "location": "Islandwide"
+  },
+  "d206142511c63077": {
+   "id": "d206142511c63077",
+   "company": "SWIFT SEARCH GLOBAL PTE. LTD.",
+   "role": "Healthcare Assistant / Care Concierge (Clinical)",
+   "location": "Upper Thomson"
+  },
+  "64509f4b900f79f7": {
+   "id": "64509f4b900f79f7",
+   "company": "MCI CAREER SERVICES PTE. LTD.",
+   "role": "Nursing Care Attendant (Multiple Healthcare Settings), Training Provided - QQ",
+   "location": "Singapore"
+  },
+  "e8da88c0fd2a67b5": {
+   "id": "e8da88c0fd2a67b5",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Pharmacist / Clinical Pharmacist / Hospital & Outpatient Pharmacy / Permanent / UP $6K #HYT",
+   "location": "Islandwide"
+  },
+  "8f2358d175b6f0d1": {
+   "id": "8f2358d175b6f0d1",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "$55/hr / Locum Pharmacist / Flexible Working Days / Hospital / Polyclinic / Multiple Locations #HYT",
+   "location": "Islandwide"
+  },
+  "eaa65d44c25af506": {
+   "id": "eaa65d44c25af506",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "3 - 6 Months Temp Pharmacy Assistant (Office Hours) #HAL",
+   "location": "D09 Cairnhill"
+  },
+  "2f8b46dd35834c4b": {
+   "id": "2f8b46dd35834c4b",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "3 Months Pharmacy Assistant - 5.5 days - HSN",
+   "location": "Orchard +2"
+  },
+  "c27debb5c69a38de": {
+   "id": "c27debb5c69a38de",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "3 Months Pharmacy Assistant - Geylang - 5.5 days - HSN",
+   "location": "Singapore"
+  },
+  "72bcc4661a001bfe": {
+   "id": "72bcc4661a001bfe",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "[Dip in Pharm Science, Non-Patient Fronting] 6 Months Pharmacy Technician - $15/hr (Clementi, Office Hours) #HCY",
+   "location": "Singapore"
+  },
+  "d4d6213543390658": {
+   "id": "d4d6213543390658",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "[0580] Physiotherapist / Community / Rehab & Home Therapy - East / 5 days/ $5.5k",
+   "location": "Singapore"
+  },
+  "d5ebaf2cf58534a0": {
+   "id": "d5ebaf2cf58534a0",
+   "company": "HRNET VENTURES PTE. LTD.",
+   "role": "AHPC Physiotherapist / Central / Up to $7,500 / 5-Day Mon-Fri",
+   "location": "Singapore"
+  },
   "ab26d571ba2a425e": {
    "id": "ab26d571ba2a425e",
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
    "role": "[0580] Clinic Assistant / Patient Service - Boon Keng/ Near MRT / $3k",
    "location": "Boon Keng"
   },
+  "d4e3e4d0f33ded3c": {
+   "id": "d4e3e4d0f33ded3c",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "6723 -Clinic Assistant (Training Provided) / Healthcare / $2,000–$2,500 / Lakeside MRT",
+   "location": "Singapore"
+  },
+  "4456b11294b74296": {
+   "id": "4456b11294b74296",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "[0580] Clinic Assistant - Training Provided / West/ $2.5k",
+   "location": "Singapore"
+  },
+  "39e130d53fc0b00c": {
+   "id": "39e130d53fc0b00c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "*IMMEDIATE* Locum Phlebotomist [ Nurse / Combat Medic / Certified Phlebo OK ] #HYT",
+   "location": "Singapore"
+  },
+  "866229798fe6b8e8": {
+   "id": "866229798fe6b8e8",
+   "company": "POINT VETERINARY SURGERY",
+   "role": "Clinic Receptionist",
+   "location": "Singapore"
+  },
+  "840c34a57db85c24": {
+   "id": "840c34a57db85c24",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "[East Polyclinic, Entry Level] 3 Months Temp Dental Assistant (Training Provided)- Up to $13/hr #HLV",
+   "location": "Orchard"
+  },
   "3377fd8b91a97b48": {
    "id": "3377fd8b91a97b48",
    "company": "RADIANT DENTAL (TOA PAYOH) PTE. LTD.",
    "role": "Dental Assistant",
+   "location": "Singapore"
+  },
+  "3deea7717a74be44": {
+   "id": "3deea7717a74be44",
+   "company": "MCI CAREER SERVICES PTE. LTD.",
+   "role": "Dental Assistants (Clinical / Hospital Settings) - Basic Up $2700++ / 5Days / Bonuses QQ",
+   "location": "Singapore"
+  },
+  "f2987fdbeab3e86a": {
+   "id": "f2987fdbeab3e86a",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Associate (Health Policy and Health Services Research)",
+   "location": "Singapore"
+  },
+  "485acadc09a6407a": {
+   "id": "485acadc09a6407a",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Life Science)",
+   "location": "D05 Pasir Panjang"
+  },
+  "3211da8f73c4508a": {
+   "id": "3211da8f73c4508a",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Research Assistant (Humanoid Robotics), School of Computing",
+   "location": "Singapore"
+  },
+  "ef208490a4ac4983": {
+   "id": "ef208490a4ac4983",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "MNC Lab Technician / Chemical Technician / Entry level /Junior 5Days",
+   "location": "Islandwide"
+  },
+  "0ba0455c22d69423": {
+   "id": "0ba0455c22d69423",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Lab Tester (2 Months, Buona Vista, $15/hr) #HJY",
+   "location": "D09 Cairnhill"
+  },
+  "934fbc350de8379c": {
+   "id": "934fbc350de8379c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Temp Lab Testers – Medical Device Testing / $15/Hour #HHLT",
+   "location": "Islandwide"
+  },
+  "2ff9c127e4358859": {
+   "id": "2ff9c127e4358859",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Microbiology Lab Technician / QC Technician / Sterility & Bioburden Testing / Changi Medical Device MNC / UP $3.5K #HYT",
+   "location": "Orchard"
+  },
+  "50624b49c097f9f0": {
+   "id": "50624b49c097f9f0",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "WEST / TUAS / MNC Lab Technician / Chemical Technician / Entry level /Junior 5Days",
    "location": "Singapore"
   },
   "65ba934001262e6d566d6df53e07819b": {
@@ -3596,377 +4004,59 @@
    "role": "Phlebotomist (locum)",
    "location": "Singapore"
   },
-  "1567a876016a7da1542367d9046108a9": {
-   "id": "1567a876016a7da1542367d9046108a9",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Contract Storekeeper (nhg Pharmacy)",
+  "62205537bc84ed5276ba3b652913c577": {
+   "id": "62205537bc84ed5276ba3b652913c577",
+   "company": "Real Time Executives Inc",
+   "role": "Maintenance Technician 4",
    "location": "Singapore"
   },
-  "58be8d2eb4c3cf77b0b0255fe0b90fff": {
-   "id": "58be8d2eb4c3cf77b0b0255fe0b90fff",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Pharmacy Assistant, Population Health - Nhg Pharmacy",
+  "6eeda2364eccec7fafd46a62d958bad1": {
+   "id": "6eeda2364eccec7fafd46a62d958bad1",
+   "company": "RTX Corporation",
+   "role": "Technician (chemical Clean)",
    "location": "Singapore"
   },
-  "c7dbf77a2b3fc98560d6c34da0b44af2": {
-   "id": "c7dbf77a2b3fc98560d6c34da0b44af2",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Physiotherapist (locum)",
+  "659aec4ae845cf2c23c98e45e6b403ba": {
+   "id": "659aec4ae845cf2c23c98e45e6b403ba",
+   "company": "Encore Wire Corp",
+   "role": "Onsite Technician (contract)",
    "location": "Singapore"
   },
-  "a52cbba5e720abe7b9e7799fa593119f": {
-   "id": "a52cbba5e720abe7b9e7799fa593119f",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Physiotherapist",
+  "d3218e19496a2aa0aeaa1754fad55229": {
+   "id": "d3218e19496a2aa0aeaa1754fad55229",
+   "company": "Grasslakeanimalhospital",
+   "role": "Reliability & Maintenance Technician",
    "location": "Singapore"
   },
-  "35d706d6a7f4c226bb7f733cbc078dc5": {
-   "id": "35d706d6a7f4c226bb7f733cbc078dc5",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Pharmacy Tech",
+  "2778a375164b7fce5e59925e9e0fd149": {
+   "id": "2778a375164b7fce5e59925e9e0fd149",
+   "company": "ResMed",
+   "role": "Moulding Technician",
    "location": "Singapore"
   },
-  "f05aa48cd741d033cb7deea31be12908": {
-   "id": "f05aa48cd741d033cb7deea31be12908",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Sponsored Students (nursing)",
+  "beab1a608c9a5a329c7f419383cc7f1c": {
+   "id": "beab1a608c9a5a329c7f419383cc7f1c",
+   "company": "Grasslakeanimalhospital",
+   "role": "Moulding Technician",
    "location": "Singapore"
   },
-  "dd751b48fc33239f82ffa55531340999": {
-   "id": "dd751b48fc33239f82ffa55531340999",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Resident Physician Ii",
-   "location": "Singapore"
+  "dfaa23351ff72d9ad8662fb3c384e088": {
+   "id": "dfaa23351ff72d9ad8662fb3c384e088",
+   "company": "Sanofi Consumer Healthcare",
+   "role": "Biotechnologist, Manufacturing",
+   "location": "City Of Singapore"
   },
-  "ed7efdcd0dd1727b0b58332d74d4652f": {
-   "id": "ed7efdcd0dd1727b0b58332d74d4652f",
-   "company": "S. Rajaratnam School of International Studies (RSIS)",
-   "role": "Research Associate (embodied Ai)",
-   "location": "Singapore"
-  },
-  "892aefc7085f5e9c6ec684efa86b3b52": {
-   "id": "892aefc7085f5e9c6ec684efa86b3b52",
-   "company": "S. Rajaratnam School of International Studies (RSIS)",
-   "role": "Research Assistant (natural Sciences And Science Education Department) [nie]",
-   "location": "Singapore"
-  },
-  "7c60b45b00c3fbae": {
-   "id": "7c60b45b00c3fbae",
-   "company": "RAFFLES HOSPITAL PTE LTD",
-   "role": "Staff Nurse",
-   "location": "D07 Middle Road"
-  },
-  "c28526a15eef43d1": {
-   "id": "c28526a15eef43d1",
-   "company": "PANCARE MEDICAL CLINIC PTE. LTD.",
-   "role": "Registered Nurse (WEST)",
-   "location": "Singapore"
-  },
-  "652e1c3a96c0b098": {
-   "id": "652e1c3a96c0b098",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Locum Staff Nurse (Nursing Home / Up to $32/ hr / Pasir Ris / Jurong West) #HGNJ",
-   "location": "Islandwide"
-  },
-  "6c9a8ecdb77bd433": {
-   "id": "6c9a8ecdb77bd433",
-   "company": "WINDMILL MANAGEMENT ASSOCIATES PTE. LTD.",
-   "role": "Nurse - Trainer",
-   "location": "Singapore"
-  },
-  "952b25c44256b41a": {
-   "id": "952b25c44256b41a",
-   "company": "T&J CAT LOVER PTE. LTD.",
-   "role": "CAT CARE ASSISTANT (PART-TIME)",
-   "location": "Singapore"
-  },
-  "d11245aa33542f52": {
-   "id": "d11245aa33542f52",
-   "company": "V-ELEGANT PTE. LTD.",
-   "role": "Basic Care Assistant - (Patient care)",
-   "location": "Singapore"
-  },
-  "4d5ef63539c66b57": {
-   "id": "4d5ef63539c66b57",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[Private Hospital] Locum Pharmacy Technician (Min 3 days) #HLV",
-   "location": "Orchard"
-  },
-  "fad6837af7caf178": {
-   "id": "fad6837af7caf178",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[Healthcare Supply Chain] Locum/ Full-Time Pharmacy Technician (Office Hours) #HCY",
-   "location": "Singapore"
-  },
-  "30ad91877310e43b": {
-   "id": "30ad91877310e43b",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[Min Dip in Pharm Sci] 3 Months Locum Pharmacy Technician - Up to $18/hr @West #HLV",
-   "location": "Singapore"
-  },
-  "37e6fb4db129442f": {
-   "id": "37e6fb4db129442f",
-   "company": "ALLIED SEARCH PTE. LTD.",
-   "role": "TCM Physician",
-   "location": "Singapore"
-  },
-  "ff18038a88c7d809": {
-   "id": "ff18038a88c7d809",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Physiotherapist / Full HPC Registered / Clementi / Bedok / 5 Days / Up To $7K - 4461",
-   "location": "Singapore"
-  },
-  "8cf3a405c94d51df": {
-   "id": "8cf3a405c94d51df",
-   "company": "HEALTHY STRIDES PTE. LTD.",
-   "role": "Physiotherapist (Paediatrics)",
-   "location": "Singapore"
-  },
-  "537a073a1601bb8a": {
-   "id": "537a073a1601bb8a",
-   "company": "FULLERTON HEALTHCARE GROUP PTE. LIMITED",
-   "role": "Dental Assistant",
-   "location": "Singapore"
-  },
-  "c1d0bd48f2d73e6f": {
-   "id": "c1d0bd48f2d73e6f",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (AI, Finance and Social Sciences)",
-   "location": "Jurong +2"
-  },
-  "638e3b2708bc0280": {
-   "id": "638e3b2708bc0280",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Biological Interfaces)",
+  "fbb2ef569e907ac8": {
+   "id": "fbb2ef569e907ac8",
+   "company": "SINEUROPE PTE LTD",
+   "role": "Facilities Maintenance Technician",
    "location": "Jurong Island"
   },
-  "675a05d7ed2059b3": {
-   "id": "675a05d7ed2059b3",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Embodied AI)",
-   "location": "Singapore"
-  },
-  "fbc7c3873c75192a": {
-   "id": "fbc7c3873c75192a",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Quantum Hacking and Practical Quantum Security Evaluation)",
-   "location": "Singapore"
-  },
-  "1527fec6c242a26b": {
-   "id": "1527fec6c242a26b",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Protective Engineering)",
-   "location": "Singapore"
-  },
-  "b47771d140449e08": {
-   "id": "b47771d140449e08",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Associate (Spatial Environmental Health and AI-based Exposure Modelling)",
-   "location": "Singapore"
-  },
-  "a2dcfa5d3f5bbf79": {
-   "id": "a2dcfa5d3f5bbf79",
-   "company": "NATIONAL CANCER CENTRE OF SINGAPORE PTE LTD",
-   "role": "Research Officer (CMRHJC)",
-   "location": "Singapore"
-  },
-  "09d6bff5e6f05dc1": {
-   "id": "09d6bff5e6f05dc1",
-   "company": "PERSOL SINGAPORE PTE. LTD.",
-   "role": "Process Development Associate (Biotech)",
-   "location": "Singapore"
-  },
-  "64f588b942985514": {
-   "id": "64f588b942985514",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Assistant (Natural Sciences and Science Education Department) [NIE]",
-   "location": "Singapore"
-  },
-  "700fc96439acc060": {
-   "id": "700fc96439acc060",
-   "company": "N8XT AEROSPACE PTE. LTD.",
-   "role": "Project Assistant",
-   "location": "Singapore"
-  },
-  "a8406cd8e207f9b1": {
-   "id": "a8406cd8e207f9b1",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "1 year contract Laboratory Technician (Chemistry / Perfumery / Chemical engineering) - Up to $2.4K #HKH",
-   "location": "Islandwide"
-  },
-  "c5b4f24dba77dd5c": {
-   "id": "c5b4f24dba77dd5c",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Temporary Laboratory Tester (Medical Devices) #HYN",
-   "location": "Orchard"
-  },
-  "f921abee266823b5": {
-   "id": "f921abee266823b5",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Operations Associate, Contract ( Bioanalytical Laboratory) – West Area #HCT",
-   "location": "Orchard"
-  },
-  "4d5b1a78b0fb2150": {
-   "id": "4d5b1a78b0fb2150",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Temp Lab Testers (Medical Device) - 3mnths / $15 per hour #HHL",
-   "location": "Buona Vista"
-  },
-  "0fa1deedc51a2ddc": {
-   "id": "0fa1deedc51a2ddc",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Operations Associate (Pharma MNC) / Contract #HRY",
-   "location": "Singapore"
-  },
-  "496ff3cf47224895": {
-   "id": "496ff3cf47224895",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Technologist (LIFE SCIENCE MNC/1 year/WEST) - Training Provided/up to $4.5k #HAO",
-   "location": "Singapore"
-  },
-  "be532df7eef43459": {
-   "id": "be532df7eef43459",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Technician - CHEMISTRY (1 year) - SCIENCE MNC/Office Hours/West #HAO",
-   "location": "Singapore"
-  },
-  "a09268b9db98f706": {
-   "id": "a09268b9db98f706",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Tester x 3 / Medical Device Testing / Nov - dec / 15 per hour #HMS",
-   "location": "Singapore"
-  },
-  "c9cb1cf4ed73d373": {
-   "id": "c9cb1cf4ed73d373",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "[0580] Engineering Laboratory Support Technician - Equipment & Software / Safety / Education/ School Premise",
-   "location": "Singapore"
-  },
-  "212e0fc541c8bc08dee217430261368f": {
-   "id": "212e0fc541c8bc08dee217430261368f",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Informatics Nurse",
-   "location": "Singapore"
-  },
-  "b60a563898604b7bd686e5bcdab33190": {
-   "id": "b60a563898604b7bd686e5bcdab33190",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Patient Care Assistant (pain Management)",
-   "location": "Singapore"
-  },
-  "cf6f351d11d9197d2011d0fa538ab5b5": {
-   "id": "cf6f351d11d9197d2011d0fa538ab5b5",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Locum Pharmacist",
-   "location": "Singapore"
-  },
-  "ea7cd69d33c4005d2066cd338909a139": {
-   "id": "ea7cd69d33c4005d2066cd338909a139",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Technician (pharmacy Auto Svc)",
-   "location": "Singapore"
-  },
-  "3d5fe9c0ca97c5bfb6f17bef349dc073": {
-   "id": "3d5fe9c0ca97c5bfb6f17bef349dc073",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Assistant - Contract Position",
-   "location": "Singapore"
-  },
-  "7595b6e48629c80a7595b444be0ef219": {
-   "id": "7595b6e48629c80a7595b444be0ef219",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Technician",
-   "location": "Singapore"
-  },
-  "f07712abaac20fd4bdb8e4ad96a84453": {
-   "id": "f07712abaac20fd4bdb8e4ad96a84453",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Assistant",
-   "location": "Singapore"
-  },
-  "1c31831476c9014bdd07ab09431d00b6": {
-   "id": "1c31831476c9014bdd07ab09431d00b6",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Patient Care Assistant (radiology)",
-   "location": "Singapore"
-  },
-  "7f0b45a9ba28f991f2c06ae618e8008e": {
-   "id": "7f0b45a9ba28f991f2c06ae618e8008e",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Staff Nurse",
-   "location": "Singapore"
-  },
-  "1f2a973b9531592e8bf357866e467012": {
-   "id": "1f2a973b9531592e8bf357866e467012",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Research Officer",
-   "location": "Singapore"
-  },
-  "729d0fb2cec10630db7384875350d037": {
-   "id": "729d0fb2cec10630db7384875350d037",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Research Associate / Fellow (dssojo)",
-   "location": "Singapore"
-  },
-  "4682483e936f354067d2f5d834e4c1d4": {
-   "id": "4682483e936f354067d2f5d834e4c1d4",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Physiotherapist",
-   "location": "Singapore"
-  },
-  "52264aab7554fd065e3ae74a64ca389c": {
-   "id": "52264aab7554fd065e3ae74a64ca389c",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacist",
-   "location": "Singapore"
-  },
-  "cd2b6c602c1de67a443a1c0c110d6cf0": {
-   "id": "cd2b6c602c1de67a443a1c0c110d6cf0",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Enrolled Nurse (outpatient Paediatric Clinic)",
-   "location": "Singapore"
-  },
-  "4f438fdc87d3bbdbe5ce7369f61714b3": {
-   "id": "4f438fdc87d3bbdbe5ce7369f61714b3",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Pharmacy Technician (shift Work)",
-   "location": "Singapore"
-  },
-  "a82eca5e9c74397ab529d3e9637ca716": {
-   "id": "a82eca5e9c74397ab529d3e9637ca716",
-   "company": "S. Rajaratnam School of International Studies (RSIS)",
-   "role": "Research Engineer / Research Associate (systems Integration And Prototyping)",
-   "location": "Singapore"
-  },
-  "7c47d94a89ea122af0f7555ce280adab": {
-   "id": "7c47d94a89ea122af0f7555ce280adab",
-   "company": "S. Rajaratnam School of International Studies (RSIS)",
-   "role": "Research Associate (ai, Technology And Law)",
-   "location": "Singapore"
-  },
-  "84fc02dd191a4264": {
-   "id": "84fc02dd191a4264",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "3 Months Locum to Perm Staff Nurse – Gynae & Fertility Clinic (UP to $6,000/ 5.5 days) #HGNT",
-   "location": "Singapore"
-  },
-  "9578b1c53f81275a": {
-   "id": "9578b1c53f81275a",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Pharmacy Assistant / Patient Service Associate / Healthcare Assistant (Training Provided)",
-   "location": "D09 Cairnhill"
-  },
-  "4506bc7c1c7acca1": {
-   "id": "4506bc7c1c7acca1",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[Min 4 Days, Nursing Trained] 1 Month Locum Care Support Assistant (HCA/CSA) - $18/hr #HLV",
-   "location": "Orchard"
-  },
-  "6b3ede8693b45e28": {
-   "id": "6b3ede8693b45e28",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Locum Pharmacy Technician (Clementi / Entry level / Office Hours) #HGNJ",
-   "location": "Islandwide"
+  "722347c0de69adbbe96628873f49cf06": {
+   "id": "722347c0de69adbbe96628873f49cf06",
+   "company": "ABB Ltd",
+   "role": "Field Service Engineer",
+   "location": "Central Singapore"
   },
   "e1c24bb12b129db1f73b30eab31af05f": {
    "id": "e1c24bb12b129db1f73b30eab31af05f",
@@ -3985,6 +4075,120 @@
    "company": "Far East Organization",
    "role": "Technician (orchard Rendezvous Hotel)",
    "location": "Singapore"
+  },
+  "07b5e3a9a5be631f": {
+   "id": "07b5e3a9a5be631f",
+   "company": "ENCORE ENGINEERING PTE. LTD.",
+   "role": "Facilities Technician",
+   "location": "Jurong Island +2"
+  },
+  "37459d17da80e0e8": {
+   "id": "37459d17da80e0e8",
+   "company": "ENCORE ENGINEERING PTE. LTD.",
+   "role": "Utilities Technician",
+   "location": "Jurong Island +1"
+  },
+  "3a22ea39c4fdfd8b": {
+   "id": "3a22ea39c4fdfd8b",
+   "company": "JDA WMS PTE. LTD.",
+   "role": "Maintenance Team Engineer (Cybersecurity)",
+   "location": "Singapore"
+  },
+  "f18fc3e5927d12bb": {
+   "id": "f18fc3e5927d12bb",
+   "company": "DLE PTE. LTD.",
+   "role": "Mechanical Technician",
+   "location": "Singapore"
+  },
+  "c7399a558e80f448": {
+   "id": "c7399a558e80f448",
+   "company": "GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.",
+   "role": "Assistant Maintenance Engineer (12hr Rotating Shift)",
+   "location": "Singapore"
+  },
+  "302ff0c8cc62175c92faf54c29dbd528": {
+   "id": "302ff0c8cc62175c92faf54c29dbd528",
+   "company": "Thermo Fisher Scientific",
+   "role": "Equipment Maintenance Technician",
+   "location": "Singapore"
+  },
+  "0b57bd93c7c091d8": {
+   "id": "0b57bd93c7c091d8",
+   "company": "SHARE RESOURCES PRIVATE LIMITED",
+   "role": "Technician (Aerospace)",
+   "location": "Islandwide"
+  },
+  "427ff8451f31d7f4": {
+   "id": "427ff8451f31d7f4",
+   "company": "RANDSTAD PTE. LIMITED",
+   "role": "Service Technician",
+   "location": "D05 Pasir Panjang"
+  },
+  "9020ff6dc7012eb5": {
+   "id": "9020ff6dc7012eb5",
+   "company": "PSA CORPORATION LIMITED",
+   "role": "Service Engineer (SCADA)",
+   "location": "Singapore"
+  },
+  "b4658fd352ceb2e1": {
+   "id": "b4658fd352ceb2e1",
+   "company": "OCTOPACK SEA PTE. LTD.",
+   "role": "Service Technician",
+   "location": "Singapore"
+  },
+  "0198f49c9a4a755d": {
+   "id": "0198f49c9a4a755d",
+   "company": "CCOOL INDUSTRIES PTE. LTD.",
+   "role": "Technician",
+   "location": "Singapore"
+  },
+  "aece2ea84f8ad2df": {
+   "id": "aece2ea84f8ad2df",
+   "company": "SUPREME POWER PTE. LTD.",
+   "role": "SERVICE TECHNICIAN / SERVICE ENGINEER @ Toa Payoh",
+   "location": "Singapore"
+  },
+  "dad4eb12ccfa92b7": {
+   "id": "dad4eb12ccfa92b7",
+   "company": "TECNISCO ADVANCED MATERIALS PTE. LTD.",
+   "role": "Vapor Deposition Technician",
+   "location": "Jurong Island"
+  },
+  "db3616cdfd828bb0": {
+   "id": "db3616cdfd828bb0",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Electronic Test Technician (6m contract/ Woodlands) #HAC",
+   "location": "Singapore"
+  },
+  "ef9b417f3547559a": {
+   "id": "ef9b417f3547559a",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Semiconductor Equipment Technician, 2 shifts #HJN",
+   "location": "Singapore"
+  },
+  "9fc2744e8015a8a0": {
+   "id": "9fc2744e8015a8a0",
+   "company": "GREEN ECOTECH SOLUTIONS PTE. LTD.",
+   "role": "Machinery technician",
+   "location": "Singapore"
+  },
+  "d0e3e31048ec0d3c": {
+   "id": "d0e3e31048ec0d3c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "2 Shifts Electronics/ Electrical Test Technician #HJN",
+   "location": "Islandwide"
+  },
+  "e6d45f95c5641ec0": {
+   "id": "e6d45f95c5641ec0",
+   "company": "ADECCO PERSONNEL PTE LTD",
+   "role": "Technician - Engineering (Semicon MNC / Kent Ridge / ASAP)",
+   "location": "Singapore"
+  },
+  "18d623f1b5cfe484": {
+   "id": "18d623f1b5cfe484",
+   "company": "SHARE RESOURCES PRIVATE LIMITED",
+   "role": "Building technician",
+   "location": "Islandwide"
   },
   "55edeebef011354484e0a07bfc700004": {
    "id": "55edeebef011354484e0a07bfc700004",
@@ -4022,11 +4226,119 @@
    "role": "Building Technician",
    "location": "Singapore"
   },
+  "397f8ff13a2546bb": {
+   "id": "397f8ff13a2546bb",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Utilities Technician / Facilities Technician / HVAC & Purified Water Systems / Tuas Pharma MNC / UP $5K + Allowances #HYT",
+   "location": "Tuas"
+  },
+  "b1926cda226dbb12": {
+   "id": "b1926cda226dbb12",
+   "company": "The Management Corporation - Strata Title Plan No. 2604",
+   "role": "CONDOMINIUM IN-HOUSE TECHNICIAN",
+   "location": "Singapore"
+  },
+  "8278fe8168b49907": {
+   "id": "8278fe8168b49907",
+   "company": "TECHNOTRANS TECHNOLOGIES PTE LTD",
+   "role": "Junior Service Engineer",
+   "location": "Singapore"
+  },
+  "f8d7f3413405f3d8": {
+   "id": "f8d7f3413405f3d8",
+   "company": "BRUNEL INTERNATIONAL SOUTH EAST ASIA PTE. LTD.",
+   "role": "Field Service Engineer",
+   "location": "Singapore"
+  },
+  "63c791cef46e0322": {
+   "id": "63c791cef46e0322",
+   "company": "TALENTS@WORK PTE. LTD.",
+   "role": "Service Technician",
+   "location": "Islandwide"
+  },
+  "84e5540e14142789": {
+   "id": "84e5540e14142789",
+   "company": "OAKTREE CONSULTING",
+   "role": "Technicians",
+   "location": "Singapore"
+  },
+  "cdadda40c9d4ad5e": {
+   "id": "cdadda40c9d4ad5e",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "6723 -Field Service Technician / Industrial Equipment / $2,300–$3,000 / Sin Ming / Bright Hill MRT",
+   "location": "Singapore"
+  },
+  "65b1c0b7df5c87b9": {
+   "id": "65b1c0b7df5c87b9",
+   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
+   "role": "Lift Technician / Up to $2800+AWS / 5 Days / Jurong East - JY",
+   "location": "Singapore"
+  },
+  "f27e7cf1f52fc2f5": {
+   "id": "f27e7cf1f52fc2f5",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "West / Manufacturing Technician / Chemical Technician /Entry Level / (0-2 year experience) Junior",
+   "location": "Islandwide"
+  },
+  "a040f5adf4b698d4": {
+   "id": "a040f5adf4b698d4",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "West / Tuas / Manufacturing Technician / Chemical Technician /Entry Level / (0-2 year experience) Junior",
+   "location": "Islandwide"
+  },
+  "53e74ece55100777": {
+   "id": "53e74ece55100777",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "No Experience / Junior / Manufacturing Technician / Chemical Technician /Entry Level / (0-2 year experience) Junior",
+   "location": "Islandwide"
+  },
+  "0b1d54696349b27e": {
+   "id": "0b1d54696349b27e",
+   "company": "RECRUITFLASH PTE. LTD.",
+   "role": "WEST / MNC Manufacturing Technician / Chemical Technician /5 day",
+   "location": "Islandwide"
+  },
+  "2ca062a1a4bafbfc": {
+   "id": "2ca062a1a4bafbfc",
+   "company": "MCI CONSULTING PTE. LTD.",
+   "role": "Technician",
+   "location": "Pioneer +2"
+  },
+  "b0b2ac685b366abb": {
+   "id": "b0b2ac685b366abb",
+   "company": "TEK GUTHRIE PTE LTD",
+   "role": "Wire Cut Technician",
+   "location": "Jurong Island +2"
+  },
   "f770e9b9b1e269ef": {
    "id": "f770e9b9b1e269ef",
    "company": "DURA-METAL (S) PTE. LTD.",
    "role": "R&D Technician (Assistant Engineer) [1-Year Contract]",
    "location": "Singapore"
+  },
+  "337edbc7c15c3010": {
+   "id": "337edbc7c15c3010",
+   "company": "JIAXING HOLDINGS PTE. LTD.",
+   "role": "AIR-CONDITIONING AND REFRIGERATION ENGINEER",
+   "location": "Islandwide"
+  },
+  "58a593e4a42a5496": {
+   "id": "58a593e4a42a5496",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "Air-Con Technician #10461",
+   "location": "Singapore"
+  },
+  "dfb28368528b2307": {
+   "id": "dfb28368528b2307",
+   "company": "APAR TECHNOLOGIES PTE. LTD.",
+   "role": "Semiconductor Test Equipment Technician",
+   "location": "Singapore"
+  },
+  "49617129f11931cd": {
+   "id": "49617129f11931cd",
+   "company": "AIR TECH ENGINEERING AND CONSULTANCY PTE LTD",
+   "role": "Building Technician",
+   "location": "Islandwide"
   },
   "9b8bcc0c3d8c77318e8355f6d805421b": {
    "id": "9b8bcc0c3d8c77318e8355f6d805421b",
@@ -4045,12 +4357,6 @@
    "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
    "role": "(Immediate) Equipment Technician / Up $2800+ICT / Woodlands / 3.5 Days - ZH",
    "location": "Singapore"
-  },
-  "0b57bd93c7c091d8": {
-   "id": "0b57bd93c7c091d8",
-   "company": "SHARE RESOURCES PRIVATE LIMITED",
-   "role": "Technician (Aerospace)",
-   "location": "Islandwide"
   },
   "a521b797e4cbe573": {
    "id": "a521b797e4cbe573",
@@ -4093,12 +4399,6 @@
    "company": "CRAFTBUILD PTE. LTD.",
    "role": "ELECTRICAL ENGINEERING TECHNICIAN",
    "location": "Singapore"
-  },
-  "18d623f1b5cfe484": {
-   "id": "18d623f1b5cfe484",
-   "company": "SHARE RESOURCES PRIVATE LIMITED",
-   "role": "Building technician",
-   "location": "Islandwide"
   },
   "80db809567746c29": {
    "id": "80db809567746c29",
@@ -4184,269 +4484,89 @@
    "role": "Assistance Field Service Engineer / Technician",
    "location": "Islandwide"
   },
-  "58b14b6b25631ed5": {
-   "id": "58b14b6b25631ed5",
-   "company": "COMPITEK CORP. PTE. LTD.",
-   "role": "Service Technician (Woodlands)",
+  "5a9c2e1d81b30ef1": {
+   "id": "5a9c2e1d81b30ef1",
+   "company": "AURATALENTSG",
+   "role": "✨{FAST HIRING!!} FRESH JUNIOR SALES AND MARKETING✨",
+   "location": "D05 Pasir Panjang"
+  },
+  "993149767f432e06": {
+   "id": "993149767f432e06",
+   "company": "GROWTH SYNDICATE",
+   "role": "💼 Junior Corporate Sales / Training provided",
    "location": "Islandwide"
   },
-  "f70aea7f5526657d": {
-   "id": "f70aea7f5526657d",
-   "company": "ICONNEX SOLUTIONS PTE. LTD.",
-   "role": "AFTER SALES SERVICE TECHNICIAN",
-   "location": "Jurong Island +1"
-  },
-  "06c0e0691138681a": {
-   "id": "06c0e0691138681a",
-   "company": "SECOM (SINGAPORE) PTE LTD",
-   "role": "Service Engineer",
-   "location": "Jurong Island +2"
-  },
-  "fd238283985b1c33": {
-   "id": "fd238283985b1c33",
-   "company": "BOON POH REFUSE DISPOSAL PTE. LTD.",
-   "role": "Service Technician",
-   "location": "Islandwide"
-  },
-  "a2f324a2f56b4cbc": {
-   "id": "a2f324a2f56b4cbc",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Equipment & Testing Technician I Pharma, Manufacturing #HJN",
-   "location": "Islandwide"
-  },
-  "1b492c2d69b2e5a5": {
-   "id": "1b492c2d69b2e5a5",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "GMP Validation Technician I Manufacturing #HJN",
-   "location": "Islandwide"
-  },
-  "76017c512eab1a47": {
-   "id": "76017c512eab1a47",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Biopharma Manufacturing Validation Technician GMP #HJN",
-   "location": "Islandwide"
-  },
-  "b77da622caba9611": {
-   "id": "b77da622caba9611",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Equipment Qualification Technician, MANUFACTURING #HJN",
-   "location": "Islandwide"
-  },
-  "d92a3f40a9ea684f": {
-   "id": "d92a3f40a9ea684f",
-   "company": "SINGAPORE REFINING COMPANY PRIVATE LIMITED",
-   "role": "Refinery Technician (Oil Movement) - 3 Cycle Shift (Annual Gross Salary: S$46,000 to S$50,000)",
-   "location": "Jurong Island"
-  },
-  "290510f9492c7094": {
-   "id": "290510f9492c7094",
-   "company": "ADECCO PERSONNEL PTE LTD",
-   "role": "Technician - Manufacturing x 50 (East / 12 hours fixed shift)",
+  "12d69f13914febca": {
+   "id": "12d69f13914febca",
+   "company": "AURATALENTSG",
+   "role": "😆 [NO EXPERIENCE] SALES & MARKETING ASSOCIATE 😯",
    "location": "Singapore"
   },
-  "dbd388c6653cfce1": {
-   "id": "dbd388c6653cfce1",
-   "company": "SWIFTCOM TECHNOLOGY PTE. LTD.",
-   "role": "Electronics Technician (Two-Way Radio Repair & Field Support)",
+  "8588a1710db213cd": {
+   "id": "8588a1710db213cd",
+   "company": "AURATALENTSG",
+   "role": "👾 [NO EXPERIENCE] FUN SALES ASSOCIATE 👾",
    "location": "Singapore"
   },
-  "390b5743c799e53ad4e8a783fb432835": {
-   "id": "390b5743c799e53ad4e8a783fb432835",
-   "company": "PPD (Thermo Fisher) UK",
-   "role": "Equipment Maintenance Technician",
+  "26399b9183ed5af6": {
+   "id": "26399b9183ed5af6",
+   "company": "AURATALENTSG",
+   "role": "👾(Fun Environment) Junior Sales & Marketing Associate",
    "location": "Singapore"
   },
-  "7cde53154c132f856d60b0b6ae184189": {
-   "id": "7cde53154c132f856d60b0b6ae184189",
-   "company": "Winterthur Gas & Diesel Ltd",
-   "role": "(location:singapore) Field Service Engineer 2",
-   "location": "Singapore"
-  },
-  "a268d35ff0016bc06a667dbe3f2064c0": {
-   "id": "a268d35ff0016bc06a667dbe3f2064c0",
-   "company": "Micron Technology Inc",
-   "role": "Probe Equipment Technician",
-   "location": "Singapore"
-  },
-  "dd63c8aebabe1250": {
-   "id": "dd63c8aebabe1250",
-   "company": "VOCO ORCHARD SINGAPORE",
-   "role": "Technician",
-   "location": "D09 Cairnhill"
-  },
-  "524bc27895d95863": {
-   "id": "524bc27895d95863",
-   "company": "CITY FACILITIES MANAGEMENT (SGP) PTE. LTD.",
-   "role": "Preventive Maintenance Technician",
-   "location": "D07 Middle Road"
-  },
-  "3f557a8cf0fee89a": {
-   "id": "3f557a8cf0fee89a",
-   "company": "THIRTEEN TECHNOLOGIES PTE. LTD.",
-   "role": "Preventive Maintenance Engineer",
-   "location": "Islandwide"
-  },
-  "3893c8e7f4f30613": {
-   "id": "3893c8e7f4f30613",
-   "company": "5 STONES HRM PTE. LTD.",
-   "role": "facility technician",
-   "location": "Singapore"
-  },
-  "5b96b6118136cd3a": {
-   "id": "5b96b6118136cd3a",
-   "company": "OAKTREE CONSULTING",
-   "role": "Technician(Semiconductor Industry)",
-   "location": "Singapore"
-  },
-  "2711eb2762b18413": {
-   "id": "2711eb2762b18413",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "Junior Maintenance Technician /Up to $2,800+ICT/ 3.4.4.3/ Woodlands - ZH",
-   "location": "Singapore"
-  },
-  "8c48077dbc063f21": {
-   "id": "8c48077dbc063f21",
-   "company": "TELTEC PTE. LTD.",
-   "role": "Field Service Engineer",
-   "location": "Islandwide"
-  },
-  "ef51a24eaf5b99f8": {
-   "id": "ef51a24eaf5b99f8",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "Field Technician Semicon (*Fast Hiring*)/ Up to $3000+AWS / 3.5 Days / Kranji - ZH",
-   "location": "Kranji"
-  },
-  "0938922a8a7c1ad0": {
-   "id": "0938922a8a7c1ad0",
-   "company": "ROLLS-ROYCE SOLUTIONS ASIA PTE. LTD.",
-   "role": "Service Technician (Data Centre/ Marine- Diesel Engine)",
-   "location": "Tukang"
-  },
-  "65baa3143f9c9379": {
-   "id": "65baa3143f9c9379",
-   "company": "OIL STATES INDUSTRIES (ASIA) PTE LTD",
-   "role": "Offshore Field Technician (Upstream Oil & Gas / Drilling / P&A)",
-   "location": "Singapore"
-  },
-  "04d18cbb3e99ca33": {
-   "id": "04d18cbb3e99ca33",
-   "company": "GMP TECHNOLOGIES (S) PTE LTD",
-   "role": "Semiconductor Service Engineer",
-   "location": "Singapore"
-  },
-  "542a85db7ef4ef7d": {
-   "id": "542a85db7ef4ef7d",
-   "company": "RANDSTAD PTE. LIMITED",
-   "role": "Field Service Engineer (Semicon Packaging/Wafer Equipment)",
-   "location": "Singapore"
-  },
-  "01e4cbfdee3c4dd9": {
-   "id": "01e4cbfdee3c4dd9",
-   "company": "ROLLS-ROYCE SOLUTIONS ASIA PTE. LTD.",
-   "role": "Service Engineer (Data Centre)",
-   "location": "Tukang"
-  },
-  "43446c21bfb4914d": {
-   "id": "43446c21bfb4914d",
-   "company": "SEARCH INDEX PTE. LTD.",
-   "role": "Technician (Aerospace Industry)",
-   "location": "Islandwide"
-  },
-  "79a0e4afa0c71280": {
-   "id": "79a0e4afa0c71280",
+  "403967eb1f4ec806": {
+   "id": "403967eb1f4ec806",
    "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Process Technician / Process Engineering Technician / Manufacturing / Up to $4,500 PLUS Allowances",
+   "role": "Retail Assistant / Sales Associate / Central / South / $2,300 + AWS + Incentives",
+   "location": "Singapore"
+  },
+  "5501eac7d5e6199c": {
+   "id": "5501eac7d5e6199c",
+   "company": "AURATALENTSG",
+   "role": "💥Event & Roadshow Sales Executive [Mentorship Provided]💥",
+   "location": "Singapore"
+  },
+  "5a165a20c03fa989": {
+   "id": "5a165a20c03fa989",
+   "company": "HRNET VENTURES PTE. LTD.",
+   "role": "Retail Assistant / Sales Associate / West / $2,300 + AWS + Incentives",
+   "location": "Islandwide"
+  },
+  "fc9a8c18d4d7ae01": {
+   "id": "fc9a8c18d4d7ae01",
+   "company": "HRNET VENTURES PTE. LTD.",
+   "role": "Retail Assistant / Sales Associate / North-East / $2,300 + AWS + Incentives",
+   "location": "Islandwide"
+  },
+  "5022e9a184f3ff1f": {
+   "id": "5022e9a184f3ff1f",
+   "company": "HRNET VENTURES PTE. LTD.",
+   "role": "Retail Assistant / Sales Associate / North / $2,300 + AWS + Incentives",
+   "location": "Islandwide"
+  },
+  "ac5dffd3f791a1e9": {
+   "id": "ac5dffd3f791a1e9",
+   "company": "HRNET VENTURES PTE. LTD.",
+   "role": "Retail Assistant / Sales Associate / East / $2,300 + AWS + Incentives",
+   "location": "Singapore"
+  },
+  "a9833a01913d2a4a": {
+   "id": "a9833a01913d2a4a",
+   "company": "AURATALENTSG",
+   "role": "🌈 EVENTS CUSTOMER SERVICE (SALES) (ENTRY LEVEL) 🌈",
+   "location": "Singapore"
+  },
+  "5d4f230841dc2a88": {
+   "id": "5d4f230841dc2a88",
+   "company": "AURATALENTSG",
+   "role": "😆CUSTOMER ENGAGEMENT ASSOCIATE / ENTRY LEVEL 😯",
+   "location": "Singapore"
+  },
+  "b143de7e9924dd1c": {
+   "id": "b143de7e9924dd1c",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Warehouse Assistant – Logistics & Inventory Operations #HDCC",
    "location": "Orchard"
-  },
-  "67a487db920fe089": {
-   "id": "67a487db920fe089",
-   "company": "MENICON SINGAPORE PTE. LTD.",
-   "role": "Technician (Day Shift)",
-   "location": "Jurong Island"
-  },
-  "bdb277e999c9650f": {
-   "id": "bdb277e999c9650f",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "🔧 Production Manufacturing Technician / $2800 - $3500/ 4-Day Work Week / Tampines",
-   "location": "Singapore"
-  },
-  "737e78025327b43c": {
-   "id": "737e78025327b43c",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "🔧 Assembly Manufacturing Technician / $2800 - $3500/ 4-Day Work Week / Tampines",
-   "location": "Singapore"
-  },
-  "809c1df0b271aec8": {
-   "id": "809c1df0b271aec8",
-   "company": "SINGAPORE BIKEN PTE. LTD.",
-   "role": "Air-con Technician",
-   "location": "Singapore"
-  },
-  "92386846982f30ac": {
-   "id": "92386846982f30ac",
-   "company": "LEONG HUM ENGINEERING PTE. LTD.",
-   "role": "Air-con Technician",
-   "location": "Singapore"
-  },
-  "3421d936ded25985": {
-   "id": "3421d936ded25985",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Electrical Technical Assistant #HJN",
-   "location": "Islandwide"
-  },
-  "5d6c5a6da32793be": {
-   "id": "5d6c5a6da32793be",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Assistant Engineer, Electronics/ Technical #HJN",
-   "location": "Islandwide"
-  },
-  "859916da92da073bc14d31e2a54398f6": {
-   "id": "859916da92da073bc14d31e2a54398f6",
-   "company": "Ingersoll Rand PLC",
-   "role": "Field Service Technician",
-   "location": "Singapore"
-  },
-  "3ed2d3cd7727e833": {
-   "id": "3ed2d3cd7727e833",
-   "company": "EA RECRUITMENT PTE. LTD.",
-   "role": "Service Engineer (ACMV / HVAC / CRAC)",
-   "location": "Singapore"
-  },
-  "97e10f4d021aa2ad": {
-   "id": "97e10f4d021aa2ad",
-   "company": "MIN ANN MANUFACTURING PRIVATE LIMITED",
-   "role": "Manufacturing Technician",
-   "location": "Singapore"
-  },
-  "6260db54c0ef65f0": {
-   "id": "6260db54c0ef65f0",
-   "company": "MCI CAREER SERVICES PTE. LTD.",
-   "role": "Technicians / Assistant Engineers (Clean Room) – 10 openings Basic Up to $3,000",
-   "location": "Singapore"
-  },
-  "58fad8029c6e51bba018eefa5c1bdf21": {
-   "id": "58fad8029c6e51bba018eefa5c1bdf21",
-   "company": "SJ Group",
-   "role": "Resident Technical Officer (building)",
-   "location": "Singapore"
-  },
-  "21915243ad24c6ab74a188f0cd0bcbe8": {
-   "id": "21915243ad24c6ab74a188f0cd0bcbe8",
-   "company": "SMRT Corporation Ltd",
-   "role": "Technical Officer, Fare System",
-   "location": "Singapore"
-  },
-  "0f137562ad895f81543d06c21ed365ca": {
-   "id": "0f137562ad895f81543d06c21ed365ca",
-   "company": "SMRT Corporation Ltd",
-   "role": "Technical Officer, Bplrt Rolling Stock",
-   "location": "Singapore"
-  },
-  "32265963ce541c1707caf31572b78ff6": {
-   "id": "32265963ce541c1707caf31572b78ff6",
-   "company": "SMRT Corporation Ltd",
-   "role": "Technical Officer, Iscs & Comms",
-   "location": "Singapore"
   },
   "2a66ea8595ff42a0364b11136ead5f29": {
    "id": "2a66ea8595ff42a0364b11136ead5f29",
@@ -4458,6 +4578,276 @@
    "id": "b841a15d3b0ce3daea954ef8417c4db4",
    "company": "Maersk",
    "role": "Fl Customer Service Support [flo Flc]",
+   "location": "Singapore"
+  },
+  "8bc7a5de8c8fbe49": {
+   "id": "8bc7a5de8c8fbe49",
+   "company": "EMPLIFI PTE. LTD.",
+   "role": "Retail Sales (Furniture)",
+   "location": "Islandwide"
+  },
+  "a2d6c0dd3576b54a": {
+   "id": "a2d6c0dd3576b54a",
+   "company": "G3 (SG) PTE. LTD.",
+   "role": "Full-Time Sales Associate",
+   "location": "Islandwide"
+  },
+  "735608cb95969345": {
+   "id": "735608cb95969345",
+   "company": "AVARON PTE. LTD.",
+   "role": "Sales Performance Associate",
+   "location": "Islandwide"
+  },
+  "ff81f56c7c405ef2": {
+   "id": "ff81f56c7c405ef2",
+   "company": "SPROUTZ MARKETING",
+   "role": "[NO EXPERIENCE WELCOMED] ⭐️Business Growth Associate⭐️",
+   "location": "Islandwide"
+  },
+  "7ad3d5411e382142": {
+   "id": "7ad3d5411e382142",
+   "company": "AVARON PTE. LTD.",
+   "role": "Sales Team Growth Associate",
+   "location": "Islandwide"
+  },
+  "97204a294e1272df": {
+   "id": "97204a294e1272df",
+   "company": "AVARON PTE. LTD.",
+   "role": "Sales & Relationship Building Associate",
+   "location": "Islandwide"
+  },
+  "be0a053274effbe6": {
+   "id": "be0a053274effbe6",
+   "company": "AVARON PTE. LTD.",
+   "role": "Business Development & Direct Sales Associate",
+   "location": "Islandwide"
+  },
+  "a0dd4a09573f4844": {
+   "id": "a0dd4a09573f4844",
+   "company": "AVARON PTE. LTD.",
+   "role": "Sales Achievement Associate",
+   "location": "Islandwide"
+  },
+  "a0065308467afad3": {
+   "id": "a0065308467afad3",
+   "company": "AVARON PTE. LTD.",
+   "role": "Customer Solutions Sales Associate",
+   "location": "Islandwide"
+  },
+  "1b322f0a708f6353": {
+   "id": "1b322f0a708f6353",
+   "company": "AVARON PTE. LTD.",
+   "role": "Direct Marketing & Sales Associate",
+   "location": "Islandwide"
+  },
+  "c09ed9719b520b07": {
+   "id": "c09ed9719b520b07",
+   "company": "ROYAL ORG PTE. LTD.",
+   "role": "Junior Sales & Brand Engagement ✈️ / Your Next Career Adventure",
+   "location": "Singapore"
+  },
+  "04039a71e20f1c32": {
+   "id": "04039a71e20f1c32",
+   "company": "RESOFT VI PTE. LTD.",
+   "role": "Sales associate",
+   "location": "Singapore"
+  },
+  "7a0607b6494754a6": {
+   "id": "7a0607b6494754a6",
+   "company": "ANRADUS PTE. LTD.",
+   "role": "Retail Sales #10240",
+   "location": "Islandwide"
+  },
+  "83014b2d9aa938d2": {
+   "id": "83014b2d9aa938d2",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "Retails Sales Associate (5 days) - YZ11",
+   "location": "Marina Bay Sands +4"
+  },
+  "6765ef0ecb739499": {
+   "id": "6765ef0ecb739499",
+   "company": "STAFFKING PTE. LTD.",
+   "role": "Retail Assistant - Fashion Boutique, 5 days work week",
+   "location": "Orchard +2"
+  },
+  "4450a5ab94583fbc": {
+   "id": "4450a5ab94583fbc",
+   "company": "HEY ROCKET PTE. LTD.",
+   "role": "Sales Associate (no exp) / Can start immediate / From S$2,300 + Incentives",
+   "location": "Singapore"
+  },
+  "d4eb33b180bfea8a": {
+   "id": "d4eb33b180bfea8a",
+   "company": "JOBSITE COM PTE LTD",
+   "role": "Retail Associate",
+   "location": "Singapore"
+  },
+  "e598896255d9f244": {
+   "id": "e598896255d9f244",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "Sales & Marketing Assistant 🌱 [Travel Opportunities / Leadership Opportunities]",
+   "location": "D01 Marina"
+  },
+  "e08912465affb57a": {
+   "id": "e08912465affb57a",
+   "company": "HEY ROCKET PTE. LTD.",
+   "role": "Sales Assistant / From $2300 + Incentives / 5 days, 44 hours",
+   "location": "Islandwide"
+  },
+  "d21cd67cd3596f32": {
+   "id": "d21cd67cd3596f32",
+   "company": "MIN HIANG FOOD PTE LTD",
+   "role": "Sales Admin Assistant",
+   "location": "Singapore"
+  },
+  "ae3bac6831112d6f": {
+   "id": "ae3bac6831112d6f",
+   "company": "M.TECH PRODUCTS PTE LTD",
+   "role": "Store Assistant",
+   "location": "Singapore"
+  },
+  "8be9436deff7f65a": {
+   "id": "8be9436deff7f65a",
+   "company": "M.TECH HOLDINGS PTE. LTD.",
+   "role": "Store Assistant",
+   "location": "Singapore"
+  },
+  "950ed10689e8fac1": {
+   "id": "950ed10689e8fac1",
+   "company": "UNITED U-LI PROJECTS PTE. LTD.",
+   "role": "Store assistant",
+   "location": "Singapore"
+  },
+  "4c316b10e1201000": {
+   "id": "4c316b10e1201000",
+   "company": "A-MOBILE PTE. LTD.",
+   "role": "Store Assistant",
+   "location": "Singapore"
+  },
+  "fc789ba69cb82c6f": {
+   "id": "fc789ba69cb82c6f",
+   "company": "ME MULTI ENTERTAINMENT PTE. LTD.",
+   "role": "Store Assistant - Cat Cafe",
+   "location": "Singapore"
+  },
+  "e10ba4dec7d063d4": {
+   "id": "e10ba4dec7d063d4",
+   "company": "LYNN AESTHETIC PTE. LTD.",
+   "role": "Customer Service",
+   "location": "Islandwide"
+  },
+  "16aa278c44341261": {
+   "id": "16aa278c44341261",
+   "company": "G3 (SG) PTE. LTD.",
+   "role": "Sales & Service Associate",
+   "location": "Islandwide"
+  },
+  "25db9ea935d74c3e": {
+   "id": "25db9ea935d74c3e",
+   "company": "HOTEL JJH PTE. LTD.",
+   "role": "Hotel Service Associate",
+   "location": "Islandwide"
+  },
+  "c1a8ebcd0da6bb36": {
+   "id": "c1a8ebcd0da6bb36",
+   "company": "SMARTE CARTE SINGAPORE PTE. LTD.",
+   "role": "Part-time Customer Service Officer (iShopChangi)",
+   "location": "Changi"
+  },
+  "5aedf679bde1859b": {
+   "id": "5aedf679bde1859b",
+   "company": "HOTEL JJH ALIWAL PTE. LTD.",
+   "role": "Hotel Service Associate",
+   "location": "Singapore"
+  },
+  "d689d231775795da": {
+   "id": "d689d231775795da",
+   "company": "PERSOL SINGAPORE PTE. LTD.",
+   "role": "Customer Service Executive / Warehouse & Storage",
+   "location": "Singapore"
+  },
+  "868d13765c19b2fa": {
+   "id": "868d13765c19b2fa",
+   "company": "FORTE EMPLOYMENT SERVICES PTE. LTD.",
+   "role": "Client Service Associate in banking /5 to 6mths / $3000",
+   "location": "Singapore"
+  },
+  "216d80897640b697": {
+   "id": "216d80897640b697",
+   "company": "SILITH TECHNOLOGY PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Islandwide"
+  },
+  "ae1ab56ea243d10d": {
+   "id": "ae1ab56ea243d10d",
+   "company": "HEY ROCKET PTE. LTD.",
+   "role": "Warehouse Assistant (Full-time) / No exp / Salary up to S$2,400+",
+   "location": "Islandwide"
+  },
+  "1dcef850c13289b1": {
+   "id": "1dcef850c13289b1",
+   "company": "THINKTREK LOGISTICS PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Changi"
+  },
+  "891cbe6ad94545f9": {
+   "id": "891cbe6ad94545f9",
+   "company": "NEXXCOJAYA (SINGAPORE) PTE. LTD.",
+   "role": "Warehouse Assistant - Full / Part Time",
+   "location": "Singapore"
+  },
+  "b8852012fec03a44": {
+   "id": "b8852012fec03a44",
+   "company": "YCH GLOBAL LOGISTICS PTE LTD",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "a3542499c2ace927": {
+   "id": "a3542499c2ace927",
+   "company": "BAUMER (SINGAPORE) PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "d31285e92f7e76c0": {
+   "id": "d31285e92f7e76c0",
+   "company": "Q.B. FOOD TRADING PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "546bd7961a019e30": {
+   "id": "546bd7961a019e30",
+   "company": "SUTL FOOD INDUSTRIES PTE. LTD.",
+   "role": "Delivery Assistant Cum Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "f1ef3223558141bc": {
+   "id": "f1ef3223558141bc",
+   "company": "IDEALS RECRUITMENT PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "f6fcf1df91fd3dff": {
+   "id": "f6fcf1df91fd3dff",
+   "company": "VDL ENABLING TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.",
+   "role": "Warehouse Assistant",
+   "location": "Singapore"
+  },
+  "9cea8adea8242ba6": {
+   "id": "9cea8adea8242ba6",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "Event and Sales Coordinator",
+   "location": "D01 Marina"
+  },
+  "ea0840305875be7a": {
+   "id": "ea0840305875be7a",
+   "company": "TRUST RECRUIT PTE. LTD.",
+   "role": "URGENT!! Sales Admin / Sales Support/ Sales coordinator (Quotation, North, SAP)",
+   "location": "Islandwide"
+  },
+  "c361eec40e02960d": {
+   "id": "c361eec40e02960d",
+   "company": "SCREEN SPE SINGAPORE PTE. LTD.",
+   "role": "Sales & Business Coordination Executive (Japan Desk)",
    "location": "Singapore"
   },
   "21d0c315a729dac5a7e35ef895135390": {
@@ -4562,461 +4952,41 @@
    "role": "🚀 [NO EXPERIENCE REQ] FUN SALES ASSOCIATE 🚀",
    "location": "D05 Pasir Panjang"
   },
-  "12d69f13914febca": {
-   "id": "12d69f13914febca",
-   "company": "AURATALENTSG",
-   "role": "😆 [NO EXPERIENCE] SALES & MARKETING ASSOCIATE 😯",
-   "location": "Singapore"
-  },
-  "8588a1710db213cd": {
-   "id": "8588a1710db213cd",
-   "company": "AURATALENTSG",
-   "role": "👾 [NO EXPERIENCE] FUN SALES ASSOCIATE 👾",
-   "location": "Singapore"
-  },
-  "26399b9183ed5af6": {
-   "id": "26399b9183ed5af6",
-   "company": "AURATALENTSG",
-   "role": "👾(Fun Environment) Junior Sales & Marketing Associate",
-   "location": "Singapore"
-  },
-  "e598896255d9f244": {
-   "id": "e598896255d9f244",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Sales & Marketing Assistant 🌱 [Travel Opportunities / Leadership Opportunities]",
+  "e977b3502a75a7ec": {
+   "id": "e977b3502a75a7ec",
+   "company": "LVMG PTE. LTD.",
+   "role": "🚀 ASAP / Sales & Marketing Associate (Training Provided/Office hours)",
    "location": "D01 Marina"
-  },
-  "030f5ca24d02ab28": {
-   "id": "030f5ca24d02ab28",
-   "company": "SMARTE CARTE SINGAPORE PTE. LTD.",
-   "role": "Part-Time Customer Service Officer, Baggage Service",
-   "location": "Changi"
-  },
-  "3006d3c38ba259e7": {
-   "id": "3006d3c38ba259e7",
-   "company": "KLARRA PTE. LTD.",
-   "role": "Operations & Warehouse Assistant",
-   "location": "Singapore"
-  },
-  "f2ab0c16e447e26d": {
-   "id": "f2ab0c16e447e26d",
-   "company": "JOO YONG CO. (PTE) LIMITED",
-   "role": "Sales Coordinator",
-   "location": "Jurong Island"
-  },
-  "3f798294e1078543c9c167010c1a32e7": {
-   "id": "3f798294e1078543c9c167010c1a32e7",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Customer Support Associate",
-   "location": "Singapore"
-  },
-  "6120bf1444217fd24bbc4a33ccfd54ab": {
-   "id": "6120bf1444217fd24bbc4a33ccfd54ab",
-   "company": "H&M",
-   "role": "Part Time Sales Advisor (vivocity)",
-   "location": "Singapore"
-  },
-  "0a879c258876bec3": {
-   "id": "0a879c258876bec3",
-   "company": "NXTLVL.UP",
-   "role": "💸SALES SUPERSTAR💸 (1-1 Mentorship)",
-   "location": "Islandwide"
-  },
-  "d2afc050a4ef0e72": {
-   "id": "d2afc050a4ef0e72",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Jewellery Retail Executive [Diamond Specialist / Retail Hours] - 2310",
-   "location": "Islandwide"
-  },
-  "cbd42f9c3c6cfa82": {
-   "id": "cbd42f9c3c6cfa82",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Retail Associate [Wedding band/ Diamond /Up to $4500] - 2310",
-   "location": "Islandwide"
-  },
-  "8daf8e5939511211": {
-   "id": "8daf8e5939511211",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "High-End Retail Executive - Jewellery (Diamond Specialist) / Orchard - 2310",
-   "location": "D01 Marina"
-  },
-  "deeb239b6fee152a": {
-   "id": "deeb239b6fee152a",
-   "company": "ATRIX MARKETING SOLUTIONS",
-   "role": "Sales & Marketing Associate — Leadership Development Programme 🛤️",
-   "location": "Islandwide"
-  },
-  "193c712552712a05": {
-   "id": "193c712552712a05",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Sales Associate / Luxury Watches / Orchard / 5 Days / Up To $3.5K + Comm - 4461",
-   "location": "Orchard"
-  },
-  "58f637dac656587b": {
-   "id": "58f637dac656587b",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Luxury Watch Sales/Orchard/5 Days - 3972",
-   "location": "Orchard"
-  },
-  "a02f9e7786f58440": {
-   "id": "a02f9e7786f58440",
-   "company": "LE CREUSET SINGAPORE PTE. LTD.",
-   "role": "Sales Associate",
-   "location": "Orchard"
-  },
-  "45e3ff6622830278": {
-   "id": "45e3ff6622830278",
-   "company": "CRECER SOLUTIONS",
-   "role": "[Fast Hiring] Entry Level Sales & Marketing Associate",
-   "location": "Singapore"
-  },
-  "d458bc1629e763ab": {
-   "id": "d458bc1629e763ab",
-   "company": "FURLA SINGAPORE PTE. LTD.",
-   "role": "Part Time Sales Associate",
-   "location": "Singapore"
   },
   "625b19b768f283a5": {
    "id": "625b19b768f283a5",
    "company": "RSOLUTE INC. PTE. LTD.",
    "role": "CORPORATE SALES ASSOCIATE",
-   "location": "Singapore"
-  },
-  "d56ea185bbadf211": {
-   "id": "d56ea185bbadf211",
-   "company": "TOUCHPOINT LOYALTY PTE. LTD.",
-   "role": "Membership Sales Executive (Club Ambassador)",
-   "location": "Singapore"
-  },
-  "5a9c2e1d81b30ef1": {
-   "id": "5a9c2e1d81b30ef1",
-   "company": "AURATALENTSG",
-   "role": "✨{FAST HIRING!!} FRESH JUNIOR SALES AND MARKETING✨",
-   "location": "Singapore"
-  },
-  "d0948ada06a0dbbb": {
-   "id": "d0948ada06a0dbbb",
-   "company": "LE CREUSET SINGAPORE PTE. LTD.",
-   "role": "Retail Sales Associate / Assistant",
-   "location": "Orchard"
-  },
-  "6523d4e152a402e1": {
-   "id": "6523d4e152a402e1",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Retail Sales Associate (Eyewear) / $2,300 Basic + Commission + AWS",
-   "location": "Orchard"
-  },
-  "7f182c629a4d2d78": {
-   "id": "7f182c629a4d2d78",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Retail Sales Associate [Mother & Baby Products/ 3.5 Days] - 3972",
-   "location": "Singapore"
-  },
-  "a25e06bed2241d20": {
-   "id": "a25e06bed2241d20",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Jewellery Retail Associate (Wedding band Specialist) - 2310",
-   "location": "Islandwide"
-  },
-  "918cf08242381805": {
-   "id": "918cf08242381805",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Retails Assistant [Ang Mo Kio/Hougang] - 3972",
-   "location": "Singapore"
-  },
-  "3dd84f1e3b7828d4": {
-   "id": "3dd84f1e3b7828d4",
-   "company": "PRIME SUPERMARKET LIMITED",
-   "role": "Retail Assistant (Tekka Place)",
-   "location": "Singapore"
-  },
-  "8da10f143bb2c51f": {
-   "id": "8da10f143bb2c51f",
-   "company": "CDEA STORES",
-   "role": "7-11 Retail Assistant (Franchise Store)",
-   "location": "Singapore"
-  },
-  "6c7f7f6f04e312ae": {
-   "id": "6c7f7f6f04e312ae",
-   "company": "JABIL CIRCUIT (SINGAPORE) PTE. LTD.",
-   "role": "Sales Assistant",
-   "location": "Singapore"
-  },
-  "b7296f76626bac9a": {
-   "id": "b7296f76626bac9a",
-   "company": "K.P.P. PACKAGING PTE LTD",
-   "role": "Store assistant",
-   "location": "Singapore"
-  },
-  "1ccb7934bc392c7b": {
-   "id": "1ccb7934bc392c7b",
-   "company": "EAU MARKETING PTE. LTD.",
-   "role": "Store Assistant",
-   "location": "Singapore"
-  },
-  "f10f123afb80dd27": {
-   "id": "f10f123afb80dd27",
-   "company": "TANA DEVELOPMENT (SINGAPORE) PTE. LTD.",
-   "role": "Food Service Associate",
-   "location": "Islandwide"
-  },
-  "ceb581671554ea20": {
-   "id": "ceb581671554ea20",
-   "company": "MORGAN MCKINLEY PTE. LTD.",
-   "role": "Customer Support Specialist (1 Year Contract)",
-   "location": "Islandwide"
-  },
-  "0b53b1d827bc7e06": {
-   "id": "0b53b1d827bc7e06",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "[West Hospital] 6 Months Patient Service Associate - $3200 (2 Rotating Shifts) #HCY",
-   "location": "Islandwide"
-  },
-  "69843bc188688aa9": {
-   "id": "69843bc188688aa9",
-   "company": "A1 FASHION HOUSE PTE. LTD.",
-   "role": "CUSTOMER SERVICE OFFICER/CLERK",
-   "location": "Singapore"
-  },
-  "d50e8b05c290b246": {
-   "id": "d50e8b05c290b246",
-   "company": "ANTARES MANAGEMENT SERVICES PTE. LTD.",
-   "role": "Visitor Experience Ambassador (Full-time, Weekdays)",
-   "location": "Singapore"
-  },
-  "354bc911bca4c3aa": {
-   "id": "354bc911bca4c3aa",
-   "company": "CAPITAL MARKETING (S) PTE LTD",
-   "role": "Warehouse Assistant",
-   "location": "Islandwide"
-  },
-  "7768284975d339b7": {
-   "id": "7768284975d339b7",
-   "company": "SG SAGAWA AMEROID PTE. LTD.",
-   "role": "Warehouse Assistant (Part Time)",
-   "location": "Jurong Island +2"
-  },
-  "6bc9f7dc1a7c749c": {
-   "id": "6bc9f7dc1a7c749c",
-   "company": "MECOMB SINGAPORE LIMITED",
-   "role": "Warehouse Assistant",
-   "location": "Jurong Island +2"
-  },
-  "d0786f8914777d1d": {
-   "id": "d0786f8914777d1d",
-   "company": "SHORT-Q PTE. LTD.",
-   "role": "Warehouse Assistant",
-   "location": "Tuas"
-  },
-  "6935c3d36c693e05": {
-   "id": "6935c3d36c693e05",
-   "company": "TECHCOM TECHNOLOGY PTE. LTD.",
-   "role": "Warehouse Assistant",
-   "location": "Singapore"
-  },
-  "25c5a075a9e037b6": {
-   "id": "25c5a075a9e037b6",
-   "company": "FINDJOBS PTE. LTD.",
-   "role": "💥Warehouse Assistant / North / 5.5 days / Salary $2400 - $2800 + incentives💥",
-   "location": "Singapore"
-  },
-  "a8045e3e368931d5": {
-   "id": "a8045e3e368931d5",
-   "company": "SMILIE PTE. LTD.",
-   "role": "Part-time Warehouse Assistant",
-   "location": "Singapore"
-  },
-  "3cbdca9f14d93553": {
-   "id": "3cbdca9f14d93553",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "Warehouse Assistant / Up to $2,500 / 5 Days / 8.30am to 5.30pm / Tai Seng / Contract",
-   "location": "Singapore"
-  },
-  "86daf6107a9bf93d": {
-   "id": "86daf6107a9bf93d",
-   "company": "HRNET VENTURES PTE. LTD.",
-   "role": "FAST HIRING / Temp Warehouse Assistant / $12/hr / Kaki Bukit",
-   "location": "Singapore"
-  },
-  "fcda4b9cf388a1f6": {
-   "id": "fcda4b9cf388a1f6",
-   "company": "TRUST RECRUIT PTE. LTD.",
-   "role": "Inside Sales Coordinator (East Area)",
-   "location": "Islandwide"
-  },
-  "9cea8adea8242ba6": {
-   "id": "9cea8adea8242ba6",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Event and Sales Coordinator",
-   "location": "Singapore"
-  },
-  "238da6a99e2a7dcdd8d75f6b4c03f1f8": {
-   "id": "238da6a99e2a7dcdd8d75f6b4c03f1f8",
-   "company": "Puma",
-   "role": "Retail Sales Associate",
-   "location": "Vivo City"
-  },
-  "ca014b532ff20390b86a4723797e9c17": {
-   "id": "ca014b532ff20390b86a4723797e9c17",
-   "company": "H&M",
-   "role": "Part Time Sales Advisor (ion, Mbs, Raffles City, Vivocity) - 1 November 2026 - 13 February 2027",
-   "location": "Singapore"
-  },
-  "e2793b69535d95bfc54e98092be1d31a": {
-   "id": "e2793b69535d95bfc54e98092be1d31a",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Patient Service Associate (part-time Contract)",
-   "location": "Singapore"
-  },
-  "99483f8944d8e30767a0287724ca0003": {
-   "id": "99483f8944d8e30767a0287724ca0003",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Temporary Associate",
-   "location": "Singapore"
-  },
-  "45cfbee504ea5bcf11b4ea8135b20c68": {
-   "id": "45cfbee504ea5bcf11b4ea8135b20c68",
-   "company": "Singapore Health Services Pte Ltd",
-   "role": "Patient Service Associate",
-   "location": "Singapore"
-  },
-  "a12da4870f06a3b1": {
-   "id": "a12da4870f06a3b1",
-   "company": "ALTIUS ORG",
-   "role": "EVENT SALES [1-1 Mentorship provided!!!]",
    "location": "D01 Marina"
   },
-  "d25db1836a3536b6": {
-   "id": "d25db1836a3536b6",
-   "company": "D AURELIUS GROUP PTE. LTD.",
-   "role": "Campaign Sales Associate",
+  "58b9891c3c2d5ed703be354a91bc2d4c": {
+   "id": "58b9891c3c2d5ed703be354a91bc2d4c",
+   "company": "Xiaomi",
+   "role": "Hr Intern",
    "location": "Singapore"
   },
-  "e604261313edfd5f": {
-   "id": "e604261313edfd5f",
-   "company": "STRIKE TALENTS PTE. LTD.",
-   "role": "🚀 SALES & MARKETING ASSOCIATE",
-   "location": "Singapore"
-  },
-  "75e4c946b852235b": {
-   "id": "75e4c946b852235b",
-   "company": "STRIKE TALENTS PTE. LTD.",
-   "role": "🔥 SALES & MARKETING ASSOCIATE / MORE THAN A JOB",
-   "location": "Singapore"
-  },
-  "18b9d60165865ede": {
-   "id": "18b9d60165865ede",
-   "company": "CAREERSOURCE CONSULTANCY PTE. LTD.",
-   "role": "Sales Associate",
-   "location": "Singapore"
-  },
-  "5fc3c8820fca31b3": {
-   "id": "5fc3c8820fca31b3",
-   "company": "NEXO CREATIVE",
-   "role": "💸HIGH COMMS💸 ✨Event Sales Associate✨",
-   "location": "Singapore"
-  },
-  "45c8ecfb0d8fff4f": {
-   "id": "45c8ecfb0d8fff4f",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Retail Sales Associates (Women's fashion)",
-   "location": "Singapore"
-  },
-  "5f8e73a6885e0190": {
-   "id": "5f8e73a6885e0190",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "Retail Sales Associate #72519",
-   "location": "Islandwide"
-  },
-  "b93bf425a9f0a2593a79117d1165d336": {
-   "id": "b93bf425a9f0a2593a79117d1165d336",
-   "company": "Adnovum Singapore",
-   "role": "Working Student Project Management (a)",
-   "location": "Singapore"
-  },
-  "9f5df98d6842f83fe11e2c026a2445b5": {
-   "id": "9f5df98d6842f83fe11e2c026a2445b5",
-   "company": "Work From Home With CiCi",
-   "role": "Executive Assistant",
-   "location": "Singapore"
-  },
-  "07bb5f226b10ece696f6087b22b9acf8": {
-   "id": "07bb5f226b10ece696f6087b22b9acf8",
-   "company": "Hitachi Asia Ltd.",
-   "role": "Administrative Assistant",
-   "location": "Singapore"
-  },
-  "8a125a34f26d4c977d0923c03302d4da": {
-   "id": "8a125a34f26d4c977d0923c03302d4da",
-   "company": "Hitachi Asia Ltd.",
-   "role": "Hr Assistant (6-months Contract)",
-   "location": "Singapore"
-  },
-  "1d22187f592bbcfcb80c10ead8a993dd": {
-   "id": "1d22187f592bbcfcb80c10ead8a993dd",
-   "company": "S. Rajaratnam School of International Studies (RSIS)",
-   "role": "Project Officer (office For Research) [nie]",
-   "location": "Singapore"
-  },
-  "f11cc1b9c6a03e7cbbdee2988c611680": {
-   "id": "f11cc1b9c6a03e7cbbdee2988c611680",
-   "company": "bp",
-   "role": "Trading Operator",
-   "location": "Singapore"
-  },
-  "691896b47c642962": {
-   "id": "691896b47c642962",
-   "company": "EXOTIC M & E WORKS PTE. LTD.",
+  "fe0ad66cbaf13442": {
+   "id": "fe0ad66cbaf13442",
+   "company": "UNITY FM PTE. LTD.",
    "role": "Administrative Assistant",
    "location": "Islandwide"
   },
-  "a00f9776f4568e61": {
-   "id": "a00f9776f4568e61",
-   "company": "Z3 FACILITIES PTE. LTD.",
-   "role": "Administrative Assistant",
+  "6f8aedb0d61fbe45": {
+   "id": "6f8aedb0d61fbe45",
+   "company": "JAI INTEGRATED TECHNOLOGIES PTE. LTD.",
+   "role": "CUSTOMER SERVICE COORDINATOR",
    "location": "Singapore"
   },
-  "96986c8e28a302d6": {
-   "id": "96986c8e28a302d6",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Product Marketing Executive (Entry Level)",
-   "location": "D01 Marina"
-  },
-  "75bf1105d133fc7d": {
-   "id": "75bf1105d133fc7d",
-   "company": "ALTIUS ORG",
-   "role": "🤩 START ASAP 🤪 Fun Events Marketing",
-   "location": "Islandwide"
-  },
-  "8f5bca656ea035da": {
-   "id": "8f5bca656ea035da",
-   "company": "ALTIUS ORG",
-   "role": "Marketing & Sales Coordinator / No Experience Needed 🌱",
-   "location": "Islandwide"
-  },
-  "bbf39a9119bda5ac": {
-   "id": "bbf39a9119bda5ac",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "🔥 Marketing and Events Associate 🔥 [URGENTLY HIRING]",
-   "location": "D01 Marina"
-  },
-  "ea3551d9d24b9f43": {
-   "id": "ea3551d9d24b9f43",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Marketing Campaign Associate",
-   "location": "D01 Marina"
-  },
-  "e2f2e6d77febe4c6": {
-   "id": "e2f2e6d77febe4c6",
-   "company": "THRIVE ORGANIZATION PTE. LTD.",
-   "role": ".🎯(Fresh Grad) ⭐️(Entry Level) ✈️(Travel Opportunities) 🏆 Marketing & Events 🏆",
-   "location": "D01 Marina"
-  },
-  "131628d330855e2b": {
-   "id": "131628d330855e2b",
-   "company": "AURATALENTSG",
-   "role": "🌈 Entry-Level Events Coordinator [Training Provided] 🌈",
-   "location": "D05 Pasir Panjang"
+  "e585d07105ec162f": {
+   "id": "e585d07105ec162f",
+   "company": "ALPHA MANPOWER PTE. LTD.",
+   "role": "Logistics Assistant",
+   "location": "Marymount"
   },
   "0077d90ee37e1882": {
    "id": "0077d90ee37e1882",
@@ -5030,11 +5000,17 @@
    "role": "🚀 Events Coordinator Executives (Traveling Opportunities + Training Provided) 🚀",
    "location": "D01 Marina"
   },
-  "3fd4e2e56cd363a7": {
-   "id": "3fd4e2e56cd363a7",
-   "company": "STRIKE TALENTS PTE. LTD.",
-   "role": "Roadshow & Events Associate",
-   "location": "Islandwide"
+  "62582b34e96e7902": {
+   "id": "62582b34e96e7902",
+   "company": "AURATALENTSG",
+   "role": "👾 Entry-Level Events Coordinator (Training Provided) 👾",
+   "location": "D05 Pasir Panjang"
+  },
+  "cd5c88fa79766f85": {
+   "id": "cd5c88fa79766f85",
+   "company": "AURATALENTSG",
+   "role": "💖Junior Events Associate 💖",
+   "location": "D05 Pasir Panjang"
   },
   "3bb13ae328848a08": {
    "id": "3bb13ae328848a08",
@@ -5042,16 +5018,10 @@
    "role": "🚀 Fun Events Executive 🚀 (Training Provided - Entry Level)",
    "location": "Singapore"
   },
-  "2b29bccd52a3dece": {
-   "id": "2b29bccd52a3dece",
-   "company": "HUNG YAO SHENG ENGINEERING PTE. LTD.",
-   "role": "WSH Coordinator",
-   "location": "Islandwide"
-  },
-  "45069448cff089c3": {
-   "id": "45069448cff089c3",
-   "company": "MORIMATSU PHARMADULE (SINGAPORE) PTE. LTD.",
-   "role": "Safety Coordinator",
+  "94ccfb21b18ce15c": {
+   "id": "94ccfb21b18ce15c",
+   "company": "AURATALENTSG",
+   "role": "🌈 Events Management & Sales (Entry Level - Training Provided) 🌈",
    "location": "Singapore"
   },
   "533ad2df92ad30a3": {
@@ -5060,29 +5030,17 @@
    "role": "💫 BRAND MARKETING ASSISTANT (TRAINING PROVIDED) 💫",
    "location": "D05 Pasir Panjang"
   },
-  "cb40ce8e2cc4f622": {
-   "id": "cb40ce8e2cc4f622",
-   "company": "SUPER45 GOURMET PTE. LTD.",
-   "role": "Marketing Assistant",
-   "location": "Islandwide"
+  "325b0d553d99924d": {
+   "id": "325b0d553d99924d",
+   "company": "AURATALENTSG",
+   "role": "👾 BRAND MARKETING ASSISTANT (MENTORSHIP PROVIDED) 👾",
+   "location": "D05 Pasir Panjang"
   },
-  "4299cebf99cc4658": {
-   "id": "4299cebf99cc4658",
-   "company": "TITAN AXIS GLOBAL",
-   "role": "[ASAP] Business Marketing Associate (ENTRY LEVEL)",
-   "location": "Islandwide"
-  },
-  "b40993e0d796ae1b": {
-   "id": "b40993e0d796ae1b",
+  "abc21c5fbc132bab": {
+   "id": "abc21c5fbc132bab",
    "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Marketing Associate [No Experience Needed]",
-   "location": "Singapore"
-  },
-  "301afccceed34774": {
-   "id": "301afccceed34774",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "Marketing Associate 🚀 [URGENTLY HIRING / No Experience Needed]",
-   "location": "Singapore"
+   "role": "[🤩NEW OPENING🤩] EVENT MARKETING ASSISTANT",
+   "location": "D01 Marina"
   },
   "b870c39b95cf0f53": {
    "id": "b870c39b95cf0f53",
@@ -5090,232 +5048,202 @@
    "role": "🚀 (Training Providing) Brand Marketing Assistant 🚀",
    "location": "Singapore"
   },
-  "bbf1b7f60f14d7ac": {
-   "id": "bbf1b7f60f14d7ac",
-   "company": "VALOR ORGANISATION PTE. LTD.",
-   "role": "[Entry Level] Marketing & Events Associate 😊",
+  "fd75aa4864766d62": {
+   "id": "fd75aa4864766d62",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Procurement Assistant – Purchasing & Supply Chain Operations #HDCC",
+   "location": "Orchard"
+  },
+  "0e31d82a9d3baa48": {
+   "id": "0e31d82a9d3baa48",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Purchasing Assistant – Procurement & Supply Chain Operations #HDCC",
+   "location": "Orchard"
+  },
+  "e39ea8d84c8b6edb53cf0f2676d833d4": {
+   "id": "e39ea8d84c8b6edb53cf0f2676d833d4",
+   "company": "Coty Inc",
+   "role": "Hr Intern",
    "location": "Singapore"
   },
-  "26c8d01b428d88f6": {
-   "id": "26c8d01b428d88f6",
-   "company": "AURATALENTSG",
-   "role": "😆 [NO EXPERIENCE] MARKETING & EVENTS ASSOCIATE 😯",
-   "location": "Singapore"
-  },
-  "325b0d553d99924d": {
-   "id": "325b0d553d99924d",
-   "company": "AURATALENTSG",
-   "role": "👾 BRAND MARKETING ASSISTANT (MENTORSHIP PROVIDED) 👾",
-   "location": "Singapore"
-  },
-  "4a5351031376e7c0ccd8e903f0c53c4f": {
-   "id": "4a5351031376e7c0ccd8e903f0c53c4f",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Executive Assistant, Elective Care Enterprise (eg)",
-   "location": "Singapore"
-  },
-  "a0ad0578cfd3687ad95a0b54dc2c5198": {
-   "id": "a0ad0578cfd3687ad95a0b54dc2c5198",
-   "company": "National Healthcare Group PTE Ltd",
-   "role": "Co-ordinator",
-   "location": "Singapore"
-  },
-  "2d40d0135fbc92cfc7b7e262d67aa1db": {
-   "id": "2d40d0135fbc92cfc7b7e262d67aa1db",
-   "company": "DKSH Corporate Shared Services Center Sdn Bhd",
-   "role": "Logistics Coordinator",
-   "location": "Singapore"
-  },
-  "4a8fa651d5b0741b1ce6af3252ad99fc": {
-   "id": "4a8fa651d5b0741b1ce6af3252ad99fc",
-   "company": "Toll Group",
+  "d351a7e14a4243e334992ffc4e371f2e": {
+   "id": "d351a7e14a4243e334992ffc4e371f2e",
+   "company": "Ricoh Asia Pacific Pte Ltd",
    "role": "Logistics Assistant",
    "location": "Singapore"
   },
-  "9444de6000ffc3b3": {
-   "id": "9444de6000ffc3b3",
-   "company": "HCL EDUCATION CENTRE PTE. LTD.",
-   "role": "Admin Assistant",
+  "37700fde20587c11": {
+   "id": "37700fde20587c11",
+   "company": "STALFORD LEARNING CENTRE (PASIR RIS) PTE. LTD.",
+   "role": "Learning Centre Admin",
    "location": "Islandwide"
   },
-  "6f84844732ee7048": {
-   "id": "6f84844732ee7048",
-   "company": "NEW JOURNEY EDUCATION CENTER PTE. LTD.",
-   "role": "Admin Assistant (need to know Canva) /part tiime ($12 per hour)",
+  "9749303961fb4411": {
+   "id": "9749303961fb4411",
+   "company": "SOLIDSTEEL CONSTRUCTION HARDWARE & TRADING PTE LTD",
+   "role": "Administrative Support Assistant",
+   "location": "Jurong Island +1"
+  },
+  "d3e248e996a25f8c": {
+   "id": "d3e248e996a25f8c",
+   "company": "TALENT FIRST PTE. LTD.",
+   "role": "Admin Assistant (Warehouse)",
    "location": "Islandwide"
   },
-  "41628b6208c25311": {
-   "id": "41628b6208c25311",
-   "company": "TALENT-MERGE PTE. LTD.",
-   "role": "Admin Assistant (Part-Time)",
-   "location": "D11 Watten Estate"
-  },
-  "06b9ef6b8b4824fd": {
-   "id": "06b9ef6b8b4824fd",
+  "c4d23c1e7990bd86": {
+   "id": "c4d23c1e7990bd86",
    "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Procurement & Operations Admin Assistant #HDCC",
+   "role": "6 - 12 Months Bank Admin Assistant #BJT",
    "location": "Orchard"
   },
-  "98b1e93cc7b4b0f7": {
-   "id": "98b1e93cc7b4b0f7",
-   "company": "SWIFT INTEGRATED LOGISTICS (S) PTE. LTD.",
-   "role": "Admin Assistant (6 Month Contract)",
-   "location": "Jurong Island"
-  },
-  "f4d5f7eb6f6329fa": {
-   "id": "f4d5f7eb6f6329fa",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Operations & Administrative Assistant [EL]",
+  "17a9abaf53cf65cc": {
+   "id": "17a9abaf53cf65cc",
+   "company": "MOO PLAY (S) PTE. LTD.",
+   "role": "PART TIME ADMIN",
    "location": "Islandwide"
   },
-  "e220e1dded5e4dc4": {
-   "id": "e220e1dded5e4dc4",
-   "company": "ACCG SOLUTIONS PTE. LTD.",
-   "role": "ADMINISTRATIVE ASSISTANT",
-   "location": "Islandwide"
-  },
-  "7435db8637691aba": {
-   "id": "7435db8637691aba",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Admin Assistant",
-   "location": "Islandwide"
-  },
-  "6691ec753541cba4": {
-   "id": "6691ec753541cba4",
-   "company": "MONT FORT ENGINEERING PTE. LTD.",
-   "role": "ADMINISTRATIVE ASSISTANT",
-   "location": "Jurong Island +2"
-  },
-  "4b89b83384a40578": {
-   "id": "4b89b83384a40578",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Admin Assistant (Procurement & Operations) #HDCC",
-   "location": "Orchard"
-  },
-  "2b5086d3980676cd": {
-   "id": "2b5086d3980676cd",
-   "company": "NANYANG TECH PTE. LTD.",
+  "e887e79bbd32b1df": {
+   "id": "e887e79bbd32b1df",
+   "company": "A-MOBILE PTE. LTD.",
    "role": "Admin Assistant",
    "location": "Singapore"
   },
-  "0f4cdfdf709069fb": {
-   "id": "0f4cdfdf709069fb",
-   "company": "WONG AUTOMATION PTE. LTD.",
+  "526c110eee386dba": {
+   "id": "526c110eee386dba",
+   "company": "EUREKA TECHNOLOGIES PTE LTD",
+   "role": "Receptionist cum Administrative Assistant",
+   "location": "Singapore"
+  },
+  "2fd923aecf5ee4f3": {
+   "id": "2fd923aecf5ee4f3",
+   "company": "SUNLOVE ABODE FOR INTELLECTUALLY-INFIRMED LTD",
    "role": "Administrative Assistant",
    "location": "Singapore"
   },
-  "ea65ec0a055bcf72": {
-   "id": "ea65ec0a055bcf72",
-   "company": "NEW START EDUCATION CENTER PTE. LTD.",
-   "role": "Admin Assistant (Work at Jurong east)",
+  "10e1b681499932bd": {
+   "id": "10e1b681499932bd",
+   "company": "SAGE Counselling Centre",
+   "role": "Receptionist cum Admin Assistant",
    "location": "Singapore"
   },
-  "4c339cb4c60c5746": {
-   "id": "4c339cb4c60c5746",
-   "company": "NEW START EDUCATION CENTER PTE. LTD.",
-   "role": "Admin Assistant (need to know Canva) /part tiime ($12 per hour)",
-   "location": "Singapore"
-  },
-  "ba586de4cdf2c3fe": {
-   "id": "ba586de4cdf2c3fe",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Admin Assistant / 6 Months / Outram Park / $13/hr #HJY",
-   "location": "Singapore"
-  },
-  "9bbe2754ed20488d": {
-   "id": "9bbe2754ed20488d",
-   "company": "MRETTY CUSTOM FURNITURE PTE. LTD.",
-   "role": "General Administrative Assistant",
-   "location": "Singapore"
-  },
-  "8ea2c9f487170c42": {
-   "id": "8ea2c9f487170c42",
-   "company": "FC ENGINEERING PTE. LTD.",
-   "role": "ADMINISTRATIVE ASSISTANT",
-   "location": "Singapore"
-  },
-  "97636e5d258a5022": {
-   "id": "97636e5d258a5022",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "Temple Assistant [Admin Assistant / Kembangan / Meal Provided] - 2310",
-   "location": "Singapore"
-  },
-  "30f7aeaa8b6b947c": {
-   "id": "30f7aeaa8b6b947c",
-   "company": "THE LENTOR RESIDENCE PTE LTD",
-   "role": "Nursing Admin Assistant (Kaki Bukit Nursing Home)",
-   "location": "Singapore"
-  },
-  "e70487f77a0e1500": {
-   "id": "e70487f77a0e1500",
-   "company": "COLD CHAIN REFRIGERATION PTE. LTD.",
+  "11fb701a779d1762": {
+   "id": "11fb701a779d1762",
+   "company": "LOCAL WERKZ STUDIO PTE. LTD.",
    "role": "Admin Assistant",
    "location": "Singapore"
   },
-  "5f886e585d453faf": {
-   "id": "5f886e585d453faf",
-   "company": "ALLEN & GLEDHILL LLP",
-   "role": "Administration Assistant",
+  "f08a7795a21d96e7": {
+   "id": "f08a7795a21d96e7",
+   "company": "DSV ROAD PTE. LTD.",
+   "role": "Logistics Admin (6 Months Contract)",
    "location": "Singapore"
   },
-  "24f3c6507f8bb82f": {
-   "id": "24f3c6507f8bb82f",
-   "company": "GLOBEWERKS INTERNATIONAL PTE. LTD.",
-   "role": "Admin Assistant",
+  "080dbe10ddc93a89": {
+   "id": "080dbe10ddc93a89",
+   "company": "EUYECO CONTRACTORS PTE. LTD.",
+   "role": "Administrative Assistant",
    "location": "Singapore"
   },
-  "48619e494e169c9d": {
-   "id": "48619e494e169c9d",
-   "company": "SIN DA CHENG CONSTRUCTION & TRADING PTE. LTD.",
-   "role": "ADMINISTRATIVE ASSISTANT",
+  "f1817fe7f4a6b2d8": {
+   "id": "f1817fe7f4a6b2d8",
+   "company": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
+   "role": "School Science Lab Technician cum General Admin Assistant / Bedok",
    "location": "Singapore"
   },
-  "fd67c942645a2ed2": {
-   "id": "fd67c942645a2ed2",
-   "company": "HSM MARINE ENGINEERING PTE. LTD.",
-   "role": "Marine Commercial Coordinator",
-   "location": "Jurong Island"
+  "f6e467c35a543cab": {
+   "id": "f6e467c35a543cab",
+   "company": "Sree Narayana Mission (Singapore)",
+   "role": "Admin Assistant (Welfare Home) - 2 Months Contract",
+   "location": "Singapore"
   },
-  "e7f032e33b5e30d0": {
-   "id": "e7f032e33b5e30d0",
-   "company": "HSM MARINE ENGINEERING PTE. LTD.",
-   "role": "Technical Coordinator",
-   "location": "Jurong Island"
+  "f1968637dff7286b": {
+   "id": "f1968637dff7286b",
+   "company": "DYNAMIC SAFETY PTE. LTD.",
+   "role": "Administrative Assistant",
+   "location": "Singapore"
   },
-  "925901df6085a745": {
-   "id": "925901df6085a745",
-   "company": "KAH SING DEVELOPMENT ENGINEERING PTE LTD",
+  "a200e3794399e93b": {
+   "id": "a200e3794399e93b",
+   "company": "HS BROS FOODSTUFF PTE. LTD.",
+   "role": "Accounts Admin Assistant",
+   "location": "Singapore"
+  },
+  "a94e360cbc05688f": {
+   "id": "a94e360cbc05688f",
+   "company": "TRUST RECRUIT PTE. LTD.",
+   "role": "Admin Assistant (Short Term!! Fast Hire!! IT Background!!) (YS81)",
+   "location": "Singapore"
+  },
+  "ea75fa3a197267b4": {
+   "id": "ea75fa3a197267b4",
+   "company": "ALBEDO DESIGN PTE. LTD.",
+   "role": "2610 Administrative Support / Tampines East MRT",
+   "location": "Singapore"
+  },
+  "6fca1c4475d51d4f": {
+   "id": "6fca1c4475d51d4f",
+   "company": "LUME HAN PTE. LTD.",
+   "role": "Administrative Assistant",
+   "location": "Singapore"
+  },
+  "a8aa3a28eefad21c": {
+   "id": "a8aa3a28eefad21c",
+   "company": "SEACARE MANPOWER SERVICES PTE LTD",
+   "role": "📢 Administrative Assistant (Tampines)",
+   "location": "Singapore"
+  },
+  "58ebe071ba0deec4": {
+   "id": "58ebe071ba0deec4",
+   "company": "XGH CONSTRUCTION PTE. LTD.",
+   "role": "Administrative assistant 行政文员",
+   "location": "Singapore"
+  },
+  "446c8ae514cb4ac3": {
+   "id": "446c8ae514cb4ac3",
+   "company": "WANCO MANPOWER PTE LTD",
+   "role": "Admin Assistant - Woodlands/US MNC",
+   "location": "Singapore"
+  },
+  "9f9a945c204b37b8": {
+   "id": "9f9a945c204b37b8",
+   "company": "SEACARE MANPOWER SERVICES PTE LTD",
+   "role": "📢 Administrative and Customer Service Assistant (Buona Vista)",
+   "location": "Singapore"
+  },
+  "9d883f59599d0065": {
+   "id": "9d883f59599d0065",
+   "company": "YI HONG ENGINEERING PTE. LTD.",
+   "role": "PROJECT COORDINATOR/ENGINEER",
+   "location": "Islandwide"
+  },
+  "0a78f85167b2dc26": {
+   "id": "0a78f85167b2dc26",
+   "company": "UK ENGINEERING CONSULTANCY PTE. LTD.",
    "role": "Project Coordinator",
-   "location": "Singapore"
+   "location": "Islandwide"
   },
-  "ec8a5f6d912409bc": {
-   "id": "ec8a5f6d912409bc",
-   "company": "MAESTRO HUMAN RESOURCE PTE. LTD.",
-   "role": "Project Administrator (AMK)",
-   "location": "Singapore"
+  "b460484acdb2565c": {
+   "id": "b460484acdb2565c",
+   "company": "RSP ARCHITECTS PLANNERS & ENGINEERS (PTE) LTD",
+   "role": "QP Coordinator",
+   "location": "Islandwide"
   },
-  "0f4729e947c36d3e": {
-   "id": "0f4729e947c36d3e",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Project Officer (Office for Research) [NIE]",
-   "location": "Singapore"
+  "141e8d34fe9d2f1b": {
+   "id": "141e8d34fe9d2f1b",
+   "company": "ABER CARE PTE. LTD.",
+   "role": "Programme Executive / Community Engagement",
+   "location": "Islandwide"
   },
-  "8fba0dd5e15ada96": {
-   "id": "8fba0dd5e15ada96",
-   "company": "NES GLOBAL PTE. LTD.",
-   "role": "Project Coordinator - Utilities, WWTP & External Pipe Rack",
-   "location": "Singapore"
+  "96986c8e28a302d6": {
+   "id": "96986c8e28a302d6",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "Product Marketing Executive (Entry Level)",
+   "location": "D01 Marina"
   },
-  "da44944a63372de2": {
-   "id": "da44944a63372de2",
-   "company": "UNIVERSAL PICTURES (SINGAPORE) HOLDINGS PTE. LTD.",
-   "role": "Coordinator, Technical - Ride & Show Engineering",
-   "location": "Singapore"
-  },
-  "37dae24fd33f0009": {
-   "id": "37dae24fd33f0009",
-   "company": "NXTLVL.UP",
-   "role": "Junior Events & Marketing Rep (Training Provided)",
+  "35994f9434611803": {
+   "id": "35994f9434611803",
+   "company": "NOVEX ORGANIZATION",
+   "role": "Marketing & Events Associate / Training Provided",
    "location": "Islandwide"
   },
   "08629e6195e0b25b": {
@@ -5330,82 +5258,190 @@
    "role": "🌈 EVENTS & MARKETING COORDINATOR 🌈",
    "location": "Islandwide"
   },
-  "532b8da6da8e728d": {
-   "id": "532b8da6da8e728d",
-   "company": "AXISREACH RECRUITMENT",
-   "role": "🌈✈️[ENTRY LEVEL] EVENTS MARKETING / TRAVEL OPP 🌈✈️",
+  "e560da1f11261762": {
+   "id": "e560da1f11261762",
+   "company": "AUDERE MARKETING",
+   "role": "📊 Full-Time Events & Marketing Associate (Weekly Pay / Entry Level)",
    "location": "D01 Marina"
   },
-  "504e34bc7399f892": {
-   "id": "504e34bc7399f892",
-   "company": "AURYN MARKETING",
-   "role": "Events Marketing (Entry level)",
-   "location": "Singapore"
+  "75bf1105d133fc7d": {
+   "id": "75bf1105d133fc7d",
+   "company": "ALTIUS ORG",
+   "role": "🤩 START ASAP 🤪 Fun Events Marketing",
+   "location": "Islandwide"
+  },
+  "bbf39a9119bda5ac": {
+   "id": "bbf39a9119bda5ac",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "🔥 Marketing and Events Associate 🔥 [URGENTLY HIRING]",
+   "location": "D01 Marina"
+  },
+  "ea3551d9d24b9f43": {
+   "id": "ea3551d9d24b9f43",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "Marketing Campaign Associate",
+   "location": "D01 Marina"
   },
   "de23827089a47627": {
    "id": "de23827089a47627",
    "company": "AURATALENTSG",
    "role": "💞{NO EXPERIENCE NEEDED} Junior Marketing Coordinator 💞",
-   "location": "Singapore"
+   "location": "D05 Pasir Panjang"
   },
-  "bdda93d5ef2638a0": {
-   "id": "bdda93d5ef2638a0",
-   "company": "GLOBALFOUNDRIES SINGAPORE PTE. LTD.",
+  "c903e3d05da7a2a0": {
+   "id": "c903e3d05da7a2a0",
+   "company": "ELEVATEH ORG",
+   "role": "Marketing Campaign leader 😎🤩 ( No Experience required )",
+   "location": "Marina +4"
+  },
+  "f6c49323dd46f0a5": {
+   "id": "f6c49323dd46f0a5",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "6 Months Logistics Assistant / Seletar / Up to $3600 #NKA",
+   "location": "Seletar"
+  },
+  "360b74603d18cebf": {
+   "id": "360b74603d18cebf",
+   "company": "LABGISTICS ASIA PTE. LTD.",
+   "role": "Logistics Assistant",
+   "location": "Jurong Island +2"
+  },
+  "4fe96a76786347d9": {
+   "id": "4fe96a76786347d9",
+   "company": "YONG WEN FOOD (S) PTE. LTD.",
+   "role": "Logistics Coordinator",
+   "location": "Jurong Island +2"
+  },
+  "98ce41e25506094b": {
+   "id": "98ce41e25506094b",
+   "company": "M.TECH HOLDINGS PTE. LTD.",
    "role": "Logistics Assistant",
    "location": "Singapore"
   },
-  "a3a549e9b000d251": {
-   "id": "a3a549e9b000d251",
-   "company": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
-   "role": "Logistics Assistant / National Stadium / 1 year",
+  "fb201648997e7731": {
+   "id": "fb201648997e7731",
+   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
+   "role": "[0580] Customer Service Coordinator (Order Fulfilment / Logistics) - YCK / 5 days / $3.1k",
    "location": "Singapore"
   },
-  "5e3d688065a3f0b1": {
-   "id": "5e3d688065a3f0b1",
-   "company": "LITEN LOGISTICS SERVICES PTE LTD",
-   "role": "Logistics Coordinator",
+  "5dac7762e9c9cab4": {
+   "id": "5dac7762e9c9cab4",
+   "company": "EMPRESS PORRIDGE PTE. LTD.",
+   "role": "Logistics Associate",
    "location": "Singapore"
   },
-  "f3a464ef2ece965d": {
-   "id": "f3a464ef2ece965d",
-   "company": "BUSINESS EDGE PERSONNEL SERVICES PTE LTD",
-   "role": "Logistics Coordinator / West / URGENT Hire",
-   "location": "Singapore"
-  },
-  "76bc4a7dafbc996e": {
-   "id": "76bc4a7dafbc996e",
-   "company": "HSM MARINE ENGINEERING PTE. LTD.",
-   "role": "Marine Operations Coordinator",
-   "location": "Jurong Island +2"
-  },
-  "c4f71100ce7a9fad": {
-   "id": "c4f71100ce7a9fad",
-   "company": "LEGERO INTERNATIONAL (S) PTE LTD",
-   "role": "Junior Operations Coordinator",
-   "location": "Singapore"
-  },
-  "a4161f5bcc494786": {
-   "id": "a4161f5bcc494786",
-   "company": "BL MARKETING PTE. LTD.",
-   "role": "Admin & Operations Support",
-   "location": "Singapore"
-  },
-  "d1955e188bb638c3": {
-   "id": "d1955e188bb638c3",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "Junior Events Project Coordinator #10345",
+  "a86eb5217beea7ce": {
+   "id": "a86eb5217beea7ce",
+   "company": "DIRECT SEARCH ASIA PTE. LTD.",
+   "role": "Operations Coordinator",
    "location": "Islandwide"
   },
-  "3e730d5e7a59a3df": {
-   "id": "3e730d5e7a59a3df",
-   "company": "SIMPLE RECRUIT",
-   "role": "🌈 Events & Marketing (Entry Level)",
+  "33e13cb6acfd3154": {
+   "id": "33e13cb6acfd3154",
+   "company": "SUNRISE GROUP SG PTE. LTD.",
+   "role": "Operation Coordinator",
+   "location": "Islandwide"
+  },
+  "7b6a76c755fd85e7": {
+   "id": "7b6a76c755fd85e7",
+   "company": "DOSK CONTRACT SERVICES PTE. LTD.",
+   "role": "Site Monitoring & Operations Coordinator",
    "location": "Singapore"
   },
-  "c256d03de8d9f8d9": {
-   "id": "c256d03de8d9f8d9",
-   "company": "BRANDOVA",
-   "role": "Promotions & Events Associate / Join Us",
+  "2b3bc3ec70cfacad": {
+   "id": "2b3bc3ec70cfacad",
+   "company": "NOVEX ORGANIZATION",
+   "role": "EVENTS MARKETING EXECUTIVE",
+   "location": "Islandwide"
+  },
+  "905d312ed5359805": {
+   "id": "905d312ed5359805",
+   "company": "HOUSE OF NH",
+   "role": "EVENTS ASSOCIATE (TRAVEL OPPORTUNITY!!)",
+   "location": "Islandwide"
+  },
+  "89e7eb23123f66f4": {
+   "id": "89e7eb23123f66f4",
+   "company": "NOVEX ORGANIZATION",
+   "role": "🌈Junior Events Trainee / Fun, Earn & Grow",
+   "location": "Islandwide"
+  },
+  "42fe124dcc33ac0e": {
+   "id": "42fe124dcc33ac0e",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Community Engagement & Event Assistant (1 Year Contract) #NKC",
+   "location": "Islandwide"
+  },
+  "9261a054d446a7b9": {
+   "id": "9261a054d446a7b9",
+   "company": "THRIVE ORGANIZATION PTE. LTD.",
+   "role": "..🌠(No Experiences Required) 🚀(Travel Opportunities) ✨Marketing and Events 🏆",
+   "location": "Singapore"
+  },
+  "c95db33143737887": {
+   "id": "c95db33143737887",
+   "company": "FOIT PTE. LTD.",
+   "role": "Event Specialist",
+   "location": "Singapore"
+  },
+  "3af7c8f27944905d": {
+   "id": "3af7c8f27944905d",
+   "company": "AMBITION GROUP SINGAPORE PTE. LTD.",
+   "role": "Event Operations Executive",
+   "location": "Singapore"
+  },
+  "23953b360f8b0092": {
+   "id": "23953b360f8b0092",
+   "company": "KONG MENG SAN PHOR KARK SEE MONASTERY",
+   "role": "🌻Project Executive, Spiritual Events",
+   "location": "Singapore"
+  },
+  "6bbfbb25f49cccfb": {
+   "id": "6bbfbb25f49cccfb",
+   "company": "MEDIA PARTNERS ASIA RESEARCH SERVICES PTE. LTD.",
+   "role": "Event Coordinator (Contract)",
+   "location": "Singapore"
+  },
+  "4bee65023a4f1ab8": {
+   "id": "4bee65023a4f1ab8",
+   "company": "ELEVATEH ORG",
+   "role": "Events & Promotions Executive 🎈( Training Provided )",
+   "location": "Singapore"
+  },
+  "e62103736f96f077": {
+   "id": "e62103736f96f077",
+   "company": "SIMPLE RECRUIT",
+   "role": "Events Marketing Trainer🌟 Travel Opportunities",
+   "location": "Singapore"
+  },
+  "bf2c00218cdee6c0": {
+   "id": "bf2c00218cdee6c0",
+   "company": "JTA CONSULTANCY",
+   "role": "Human Resources Assistant",
+   "location": "Singapore"
+  },
+  "6776fa648c3f988f": {
+   "id": "6776fa648c3f988f",
+   "company": "ASIAN SKIN SOLUTION PTE. LTD.",
+   "role": "Accounts cum HR Intern",
+   "location": "Singapore"
+  },
+  "4b905b8e7ceed292": {
+   "id": "4b905b8e7ceed292",
+   "company": "CKSE PTE. LTD.",
+   "role": "Part Tim HR Assistant (4-Month Contract)",
+   "location": "Singapore"
+  },
+  "bbf1b7f60f14d7ac": {
+   "id": "bbf1b7f60f14d7ac",
+   "company": "VALOR ORGANISATION PTE. LTD.",
+   "role": "[Entry Level] Marketing & Events Associate 😊",
+   "location": "D01 Marina"
+  },
+  "7e6b3e0a270ca830": {
+   "id": "7e6b3e0a270ca830",
+   "company": "THE SWIM SIDE PTE. LTD.",
+   "role": "ADMINISTRATIVE & MARKETING ASSISTANT",
    "location": "Singapore"
   }
  }
