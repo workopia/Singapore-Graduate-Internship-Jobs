@@ -21138,4 +21138,67 @@
 <tr><td>ANRADUS PTE. LTD.</td><td>Junior Events Project Coordinator #10345</td><td>Islandwide</td><td>2026-10-18</td></tr>
 <tr><td>SIMPLE RECRUIT</td><td>🌈 Events & Marketing (Entry Level)</td><td>Singapore</td><td>2026-10-18</td></tr>
 <tr><td>BRANDOVA</td><td>Promotions & Events Associate / Join Us</td><td>Singapore</td><td>2026-10-18</td></tr>
+<tr><td>WWF-WORLD WIDE FUND FOR NATURE (SINGAPORE) LIMITED</td><td>Education & Outreach Intern - Schools Programme</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>35 EMBER PTE. LTD.</td><td>Human Resource Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>THE STYLE SOIREE (TSS)</td><td>Creative Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>❤️‍🔥⭐️ Marketing Team (Fresh Grads!)</td><td>D01 Marina</td><td>2026-10-19</td></tr>
+<tr><td>Siemens</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN COLLECTIVE PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN SELETAR PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HF CHINATOWN PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN YISHUN PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN TPY PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN SUNTEC PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>ASIAN SKIN SOLUTION PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>SLEEK R&D AND MANAGEMENT (PTE. LTD.)</td><td>Business Process Management Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN PASIR RIS PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN ORCHARD PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN DTE PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN CINELEISURE PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>HAVE FUN BUGIS PLUS PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>7-24 ENTERTAINMENT PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>CLIFFORD CHANCE PTE. LTD.</td><td>Business Development and Marketing Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Singapore Business Federation</td><td>Intern, Marketing and Communications</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Google</td><td>Data Center Technician Intern, 2027</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>THALES</td><td>Underwater R&t Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Coty Inc</td><td>Finance Intern</td><td>01</td><td>2026-10-19</td></tr>
+<tr><td>Zurich Insurance Company Ltd</td><td>Ai Builder Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Hong Leong Bank</td><td>Intern - Bcb</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Transformation, Methods And Performance Internship</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Scaling Generative Ai For Public Healthcare</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Population Health Planning</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Sandbox Operations &amp; Project Coordination Internship</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Third-party Risk Management Administration Internship</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Digital Transformation &amp; Automation Intern</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Cybersecurity Awareness &amp; Engagement Internship</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Automation &amp; Rpa Platform</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai-driven It Operations &amp; Security Automation</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Uni Internship Jan To July 2027 - Ai Strategy &amp; Innovation Internship</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>STRIKE TALENTS PTE. LTD.</td><td>🎯 EVENTS & MARKETING TRAINEE / NO EXPERIENCE REQUIRED</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>THYE MOH CHAN PTE. LTD.</td><td>Management Trainee</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>Grab</td><td>Intern, Software Engineer</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>SYNC IN MOTION PTE. LTD.</td><td>Desktop Support Engineer</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>Coherent Aerospace & Defense</td><td>Intern, Business Intelligence</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>JOBSTER PRIVATE LTD.</td><td>AI Engineer - #1693</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>NSEARCH GLOBAL PTE. LTD.</td><td>AI Engineer</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months AML Analyst (Bank / Up to $6,500) #NJN</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>SMRT CORPORATION LTD</td><td>Analyst, Strategy, Enterprise Risk & Investment</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Bank Sales Analyst #ESY</td><td>D09 Cairnhill</td><td>2026-10-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Bank Compliance Officer (Up to $5,500) #BTS</td><td>Orchard</td><td>2026-10-19</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Financial Advisory Compliance Executive – BSC Audit Experience Required - Central/ 5 days/ $4.5k</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>National Healthcare Group PTE Ltd</td><td>Research Assistant</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>National Healthcare Group PTE Ltd</td><td>Research Asst (iga)</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>National Healthcare Group PTE Ltd</td><td>Phlebotomist (locum)</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>ICONNEX SOLUTIONS PTE. LTD.</td><td>TECHNICIAN</td><td>Jurong Island +1</td><td>2026-10-19</td></tr>
+<tr><td>OAKTREE CONSULTING</td><td>M & E Technician(Semiconductor Industry)</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>GOOD JOB CREATIONS (SINGAPORE) PTE. LTD.</td><td>Equipment Maintenance Engineer (Semiconductor / No Experience Required)</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Maintenance Technician / URGENT / Up to $3,200</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Lift Maintenance Technician / Up to $2800+Motorbike Allowances+AWS / 5 Days / Jurong East - ZH</td><td>Singapore</td><td>2026-10-19</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] M&E Service Technician (Automatic Door Systems) – 5 Days / $2.5K + OT</td><td>Marina +4</td><td>2026-10-19</td></tr>
+<tr><td>WHIZ LINK MANPOWER</td><td>Service Engineer (Control System)</td><td>Ayer Rajah</td><td>2026-10-19</td></tr>
+<tr><td>MY US FOOD PTE. LTD.</td><td>Assistance Field Service Engineer / Technician</td><td>Islandwide</td><td>2026-10-19</td></tr>
+<tr><td>AURATALENTSG</td><td>🚀 [NO EXPERIENCE REQ] FUN SALES ASSOCIATE 🚀</td><td>D05 Pasir Panjang</td><td>2026-10-19</td></tr>
+<tr><td>LVMG PTE. LTD.</td><td>🚀 ASAP / Sales & Marketing Associate (Training Provided/Office hours)</td><td>D01 Marina</td><td>2026-10-19</td></tr>
+<tr><td>RSOLUTE INC. PTE. LTD.</td><td>CORPORATE SALES ASSOCIATE</td><td>D01 Marina</td><td>2026-10-19</td></tr>
+<tr><td>THE SWIM SIDE PTE. LTD.</td><td>ADMINISTRATIVE & MARKETING ASSISTANT</td><td>Singapore</td><td>2026-10-19</td></tr>
 </table>
