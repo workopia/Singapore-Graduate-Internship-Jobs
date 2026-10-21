@@ -9,11 +9,11 @@
   "site_slug": "singapore",
   "lang": "en",
   "site_live": true,
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "window_days": 60,
   "total_site_jobs_str": "8.0M+",
   "country_live_total": 22934,
-  "generated_at": "2026-10-20T00:15:50.764Z"
+  "generated_at": "2026-10-21T01:40:11.048Z"
  },
  "categories": [
   {
@@ -1728,7 +1728,7 @@
    "id": "75ae0e753583d90c",
    "source": "Workopia",
    "company_name": "SINBOR COMPANY (PRIVATE) LIMITED",
-   "company_hi_slug": null,
+   "company_hi_slug": "sinbor-company-private-limited",
    "title": "Management Associate",
    "location": "Singapore",
    "skills": "Corporate project supp, Financial analysis",
@@ -2612,7 +2612,7 @@
    "id": "22654ac9dc3e5deb",
    "source": "Workopia",
    "company_name": "PREMIUM INDUSTRIES RESOURCES",
-   "company_hi_slug": null,
+   "company_hi_slug": "premium-industries-resources",
    "title": "Management Associate",
    "location": "Islandwide",
    "skills": "rotating shifts, hands-on operations",
