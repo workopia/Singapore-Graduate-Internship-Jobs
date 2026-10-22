@@ -21631,4 +21631,44 @@
 <tr><td>AUDERE MARKETING</td><td>📊 Full-Time Events & Marketing Associate (Weekly Pay / Entry Level)</td><td>D01 Marina</td><td>2026-10-21</td></tr>
 <tr><td>AURATALENTSG</td><td>💞{NO EXPERIENCE NEEDED} Junior Marketing Coordinator 💞</td><td>D05 Pasir Panjang</td><td>2026-10-21</td></tr>
 <tr><td>ELEVATEH ORG</td><td>Marketing Campaign leader 😎🤩 ( No Experience required )</td><td>Marina +4</td><td>2026-10-21</td></tr>
+<tr><td>TikTok</td><td>Fmcg Category Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Monetization Strategy & Operations Project Intern (gbs) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Ecosystem Issue Discovery Project Intern (content Ecosystem) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop Governance Operation Project Intern (sea Experience) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Agency Operations - Shop Tab Project Intern (tiktok Shop) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Sea Governance Operations Project Intern (response Management) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Sea Governance Operations Project Intern (policy & Education) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Medical & Professional Affairs Communications Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Regional Medical & Professional Affairs Optometry Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Operations Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Regional Credit Analyst Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Legal Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Media Executive Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Regional Corporate Communications Intern, Seak</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Onesight Sea Business Administration Intern</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Regional Brand Business Marketing Intern, Licensed Brands (seak)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Marketing Intern (frames)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>EssilorLuxottica</td><td>Marketing Intern (lens)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Chemical Mechanical Planarization Process Engineering</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Fe Materials Procurement Operations</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>XILINX ASIA PACIFIC PTE. LTD.</td><td>Junior Agentic AI Software Development Engineer</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>GOOGLE ASIA PACIFIC PTE. LTD.</td><td>Software Engineer II, Content Safety - Singapore</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TikTok</td><td>Research Engineer (ai Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (phd)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant/Associate (AI/ML and Medical Image Analysis)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>STMicroelectronics</td><td>Assistant Maintenance Engineer</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>PSA CORPORATION LIMITED</td><td>Service Engineer (SCADA)</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>OCTOPACK SEA PTE. LTD.</td><td>Service Technician</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>CCOOL INDUSTRIES PTE. LTD.</td><td>Technician</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>SUPREME POWER PTE. LTD.</td><td>SERVICE TECHNICIAN / SERVICE ENGINEER @ Toa Payoh</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>TECNISCO ADVANCED MATERIALS PTE. LTD.</td><td>Vapor Deposition Technician</td><td>Jurong Island</td><td>2026-10-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Electronic Test Technician (6m contract/ Woodlands) #HAC</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Semiconductor Equipment Technician, 2 shifts #HJN</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>Nu Skin</td><td>Warehouse Assistant</td><td>Central Singapore</td><td>2026-10-22</td></tr>
+<tr><td>Interactive Brokers Group, Inc.</td><td>Client Services Associate I</td><td>Harbourfront</td><td>2026-10-22</td></tr>
+<tr><td>John Hancock</td><td>Analyst/ Associate, Retail Partnerships And Distribution</td><td>Singapore</td><td>2026-10-22</td></tr>
+<tr><td>GROWTH SYNDICATE</td><td>No experience? Come join us! ✨ SALES SUPERHERO ✨</td><td>Islandwide</td><td>2026-10-22</td></tr>
+<tr><td>GROWTH SYNDICATE</td><td>💼 Junior Corporate Sales / Training provided</td><td>Islandwide</td><td>2026-10-22</td></tr>
+<tr><td>UOB Group</td><td>Business Support Admin</td><td>North</td><td>2026-10-22</td></tr>
+<tr><td>NXTLVL.UP</td><td>Junior Events & Marketing Rep (Training Provided)</td><td>Islandwide</td><td>2026-10-22</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Logistics Admin (5 days / Jurong West / Transport Provided)</td><td>Singapore</td><td>2026-10-22</td></tr>
 </table>
