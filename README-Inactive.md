@@ -22026,4 +22026,57 @@
 <tr><td>NOVEX ORGANIZATION</td><td>[🌈FUN CULTURE🌈] ASSISTANT CAMPAIGN SPECIALIST</td><td>Singapore</td><td>2026-10-22</td></tr>
 <tr><td>CRECER SOLUTIONS</td><td>[Entry Level] Marketing Assistant😎☺️</td><td>Singapore</td><td>2026-10-22</td></tr>
 <tr><td>ANRADUS PTE. LTD.</td><td>Spare Parts Coordinator #10200</td><td>Islandwide</td><td>2026-10-22</td></tr>
+<tr><td>FOMO PAY PTE. LTD.</td><td>Operations Intern</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>Cisco</td><td>Amplify Marketing Specialist Intern, Singapore</td><td>Central Singapore</td><td>2026-10-24</td></tr>
+<tr><td>ALLIANCE GLOBAL DISTRIBUTION PTE. LTD.</td><td>Marketing Intern (6 Months)</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>KOSE SINGAPORE PTE LTD</td><td>Marketing Intern</td><td>D09 Cairnhill</td><td>2026-10-24</td></tr>
+<tr><td>WINGSOVERASIA PTE. LTD.</td><td>Facility & Asset Management Intern</td><td>Seletar</td><td>2026-10-24</td></tr>
+<tr><td>FIRST PAGE DIGITAL PTE. LTD.</td><td>Brand Marketing Intern</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>Cisco UK</td><td>Amplify Marketing Specialist Intern, Singapore</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>ZwillGen</td><td>Commercial Intern, Cnbc International (2027 January - June)</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>ZwillGen</td><td>Content Studio Intern, Cnbc International (2027 January - June)</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>EssilorLuxottica</td><td>Retail Operations Management Intern</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>Emploisgevernovahydro</td><td>Production Planning And Digitalization Intern</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>pepperl-fuchs</td><td>Supply Chain Planning Internship</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>E-commerce & Marketing Intern, Sea</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>STRIVE MARKETING GROUP</td><td>WE’RE HIRING: ENTREPRENEURSHIP TRAINEE</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>ELEVATING STUDIO PTE. LTD.</td><td>Software Engineer – Full-Stack Development & AI-Assisted Engineering</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>BYTEDANCE PTE. LTD.</td><td>Backend Engineer, Search Growth Rec Architecture (ByteDance Singapore)</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>BYTEDANCE PTE. LTD.</td><td>Backend Engineer, Live Recommendation Architecture (ByteDance Singapore)</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>NSEARCH GLOBAL PTE. LTD.</td><td>Data Scientist</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>Procter & Gamble</td><td>Finance & Accounting Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>P&G</td><td>Finance & Accounting Intern - P&g Management Internship Program (summer 2027)</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>GENINNOV PTE. LTD.</td><td>Analyst (Junior/Intern) - Fund Operations & Settlements</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>Randstad Singapore</td><td>Business Analyst</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>K.S. NG & CO</td><td>Audit Associate</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>BGC GROUP PTE. LTD.</td><td>Auditor / 3-Month Contract / Multi-Site Audit</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Enrolled Nurse / Nursing Aide - Eldercare / ADL / Rehab / Bukit Panjang/ 5 days!!/ $2.7k</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>ELITE DENTAL GROUP SINGAPORE PTE. LTD.</td><td>Dental Assistant</td><td>D09 Cairnhill</td><td>2026-10-24</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Tampines Temp Dental Assistant / NO EXPERIENCE REQUIRED /10.5/hr - 13/hr #HYT</td><td>Orchard</td><td>2026-10-24</td></tr>
+<tr><td>ENVIRODYNAMICS SOLUTIONS PTE. LTD.</td><td>Dental Assistant (Office Hours / 5 days)</td><td>Jurong Island</td><td>2026-10-24</td></tr>
+<tr><td>SEARCH AVENUE PRIVATE LIMITED</td><td>Dental Assistant</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>Applied Materials</td><td>Manufacturing Technician</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>SHARE RESOURCES PRIVATE LIMITED</td><td>Technician (Aerospace)</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>SHARE RESOURCES PRIVATE LIMITED</td><td>Building technician</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>GLOBAL COPIER RESOURCE PTE. LTD.</td><td>Copier Technician & Warehouse Coordinator</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 [NO EXPERIENCE] FUN SALES ASSOCIATE 🌈</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌟 [NO EXPERIENCE REQ] FUN SALES ASSOCIATE 🌟</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>Event and Sales Coordinator</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>RENDER PRIVATE LIMITED</td><td>Warehouse Assistant</td><td>Jurong Island +2</td><td>2026-10-24</td></tr>
+<tr><td>GEODIS SINGAPORE PTE. LTD.</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>(Entry-Level) 🌈 Customer Service Events Coordinator 🌈</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Events Management & Sales (Entry Level - Training Provided) 🌈</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 Fun Events Executive 🌈 (Training Provided - Entry Level)</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>Customer Engagement & Events Executive / Grow With Us</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>ONE01</td><td>🔥 EVENTS & MARKETING 🔥</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌟 (Training Provided) Events Coordinator Executives 🌟</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>🔮Events Marketing Associate [Growth & Development] 🔮</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>🌟Event & Marketing Exec [Entry-Level] 🌟</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌈 BRAND MARKETING ASSISTANT (TRAINING PROVIDED) 🌈</td><td>D01 Marina</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌟 (Training Providing) Brand Marketing Assistant 🌟</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>AURATALENTSG</td><td>🌟 Junior Marketing Associate (Leadership Opportunities) 🌟</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>SEACARE MANPOWER SERVICES PTE LTD</td><td>Training Programme Administrative Assistant (Buona Vista)</td><td>Singapore</td><td>2026-10-24</td></tr>
+<tr><td>ONE01</td><td>🔥 MARKETING & EVENTS EXECUTIVE 🔥</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>ONE01</td><td>🌈 EVENTS & MARKETING COORDINATOR 🌈</td><td>Islandwide</td><td>2026-10-24</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>EVENTS👥</td><td>Singapore</td><td>2026-10-24</td></tr>
 </table>
