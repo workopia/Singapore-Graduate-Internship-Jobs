@@ -1,12 +1,54 @@
 {
- "asOf": "2026-10-25",
- "count": 953,
+ "asOf": "2026-10-26",
+ "count": 952,
  "jobs": {
   "44236241": {
    "id": "44236241",
    "company": "HP",
    "role": "College Intern - Business Analyst",
    "location": "South West"
+  },
+  "2f6d0128fcc13d4e92362bbd6c22658e": {
+   "id": "2f6d0128fcc13d4e92362bbd6c22658e",
+   "company": "Koch Minerals & Trading",
+   "role": "Shipping Intern",
+   "location": "Singapore"
+  },
+  "69054baf0f63937a74f2191cbc51627a": {
+   "id": "69054baf0f63937a74f2191cbc51627a",
+   "company": "DBS Bank",
+   "role": "2027 Dbs Internship (business And Support Units)",
+   "location": "Central"
+  },
+  "edda71a31d227ea055163e3077d3867f": {
+   "id": "edda71a31d227ea055163e3077d3867f",
+   "company": "Siemens Pte Ltd",
+   "role": "Marketing Communications Intern",
+   "location": "Singapore"
+  },
+  "56c4c4b778e7f76e580d3aa8cf7f5c2d": {
+   "id": "56c4c4b778e7f76e580d3aa8cf7f5c2d",
+   "company": "Siemens Mobility Pte Ltd",
+   "role": "Project Management Intern - Signalling",
+   "location": "Singapore"
+  },
+  "1864f5259411c1b60288d6f3329b187c": {
+   "id": "1864f5259411c1b60288d6f3329b187c",
+   "company": "FINN Partners",
+   "role": "Intern",
+   "location": "Singapore"
+  },
+  "1b2a8d1335248677c676525169b2cc74": {
+   "id": "1b2a8d1335248677c676525169b2cc74",
+   "company": "FINN Partners",
+   "role": "Pr Intern",
+   "location": "Singapore"
+  },
+  "859b1814ece3b7bbe8eacb46e6f0d62c": {
+   "id": "859b1814ece3b7bbe8eacb46e6f0d62c",
+   "company": "Doctor Anywhere Pte Ltd",
+   "role": "[sg] Hr Intern (regional Payroll)",
+   "location": "Singapore"
   },
   "4fe0c39be519dddd4e6057d0a71eaf74": {
    "id": "4fe0c39be519dddd4e6057d0a71eaf74",
@@ -158,6 +200,12 @@
    "role": "Financial Accounting And Analysis Intern",
    "location": "Capitasky"
   },
+  "e68924d0007637180d23fef3ba4b8726": {
+   "id": "e68924d0007637180d23fef3ba4b8726",
+   "company": "Givaudan",
+   "role": "Apac Supply Chain Intern",
+   "location": "Singapore"
+  },
   "436927a838898c6d6dd9242825465d81": {
    "id": "436927a838898c6d6dd9242825465d81",
    "company": "PSA International Pte Ltd",
@@ -234,18 +282,6 @@
    "id": "ee51229fba5bc42a",
    "company": "VINTEDGE PTE LTD",
    "role": "Marketing Internship （Lead Generation)",
-   "location": "Singapore"
-  },
-  "edda71a31d227ea055163e3077d3867f": {
-   "id": "edda71a31d227ea055163e3077d3867f",
-   "company": "Siemens",
-   "role": "Marketing Communications Intern",
-   "location": "Singapore"
-  },
-  "56c4c4b778e7f76e580d3aa8cf7f5c2d": {
-   "id": "56c4c4b778e7f76e580d3aa8cf7f5c2d",
-   "company": "Siemens",
-   "role": "Project Management Intern - Signalling",
    "location": "Singapore"
   },
   "5b653957049c04dec086ff287cd60386": {
@@ -452,40 +488,16 @@
    "role": "Tencent Cloud - Edge Platform Product Solutions Architecture Intern - Singapore 107927",
    "location": "Singapore"
   },
-  "892334df3f27ed54d5aeb63561d3537a": {
-   "id": "892334df3f27ed54d5aeb63561d3537a",
-   "company": "Tencent",
-   "role": "Hr Generalist Intern 107933",
+  "22ba269933800651b7bae5d2e7710ca0": {
+   "id": "22ba269933800651b7bae5d2e7710ca0",
+   "company": "DBS Bank",
+   "role": "2027 Management Associate Programme (business And Support Units)",
    "location": "Singapore"
   },
-  "047a538f1417bf7921612428d81e9cb5": {
-   "id": "047a538f1417bf7921612428d81e9cb5",
-   "company": "Tencent",
-   "role": "Wechat Pay - Business Development Intern 107949",
-   "location": "Singapore"
-  },
-  "2b2b68a55d036edb76d79885a4c65bad": {
-   "id": "2b2b68a55d036edb76d79885a4c65bad",
-   "company": "Tencent",
-   "role": "Global Talent Sourcing Intern 108178",
-   "location": "Singapore"
-  },
-  "c0e0e187dd9658ee609d4877848004f4": {
-   "id": "c0e0e187dd9658ee609d4877848004f4",
-   "company": "TikTok",
-   "role": "Product Partnerships Project Intern (monetization) - 2026 Start (bs/ms)",
-   "location": "Singapore"
-  },
-  "5cbcd12f2466ec5f6fb52175d53f5468": {
-   "id": "5cbcd12f2466ec5f6fb52175d53f5468",
-   "company": "TikTok",
-   "role": "Tiktok Shop - Governance Operation Project Intern (content Governance) - 2026 Start (bs/ms)",
-   "location": "Singapore"
-  },
-  "d3addb032397062823f38a1b38e08fd6": {
-   "id": "d3addb032397062823f38a1b38e08fd6",
-   "company": "TikTok",
-   "role": "Brand Product Operation Project Intern (global Business Solutions) - 2026 Start (bs/ms)",
+  "cb0f8be29f3c6dfa973a19f7191261ea": {
+   "id": "cb0f8be29f3c6dfa973a19f7191261ea",
+   "company": "Certis",
+   "role": "Management Associate",
    "location": "Singapore"
   },
   "5ca49eccb15fd466": {
@@ -956,18 +968,6 @@
    "role": "Management Trainee – Warehouse & Inventory Operations",
    "location": "Singapore"
   },
-  "a5396aa22a92119fcfa807c8f3e94dce": {
-   "id": "a5396aa22a92119fcfa807c8f3e94dce",
-   "company": "Amadeus",
-   "role": "Account Management Associate",
-   "location": "Singapore"
-  },
-  "d6bc2982e4814c35": {
-   "id": "d6bc2982e4814c35",
-   "company": "EQUE PTE. LTD.",
-   "role": "Management Admin (Entry Level) - Training provided!",
-   "location": "Islandwide"
-  },
   "ff596c747da9e111d93d88b397c3c2d5": {
    "id": "ff596c747da9e111d93d88b397c3c2d5",
    "company": "TikTok",
@@ -1178,6 +1178,30 @@
    "role": "Early Career Cyber Defense Centre Analyst, Officer-1",
    "location": "Singapore"
   },
+  "a3704d53561be4efb3be47cfd25abd62": {
+   "id": "a3704d53561be4efb3be47cfd25abd62",
+   "company": "DBS Bank",
+   "role": "Svp, Full Stack Engineer (servicing), Wealth Management Technology, Group Technology",
+   "location": "Central"
+  },
+  "63523782668590fe80bb0b849986b8e2": {
+   "id": "63523782668590fe80bb0b849986b8e2",
+   "company": "DBS Bank",
+   "role": "Svp/vp, Full Stack Engineer (advisory), Wealth Management Technology, Group Technology",
+   "location": "Singapore"
+  },
+  "4567d4e9921e64ac27db34c729260124": {
+   "id": "4567d4e9921e64ac27db34c729260124",
+   "company": "Shipfix",
+   "role": "Software Support Analyst",
+   "location": "Singapore"
+  },
+  "56a0a36a392b81db5c5c66f97cb15574": {
+   "id": "56a0a36a392b81db5c5c66f97cb15574",
+   "company": "Micron Technology",
+   "role": "Nti Process Integration Technical Specialist",
+   "location": "Singapore"
+  },
   "51241430df68011aac5217609ad58c9a": {
    "id": "51241430df68011aac5217609ad58c9a",
    "company": "Dell Technologies",
@@ -1273,6 +1297,12 @@
    "company": "CLPS GLOBAL INFOTECH PTE. LTD.",
    "role": "System Analyst",
    "location": "Singapore"
+  },
+  "ac8c97ca668c3075": {
+   "id": "ac8c97ca668c3075",
+   "company": "RMA CONTRACTS PTE. LTD.",
+   "role": "Desktop Support Executive / Govt Sector / West / Contract",
+   "location": "Islandwide"
   },
   "f92e63eccd795a46": {
    "id": "f92e63eccd795a46",
@@ -1627,36 +1657,6 @@
    "company": "TRULYYY PTE. LTD.",
    "role": "Backend Engineer",
    "location": "Singapore"
-  },
-  "8c741c76a67199be": {
-   "id": "8c741c76a67199be",
-   "company": "XTREMAX PTE. LTD.",
-   "role": "Full Stack Engineer",
-   "location": "Singapore"
-  },
-  "d532334be06d1bf3": {
-   "id": "d532334be06d1bf3",
-   "company": "ACTIVATE INTERACTIVE PTE LTD",
-   "role": "Full Stack Engineer - A26397",
-   "location": "Singapore"
-  },
-  "078cb58ae257dd69cde31d8c59a13f9e": {
-   "id": "078cb58ae257dd69cde31d8c59a13f9e",
-   "company": "Activate Interactive",
-   "role": "Full Stack Engineer - A26397",
-   "location": "Singapore"
-  },
-  "3f484ba9ba84c6d2": {
-   "id": "3f484ba9ba84c6d2",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "IT Support Engineer #10379",
-   "location": "Islandwide"
-  },
-  "1203b011fd09d7db": {
-   "id": "1203b011fd09d7db",
-   "company": "RAPSYS TECHNOLOGIES PTE. LTD.",
-   "role": "IT Support/ Desktop Support",
-   "location": "Islandwide"
   },
   "034c20cbb7294203e1e0bc0dd5a923ad": {
    "id": "034c20cbb7294203e1e0bc0dd5a923ad",
@@ -2018,12 +2018,6 @@
    "role": "Intern, Data Analyst (operational Technology)",
    "location": "Singapore"
   },
-  "cb111b881b556217": {
-   "id": "cb111b881b556217",
-   "company": "CLEANTECH SOLAR DEVELOPMENT COMPANY PTE. LTD.",
-   "role": "Business Intelligence Analyst Intern (IT Department)",
-   "location": "Singapore"
-  },
   "abadc4e5c4780c3ddf60b73fbdb860a4": {
    "id": "abadc4e5c4780c3ddf60b73fbdb860a4",
    "company": "TikTok",
@@ -2112,6 +2106,30 @@
    "id": "4c6507da25cfbe2c070f8118c56fa3ba",
    "company": "TikTok Shop",
    "role": "LLM & Agent Algorithm Graduate (Search) - 2027 Start (PhD)",
+   "location": "Singapore"
+  },
+  "ad2c704c961b7654eb44e195947202a2": {
+   "id": "ad2c704c961b7654eb44e195947202a2",
+   "company": "DBS Bank",
+   "role": "Avp, Ai Engineer, Global Financial Market Technology, Group Technology",
+   "location": "Central"
+  },
+  "b7627b2ed5d94bb64392e23bec4c4039": {
+   "id": "b7627b2ed5d94bb64392e23bec4c4039",
+   "company": "SAP SE",
+   "role": "Forward Deployed Data Science Expert",
+   "location": "Singapore"
+  },
+  "e25a3b462f4d851130452c3b5b6923b9": {
+   "id": "e25a3b462f4d851130452c3b5b6923b9",
+   "company": "Micron Technology",
+   "role": "Automation Engineer",
+   "location": "Singapore"
+  },
+  "131050b48c9f5dc2a78be1ef14f77685": {
+   "id": "131050b48c9f5dc2a78be1ef14f77685",
+   "company": "Micron Technology",
+   "role": "F10 Probe Automation Engineer",
    "location": "Singapore"
   },
   "7d434069e8db0d42dc97a5a3214a15af": {
@@ -2569,30 +2587,6 @@
    "company": "EXCELTECH COMPUTERS PTE. LTD.",
    "role": "Data Analyst-HEALIX",
    "location": "Bouna Vista"
-  },
-  "27a7cfa19003b649": {
-   "id": "27a7cfa19003b649",
-   "company": "ADECCO PERSONNEL PTE LTD",
-   "role": "Maintenance Data Analyst / Up to $5,000 / Completion Bonus",
-   "location": "Singapore"
-  },
-  "0a2b2d677cc6b615": {
-   "id": "0a2b2d677cc6b615",
-   "company": "KOPI RECRUIT PTE. LTD.",
-   "role": "Data Scientist",
-   "location": "Islandwide"
-  },
-  "fd2b03003daa550f": {
-   "id": "fd2b03003daa550f",
-   "company": "USER EXPERIENCE RESEARCHERS PTE. LTD.",
-   "role": "Associate Data Scientist",
-   "location": "Singapore"
-  },
-  "cfb15540edb96148": {
-   "id": "cfb15540edb96148",
-   "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
-   "role": "AI Developer",
-   "location": "Islandwide"
   },
   "e31c665e832c7bec910d03e17246c99c": {
    "id": "e31c665e832c7bec910d03e17246c99c",
@@ -3320,6 +3314,24 @@
    "role": "Graduate Internal Audit Consultant",
    "location": "D06 Beach Road"
   },
+  "abbf5c547affae2d6f251c7e02b47729": {
+   "id": "abbf5c547affae2d6f251c7e02b47729",
+   "company": "DBS Bank",
+   "role": "Analyst/associate, Securities Reference Data Control Specialist, Operation Data Governance Team, Global Financial Markets Ops, Group Operations",
+   "location": "Singapore"
+  },
+  "5a2594c8f174b2ac3edab8a361abf43c": {
+   "id": "5a2594c8f174b2ac3edab8a361abf43c",
+   "company": "DBS Bank",
+   "role": "Associate, Global Financial Markets Credit, Risk Management Group",
+   "location": "Central"
+  },
+  "5518d0fe97f38d0c4aa4d7710dfffe0e": {
+   "id": "5518d0fe97f38d0c4aa4d7710dfffe0e",
+   "company": "DBS Bank",
+   "role": "Sa, Technical Business Analyst, Future Ready Technology, Group Technology",
+   "location": "East"
+  },
   "2e4615794df3d7f55dd673a077404b43": {
    "id": "2e4615794df3d7f55dd673a077404b43",
    "company": "HarbourVest Inc",
@@ -3415,6 +3427,12 @@
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
    "role": "[0580] Accounts Assistant - Clementi / 5 days/ $3k",
    "location": "Singapore"
+  },
+  "2ec553bb6de72af1": {
+   "id": "2ec553bb6de72af1",
+   "company": "Singapore Business Federation",
+   "role": "Workforce Transformation Associate",
+   "location": "D01 Marina"
   },
   "fa5fa031571044565c0f1591711126a0": {
    "id": "fa5fa031571044565c0f1591711126a0",
@@ -3776,28 +3794,34 @@
    "role": "Accounts Assistant / AP&AR / West - 3972",
    "location": "Singapore"
   },
-  "76baea942cb38841803f5e05457a2e51": {
-   "id": "76baea942cb38841803f5e05457a2e51",
-   "company": "Deloitte",
-   "role": "T&l: Tax Associate - Transfer Pricing",
+  "8ea2d6ba7cead07cbb95e9a60535368c": {
+   "id": "8ea2d6ba7cead07cbb95e9a60535368c",
+   "company": "SAP SE",
+   "role": "Phd Research Associate (industry Phd Program) - Artificial Intelligence, Sap Labs Singapore",
    "location": "Singapore"
   },
-  "2099eaea250bdc06": {
-   "id": "2099eaea250bdc06",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "[0580] Accounting Officer [AP/AR] - Changi / $3.2k",
-   "location": "Changi"
+  "cbe79093088dd8d5e90b478892e965a9": {
+   "id": "cbe79093088dd8d5e90b478892e965a9",
+   "company": "Micron Technology",
+   "role": "Technologist - Chemical Lab",
+   "location": "Singapore"
   },
-  "98d990e10cc60ad9": {
-   "id": "98d990e10cc60ad9",
-   "company": "WECRUIT PTE. LTD.",
-   "role": "Accountant (West / Full Set) - [LL]",
-   "location": "West Region"
+  "4e1e26ab34193eb72f35e6e2b6723664": {
+   "id": "4e1e26ab34193eb72f35e6e2b6723664",
+   "company": "Doctor Anywhere Pte Ltd",
+   "role": "[sg] Pharmacy Assistant (part-time)",
+   "location": "Singapore"
   },
-  "aeae13d1fd588d4c": {
-   "id": "aeae13d1fd588d4c",
-   "company": "TAURUS INVESTMENT HOLDINGS PTE. LTD.",
-   "role": "Accountant",
+  "39884d3d8412404c34284208547e8737": {
+   "id": "39884d3d8412404c34284208547e8737",
+   "company": "Doctor Anywhere Pte Ltd",
+   "role": "[sg] Pharmacy Assistant",
+   "location": "Singapore"
+  },
+  "893988d433dd12fcbb47b018e9dcf12b": {
+   "id": "893988d433dd12fcbb47b018e9dcf12b",
+   "company": "Doctor Anywhere Pte Ltd",
+   "role": "Registered Nurse",
    "location": "Singapore"
   },
   "62ee29db4a3bc5da1773cdd9af373c31": {
@@ -3890,6 +3914,12 @@
    "role": "[Compounding Lab] Pharmacy Technician #HZT",
    "location": "Orchard"
   },
+  "d3fd17b206bd298a": {
+   "id": "d3fd17b206bd298a",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Pharmacy Technician / Assistant (Healthcare) #HAC",
+   "location": "Islandwide"
+  },
   "83f765de6b583126": {
    "id": "83f765de6b583126",
    "company": "RECRUIT EXPRESS PTE LTD",
@@ -3924,6 +3954,12 @@
    "id": "dcb7f95a6b2d668b",
    "company": "ANRADUS PTE. LTD.",
    "role": "Medical Assistant (Beauty Aesthetic Clinic) #78742",
+   "location": "Islandwide"
+  },
+  "b1fc90b95cea161a": {
+   "id": "b1fc90b95cea161a",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Contract Clinic Receptionist (Healthcare) #HAC",
    "location": "Islandwide"
   },
   "99530224c1a02e89": {
@@ -3978,6 +4014,12 @@
    "id": "d3e5d43c9cfde879",
    "company": "PERSOL SINGAPORE PTE. LTD.",
    "role": "Dental Assistant (West/Office Hour)(ID: 699906)",
+   "location": "Singapore"
+  },
+  "e5aeee303b3444ac": {
+   "id": "e5aeee303b3444ac",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Engineer II (Computer Science / Cyber Security / Artificial Intelligence)",
    "location": "Singapore"
   },
   "c3f9456e47ac447f": {
@@ -4232,52 +4274,160 @@
    "role": "Research Associate (In Vivo Neural Tissue Engineering)",
    "location": "Singapore"
   },
-  "a43b92670e018f72": {
-   "id": "a43b92670e018f72",
-   "company": "A*STAR RESEARCH ENTITIES",
-   "role": "Bioinformatician (JL Lab), IMCB (1548)",
+  "80cd23bb57e2a3773109be2b019b920d": {
+   "id": "80cd23bb57e2a3773109be2b019b920d",
+   "company": "Lam Research",
+   "role": "Field Service Engineer I",
    "location": "Singapore"
   },
-  "62fc975038d43d8c": {
-   "id": "62fc975038d43d8c",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Associate (Surgery)",
+  "b2a44fcdc1b3f600c139860bca42120f": {
+   "id": "b2a44fcdc1b3f600c139860bca42120f",
+   "company": "Micron Technology",
+   "role": "Msh Pee Fab Support Technician",
    "location": "Singapore"
   },
-  "075cbfce469b5e79": {
-   "id": "075cbfce469b5e79",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Engineer (Tumor Engineering)",
-   "location": "D05 Pasir Panjang"
-  },
-  "17032d238f9ed1d4": {
-   "id": "17032d238f9ed1d4",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Assistant (Computational Chemistry)",
+  "8348085371dc179c7265a51e5afa7e38": {
+   "id": "8348085371dc179c7265a51e5afa7e38",
+   "company": "Micron Technology",
+   "role": "Technologist - Fac Upw & Wwtp",
    "location": "Singapore"
   },
-  "45ff25662eaee106": {
-   "id": "45ff25662eaee106",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant on Scientific Intelligence (Computer Science)",
+  "cf9a1650a8cba3582db80d8c5b036802": {
+   "id": "cf9a1650a8cba3582db80d8c5b036802",
+   "company": "Micron Technology",
+   "role": "Technologist - F10 Manufacturing Shift Production",
    "location": "Singapore"
   },
-  "1aa80595077cf2bc": {
-   "id": "1aa80595077cf2bc",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Assistant (Computer Science/Computer Engineering/Electronics Engineering/AI/Machine Learning)",
+  "6875b67fac7b5f50be713176386c3e34": {
+   "id": "6875b67fac7b5f50be713176386c3e34",
+   "company": "Micron Technology",
+   "role": "Technician, Process Integration And Yield",
    "location": "Singapore"
   },
-  "307f11f33b15aa56": {
-   "id": "307f11f33b15aa56",
-   "company": "BGC GROUP PTE. LTD.",
-   "role": "Research and Policy Assistant (Women’s Development) (12-Month Contract / SGD 3200 - SGD 3,300) - JO 29319",
+  "c29baa123270ed9f8cda5f23116c737a": {
+   "id": "c29baa123270ed9f8cda5f23116c737a",
+   "company": "Micron Technology",
+   "role": "Technician, Metrology & Realtime Defects Analysis (mrda)",
    "location": "Singapore"
   },
-  "01c78984c76d01c9": {
-   "id": "01c78984c76d01c9",
-   "company": "TEMASEK LIFE SCIENCES LABORATORY LIMITED",
-   "role": "Dr Gregory Jedd Group: Assistant Research Officer",
+  "551675199c442e1c54b4ab57d2ea32bc": {
+   "id": "551675199c442e1c54b4ab57d2ea32bc",
+   "company": "Micron Technology",
+   "role": "Technician, Electrical Failure Analysis (efa)/physical Failure Analysis (pfa)",
+   "location": "Singapore"
+  },
+  "ac5db6943e573f4e3ccd411058ae4df4": {
+   "id": "ac5db6943e573f4e3ccd411058ae4df4",
+   "company": "Micron Technology",
+   "role": "Manufacturing Technician",
+   "location": "Singapore"
+  },
+  "77e16aef4a89a11a221349e577ced361": {
+   "id": "77e16aef4a89a11a221349e577ced361",
+   "company": "Micron Technology",
+   "role": "Facilities Building Services Technician",
+   "location": "Singapore"
+  },
+  "57b8c1ba8f3e11119fd51e1bef021f1b": {
+   "id": "57b8c1ba8f3e11119fd51e1bef021f1b",
+   "company": "Micron Technology",
+   "role": "Technician - F10 Failure Analysis",
+   "location": "Singapore"
+  },
+  "4c6253f319b2858a796e5175309e8c72": {
+   "id": "4c6253f319b2858a796e5175309e8c72",
+   "company": "Micron Technology",
+   "role": "Technologist - F10 Mfg Equipment",
+   "location": "Singapore"
+  },
+  "1cf841a59d579c9a3c363eecaf5803c1": {
+   "id": "1cf841a59d579c9a3c363eecaf5803c1",
+   "company": "Micron Technology",
+   "role": "Technician, Msh Contamination Control & Esd",
+   "location": "Singapore"
+  },
+  "3311b83d36765b35ce327bc4b84acf1d": {
+   "id": "3311b83d36765b35ce327bc4b84acf1d",
+   "company": "Micron Technology",
+   "role": "Equipment Technician",
+   "location": "Singapore"
+  },
+  "1f5ef8500ff1eb7e66618a2d2eb927d4": {
+   "id": "1f5ef8500ff1eb7e66618a2d2eb927d4",
+   "company": "Micron Technology",
+   "role": "Msh Metrology & Real-time Defect Analysis Technician",
+   "location": "Singapore"
+  },
+  "49b66709df27c75714fdae1af1dfca60": {
+   "id": "49b66709df27c75714fdae1af1dfca60",
+   "company": "Micron Technology",
+   "role": "Technician - F10 Manufacturing Production",
+   "location": "Singapore"
+  },
+  "074e26941338969f0729f11bd43dcc67": {
+   "id": "074e26941338969f0729f11bd43dcc67",
+   "company": "Micron Technology",
+   "role": "Technician, Process And Equipment (post Wafer Fabrication)",
+   "location": "Singapore"
+  },
+  "3943106c335bf2369f9311ffa6ceae1f": {
+   "id": "3943106c335bf2369f9311ffa6ceae1f",
+   "company": "Micron Technology",
+   "role": "Facilities Operations Technicians",
+   "location": "Singapore"
+  },
+  "e2360c16dd366901bfb81850e6e459cb": {
+   "id": "e2360c16dd366901bfb81850e6e459cb",
+   "company": "Micron Technology",
+   "role": "Facilities Technician",
+   "location": "Singapore"
+  },
+  "9d6d76e22e364107ccfa1f37451f82c6": {
+   "id": "9d6d76e22e364107ccfa1f37451f82c6",
+   "company": "Micron Technology",
+   "role": "Technician, Process Control Systems (pcs)",
+   "location": "Singapore"
+  },
+  "220c08e5b94916667f2c9f7c5c9cd152": {
+   "id": "220c08e5b94916667f2c9f7c5c9cd152",
+   "company": "Micron Technology",
+   "role": "Technician - F10 Pee Odt",
+   "location": "Singapore"
+  },
+  "a47ba7446be030fce9e978588c29990b": {
+   "id": "a47ba7446be030fce9e978588c29990b",
+   "company": "Micron Technology",
+   "role": "F10 Robotics & Automation Technician",
+   "location": "Singapore"
+  },
+  "66642e897d5faf00eb7ec3a1a542c5d9": {
+   "id": "66642e897d5faf00eb7ec3a1a542c5d9",
+   "company": "Micron Technology",
+   "role": "Technologist - F10 Probe Equipment",
+   "location": "Singapore"
+  },
+  "6bea84257cdfdca3cdeceef25b257934": {
+   "id": "6bea84257cdfdca3cdeceef25b257934",
+   "company": "Micron Technology",
+   "role": "Metrology & Real-time Defect Analysis Technician",
+   "location": "Singapore"
+  },
+  "2738bc4587eee4094a22a5cf400ea57c": {
+   "id": "2738bc4587eee4094a22a5cf400ea57c",
+   "company": "Micron Technology",
+   "role": "Technician - Facilities Operations",
+   "location": "Singapore"
+  },
+  "c823a1d509ca712284bd2494602cda2e": {
+   "id": "c823a1d509ca712284bd2494602cda2e",
+   "company": "Micron Technology",
+   "role": "Technologist - Probe Equipment",
+   "location": "Singapore"
+  },
+  "8a99b34a151a0397dc1391855dce1cf1": {
+   "id": "8a99b34a151a0397dc1391855dce1cf1",
+   "company": "Micron Technology",
+   "role": "Technician, Assembly",
    "location": "Singapore"
   },
   "1efe949c0c1da8b14702bfaf01e2fe48": {
@@ -4604,160 +4754,16 @@
    "role": "Building Technician",
    "location": "Singapore"
   },
-  "ea0996c310b536bfd81f9cfdb8c7204f": {
-   "id": "ea0996c310b536bfd81f9cfdb8c7204f",
-   "company": "Micron Technology Inc",
-   "role": "Equipment Maintenance Technician",
-   "location": "Msb"
+  "9bf4262011f6839df567ce009e7be524": {
+   "id": "9bf4262011f6839df567ce009e7be524",
+   "company": "DBS Bank",
+   "role": "Analyst/ Associate, Customer Service Officer, Customer Centre, Group Csh, Group Coo",
+   "location": "East"
   },
-  "4d1d53c268a3066280ab8f783b8238b8": {
-   "id": "4d1d53c268a3066280ab8f783b8238b8",
-   "company": "CUSHMAN & WAKEFIELD",
-   "role": "Building Trades Worker",
-   "location": "Singapore"
-  },
-  "b4fe31bc5db5a8637688a62b7568e1d2": {
-   "id": "b4fe31bc5db5a8637688a62b7568e1d2",
-   "company": "Lam Research",
-   "role": "Field Service Engineer (for Hiring Event In Malacca)",
-   "location": "Malacca +1"
-  },
-  "dd7e76a7a900808e314e56cdf4609a97": {
-   "id": "dd7e76a7a900808e314e56cdf4609a97",
-   "company": "Lam Research",
-   "role": "Field Service Engineer 1",
-   "location": "Singapore"
-  },
-  "e42e76aecaf394fd295c374efd540cd4": {
-   "id": "e42e76aecaf394fd295c374efd540cd4",
-   "company": "Lam Research",
-   "role": "Field Service Engineer (for Hiring Event In Vietnam)",
-   "location": "Singapore"
-  },
-  "2209b4268c611dd145fd858d1c004c34": {
-   "id": "2209b4268c611dd145fd858d1c004c34",
-   "company": "GlobalFoundries",
-   "role": "Associate Engineer, Equipment Engineering",
-   "location": "Singapore"
-  },
-  "1cdf9b5b127e4455": {
-   "id": "1cdf9b5b127e4455",
-   "company": "BELFOR RESTORATION SERVICES PTE. LTD.",
-   "role": "Equipment Technician",
-   "location": "Islandwide"
-  },
-  "fffe8192a83e5608": {
-   "id": "fffe8192a83e5608",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Plant Utilities Technician / Mechanical Maintenance Technician / HVAC & Facility Systems / Tuas Pharma MNC / UP $5K #HYT",
-   "location": "Tuas"
-  },
-  "e3eaca5ff5f82bda": {
-   "id": "e3eaca5ff5f82bda",
-   "company": "FONDA GLOBAL ENGINEERING PTE. LTD.",
-   "role": "Maintenance Engineer (Security System)",
-   "location": "Singapore"
-  },
-  "e326b78ada95aafd": {
-   "id": "e326b78ada95aafd",
-   "company": "CITY ENERGY PTE. LTD.",
-   "role": "Technician (Investigation & Maintenance)",
-   "location": "Singapore"
-  },
-  "f344190ca92ff41d": {
-   "id": "f344190ca92ff41d",
-   "company": "HAL COMPLETIONS MFG PTE. LTD.",
-   "role": "Maintenance Technician",
-   "location": "Singapore"
-  },
-  "0d0982a94daeb17b": {
-   "id": "0d0982a94daeb17b",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Industrial Wastewater Technician / Water Treatment Plant Operator / Tuas Pharma Manufacturing / UP $3.8K #HYT",
-   "location": "Singapore"
-  },
-  "50365511e6beb107": {
-   "id": "50365511e6beb107",
-   "company": "PERSOL TECH SERVICES PTE. LTD.",
-   "role": "Module Technician [NICL]",
-   "location": "Singapore"
-  },
-  "25f5405e76b0e872": {
-   "id": "25f5405e76b0e872",
-   "company": "PERSOL TECH SERVICES PTE. LTD.",
-   "role": "Preventive Maintenance Technician [NICL]",
-   "location": "Singapore"
-  },
-  "f6018d95bd69c0d5": {
-   "id": "f6018d95bd69c0d5",
-   "company": "HR FOCUS",
-   "role": "Facilities Technician",
-   "location": "Singapore"
-  },
-  "4ff1a759fda27075": {
-   "id": "4ff1a759fda27075",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "Maintenance Tech / BASIC UP TO 2.8K + ATTRACTIVE INCENTIVES / North side / 4343 - QY",
-   "location": "Singapore"
-  },
-  "a2195b8f6d42c0f1": {
-   "id": "a2195b8f6d42c0f1",
-   "company": "E M SERVICES PRIVATE LIMITED",
-   "role": "Technician (Lift Repair or Maintenance)",
-   "location": "Singapore"
-  },
-  "1147cd5000044f9b": {
-   "id": "1147cd5000044f9b",
-   "company": "FUJIFILM HEALTHCARE ASIA PACIFIC PTE. LTD.",
-   "role": "Field Service Engineer",
-   "location": "D05 Pasir Panjang"
-  },
-  "96c4a78f9c788070": {
-   "id": "96c4a78f9c788070",
-   "company": "MEDIAONLINE INTERNATIONAL PTE. LTD.",
-   "role": "Support Technician / Engineer",
-   "location": "D25 Kranji"
-  },
-  "c825d9280039984f": {
-   "id": "c825d9280039984f",
-   "company": "SPENCER OGDEN PTE. LTD.",
-   "role": "UPW Field Service Engineer",
-   "location": "Singapore"
-  },
-  "810a12a47b2c4614": {
-   "id": "810a12a47b2c4614",
-   "company": "EN-SYST EQUIPMENT & SERVICES PTE LTD",
-   "role": "Assistant Service/Test Engineer",
-   "location": "Jurong Island +1"
-  },
-  "b7db6f83dd89b83d": {
-   "id": "b7db6f83dd89b83d",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "Service Engineer #10477",
-   "location": "West Region"
-  },
-  "17a071e713a7fde7": {
-   "id": "17a071e713a7fde7",
-   "company": "EVOLUT HOLDINGS PTE. LTD.",
-   "role": "Water Purifier Technician",
-   "location": "Jurong Island +2"
-  },
-  "70811e08cb76e346": {
-   "id": "70811e08cb76e346",
-   "company": "IGM MAINTENANCE PTE. LTD.",
-   "role": "Service Engineer",
-   "location": "Singapore"
-  },
-  "7086d69a30619187": {
-   "id": "7086d69a30619187",
-   "company": "GRIFFIN HR CONSULTANCY PTE. LTD.",
-   "role": "(*Immediate Start*) Semicon Technician / Up to $2.8k+ICT / 3.5 Days / Woodlands - ZH",
-   "location": "Singapore"
-  },
-  "f3982188eda5a145": {
-   "id": "f3982188eda5a145",
-   "company": "AIM RECRUIT CONSULTANCY PTE. LIMITED",
-   "role": "Service Engineer (Medical Device) /Entry @Alexandra",
+  "a1e5eda211cad5ad52e4df08661b1344": {
+   "id": "a1e5eda211cad5ad52e4df08661b1344",
+   "company": "Doctor Anywhere Pte Ltd",
+   "role": "Patient Service Associate",
    "location": "Singapore"
   },
   "dac9b72c2de9e8c9": {
@@ -5228,18 +5234,6 @@
    "role": "Warehouse Assistant",
    "location": "D02 Anson"
   },
-  "780ee17c3e2d2f92": {
-   "id": "780ee17c3e2d2f92",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Warehouse Assistant – Logistics & Inventory Ops #HDCC",
-   "location": "Orchard"
-  },
-  "098262b7e75601a5": {
-   "id": "098262b7e75601a5",
-   "company": "MCI CAREER SERVICES PTE. LTD.",
-   "role": "Aerospace Warehouse Assistant",
-   "location": "Changi"
-  },
   "62582b34e96e7902": {
    "id": "62582b34e96e7902",
    "company": "AURATALENTSG",
@@ -5292,6 +5286,12 @@
    "id": "781e2ca5a8d7af98",
    "company": "AURATALENTSG",
    "role": "👾 BRAND MARKETING ASSISTANT (MENTORSHIP PROVIDED) 👾",
+   "location": "Singapore"
+  },
+  "f6cb8da2371d7b614738c6a27839be9c": {
+   "id": "f6cb8da2371d7b614738c6a27839be9c",
+   "company": "The GMP Group",
+   "role": "Research Administration Executive / Assistant",
    "location": "Singapore"
   },
   "7c3df691258f0e544dd5bf5e99827fd3": {
@@ -5400,6 +5400,12 @@
    "id": "cc4117eaf6e5f400",
    "company": "BUNGA KANTAN PTE. LTD.",
    "role": "Admin cum Account Executive (3 days/week)",
+   "location": "Singapore"
+  },
+  "090f46460b991918": {
+   "id": "090f46460b991918",
+   "company": "YE LIANG HOW CATERING SERVICE PTE. LTD.",
+   "role": "Administrative Assistant",
    "location": "Singapore"
   },
   "4d76b3e31aac8ce5": {
@@ -5707,18 +5713,6 @@
    "company": "STARTEAM PTE. LTD.",
    "role": "Executive Assistant to CEO (Administration & Licensing)",
    "location": "Singapore"
-  },
-  "5c24f37e23061188": {
-   "id": "5c24f37e23061188",
-   "company": "GRANDWORK INTERIOR PTE LTD",
-   "role": "Project Administrator",
-   "location": "D25 Kranji"
-  },
-  "79cf5b3928ea6210": {
-   "id": "79cf5b3928ea6210",
-   "company": "REALTEK ENGINEERING PTE. LTD.",
-   "role": "Coordinator",
-   "location": "Jurong Island"
   }
  }
 }

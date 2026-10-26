@@ -22440,4 +22440,64 @@
 <tr><td>ZEBRA BUILDERS PTE. LTD.</td><td>Project Admin Assistant</td><td>Singapore</td><td>2026-10-25</td></tr>
 <tr><td>Jurong Hospital</td><td>[Jurong Hospital] 1 Year Contract Exec Asst People Experience (Events/Learning & Development) - Up to $3500 #HLV</td><td>Orchard</td><td>2026-10-25</td></tr>
 <tr><td>3 STAR ENGINEERING PTE. LTD.</td><td>Coordinator</td><td>Islandwide</td><td>2026-10-25</td></tr>
+<tr><td>Tencent</td><td>Hr Generalist Intern 107933</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Tencent</td><td>Wechat Pay - Business Development Intern 107949</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Tencent</td><td>Global Talent Sourcing Intern 108178</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Product Partnerships Project Intern (monetization) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Tiktok Shop - Governance Operation Project Intern (content Governance) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>TikTok</td><td>Brand Product Operation Project Intern (global Business Solutions) - 2026 Start (bs/ms)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Amadeus</td><td>Account Management Associate</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>EQUE PTE. LTD.</td><td>Management Admin (Entry Level) - Training provided!</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>XTREMAX PTE. LTD.</td><td>Full Stack Engineer</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>ACTIVATE INTERACTIVE PTE LTD</td><td>Full Stack Engineer - A26397</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Activate Interactive</td><td>Full Stack Engineer - A26397</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>IT Support Engineer #10379</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>RAPSYS TECHNOLOGIES PTE. LTD.</td><td>IT Support/ Desktop Support</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>CLEANTECH SOLAR DEVELOPMENT COMPANY PTE. LTD.</td><td>Business Intelligence Analyst Intern (IT Department)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>ADECCO PERSONNEL PTE LTD</td><td>Maintenance Data Analyst / Up to $5,000 / Completion Bonus</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>KOPI RECRUIT PTE. LTD.</td><td>Data Scientist</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>USER EXPERIENCE RESEARCHERS PTE. LTD.</td><td>Associate Data Scientist</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>MICHAEL PAGE (PERSONNEL) PTE. LTD.</td><td>AI Developer</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>Deloitte</td><td>T&l: Tax Associate - Transfer Pricing</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Accounting Officer [AP/AR] - Changi / $3.2k</td><td>Changi</td><td>2026-10-26</td></tr>
+<tr><td>WECRUIT PTE. LTD.</td><td>Accountant (West / Full Set) - [LL]</td><td>West Region</td><td>2026-10-26</td></tr>
+<tr><td>TAURUS INVESTMENT HOLDINGS PTE. LTD.</td><td>Accountant</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>A*STAR RESEARCH ENTITIES</td><td>Bioinformatician (JL Lab), IMCB (1548)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Associate (Surgery)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Engineer (Tumor Engineering)</td><td>D05 Pasir Panjang</td><td>2026-10-26</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Computational Chemistry)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant on Scientific Intelligence (Computer Science)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Computer Science/Computer Engineering/Electronics Engineering/AI/Machine Learning)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>BGC GROUP PTE. LTD.</td><td>Research and Policy Assistant (Women’s Development) (12-Month Contract / SGD 3200 - SGD 3,300) - JO 29319</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>TEMASEK LIFE SCIENCES LABORATORY LIMITED</td><td>Dr Gregory Jedd Group: Assistant Research Officer</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Equipment Maintenance Technician</td><td>Msb</td><td>2026-10-26</td></tr>
+<tr><td>CUSHMAN & WAKEFIELD</td><td>Building Trades Worker</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Lam Research</td><td>Field Service Engineer (for Hiring Event In Malacca)</td><td>Malacca +1</td><td>2026-10-26</td></tr>
+<tr><td>Lam Research</td><td>Field Service Engineer 1</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>Lam Research</td><td>Field Service Engineer (for Hiring Event In Vietnam)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>GlobalFoundries</td><td>Associate Engineer, Equipment Engineering</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>BELFOR RESTORATION SERVICES PTE. LTD.</td><td>Equipment Technician</td><td>Islandwide</td><td>2026-10-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Plant Utilities Technician / Mechanical Maintenance Technician / HVAC & Facility Systems / Tuas Pharma MNC / UP $5K #HYT</td><td>Tuas</td><td>2026-10-26</td></tr>
+<tr><td>FONDA GLOBAL ENGINEERING PTE. LTD.</td><td>Maintenance Engineer (Security System)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>CITY ENERGY PTE. LTD.</td><td>Technician (Investigation & Maintenance)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>HAL COMPLETIONS MFG PTE. LTD.</td><td>Maintenance Technician</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Industrial Wastewater Technician / Water Treatment Plant Operator / Tuas Pharma Manufacturing / UP $3.8K #HYT</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>PERSOL TECH SERVICES PTE. LTD.</td><td>Module Technician [NICL]</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>PERSOL TECH SERVICES PTE. LTD.</td><td>Preventive Maintenance Technician [NICL]</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>HR FOCUS</td><td>Facilities Technician</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>Maintenance Tech / BASIC UP TO 2.8K + ATTRACTIVE INCENTIVES / North side / 4343 - QY</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>E M SERVICES PRIVATE LIMITED</td><td>Technician (Lift Repair or Maintenance)</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>FUJIFILM HEALTHCARE ASIA PACIFIC PTE. LTD.</td><td>Field Service Engineer</td><td>D05 Pasir Panjang</td><td>2026-10-26</td></tr>
+<tr><td>MEDIAONLINE INTERNATIONAL PTE. LTD.</td><td>Support Technician / Engineer</td><td>D25 Kranji</td><td>2026-10-26</td></tr>
+<tr><td>SPENCER OGDEN PTE. LTD.</td><td>UPW Field Service Engineer</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>EN-SYST EQUIPMENT & SERVICES PTE LTD</td><td>Assistant Service/Test Engineer</td><td>Jurong Island +1</td><td>2026-10-26</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Service Engineer #10477</td><td>West Region</td><td>2026-10-26</td></tr>
+<tr><td>EVOLUT HOLDINGS PTE. LTD.</td><td>Water Purifier Technician</td><td>Jurong Island +2</td><td>2026-10-26</td></tr>
+<tr><td>IGM MAINTENANCE PTE. LTD.</td><td>Service Engineer</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>(*Immediate Start*) Semicon Technician / Up to $2.8k+ICT / 3.5 Days / Woodlands - ZH</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>AIM RECRUIT CONSULTANCY PTE. LIMITED</td><td>Service Engineer (Medical Device) /Entry @Alexandra</td><td>Singapore</td><td>2026-10-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Warehouse Assistant – Logistics & Inventory Ops #HDCC</td><td>Orchard</td><td>2026-10-26</td></tr>
+<tr><td>MCI CAREER SERVICES PTE. LTD.</td><td>Aerospace Warehouse Assistant</td><td>Changi</td><td>2026-10-26</td></tr>
+<tr><td>GRANDWORK INTERIOR PTE LTD</td><td>Project Administrator</td><td>D25 Kranji</td><td>2026-10-26</td></tr>
+<tr><td>REALTEK ENGINEERING PTE. LTD.</td><td>Coordinator</td><td>Jurong Island</td><td>2026-10-26</td></tr>
 </table>
