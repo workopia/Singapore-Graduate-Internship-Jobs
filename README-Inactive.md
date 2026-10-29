@@ -22917,4 +22917,40 @@
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Admin Assistant – Law Firm / Central/ 5 days/ $2.5k</td><td>Singapore</td><td>2026-10-28</td></tr>
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Admin Assistant / 5 days / $2.3k</td><td>Singapore</td><td>2026-10-28</td></tr>
 <tr><td>BUSINESS EDGE PERSONNEL SERVICES PTE LTD</td><td>Temp Admin Assistant - Tampines Ave 9</td><td>Singapore</td><td>2026-10-28</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>Polytechnic Internship - Quality Control, Singapore (march 2027 To August 2027)</td><td>Tuas</td><td>2026-10-29</td></tr>
+<tr><td>Siemens Mobility Pte Ltd</td><td>Project Management Intern - Signalling</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>FINN Partners</td><td>Intern</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>FINN Partners</td><td>Pr Intern</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Doctor Anywhere Pte Ltd</td><td>[sg] Hr Intern (regional Payroll)</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Building and Construction Authority (Singapore)</td><td>Intern</td><td>Pas</td><td>2026-10-29</td></tr>
+<tr><td>Infineon</td><td>Internship – Ai Engineering & Analytics</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Analytics & Digital Transformation</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Singapore LNG Corporation Pte Ltd</td><td>Intern (throughput Business)</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Maravet</td><td>Osat Procurement Intern - Bachelor's Degree</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>GE Aerospace</td><td>Ehs Intern</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TEAM LEWIS</td><td>Associate, Orbital Academy</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>GSK plc</td><td>Polytechnic Internship - Qa Operations, Singapore (march 2027 To August 2027)</td><td>Tuas</td><td>2026-10-29</td></tr>
+<tr><td>1HORIZEN</td><td>Marketing Management Trainee</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TikTok</td><td>Rag Content Retrieval Backend Engineer, Byterec</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TikTok</td><td>Fullstack Engineer (data Application & Ai Agent) - Tiktok Live - Singapore</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TikTok</td><td>Full-stack Software Engineer (payment) - Tiktok Live - Singapore - Tiktok Global Live</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TikTok</td><td>Frontend Software Engineer (transaction) - Tiktok Live - Singapore</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>TikTok</td><td>Frontend Software Engineer (payment) - Tiktok Live - Singapore - Tiktok Global Live</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>National Institute of Education</td><td>Research Engineer I (computer Science / Artificial Intelligence / Software Engineering / Information Systems)</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>MORGAN MCKINLEY PTE. LTD.</td><td>Compliance Officer (1 yr contract / SoW / Wealth Management) DT</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>TALENT LEGAL GLOBAL SEARCH CONSULTANCY (PTE.) LTD.</td><td>Compliance Analyst</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>SWIFT SEARCH GLOBAL PTE. LTD.</td><td>Credit Executive (Credit Risk) - CBD</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Mathematics)</td><td>D05 Pasir Panjang</td><td>2026-10-29</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (XAI)</td><td>D05 Pasir Panjang</td><td>2026-10-29</td></tr>
+<tr><td>ENGGSOL PTE. LTD.</td><td>Service Engineer</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>🔧 Equipment Technician / Up to $2,600 / Night Shift / No experience required!</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[US MNC MedTech] 3 Months Contract to Perm Manufacturing Technician x Many (Entry Level) @Changi #HLV</td><td>Orchard</td><td>2026-10-29</td></tr>
+<tr><td>Micron Technology Inc</td><td>Msh Pee Fab Support Technician</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>Rolls-Royce Motor Cars</td><td>Technician</td><td>Singapore</td><td>2026-10-29</td></tr>
+<tr><td>HOUSE + PTE. LTD.</td><td>MAINTENANCE TECHNICIAN</td><td>Jurong Island +2</td><td>2026-10-29</td></tr>
+<tr><td>AVARON PTE. LTD.</td><td>Junior Sales & Events Associate</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>AVARON PTE. LTD.</td><td>Roadshow Customer Engagement Associate</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>THE RUBIES GLOBAL</td><td>🔥 No Experience? No Problem! — Junior Sales Executive</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>AVARON PTE. LTD.</td><td>Junior Sales Experience Associate</td><td>Islandwide</td><td>2026-10-29</td></tr>
+<tr><td>PYROTECH PTE. LTD.</td><td>Safety Coordinator</td><td>Singapore</td><td>2026-10-29</td></tr>
 </table>
