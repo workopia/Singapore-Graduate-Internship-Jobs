@@ -23342,4 +23342,37 @@
 <tr><td>JOBALLY PTE. LTD.</td><td>WSH Coordinator</td><td>Islandwide</td><td>2026-10-30</td></tr>
 <tr><td>SPENCER OGDEN PTE. LTD.</td><td>Site Safety Coordinator</td><td>Islandwide</td><td>2026-10-30</td></tr>
 <tr><td>CHINA ENERGY ENGINEERING GROUP SHANXI NO.3 ELECTRIC POWER CONSTRUCTION CO., LTD. (SINGAPORE BRANCH)</td><td>safty cordinater</td><td>Jurong Island +2</td><td>2026-10-30</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Procurement Process Automation &amp; Business Transformation</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Nhips Onboarding &amp; Business Analysis</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Nhg Ai, Automation &amp; Digital Transformation</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - National Patient Billing Application And Change Delivery</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Hip Project Onboarding &amp; Devsecops Enablement</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Hip Platform Operations Optimization &amp; Automation</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Healthcare It Implementation &amp; Project Support</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Moh Health Finance Healthcare Policy &amp; Project Management</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Synapxe Pte Ltd</td><td>Poly Internship Mar 2027 To Feb 2028 - Enterprise Applications Operations Intern</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>VALENCY INTERNATIONAL PTE. LTD.</td><td>Management Trainee</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Delivery Hero (foodpanda)</td><td>Junior Fullstack Software Engineer</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.</td><td>Data Scientist, SMAI</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>ONCOSHOT PTE. LTD.</td><td>Data Scientist</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Hydeparkbank</td><td>College Intern - Business Analyst</td><td>South West</td><td>2026-10-31</td></tr>
+<tr><td>DBS Bank</td><td>Associate, Global Financial Markets Credit, Risk Management Group</td><td>Central</td><td>2026-10-31</td></tr>
+<tr><td>DBS Bank</td><td>Sa, Technical Business Analyst, Future Ready Technology, Group Technology</td><td>East</td><td>2026-10-31</td></tr>
+<tr><td>Luxoft</td><td>Murex FO Business Analyst</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurses for TCF (East/ West/ Up to $32/hr) #HGNT</td><td>Islandwide</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Enrolled Nurse / Patient Transport Nurse / Mon–Thu Evening Shift / Novena / $25/hr #HYT</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurses, Medical Centre (Up to $28/hr/ West) #HGNT</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temporary Inpatient Ward Assistant / Hospital Care Support / Short-Term Assignment / Novena #HYT</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>3 Months Temp Pharmacy Assistant / Pharmacy Technician (Nov 2026 - Jan 2027)</td><td>Orchard</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Pharmacy Technician (Aseptic Compounding Hub, NEW HUB) @WEST</td><td>Orchard</td><td>2026-10-31</td></tr>
+<tr><td>Micron Technology</td><td>Msh Pee Fab Support Technician</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Micron Technology</td><td>Technologist - Fac Upw & Wwtp</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>Micron Technology</td><td>Technologist - F10 Manufacturing Shift Production</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>H&M</td><td>Part Time Sales Advisor (singapore)</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>KOS SG PTE. LTD.</td><td>Sales Advsior / Luxury Leathergoods</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>[🌺NEW OPENING🌺] EVENTS CUSTOMER SERVICE</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>XIN CHENG SG PTE. LTD.</td><td>Safety Coordinator</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>LANDMARK E&C PTE. LTD.</td><td>Safety Coordinator</td><td>Singapore</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Learning & Development HR Assistant / [Training Provided, West Area] - #HJZ</td><td>Orchard</td><td>2026-10-31</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Executive Assistant, People Experience & Learning & Development - #HJZ</td><td>Orchard</td><td>2026-10-31</td></tr>
 </table>
