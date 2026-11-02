@@ -23683,4 +23683,13 @@
 <tr><td>RECRUIT HAUS PTE. LTD.</td><td>Events Executive (Up to $4200)</td><td>Singapore</td><td>2026-11-01</td></tr>
 <tr><td>VALOR ORGANISATION PTE. LTD.</td><td>Events Associate [Entry Level / Travel Opportunities]</td><td>Singapore</td><td>2026-11-01</td></tr>
 <tr><td>NOVEX ORGANIZATION</td><td>[✈️OPPORTUNITY AWAITS✈️] EVENT SPECIALIST</td><td>Singapore</td><td>2026-11-01</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Ssd Manufacturing</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>AVARON PTE. LTD.</td><td>Graduate Sales Trainee</td><td>Islandwide</td><td>2026-11-02</td></tr>
+<tr><td>TikTok</td><td>Large Recommendation Model Algorithm Engineer - Global E-commerce</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Fellow (NUS Advance-ID)</td><td>D05 Pasir Panjang</td><td>2026-11-02</td></tr>
+<tr><td>SEARCH STAFFING SERVICES PTE. LTD.</td><td>Power Electronics Research Engineer (all levels)</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>PURE WATER DISPENSERS PTE. LTD.</td><td>Service Technician</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>Legrand</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED</td><td>Warehouse Assistant</td><td>Singapore</td><td>2026-11-02</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Logistics Assistant / Tuas South</td><td>Tuas South</td><td>2026-11-02</td></tr>
 </table>

@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-01",
+ "asOf": "2026-11-02",
  "count": 959,
  "jobs": {
   "44236241": {
@@ -7,6 +7,12 @@
    "company": "HP",
    "role": "College Intern - Business Analyst",
    "location": "South West"
+  },
+  "ba3f1f39f04b2a22a597980a89833e67": {
+   "id": "ba3f1f39f04b2a22a597980a89833e67",
+   "company": "Honeywell Aerospace",
+   "role": "Intern (bachelor's) Comms",
+   "location": "Singapore"
   },
   "d36c016d12110daa888a3dfb58a160d7": {
    "id": "d36c016d12110daa888a3dfb58a160d7",
@@ -482,12 +488,6 @@
    "role": "Intern - Fe Capital Equipment Site Operations",
    "location": "Singapore"
   },
-  "a94e4055a85153a105a14ec58eceadd9": {
-   "id": "a94e4055a85153a105a14ec58eceadd9",
-   "company": "Micron Technology",
-   "role": "Intern - Ssd Manufacturing",
-   "location": "Singapore"
-  },
   "29a9824a14c251b5": {
    "id": "29a9824a14c251b5",
    "company": "ROYAL ORG PTE. LTD.",
@@ -594,6 +594,12 @@
    "id": "5a26dac756704fc0",
    "company": "ROYAL ORG PTE. LTD.",
    "role": "Sales & Marketing Trainee — Career Transition & Leadership Development",
+   "location": "Singapore"
+  },
+  "e7e192d995b7adb2": {
+   "id": "e7e192d995b7adb2",
+   "company": "SH DESIGN & BUILD PTE. LTD.",
+   "role": "Management Associate",
    "location": "Singapore"
   },
   "87bf322a0c8886a3": {
@@ -960,12 +966,6 @@
    "id": "7dfe81cc1ceb71d3",
    "company": "AVARON PTE. LTD.",
    "role": "Sales and Leadership Trainee",
-   "location": "Islandwide"
-  },
-  "c4b5fd68419ef216": {
-   "id": "c4b5fd68419ef216",
-   "company": "AVARON PTE. LTD.",
-   "role": "Graduate Sales Trainee",
    "location": "Islandwide"
   },
   "136762b82623d5a95167c43002f849e1": {
@@ -2192,6 +2192,12 @@
    "role": "Quality Automation Engineer",
    "location": "Islandwide"
   },
+  "ff4e230e6c8838a4": {
+   "id": "ff4e230e6c8838a4",
+   "company": "XFUSION INTERNATIONAL PTE. LTD.",
+   "role": "AI Solutions Engineer",
+   "location": "D05 Pasir Panjang"
+  },
   "3b20cc26ef862c86": {
    "id": "3b20cc26ef862c86",
    "company": "DADACONSULTANTS PTE. LTD.",
@@ -2610,12 +2616,6 @@
    "id": "2299c67dda7b27ddd6bbbdfed52a6ef8",
    "company": "TikTok",
    "role": "Algorithm Engineer - Global Live - Llm Strategy (singapore)",
-   "location": "Singapore"
-  },
-  "258b6bb5217770e7100ca05168dd8084": {
-   "id": "258b6bb5217770e7100ca05168dd8084",
-   "company": "TikTok",
-   "role": "Large Recommendation Model Algorithm Engineer - Global E-commerce",
    "location": "Singapore"
   },
   "4d84ddf9b917c0884241dce0b546cc20": {
@@ -4046,6 +4046,12 @@
    "role": "STAFF NURSE – COMMUNITY HOSPITAL / 5-DAY WORK WEEK #HTJ",
    "location": "Islandwide"
   },
+  "22b5f0e986325577": {
+   "id": "22b5f0e986325577",
+   "company": "RECRUIT EXPRESS PTE LTD",
+   "role": "Ad Hoc Locum Staff Nurse for Healthscreening Clinic",
+   "location": "D09 Cairnhill"
+  },
   "87ceaac91ba42fe7": {
    "id": "87ceaac91ba42fe7",
    "company": "RECRUIT EXPRESS PTE LTD",
@@ -4110,6 +4116,12 @@
    "id": "cfa045918bc13025",
    "company": "ESCO ASTER PTE. LTD.",
    "role": "Process Development Associate",
+   "location": "D05 Pasir Panjang"
+  },
+  "7605b67949d0fa1f": {
+   "id": "7605b67949d0fa1f",
+   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+   "role": "Associate Scientist (Propulsion)",
    "location": "D05 Pasir Panjang"
   },
   "524c056a077b6759": {
@@ -4302,18 +4314,6 @@
    "id": "8c19fa20c7b79d00",
    "company": "GLY GLOBAL PTE. LTD.",
    "role": "Dental Associates",
-   "location": "Singapore"
-  },
-  "8d73f803dfbedf45": {
-   "id": "8d73f803dfbedf45",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Fellow (NUS Advance-ID)",
-   "location": "D05 Pasir Panjang"
-  },
-  "4931c318e77bc403": {
-   "id": "4931c318e77bc403",
-   "company": "SEARCH STAFFING SERVICES PTE. LTD.",
-   "role": "Power Electronics Research Engineer (all levels)",
    "location": "Singapore"
   },
   "8b03a1f529d84a20": {
@@ -4532,6 +4532,12 @@
    "role": "Service Technician",
    "location": "Singapore"
   },
+  "4223b4d7762b71dc": {
+   "id": "4223b4d7762b71dc",
+   "company": "ROYAL QUEEN PTE LTD",
+   "role": "Service Technician",
+   "location": "Singapore"
+  },
   "550d4f72329a9169": {
    "id": "550d4f72329a9169",
    "company": "RECRUITFLASH PTE. LTD.",
@@ -4608,7 +4614,7 @@
    "id": "de306c979b80f7b7",
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
    "role": "YR23- Hotel Maintenance Technician / Assistant / 6 Days / Bugis",
-   "location": "Singapore"
+   "location": "D01 Marina"
   },
   "36c4756d7c310b38": {
    "id": "36c4756d7c310b38",
@@ -4789,12 +4795,6 @@
    "company": "WECRUIT PTE. LTD.",
    "role": "Aircon Technician [EL]",
    "location": "Islandwide"
-  },
-  "e50e63419216f334": {
-   "id": "e50e63419216f334",
-   "company": "PURE WATER DISPENSERS PTE. LTD.",
-   "role": "Service Technician",
-   "location": "Singapore"
   },
   "457658284e0834d7": {
    "id": "457658284e0834d7",
@@ -5144,6 +5144,12 @@
    "role": "Sales & Marketing Associate — Fresh Graduates Welcome",
    "location": "Singapore"
   },
+  "5dc847836268aaaa": {
+   "id": "5dc847836268aaaa",
+   "company": "LENSKART SOLUTIONS PTE. LTD.",
+   "role": "Sales Associate (Retail)",
+   "location": "Islandwide"
+  },
   "2b1dad93a4c2c6ad": {
    "id": "2b1dad93a4c2c6ad",
    "company": "OIKIA PTE. LTD.",
@@ -5264,16 +5270,16 @@
    "role": "IT Warehouse Assistant",
    "location": "Jurong +2"
   },
-  "9cb1972e0d0d83a70848aaebd46c2331": {
-   "id": "9cb1972e0d0d83a70848aaebd46c2331",
-   "company": "Legrand",
+  "357ab93e05e23d71": {
+   "id": "357ab93e05e23d71",
+   "company": "M14 (FOURTEEN) PTE. LTD.",
    "role": "Warehouse Assistant",
-   "location": "Singapore"
+   "location": "Islandwide"
   },
-  "b09e5ca755eacc98": {
-   "id": "b09e5ca755eacc98",
-   "company": "S. F. EXPRESS (SINGAPORE) PRIVATE LIMITED",
-   "role": "Warehouse Assistant",
+  "5db0bbcb07c9fc6f6520eb5c18c2f690": {
+   "id": "5db0bbcb07c9fc6f6520eb5c18c2f690",
+   "company": "Shangri-La Group",
+   "role": "Co-ordinator, Operation Services (attractions)",
    "location": "Singapore"
   },
   "725b0be1ae15c723": {
@@ -5432,12 +5438,6 @@
    "role": "Centralised Support Partner, Capability Support Transformation Office",
    "location": "D11 Watten Estate"
   },
-  "3d2e7d71a0ba9214": {
-   "id": "3d2e7d71a0ba9214",
-   "company": "PASONA SINGAPORE PTE. LTD.",
-   "role": "Marketing Executive - JY",
-   "location": "D06 Beach Road"
-  },
   "08629e6195e0b25b": {
    "id": "08629e6195e0b25b",
    "company": "ONE01",
@@ -5449,6 +5449,12 @@
    "company": "ONE01",
    "role": "🌈 EVENTS & MARKETING COORDINATOR 🌈",
    "location": "Islandwide"
+  },
+  "3d2e7d71a0ba9214": {
+   "id": "3d2e7d71a0ba9214",
+   "company": "PASONA SINGAPORE PTE. LTD.",
+   "role": "Marketing Executive - JY",
+   "location": "D06 Beach Road"
   },
   "871f3f3e95ec6fdb": {
    "id": "871f3f3e95ec6fdb",
@@ -5749,12 +5755,6 @@
    "company": "TWG TEA COMPANY PTE. LTD.",
    "role": "Machine Operator cum Logistics Assistant",
    "location": "Islandwide"
-  },
-  "210bd46ffbcd2b93": {
-   "id": "210bd46ffbcd2b93",
-   "company": "RECRUITPEDIA PTE. LTD.",
-   "role": "Logistics Assistant / Tuas South",
-   "location": "Tuas South"
   }
  }
 }
