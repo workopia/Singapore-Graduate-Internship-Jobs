@@ -24078,4 +24078,40 @@
 <tr><td>BUSINESS EDGE PERSONNEL SERVICES PTE LTD</td><td>Admin Coordinator (Logistics)/West Area/6 mths contract/$2400</td><td>Singapore</td><td>2026-11-04</td></tr>
 <tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Shipping Logistics Administrator</td><td>Singapore</td><td>2026-11-04</td></tr>
 <tr><td>STAFFLINK SERVICES PRIVATE LIMITED</td><td>Logistics Assistant (Temp)</td><td>Singapore</td><td>2026-11-04</td></tr>
+<tr><td>TOD'S SINGAPORE PTE. LIMITED</td><td>Logistics Admin Intern</td><td>D09 Cairnhill</td><td>2026-11-05</td></tr>
+<tr><td>KORN FERRY RPOPS (SG) PTE. LTD.</td><td>Communications Intern</td><td>Islandwide</td><td>2026-11-05</td></tr>
+<tr><td>KORN FERRY RPOPS (SG) PTE. LTD.</td><td>Process Improvement Intern</td><td>Islandwide</td><td>2026-11-05</td></tr>
+<tr><td>KORN FERRY RPOPS (SG) PTE. LTD.</td><td>Quality Intern</td><td>Islandwide</td><td>2026-11-05</td></tr>
+<tr><td>MANPOWER STAFFING SERVICES (SINGAPORE) PTE LTD</td><td>Legal Affairs Intern (5-6 months)</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>MOSANCO ENCHANTED CAFE PTE. LTD.</td><td>Marketing cum Admin Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>HUSTLE INSTITUTE PTE. LTD.</td><td>Operations & Administrative Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>TWG TEA COMPANY PTE. LTD.</td><td>Human Resources Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>BIZSAVER PTE. LTD.</td><td>Bank Sales Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>IT Sales Interns</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Entegris</td><td>Digital Engineering & Simulation Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Applied Materials Inc</td><td>Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Hyperion Group</td><td>Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Siemens Pte. Ltd.</td><td>Data & Ai Intern</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>GSK (GlaxoSmithKline)</td><td>Polytechnic Internship - Quality Control, Singapore (march 2027 To August 2027)</td><td>Tuas</td><td>2026-11-05</td></tr>
+<tr><td>SKYLINE CATERING PTE. LTD.</td><td>Management Trainee/Training Manager (F&B)</td><td>Islandwide</td><td>2026-11-05</td></tr>
+<tr><td>CORTEX AI PTE. LTD.</td><td>Software Engineer, Internal Tools and Infrastructure</td><td>Islandwide</td><td>2026-11-05</td></tr>
+<tr><td>ByteDance</td><td>基于大系统大算力的超大规模推荐模型建模-data Aml（新加坡）ultra-large-scale Recommendation Modeling Powered By Large-scale Systems And Computing Infrastructure-data Aml (singapore)</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Tencent</td><td>Data Scientist (safety Strategies) 108217</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>TikTok</td><td>Business Analytics & Strategy Project Intern (gbs) - 2026 Start</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Compliance Analyst (Contract)</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Mindrift</td><td>Physician Reviewer (md/do) - Medical Ai Evaluation</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Mindrift</td><td>Physician (md/do) - Medical Ai Evaluation</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Mindrift</td><td>Licensed Physician (md/do) - Freelance Ai Trainer</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Engineer (Tumor Engineering)</td><td>D05 Pasir Panjang</td><td>2026-11-05</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant, Dept of Accounting</td><td>D05 Pasir Panjang</td><td>2026-11-05</td></tr>
+<tr><td>Lam Research</td><td>Field Service Engineer 1</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>Raytheon Australia</td><td>Aerospace Mro Technician</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>TEIKOKU TAPING SYSTEM (SINGAPORE) PRIVATE LIMITED</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>POLYGON SERVICE PTE. LTD.</td><td>Service Technician - Field Service</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>✨ Luxury Sales Associate / Exclusive French Fragrance House / MBS / High Commission!</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>👟 Retail Associate / SPORTS FASHION & SNEAKERS / CHANGI CITY POINT / $2.3-$2.5K + Commission!</td><td>Changi City Point</td><td>2026-11-05</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Retail Assistant /$2300 - $2500 Basic + Comms + AWS / Expo (Sports & Lifestyle Retail)</td><td>Changi City Point +1</td><td>2026-11-05</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Retail Assistant /$2300 - $2500 Basic + Comms + AWS / Changi City Point / IMM (Sports & Lifestyle Retail)</td><td>Changi City Point +1</td><td>2026-11-05</td></tr>
+<tr><td>ALTIUS ORG</td><td>Events Operations Associate (No exp needed)</td><td>Singapore</td><td>2026-11-05</td></tr>
+<tr><td>WOLA RECRUITMENT PTE. LTD.</td><td>Safety Coordinator (Construction / Semiconductor Facilities / WSH)</td><td>Singapore</td><td>2026-11-05</td></tr>
 </table>
