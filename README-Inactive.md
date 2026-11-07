@@ -24438,4 +24438,46 @@
 <tr><td>NOVEX ORGANIZATION</td><td>[🌟ENTRY-LEVEL🌟] JUNIOR EVENTS SPECIALIST</td><td>Singapore</td><td>2026-11-06</td></tr>
 <tr><td>NOVEX ORGANIZATION</td><td>[📣TRAINING PROVIDED📣] JUNIOR CUSTOMER SERVICE EVENTS COORDINATOR</td><td>Singapore</td><td>2026-11-06</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Programme Executive / Events Coordinator / Outram / UP $4.5K / 9 Months #HYT</td><td>Singapore</td><td>2026-11-06</td></tr>
+<tr><td>Coherent Corp. Singapore</td><td>Intern - Supply Chain</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Engineering</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Infineon</td><td>Internship - It Business Analyst (b2b)</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>The Bank of New York Mellon Corporation</td><td>2027 Bny Summer Internship Program - Product Management - Singapore</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Monetary Authority of Singapore (MAS)</td><td>Intern</td><td>Pas</td><td>2026-11-07</td></tr>
+<tr><td>SyneosHealth</td><td>Intern (apac Operations)</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Carta</td><td>Marketing Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Smith & Nephew</td><td>Supply Chain Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Hoya Vision Care</td><td>Total Rewards Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Grab</td><td>Intern, Regional Public Affairs</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Tencent Cloud</td><td>Product Management Intern</td><td>Capitasky</td><td>2026-11-07</td></tr>
+<tr><td>Givaudan</td><td>Dairy Application Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>🚀Events & Brand Experience Intern / Travel & Networking🚀</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>TWIST MEDIA PTE. LTD.</td><td>Event Coordinator (Intern)</td><td>D05 Pasir Panjang</td><td>2026-11-07</td></tr>
+<tr><td>HEROHOMES DISTRICT</td><td>Content Producer intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>ANTARES MANAGEMENT SERVICES PTE. LTD.</td><td>Project & Events Coordination Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>R-LOGIC INTERNATIONAL PTE LTD</td><td>Logistics & Customer Service Officer Internr Service Officer Intern</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>ALIGN RECRUITMENT PTE. LTD.</td><td>IT Administrator (IT Support)</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>TELISTAR SOLUTIONS PTE. LTD.</td><td>Desktop Support Engineer (Calshot Road @ Loyang)</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>V-ELEGANT PTE. LTD.</td><td>IT Helpdesk Support</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>XCELLINK PTE. LTD.</td><td>SOC Analyst L1</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>VINOVA PTE. LTD.</td><td>Data Analyst [CCP for ICT Professionals (Data and AI)]</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>GNA ENGINEERING PTE. LTD.</td><td>Semiconductor Process Associate Engineer</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>WILMAR SUGAR PTE. LTD.</td><td>TRADE ANALYST</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>WEBSPARKS PTE. LTD.</td><td>Business Analyst – Salesforce POC (Public Sector)</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>12 Months Contract Analyst, Regulatory Monitoring & Testing #BJJ</td><td>Orchard</td><td>2026-11-07</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Compliance Executive / BSC Audit – Exp in Financial Advisory Industry - Central/ 5 days/ $4.5k</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>CNOOC GAS AND POWER SINGAPORE TRADING & MARKETING PTE. LTD.</td><td>LNG Operation Assistant</td><td>D01 Marina</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*Start Dec* Locum Staff Nurse / Radiology Dept - #HJZ</td><td>Orchard</td><td>2026-11-07</td></tr>
+<tr><td>PEOPLESOLVE PTE. LTD.</td><td>Registered Nurse</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>No Interview! Locum A&E Staff Nurse / Flexible/ Up to $29/hr #HSN</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Staff Nurse (Radiology Procedures, Patient Education, Office Hours) #HDC1</td><td>Orchard</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Staff Nurse, Imaging Centre ($25/hr / 5.5 days office hours) #HGNT</td><td>Orchard</td><td>2026-11-07</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Healthcare Assistant (LOCUM, UP TO $18 / HR)</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>THE LENTOR RESIDENCE PTE LTD</td><td>Patient Care Assistant (Nursing Home - Lentor Avenue)</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>$50/hr / Locum Pharmacist/ West Govt Healthcare #HYT</td><td>Islandwide</td><td>2026-11-07</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Service Engineer (Medical Device/ North) #HZO</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Service Technician / 5 Days / Troubleshooting - 3972</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>SEE SENG ENTERPRISES PTE LTD</td><td>Sales Assistant</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>PLAYON PARK PTE. LTD.</td><td>Sales Assistant</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>Singapore Polytechnic</td><td>Temp Assistant - Dept of Academic Services</td><td>Singapore</td><td>2026-11-07</td></tr>
+<tr><td>EXCELTEC PROPERTY MANAGEMENT PTE LTD</td><td>Facilities Coordinator</td><td>Singapore</td><td>2026-11-07</td></tr>
 </table>
