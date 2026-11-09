@@ -1,5 +1,5 @@
 {
- "asOf": "2026-11-08",
+ "asOf": "2026-11-09",
  "count": 966,
  "jobs": {
   "44236241": {
@@ -3398,6 +3398,18 @@
    "role": "A&a - Associate - External Audit (2026 Graduate)",
    "location": "Singapore"
   },
+  "6092c90efc5d4e96afbd224d34cad24f": {
+   "id": "6092c90efc5d4e96afbd224d34cad24f",
+   "company": "GIC",
+   "role": "Vp, Business Analyst (public Equities), Technology Group",
+   "location": "Singapore"
+  },
+  "9760f05791520ccf552c49aeb3d921e6": {
+   "id": "9760f05791520ccf552c49aeb3d921e6",
+   "company": "GIC",
+   "role": "Vp, Business Analyst (portfolio Solutions), Technology Group",
+   "location": "Singapore"
+  },
   "7002cf8671324df5": {
    "id": "7002cf8671324df5",
    "company": "DFK ADVISORY PTE. LTD.",
@@ -3433,6 +3445,12 @@
    "company": "LO HOCK LING & CO.",
    "role": "AUDIT ASSOCIATE",
    "location": "Islandwide"
+  },
+  "56b081c60108651f": {
+   "id": "56b081c60108651f",
+   "company": "PLUS LLP",
+   "role": "Audit Associate",
+   "location": "D07 Middle Road"
   },
   "bd8f2ed2def1dc1a": {
    "id": "bd8f2ed2def1dc1a",
@@ -3475,6 +3493,12 @@
    "company": "PERSOL SINGAPORE PTE. LTD.",
    "role": "Trade Support Analyst (Banking, Central)",
    "location": "Singapore"
+  },
+  "757c458a1252ccb8": {
+   "id": "757c458a1252ccb8",
+   "company": "BACHMANN JAPANESE RESTAURANT PTE LTD",
+   "role": "Accounts Assistant",
+   "location": "D07 Middle Road"
   },
   "ec1e6d55d52a11b9": {
    "id": "ec1e6d55d52a11b9",
@@ -3854,30 +3878,6 @@
    "role": "Account Assistant/Executive",
    "location": "Singapore"
   },
-  "6adcd89bc5bc3706": {
-   "id": "6adcd89bc5bc3706",
-   "company": "Render Private Limited",
-   "role": "ACCOUNTS ASSISTANT",
-   "location": "Singapore"
-  },
-  "7a8270dcd83ffb33": {
-   "id": "7a8270dcd83ffb33",
-   "company": "KELINGTON ENGINEERING (S) PTE. LTD.",
-   "role": "Accounts Assistant / Associates",
-   "location": "Singapore"
-  },
-  "b32702d2f06518c8": {
-   "id": "b32702d2f06518c8",
-   "company": "THE SUPREME HR ADVISORY PTE. LTD.",
-   "role": "[0580] Accounts Assistant (AR) / Ubi / 5 days / $3k",
-   "location": "Singapore"
-  },
-  "af1b000f509dba6181ba1acb5c278823": {
-   "id": "af1b000f509dba6181ba1acb5c278823",
-   "company": "Amazon",
-   "role": "Internal Risk Specialist, Special Projects & Investigations",
-   "location": "Singapore"
-  },
   "a4e3c572e3e6aa352c705504e4cfaecb": {
    "id": "a4e3c572e3e6aa352c705504e4cfaecb",
    "company": "National Healthcare Group PTE Ltd",
@@ -3895,6 +3895,12 @@
    "company": "Mindrift",
    "role": "Licensed Physician (md/do) - Freelance Ai Trainer",
    "location": "Singapore"
+  },
+  "12a97ac664b08814": {
+   "id": "12a97ac664b08814",
+   "company": "EY CORPORATE ADVISORS PTE. LTD.",
+   "role": "Strategy and Transactions Associate",
+   "location": "D01 Marina"
   },
   "81d5dcfcb15abccc505b7a1a1dcbc15e": {
    "id": "81d5dcfcb15abccc505b7a1a1dcbc15e",
@@ -4028,6 +4034,12 @@
    "role": "Research Associate (Computer Science/Computer Engineering/Electrical/Electronic Engineering/Physics)",
    "location": "Singapore"
   },
+  "2597525d6558b3e5": {
+   "id": "2597525d6558b3e5",
+   "company": "ETH SINGAPORE SEC LTD.",
+   "role": "Research Assistant",
+   "location": "D05 Pasir Panjang"
+  },
   "285a2a7c96b526b3": {
    "id": "285a2a7c96b526b3",
    "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
@@ -4153,6 +4165,12 @@
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "Physiotherapist (Acute and Community Hospital, Inpatient and Outpatient Rehabilitation, Patient-Centred Care) #HDC1",
    "location": "Orchard"
+  },
+  "be794428672cdb58": {
+   "id": "be794428672cdb58",
+   "company": "UNIHEALTH TEAM PTE. LTD.",
+   "role": "Clinic Assistant (Full Time)",
+   "location": "Singapore"
   },
   "f00851f82b2120ef": {
    "id": "f00851f82b2120ef",
@@ -4340,24 +4358,6 @@
    "role": "Dental Assistant",
    "location": "Orchard +2"
   },
-  "99c60b9297f775b3": {
-   "id": "99c60b9297f775b3",
-   "company": "SMILEPLUS DENTAL SURGERY PTE. LTD.",
-   "role": "Dental Clinic Assistant",
-   "location": "Singapore"
-  },
-  "d14284ea16d9c98a": {
-   "id": "d14284ea16d9c98a",
-   "company": "SMILEPLUS DENTAL SURGERY PTE. LTD.",
-   "role": "Dental Clinic Receptionist/ Dental Assistant",
-   "location": "Singapore"
-  },
-  "da4a9b7720ed4174": {
-   "id": "da4a9b7720ed4174",
-   "company": "KONG DENTAL SURGERY (SINGAPORE) PTE. LTD.",
-   "role": "Dental Assistant",
-   "location": "Singapore"
-  },
   "a965db2298d0bf9297725dd29386e0a5": {
    "id": "a965db2298d0bf9297725dd29386e0a5",
    "company": "Neste Oyj",
@@ -4374,6 +4374,12 @@
    "id": "a6521f8a8a920d14",
    "company": "STAFFKING PTE. LTD.",
    "role": "(Entry Level) Aircond Service Technician - Up to $ 3,000, Training provided",
+   "location": "Islandwide"
+  },
+  "4c30373eac60aa7d": {
+   "id": "4c30373eac60aa7d",
+   "company": "PEOPLE PROFILERS PTE. LTD.",
+   "role": "FACILITIES TECHNICIAN - M&E (OFFICE BUILDING)",
    "location": "Islandwide"
   },
   "4a8a758597b71343": {
@@ -4832,12 +4838,6 @@
    "role": "CONSTRUCTION MACHINERY MAINTENANCE TECHNICIAN",
    "location": "Islandwide"
   },
-  "720da0b71b313650": {
-   "id": "720da0b71b313650",
-   "company": "HVS ENGINEERING PTE. LTD.",
-   "role": "Technician (Technical/Maintenance Service)",
-   "location": "Singapore"
-  },
   "3cda587b734304c95a7f1b76d1cf473a": {
    "id": "3cda587b734304c95a7f1b76d1cf473a",
    "company": "Puma",
@@ -4994,6 +4994,12 @@
    "role": "Shop Sales Assistant",
    "location": "Islandwide"
   },
+  "2fe51bd92b90f8b7": {
+   "id": "2fe51bd92b90f8b7",
+   "company": "MANDIRI SECURITIES PTE. LTD.",
+   "role": "Fixed Income Sales/Trading Assistant",
+   "location": "Islandwide"
+  },
   "42e69ab6a9d3bc31": {
    "id": "42e69ab6a9d3bc31",
    "company": "CLEARLAB SG PTE. LTD.",
@@ -5052,6 +5058,12 @@
    "id": "f66b80082af1ae3b",
    "company": "STAFFKING PTE. LTD.",
    "role": "Warehouse Assistant - Basic $2000 - $2500, West, 5 Days",
+   "location": "Islandwide"
+  },
+  "a9512183bfabef22": {
+   "id": "a9512183bfabef22",
+   "company": "ZEN CAREER PTE. LTD.",
+   "role": "Warehouse Assistant (5 Days)",
    "location": "Islandwide"
   },
   "a7ffe56d53e107ec": {
@@ -5306,18 +5318,6 @@
    "role": "Contract Customer Service Assistant #EST",
    "location": "Orchard"
   },
-  "5125fa80de0332c8": {
-   "id": "5125fa80de0332c8",
-   "company": "MANPOWER ADVISORS PRIVATE LIMITED",
-   "role": "CUSTOMER SERVICE ASSISTANT",
-   "location": "Islandwide"
-  },
-  "19d1221d4a22a941": {
-   "id": "19d1221d4a22a941",
-   "company": "SMARTE CARTE SINGAPORE PTE. LTD.",
-   "role": "Customer Service Officer (Temp)",
-   "location": "Changi"
-  },
   "cd091cd02f4d750e": {
    "id": "cd091cd02f4d750e",
    "company": "PEOPLE PROFILERS PTE. LTD.",
@@ -5407,6 +5407,12 @@
    "company": "ABLE BEST EMPLOYMENT AGENCY",
    "role": "Permanent Part-Time Admin Assistant",
    "location": "Holland Road +3"
+  },
+  "07aabac0a24c4eae": {
+   "id": "07aabac0a24c4eae",
+   "company": "ZEN CAREER PTE. LTD.",
+   "role": "Admin Assistant",
+   "location": "Islandwide"
   },
   "28894f9bb0696ba3": {
    "id": "28894f9bb0696ba3",
@@ -5791,12 +5797,6 @@
    "company": "RECRUIT EXPRESS PTE LTD",
    "role": "[Till 30 Sep 2027, Good in Excel] Sales Support Admin Assistant UP$2600 (Office Hours, Central) #HCY",
    "location": "Islandwide"
-  },
-  "ae7408eed5c3c0ff": {
-   "id": "ae7408eed5c3c0ff",
-   "company": "SKYRUS ENGINEERING & CONSTRUCTION PTE. LTD.",
-   "role": "Admin Assistant",
-   "location": "Tuas"
   }
  }
 }

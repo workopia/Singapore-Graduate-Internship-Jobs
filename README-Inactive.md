@@ -24797,4 +24797,15 @@
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Admin Assistant (Yearly Renewable Contract) #Alexandra #NKC</td><td>Islandwide</td><td>2026-11-08</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>Admin Assistant (6 Months, Northeast , Up to $12/hr) #HAC</td><td>Singapore</td><td>2026-11-08</td></tr>
 <tr><td>BUSINESS EDGE PERSONNEL SERVICES PTE LTD</td><td>Admin Assistant @ Dover</td><td>Singapore</td><td>2026-11-08</td></tr>
+<tr><td>Render Private Limited</td><td>ACCOUNTS ASSISTANT</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>KELINGTON ENGINEERING (S) PTE. LTD.</td><td>Accounts Assistant / Associates</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Accounts Assistant (AR) / Ubi / 5 days / $3k</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>Amazon</td><td>Internal Risk Specialist, Special Projects & Investigations</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>SMILEPLUS DENTAL SURGERY PTE. LTD.</td><td>Dental Clinic Assistant</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>SMILEPLUS DENTAL SURGERY PTE. LTD.</td><td>Dental Clinic Receptionist/ Dental Assistant</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>KONG DENTAL SURGERY (SINGAPORE) PTE. LTD.</td><td>Dental Assistant</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>HVS ENGINEERING PTE. LTD.</td><td>Technician (Technical/Maintenance Service)</td><td>Singapore</td><td>2026-11-09</td></tr>
+<tr><td>MANPOWER ADVISORS PRIVATE LIMITED</td><td>CUSTOMER SERVICE ASSISTANT</td><td>Islandwide</td><td>2026-11-09</td></tr>
+<tr><td>SMARTE CARTE SINGAPORE PTE. LTD.</td><td>Customer Service Officer (Temp)</td><td>Changi</td><td>2026-11-09</td></tr>
+<tr><td>SKYRUS ENGINEERING & CONSTRUCTION PTE. LTD.</td><td>Admin Assistant</td><td>Tuas</td><td>2026-11-09</td></tr>
 </table>
