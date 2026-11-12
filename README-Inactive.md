@@ -24971,4 +24971,47 @@
 <tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>6723 - Admin Assistant [Law Firm]</td><td>Singapore</td><td>2026-11-11</td></tr>
 <tr><td>WECRUIT PTE. LTD.</td><td>BIM Project Coordinator [SL]</td><td>Islandwide</td><td>2026-11-11</td></tr>
 <tr><td>DIRECT SEARCH ASIA PTE. LTD.</td><td>Project Coordinator</td><td>Islandwide</td><td>2026-11-11</td></tr>
+<tr><td>Hong Leong Bank</td><td>Intern – Business & Corporate Banking (trade & Kyc)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Givaudan</td><td>Marketing Intern</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Tencent</td><td>Product Management Intern 108315</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Standard Chartered Bank</td><td>Mergers & Acquisitions Corporate & Investment Banking Internship Singapore Programme 2027</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>TikTok</td><td>Business Commerce Project Intern (gbs) - 2026 Start</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Bloomberg LP</td><td>News Singapore - 2027 Internship - Req</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Accor</td><td>Food & Beverage Intern, Asia & Pacific - Year 2027</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Management</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Human Resources, Ai Development, Microsoft Copilot Studio [jan To Jun 2027]</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>OCBC</td><td>Internship: Group Risk Management, Group Non-financial Risk Management, Orm Central Programme & Systems Management [dec26 To May27]</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Internship (Orchard, Training Provided) #HTJ</td><td>Islandwide</td><td>2026-11-12</td></tr>
+<tr><td>AXISREACH RECRUITMENT</td><td>EVENT MANAGEMENT TRAINEE🌟 [FUN AND VIBRANT TEAM]</td><td>D01 Marina</td><td>2026-11-12</td></tr>
+<tr><td>TANGPINXUAN PTE. LTD.</td><td>Software Engineer</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>EXCELTECH COMPUTERS PTE. LTD.</td><td>SAS Migration- APPLICATIONS PROGRAMMER</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Backend Engineer (Python/AWS)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>JOBSTER PRIVATE LTD.</td><td>Full-Stack Engineer - #1747</td><td>Islandwide</td><td>2026-11-12</td></tr>
+<tr><td>LINCSTECH CIRCUIT SINGAPORE PTE. LTD.</td><td>Frontend Development Engineer(Full-Stack)</td><td>Changi</td><td>2026-11-12</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Full-Stack Engineer (Geospatial) / GOVT</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>ENCORA TECHNOLOGIES PTE. LTD.</td><td>Onsite Desktop Support Services</td><td>Islandwide</td><td>2026-11-12</td></tr>
+<tr><td>Micron Technology</td><td>Ai Engineer</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Sea Deloitte</td><td>A&a - External Audit Intern - Audit & Assurance (winter 2026 Internship)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Business Tax (2027 Graduate)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Sea Deloitte</td><td>T&l: Associate - Transfer Pricing (2027 Graduate)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Goods & Services Tax (2027 Graduate)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>Deloitte</td><td>T&l: Associate - Global Trade Advisory (2027 Graduate)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>sea</td><td>A&a - Associate - External Audit (2026 Graduate)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Part-Time Accounts Assistant / $13–$15/Hour / 6–9 Months Contract #HMS</td><td>Tuas</td><td>2026-11-12</td></tr>
+<tr><td>Cummins</td><td>Accountant</td><td>Tuas South</td><td>2026-11-12</td></tr>
+<tr><td>Black Box</td><td>Business Analyst</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>58 RECRUITMENT PTE. LTD.</td><td>ACCOUNTANT</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Dept of Microbiology & Immunology)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>RECRUITFLASH PTE. LTD.</td><td>WEST / MNC Lab Technician / Chemical Technician / Entry level /Junior 5Days</td><td>Islandwide</td><td>2026-11-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Laboratory Technician (Buona Vista, $2400, Performance Testing) #HJY</td><td>Buona Vista</td><td>2026-11-12</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Junior Scientist (Fragrance/ Up to $4,000/ West)</td><td>Buona Vista +1</td><td>2026-11-12</td></tr>
+<tr><td>GRIFFIN HR CONSULTANCY PTE. LTD.</td><td>MNC Lift Maintenance Technician/ Up to $2800 + Motorbike Allowances/ 5 Days / Jurong East - ZH</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>12 MONTHS FIELD SUPPORT TECHNICIAN (CONVERTIBLE)</td><td>Marina +4</td><td>2026-11-12</td></tr>
+<tr><td>NEXT YOU CAREER PTE. LTD.</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>RECRUIT FAST PTE. LTD.</td><td>Field Service Engineer (Semicon/East & North/3.8k/5 days)</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>GOELIA GLORIA FASHION PTE. LTD.</td><td>Sales Associate</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing and Sales Associate: No Experience Required</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales Associate: One to One Coaching</td><td>Singapore</td><td>2026-11-12</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>6 Months Admin Assistant - Education Sector (Up to $2600) #NJN</td><td>Islandwide</td><td>2026-11-12</td></tr>
+<tr><td>GLOW EDEN PTE. LTD.</td><td>Admin Assistant (Part-Time / Temporary / Full-Time / Weekend)</td><td>Islandwide</td><td>2026-11-12</td></tr>
 </table>
