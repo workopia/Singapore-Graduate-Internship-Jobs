@@ -25348,4 +25348,57 @@
 <tr><td>EF Education First</td><td>Operations, Coordinator</td><td>Singapore</td><td>2026-11-13</td></tr>
 <tr><td>Accor</td><td>People & Culture Intern, Asia - Year 2027</td><td>Singapore</td><td>2026-11-13</td></tr>
 <tr><td>Sime Motors NZ</td><td>Admin Assistant (1 Year Contract)</td><td>Singapore</td><td>2026-11-13</td></tr>
+<tr><td>TURBINE OVERHAUL SERVICES PTE LTD</td><td>Internship - Operations</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>TURBINE OVERHAUL SERVICES PTE LTD</td><td>Internship - Finance</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>TURBINE OVERHAUL SERVICES PTE LTD</td><td>Internship - Customer Service Ops</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>TURBINE OVERHAUL SERVICES PTE LTD</td><td>Internship - Tool Engineering</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>A PAINTED SIP PTE. LTD.</td><td>Social Media & Content Creator Intern</td><td>Little India</td><td>2026-11-14</td></tr>
+<tr><td>INSTITUTE ESTETICA PTE. LTD.</td><td>Content Marketing Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>ELEVATE MARKETING ASIA PRIVATE LIMITED</td><td>Fresh Graduate Sales and Marketing</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Infineon</td><td>Internship - Supply Chain Analytics & Sap Logistics</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>TikTok</td><td>Product Operation Intern (tiktok Local Services) - 2027 Start</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Indirect Regional Supplier Manager</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Engineer, Region E</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>EDUPLUS EDUCATION PTE. LTD.</td><td>Teaching Internship</td><td>Marina</td><td>2026-11-14</td></tr>
+<tr><td>Firmenich</td><td>Savory Flavor Creation/taste Laboratory Intern</td><td>Tuas</td><td>2026-11-14</td></tr>
+<tr><td>Point72</td><td>2027 Economist Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Rda (real-time Defect Analysis)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Pee Cvd/pvd</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Indirect Regional Supplier Manager</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Engineer, Region E</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Grab</td><td>Intern, Social Media & Partner Engagement</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Grab</td><td>Intern, Marketing And Partnership (grabrentals)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Grab</td><td>Intern, Partner Acquisition</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>NETS</td><td>Business Platform Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>CapitaLand</td><td>Intern, Finance</td><td>Central Singapore</td><td>2026-11-14</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Pr Marketing Intern (sg & My)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Capex Sourcing Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Skyworks Solutions Inc</td><td>Factory Automation (software) Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Marketing Trainee — First Job, Plenty to Learn</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>DOLPHIN DYNAMICS LABS PTE. LTD.</td><td>Support Analyst</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>GOODWILL ENTERTAINMENT HOLDING LIMITED</td><td>Lighting Designer & Programmer</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Ampol</td><td>Analytics Internship - Trading & Shipping</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>SURBANA JURONG SERVICES PTE. LTD.</td><td>AI Engineer</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Ntuitive Pte Ltd</td><td>Research Engineer Ii (computer Science / Artificial Intelligence / Software Engineering / Information Systems)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>MORGAN FUND PTE. LTD.</td><td>Quant Developer (Python)-Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Richemont Australia Pty Ltd</td><td>Accounting Intern</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>[0580] Compliance Officer – Exp in Financial Advisory Industry / BSC Audit - Central/ 5 days/ $4.5k</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>MAYSON TAYOR PTE. LTD.</td><td>Intraday Quantitative Trader (Commission-Based)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Ren Ci Hospital</td><td>Community Care Associate</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>Raytheon Australia</td><td>Manufacturing Technician</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Field Service Engineer (Mechanical / Industrial Equipment) #10511</td><td>Islandwide</td><td>2026-11-14</td></tr>
+<tr><td>ITRON PTE LTD</td><td>Field Service Engineer</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>JUST TALENT PTE. LTD.</td><td>Field Service Engineer ((Precision Measurement Equipment)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>HANMAN INTERNATIONAL PTE. LTD.</td><td>Installation/Service Technician</td><td>Jurong Island +2</td><td>2026-11-14</td></tr>
+<tr><td>CATERPILLAR MARINE ASIA PACIFIC PTE. LTD.</td><td>Field Service Technician (Medium Speed Engine)</td><td>Jurong Island</td><td>2026-11-14</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing and Sales Associate: No Exp Needed</td><td>Marina</td><td>2026-11-14</td></tr>
+<tr><td>DHC CONSULTANTS</td><td>Junior Sales & Marketing Associate (Entry Level)</td><td>Islandwide +1</td><td>2026-11-14</td></tr>
+<tr><td>DHC CONSULTANTS</td><td>Sales & Customer Engagement Associate (Training Provided)</td><td>Islandwide</td><td>2026-11-14</td></tr>
+<tr><td>BATH LABZ PTE. LTD.</td><td>Retail Sales Associate(Basic + Commission + Incentives)</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>MCI CONSULTING PTE. LTD.</td><td>Admin Executive Assistant / 5 Days / Office Hours - JH</td><td>Islandwide</td><td>2026-11-14</td></tr>
+<tr><td>SINGAPORE BREAST SURGERY CENTER PTE. LTD.</td><td>Patient Service Executive (Part-Time)</td><td>Orchard</td><td>2026-11-14</td></tr>
+<tr><td>Circular Law Chambers LLP</td><td>Executive Assistant to Partner</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>CLO HAUS PTE. LTD.</td><td>PROJECT COORDINATOR</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>KENSON ENTERPRISE (PTE) LTD</td><td>Project Coordinator</td><td>Singapore</td><td>2026-11-14</td></tr>
+<tr><td>AMBITION GROUP SINGAPORE PTE. LTD.</td><td>Curriculum Planner (Education)</td><td>Islandwide</td><td>2026-11-14</td></tr>
 </table>
