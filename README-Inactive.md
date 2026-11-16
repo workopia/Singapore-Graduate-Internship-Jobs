@@ -25728,4 +25728,15 @@
 <tr><td>ISLAND LIFESTYLE GROUP PTE. LTD.</td><td>Administrative Assistant</td><td>D15 Joo Chiat</td><td>2026-11-15</td></tr>
 <tr><td>Cargill</td><td>Operations Support Assistant- Tuas Based</td><td>Singapore</td><td>2026-11-15</td></tr>
 <tr><td>NEW UNION ELECTRICAL SUPPLIES PTE. LTD.</td><td>ADMINISTRATIVE ASSISTANT</td><td>Singapore</td><td>2026-11-15</td></tr>
+<tr><td>HR SG PTE. LTD.</td><td>Client Relations and Sales Intern</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>DM FINANCIAL PTE. LIMITED</td><td>Junior Associate, Financial Reporting (Internship, Accounting/Finance, Jan 2027 Intake)</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>JPMORGAN CHASE BANK, N.A.</td><td>2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>OCBC</td><td>Internship:global Investment Banking, Mezzanine Capital Unit [dec26 To May27]</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant, AI Research and Engineering</td><td>Pasir Panjang</td><td>2026-11-16</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Southeast Asian Digital Humanities (SEADH) Lab)</td><td>D05 Pasir Panjang</td><td>2026-11-16</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (CCTF Blockchain Seed Fund)</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (AI/Medicine/Data Analytics)</td><td>Singapore</td><td>2026-11-16</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Lab Technician (Microbiology, Central) #HTJ</td><td>D09 Cairnhill</td><td>2026-11-16</td></tr>
+<tr><td>ANRADUS PTE. LTD.</td><td>Electrical Technician #10069</td><td>Islandwide</td><td>2026-11-16</td></tr>
+<tr><td>EA RECRUITMENT PTE. LTD.</td><td>Probe Card Technician (5 Days / East)</td><td>Singapore</td><td>2026-11-16</td></tr>
 </table>

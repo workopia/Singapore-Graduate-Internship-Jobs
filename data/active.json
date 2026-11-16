@@ -1,6 +1,6 @@
 {
- "asOf": "2026-11-15",
- "count": 967,
+ "asOf": "2026-11-16",
+ "count": 964,
  "jobs": {
   "44236241": {
    "id": "44236241",
@@ -193,6 +193,12 @@
    "company": "NXTLVL.UP",
    "role": "👶🏻 Marketing Interns 1-to-1 Mentorship 🌱",
    "location": "Marina"
+  },
+  "c0f227884c59532a": {
+   "id": "c0f227884c59532a",
+   "company": "SIMPLE RECRUIT",
+   "role": "Marketing Learner",
+   "location": "D01 Marina"
   },
   "e923a882fe76173e": {
    "id": "e923a882fe76173e",
@@ -480,12 +486,6 @@
    "id": "d5f5bdbcfb2ada10",
    "company": "Evolut Holdings Pte. Ltd.",
    "role": "Content Marketing Intern",
-   "location": "Singapore"
-  },
-  "8c26973651c2f5bf": {
-   "id": "8c26973651c2f5bf",
-   "company": "HR SG PTE. LTD.",
-   "role": "Client Relations and Sales Intern",
    "location": "Singapore"
   },
   "837c58c2d75aea72": {
@@ -3164,24 +3164,6 @@
    "role": "Intern, Business Analyst Automotive Aftermarket Division",
    "location": "Singapore"
   },
-  "f351aa7b4d3bee6c": {
-   "id": "f351aa7b4d3bee6c",
-   "company": "DM FINANCIAL PTE. LIMITED",
-   "role": "Junior Associate, Financial Reporting (Internship, Accounting/Finance, Jan 2027 Intake)",
-   "location": "Singapore"
-  },
-  "5f63172bcec4000b": {
-   "id": "5f63172bcec4000b",
-   "company": "JPMORGAN CHASE BANK, N.A.",
-   "role": "2027 Markets Quantitative Trading & Research Analyst Program – Off-Cycle Internship - Singapore",
-   "location": "Singapore"
-  },
-  "919f6ad84cf29ed47db26a93d8472002": {
-   "id": "919f6ad84cf29ed47db26a93d8472002",
-   "company": "OCBC",
-   "role": "Internship:global Investment Banking, Mezzanine Capital Unit [dec26 To May27]",
-   "location": "Singapore"
-  },
   "7d38738f4f8312ceb75ee184325c206d": {
    "id": "7d38738f4f8312ceb75ee184325c206d",
    "company": "SEA",
@@ -3884,6 +3866,18 @@
    "role": "TECHNICAL PERSONNEL (MECHANICAL ENGINEERING) / ISO AUDIT COORDINATOR",
    "location": "Islandwide"
   },
+  "8f0a75cc5bd0e5ee": {
+   "id": "8f0a75cc5bd0e5ee",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Associate (Pharmaceutical Sciences/Biochemistry)",
+   "location": "Singapore"
+  },
+  "e6e1177d7c9942f7": {
+   "id": "e6e1177d7c9942f7",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Assistant (Computer Science/Computer Engineering/Mathematics)",
+   "location": "Singapore"
+  },
   "036164eff77f737cdfcbce8204374e51": {
    "id": "036164eff77f737cdfcbce8204374e51",
    "company": "Ren Ci Hospital",
@@ -4070,6 +4064,12 @@
    "role": "Dental Surgery Assistant (4-5 days, up to $3600, attractive benefits)",
    "location": "Singapore"
   },
+  "9461595e008d9b3a": {
+   "id": "9461595e008d9b3a",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Associate (AI-based Process Monitoring)",
+   "location": "Singapore"
+  },
   "eb7953003e43db12": {
    "id": "eb7953003e43db12",
    "company": "NATIONAL UNIVERSITY OF SINGAPORE",
@@ -4081,6 +4081,18 @@
    "company": "NATIONAL UNIVERSITY OF SINGAPORE",
    "role": "Research Assistant (Pharmacy and Pharmaceutical Sciences)",
    "location": "D05 Pasir Panjang"
+  },
+  "6ca40446c68784f0": {
+   "id": "6ca40446c68784f0",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Assistant (Financial Machine Learning)",
+   "location": "Singapore"
+  },
+  "a9e283847e1ca30f": {
+   "id": "a9e283847e1ca30f",
+   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+   "role": "Research Assistant (Cryo-EM and Membrane Protein Specialist)",
+   "location": "Singapore"
   },
   "ac0ad12082eb2000": {
    "id": "ac0ad12082eb2000",
@@ -4334,35 +4346,11 @@
    "role": "Research Assistant (iPSC biology and/or RNA biochemistry)",
    "location": "D05 Pasir Panjang"
   },
-  "bd03e372e129e4de": {
-   "id": "bd03e372e129e4de",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant, AI Research and Engineering",
-   "location": "Pasir Panjang"
-  },
-  "3fcd09725d3afab8": {
-   "id": "3fcd09725d3afab8",
-   "company": "NATIONAL UNIVERSITY OF SINGAPORE",
-   "role": "Research Assistant (Southeast Asian Digital Humanities (SEADH) Lab)",
-   "location": "D05 Pasir Panjang"
-  },
-  "9f1cc05735f511b3": {
-   "id": "9f1cc05735f511b3",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Assistant (CCTF Blockchain Seed Fund)",
+  "56dedb32ad6971bf84b74ff321b90f9b": {
+   "id": "56dedb32ad6971bf84b74ff321b90f9b",
+   "company": "Ingersoll Rand PLC",
+   "role": "Machining Technician (manual Lathe & Grinding Machine)",
    "location": "Singapore"
-  },
-  "3cd4b53ecbcb9f79": {
-   "id": "3cd4b53ecbcb9f79",
-   "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
-   "role": "Research Assistant (AI/Medicine/Data Analytics)",
-   "location": "Singapore"
-  },
-  "50a5282b94496310": {
-   "id": "50a5282b94496310",
-   "company": "RECRUIT EXPRESS PTE LTD",
-   "role": "Lab Technician (Microbiology, Central) #HTJ",
-   "location": "D09 Cairnhill"
   },
   "027fc5a4de31d00bc275e5a81aa32a5f": {
    "id": "027fc5a4de31d00bc275e5a81aa32a5f",
@@ -4417,6 +4405,12 @@
    "company": "PERSONNEL LINK JOBHUB PTE. LTD.",
    "role": "Order Assembly/ Technician",
    "location": "Singapore"
+  },
+  "dfad3061d40d8e3b": {
+   "id": "dfad3061d40d8e3b",
+   "company": "POOLPARTY PTE. LTD.",
+   "role": "Swimming Pool Service Technician",
+   "location": "Islandwide"
   },
   "23c6404f2b3281a7": {
    "id": "23c6404f2b3281a7",
@@ -4664,16 +4658,16 @@
    "role": "SERVICE TECHNICIAN/ ENGINEER",
    "location": "Singapore"
   },
-  "b1ffd7c23f879e47": {
-   "id": "b1ffd7c23f879e47",
-   "company": "EXXEL TECHNOLOGY PTE LTD",
-   "role": "Electrical Technician",
-   "location": "Singapore"
-  },
   "750845b58242062a": {
    "id": "750845b58242062a",
    "company": "THE SUPREME HR ADVISORY PTE. LTD.",
    "role": "Technician (VEP) - LCYL",
+   "location": "D01 Marina"
+  },
+  "b1ffd7c23f879e47": {
+   "id": "b1ffd7c23f879e47",
+   "company": "EXXEL TECHNOLOGY PTE LTD",
+   "role": "Electrical Technician",
    "location": "Singapore"
   },
   "d02396e6ae22b804": {
@@ -4831,18 +4825,6 @@
    "company": "ANRADUS PTE. LTD.",
    "role": "Aircon Technician (with Class 3) #10161",
    "location": "Islandwide"
-  },
-  "ba46e82755968f7f": {
-   "id": "ba46e82755968f7f",
-   "company": "ANRADUS PTE. LTD.",
-   "role": "Electrical Technician #10069",
-   "location": "Islandwide"
-  },
-  "4a6ac01eeaed9e24": {
-   "id": "4a6ac01eeaed9e24",
-   "company": "EA RECRUITMENT PTE. LTD.",
-   "role": "Probe Card Technician (5 Days / East)",
-   "location": "Singapore"
   },
   "4306d41f8e08043cd19a552f12ba1df5": {
    "id": "4306d41f8e08043cd19a552f12ba1df5",
