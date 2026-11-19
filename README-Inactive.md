@@ -26131,4 +26131,66 @@
 <tr><td>GREENMARK CONSTRUCTION PTE. LTD.</td><td>Workplace Safety & Health Coordinator #HDB Project</td><td>175A Bencoolen Street Burlington Square</td><td>2026-11-18</td></tr>
 <tr><td>GREENMARK CONSTRUCTION PTE. LTD.</td><td>Workplace Safety & Health Coordinator # LTA with Tunnel Experience</td><td>175A Bencoolen Street Burlington Square</td><td>2026-11-18</td></tr>
 <tr><td>GREENMARK CONSTRUCTION PTE. LTD.</td><td>Workplace Safety & Health Coordinator #LTA</td><td>175A Bencoolen Street Burlington Square</td><td>2026-11-18</td></tr>
+<tr><td>ANTARES MANAGEMENT SERVICES PTE. LTD.</td><td>AI & Technology Intern</td><td>D09 Cairnhill</td><td>2026-11-19</td></tr>
+<tr><td>KILLINEY 88 PTE. LTD.</td><td>People and Culture Intern</td><td>Cairnhill</td><td>2026-11-19</td></tr>
+<tr><td>KINRY FOOD INGREDIENTS PTE. LTD.</td><td>Marketing & Promotion Intern</td><td>Pasir Panjang</td><td>2026-11-19</td></tr>
+<tr><td>J-POWERD</td><td>Sales & Marketing Executive (Full-time / Internship)</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>Rystad Energy</td><td>Management Consultant Intern - Summer 2027</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>VITAL SOLUTIONS PTE LTD</td><td>Operations Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>BIG 3 MEDIA PTE. LTD.</td><td>Human Resource Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>IFAST FINANCIAL PTE. LTD.</td><td>iFAST TV Content Marketing Intern</td><td>D01 Marina</td><td>2026-11-19</td></tr>
+<tr><td>SIMPLE RECRUIT</td><td>Marketing Learner</td><td>D01 Marina</td><td>2026-11-19</td></tr>
+<tr><td>JCO JEWELRY PTE. LTD.</td><td>Marketing Internship (E-commerce)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>REOLINK TECHNOLOGY PTE. LTD.</td><td>Marketing Internship (e-Commerce) / Intern Trainee</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Ai Product Management</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Fe Materials Global Category Supplier Management</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Nand Cell Reliability</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>DXC Technology Australia & New Zealand</td><td>Servicenow Developer Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>VitalAire Canada Inc</td><td>Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Roche</td><td>Safety, Health & Environment (she) Internship</td><td>Central Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Monetary Authority of Singapore (MAS)</td><td>Intern, Commercial Leasing</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>LVMH Moët Hennessy Louis Vuitton</td><td>Visual Merchandising Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Infineon</td><td>Internship - Integration Of Ai Into Reliability And Qualification Digital Workflow</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Ampol</td><td>Internship: Ai Market Intelligence - Trading & Shipping</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>WS Audiology</td><td>Intern: Product Architecture Design - Mechanical/mechatronics (jan To May 2027)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>IHG</td><td>Intern - Legal, Business Reputation And Responsibility</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>YouTrip</td><td>Social Content Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>IHG</td><td>Intern, Investment Analysis - Singapore - Starting In February 2027</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>IHG</td><td>Intern, Operations - Singapore - Starting In February 2027</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Mercedes-Benz</td><td>Intern - Leasing Sales</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>ADEPT BUSINESS CONSULTANCY PTE. LTD.</td><td>Financial Analysis Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>SINGAPORE FOCUS THEATRE LTD.</td><td>Media & Visual Content Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>MOTOR IMAGE ENTERPRISES PTE LTD</td><td>Marketing Intern</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>PRESTIGE CORPORATE SERVICES PTE. LTD.</td><td>Finance Intern (5-Day)</td><td>Marina</td><td>2026-11-19</td></tr>
+<tr><td>MS. DURIAN PTE. LTD.</td><td>Marketing Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Schonfeld</td><td>2027 Enterprise Data Intern</td><td>Central</td><td>2026-11-19</td></tr>
+<tr><td>NETS</td><td>Merchant Enablement, Merchant Business Intern</td><td>Braddell</td><td>2026-11-19</td></tr>
+<tr><td>Bcapitalgroup54</td><td>Investor Relations Operations, Intern</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Singapore Government (SGGOVTERP)</td><td>Video Analytics Intern, Properties & Facilities Management</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>State Street Corporation</td><td>Early Career Cyber Defense Centre Analyst, Officer-1</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>RAPSYS TECHNOLOGIES PTE. LTD.</td><td>Full Stack Engineer-Next.js, React, TypeScript, Node.js, Python</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Full Stack Engineer (AI products)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>NEUTRON PTE. LTD.</td><td>Fullstack Engineer (AI Platform)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>RMA CONTRACTS PTE. LTD.</td><td>IT Support Executive (Govt Sector / Onboarding in Mar / Apr 2027)</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>Immediate hiring - IT Service desk Support / IT Support</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>8 months Data Analyst #MCST#MNC ($4K to $4.5K) #NJA</td><td>Orchard</td><td>2026-11-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Data Analyst cum Administrator (8-month contract) #PLQ #NJH</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>Mercer</td><td>Intern, Rewards Consulting (may 2027 Intake)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>UGENE LABORATORY SERVICES PTE LTD</td><td>Customer Service Support cum Hygiene Auditor</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>CGS INTERNATIONAL SECURITIES SINGAPORE PTE. LTD.</td><td>Risk Analyst</td><td>Marina Bay</td><td>2026-11-19</td></tr>
+<tr><td>SFI ENERGY PTE. LTD.</td><td>Project Analyst</td><td>Little India</td><td>2026-11-19</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Financial Machine Learning)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>NANYANG TECHNOLOGICAL UNIVERSITY</td><td>Research Assistant (Cryo-EM and Membrane Protein Specialist)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Lab Analyst (Microbiology/Biotechnology)-5 days, office hours #HAC</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>REFLEX-O RECREATIONS PTE LTD</td><td>Service Maintenance technician</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>SHIMANO (SINGAPORE) PRIVATE LIMITED</td><td>Assistant Specialist (Cold Forging)</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>DAY ONE PTE. LTD.</td><td>AIRCON SERVICING TECHNICIAN</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>TRANE DISTRIBUTION PTE. LTD.</td><td>SERVICE TECHNICIAN/ ENGINEER</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>THE SUPREME HR ADVISORY PTE. LTD.</td><td>Technician (VEP) - LCYL</td><td>D01 Marina</td><td>2026-11-19</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Brand Campaign Sales Associate (Presentation Skills & Practical Experience)</td><td>Marina</td><td>2026-11-19</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Field Marketing & Sales Associate (Communication Skills & Mentorship)</td><td>Marina</td><td>2026-11-19</td></tr>
+<tr><td>NOVEX ORGANIZATION</td><td>🎉 Entry-Level Events & Marketing Assistant / No Experience Needed!</td><td>Islandwide</td><td>2026-11-19</td></tr>
+<tr><td>AXISREACH RECRUITMENT</td><td>🚀Entry-Level Marketer (Brand & Campaigns / Training Provided) ☀️</td><td>Marina</td><td>2026-11-19</td></tr>
+<tr><td>JUSTWORK</td><td>Entry Level / Junior Marketing Assistant</td><td>Singapore</td><td>2026-11-19</td></tr>
+<tr><td>VALOR ORGANISATION PTE. LTD.</td><td>[ENTRY LEVEL] Marketing & Events Associate 😊</td><td>Singapore</td><td>2026-11-19</td></tr>
 </table>
