@@ -26533,4 +26533,52 @@
 <tr><td>CSH DEVELOPMENT PTE. LTD.</td><td>HR Assistant</td><td>Singapore</td><td>2026-11-20</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>12 Months HR Admin Assistant (Jurong East) #EAT</td><td>Singapore</td><td>2026-11-20</td></tr>
 <tr><td>RECRUIT EXPRESS PTE LTD</td><td>12 Months HR Executive (Bank) - Entry Level #NJN</td><td>Singapore</td><td>2026-11-20</td></tr>
+<tr><td>Seppic Inc</td><td>Intern</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Infineon</td><td>Internship - Implementation Of Models And Algorithms For Battery Systems</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Infineon</td><td>Internship - Digital Innovation Engineering</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Singtel</td><td>People Operations Intern (jan 2027 Intake) #generalinternship</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Allianz SE</td><td>Intern, Private Equity Fund & Co-investment Ap</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Rolls-Royce</td><td>Intern, Commercial</td><td>Seletar +1</td><td>2026-11-21</td></tr>
+<tr><td>Rolls-Royce</td><td>Intern, Human Resources</td><td>Tukang</td><td>2026-11-21</td></tr>
+<tr><td>CFM International</td><td>Quality Intern</td><td>Central Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Cintra</td><td>Influencer Partnerships Intern</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Allianz Technology SE</td><td>Intern, Private Equity Fund &amp; Co-investment Ap</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Young Women’s Christian Association of Singapore</td><td>Marketing & Communications Intern</td><td>Beach Road</td><td>2026-11-21</td></tr>
+<tr><td>Workato</td><td>Intern, Product Management</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Micron Technology</td><td>Intern - Hig Hbm Product System Engineering, Media Health Reliability</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Bosch Rexroth</td><td>Intern, Corporate Communications</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>ASCLE HEALTHCARE PRIVATE LIMITED</td><td>Marketing & Design Intern</td><td>D07 Middle Road</td><td>2026-11-21</td></tr>
+<tr><td>CHARTERED SURVEY SERVICES CONSULTANTS PTE. LTD.</td><td>CAD DRAFTER INTERN</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>CINTRA CONSULTANCY PTE. LTD.</td><td>Video Editor Intern</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>MindChamps</td><td>Student Care Intern - MindSpace</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>TRADE INTELLIGENCE GLOBAL PTE. LTD.</td><td>AI Marketing Intern</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Brand Engagement Trainee (Build Your CV with Sales Experience)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Brand Marketing & Sales Trainee (Build Your CV with Sales Experience)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Marketing & Sales Trainee (Build Your CV with Sales Experience)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Direct Sales Trainee (Presentation Skills & Practical Experience)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>KAPTIVATE LLP</td><td>Financial Management Associate</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>EDUVALUE PTE. LTD.</td><td>Management Trainee</td><td>D07 Middle Road</td><td>2026-11-21</td></tr>
+<tr><td>NATURE LANDSCAPES PTE LTD</td><td>Landscape Supervisor Trainee</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>Infineon</td><td>Internship - Master Data Analyst</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>REOLINK TECHNOLOGY PTE. LTD.</td><td>Audio Algorithm Engineer / Audio, Speech, Acoustics & Sound</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>REOLINK TECHNOLOGY PTE. LTD.</td><td>Data Scientist / Large Model Algorithm Engineer</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>IKEA UK</td><td>Accounting Intern, Ipc Shopping Centre</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[No Exp, AM shift] 3 Months Pharmacy Assistant (Resume Booster) -$12/hr @ Novena #HLV</td><td>Cairnhill</td><td>2026-11-21</td></tr>
+<tr><td>YAN SANG TANG TCM PTE. LTD.</td><td>TCM Physician / 中医师 (FT/PT) Tampines</td><td>Islandwide</td><td>2026-11-21</td></tr>
+<tr><td>SUNLOVE ABODE FOR INTELLECTUALLY-INFIRMED LTD</td><td>Nursing Aide</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>HRNET VENTURES PTE. LTD.</td><td>Locum Nursing Aide / Disability Care / Woodlands / $2,200–$2,500</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>MOORE RIDGE INTERNATIONAL PTE LTD</td><td>Technician</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>SMEG SINGAPORE PTE. LTD.</td><td>Technician</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Semiconductor Equipment Technician</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>PERSOL SINGAPORE PTE. LTD.</td><td>Production Packing Operator (Technician + Packing)</td><td>D01 Marina</td><td>2026-11-21</td></tr>
+<tr><td>StaffKing Pte Ltd</td><td>[High Gross Salary Up to $8K] Manufacturing Operator/Technician - North Region - 2 ways company transport provided</td><td>Islandwide</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Vibrant Events & Outreach Associate (Start Fresh with a Fun, Driven Sales Team)</td><td>Singapore</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Brand Development Associate (Develop Strong Customer Conversation Skills)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Brand Hype & Sales Associate (Ditch the Desk & Build Real People Skills)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Outreach & Campaign Sales Associate (Personal Development & Sales Mentorship)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Client Acquisition & Sales Associate (Coaching-Focused Role & Career Growth)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Events Coordination Associate (Start Your Sales Career with Full Support)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Vibrant Events & Outreach Associate (No Cubicles, Just Great Conversations & Coaching)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Vibrant Events & Outreach Associate (No Boring Spreadsheets, Just Real Conversations)</td><td>Marina</td><td>2026-11-21</td></tr>
+<tr><td>SE7EN FRIDAY PTE. LTD.</td><td>Event Executive</td><td>Singapore</td><td>2026-11-21</td></tr>
 </table>
