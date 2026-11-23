@@ -26911,4 +26911,18 @@
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Events & Brand Promotions Associate (Clear Progression & Practical Mentorship)</td><td>Marina</td><td>2026-11-22</td></tr>
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Events & Client Engagement Executive (Learn, Practise & Grow with Our Sales Team)</td><td>Marina</td><td>2026-11-22</td></tr>
 <tr><td>ROYAL ORG PTE. LTD.</td><td>Vibrant Events & Outreach Associate (Personality Welcome, Full Sales Coaching Included)</td><td>Marina</td><td>2026-11-22</td></tr>
+<tr><td>Tencent</td><td>Global Talent Sourcing Intern</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>G85 - Full Stack Engineer (AI)</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>FPT ASIA PACIFIC PTE. LTD.</td><td>M75 - Full Stack Engineer (Python)</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>WESTERN DIGITAL (SINGAPORE) PTE. LTD.</td><td>Scientist 2, Data Science</td><td>Pasir Panjang +1</td><td>2026-11-23</td></tr>
+<tr><td>Willis Towers Watson</td><td>Internal Job Opportunity / Placement And Billing I Lateral I Analyst/senior Analyst (singapore - International)</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>KPMG Services Pte Ltd</td><td>Advisory - Consulting, Customer Transformation / Off-cycle Internship (jan 2027 To Jun 2027)</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Locum Pharmacy Technician (Clementi / Entry level / Office Hours) #HGN</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Resume Booster, Exposure to Healthcare] 6 Months Temp Pharmacy Assistant (No Exp Ok) @ West -$12/hr #HLV</td><td>Cairnhill</td><td>2026-11-23</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT HIRE* Looking for Pharmacy Assistants !!/ 3 Months, $12/hr, Satellite Pharmacy #HJY</td><td>Cairnhill</td><td>2026-11-23</td></tr>
+<tr><td>ECO SPORT PTE. LTD.</td><td>Automotive Aircon Technician</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>Staffking Pte Ltd</td><td>Operator/Technician - Semiconductor, Basic up to $2.8 +OT, High Gross $5K - $7K</td><td>Yishun Industrial Park</td><td>2026-11-23</td></tr>
+<tr><td>TALENT FIRST PTE. LTD.</td><td>Warehouse Assistants / East area</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>VERMOGEN SYSTEM</td><td>Storeman / Warehouse Assistant</td><td>Singapore</td><td>2026-11-23</td></tr>
+<tr><td>R & L MANPOWER SERVICES PTE. LTD.</td><td>Assistant Supervisor/Supervisor</td><td>Singapore</td><td>2026-11-23</td></tr>
 </table>
