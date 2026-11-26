@@ -27272,4 +27272,58 @@
 <tr><td>AXISREACH RECRUITMENT</td><td>MARKETING AND EVENT EXECUTIVE</td><td>Marina</td><td>2026-11-25</td></tr>
 <tr><td>INNOVATION ORGANIZATION PTE. LTD.</td><td>Events & Promotions Executive</td><td>Marina</td><td>2026-11-25</td></tr>
 <tr><td>NOVEX ORGANIZATION</td><td>🍀Events & Roadshows Executive [Personal Development]</td><td>Singapore</td><td>2026-11-25</td></tr>
+<tr><td>HP</td><td>College Intern - Business Analyst</td><td>South West</td><td>2026-11-26</td></tr>
+<tr><td>Richemont</td><td>Regional Marketing & Merchandising Intern (6-mth)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Razer Inc</td><td>Repair Operations Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Razer Inc</td><td>Live Commerce Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Razer Inc</td><td>Ecommerce Platform Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Micron Technology Inc</td><td>Intern - Stpg Product System</td><td>Msb</td><td>2026-11-26</td></tr>
+<tr><td>Micron</td><td>Intern - Facilities Mechanical Engineering</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Coty Inc.</td><td>Project Management Intern, Visual Merchandising</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>TOD'S SINGAPORE PTE. LIMITED</td><td>Finance Controlling Intern</td><td>D09 Cairnhill</td><td>2026-11-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>HR Intern / Recruitment Intern / No Experience Required / Training Provided #HYT</td><td>Cairnhill</td><td>2026-11-26</td></tr>
+<tr><td>HAN KUN LLP</td><td>Legal Intern</td><td>Marina</td><td>2026-11-26</td></tr>
+<tr><td>AGP LAW LLC</td><td>Legal Intern</td><td>D02 Anson</td><td>2026-11-26</td></tr>
+<tr><td>MODEC OFFSHORE PRODUCTION SYSTEMS (SINGAPORE) PTE. LTD.</td><td>Talent Management Intern</td><td>Pasir Panjang</td><td>2026-11-26</td></tr>
+<tr><td>Kering</td><td>Balenciaga Human Resource Intern</td><td>Central Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Wppproduction</td><td>Creative Production, Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>AECOM UK</td><td>Acoustic Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Reolink</td><td>Marketing Campaign Intern (western Markets)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Reolink</td><td>Product Marketing Intern (ecommerce)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Reolink</td><td>Online Marketing Intern (ecommerce)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Reolink</td><td>Global Marketing Intern (e-comm)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Ferring Pharmaceuticals</td><td>Commercial / Marketing Intern - Sg</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Appier</td><td>Office Administration Intern</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>TikTok</td><td>Service Operations And Ai Project Intern (tiktok Shop) - 2027 Start</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>AMLOGIC SINGAPORE PRIVATE LIMITED</td><td>SOC Backend Engineer - DFT</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Activate Interactive</td><td>Full Stack Engineer - A26449</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Activate Interactive</td><td>Software Engineer (python, Typescript) - A26412</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>ITCAN PTE. LIMITED</td><td>Full Stack Engineer- Node.js</td><td>Islandwide</td><td>2026-11-26</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Science Analyst</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>Infineon</td><td>Internship - Data Scientist</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>MSD</td><td>Intern, D&l Trade Compliance Data Analyst</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>MSD</td><td>Intern, D&l Data Analyst</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>EXCELTECH COMPUTERS PTE. LTD.</td><td>AI/ML Eng - ARTIFICIAL INTELLIGENCE SPECIALIST</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>BYTEDANCE PTE. LTD.</td><td>Research Engineer (AI Infrastructure) - Large Model Applications - Global Frontier Tech Recruitment Program - 2027 Start (PhD)(Singapore)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Tax Technology Consulting (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Goods & Services Tax (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Global Investment & Innovation Incentives (gi3) (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Business Tax Financial Services (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Business Tax (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - International Tax Advisory (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Global Employer Services (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Business Process Solutions (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>sea</td><td>T&l: Associate - Merger And Acquisition Tax (2027 Graduate)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>PRESTIGE AUTO EXPORT PTE. LTD.</td><td>Admin Cum Accounts Assistant</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>CABLE CARE PTE. LTD.</td><td>Accounts & Admin Assistant</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Temp Dental Assistant / Dental Surgery Assistant / Chairside Assistance / Pasir Ris Polyclinic / Up to $13/hr #HYT</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>[Resume Booster, No Exp Ok] 3 Months Temp Dental Assistant @ Pasir Ris - Up to $13/hr #HLV</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>SILTRONIC SILICON WAFER PTE. LTD.</td><td>Process technician / Engineering Assistant - (Line & Mechanical)</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>MURATA ELECTRONICS SINGAPORE (PTE) LTD</td><td>Back/Front Process Maintenance Technician (Tuas)</td><td>Tuas</td><td>2026-11-26</td></tr>
+<tr><td>MAA SPORTS SINGAPORE PTE. LTD.</td><td>Full-Time Store Associate (Hoka)</td><td>Islandwide</td><td>2026-11-26</td></tr>
+<tr><td>Rina Lee</td><td>Retail Sales & Styling Assistant</td><td>Sentosa Island</td><td>2026-11-26</td></tr>
+<tr><td>Singapore Health Services Pte Ltd</td><td>Associate Executive, Singhealth Duke-nus Transplant Centre</td><td>Singapore</td><td>2026-11-26</td></tr>
+<tr><td>RECRUITPEDIA PTE. LTD.</td><td>Administrative Assistant (6 Months Contract) /Central</td><td>Central</td><td>2026-11-26</td></tr>
+<tr><td>FIDECS BUILDING MAINTENANCE PTE. LTD.</td><td>Admin Assistant</td><td>D25 Kranji</td><td>2026-11-26</td></tr>
+<tr><td>DB GOLF TRAINING & PERFORMANCE CENTER PTE. LTD.</td><td>Accounting & Administration Assistant</td><td>Singapore</td><td>2026-11-26</td></tr>
 </table>
