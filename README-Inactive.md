@@ -27693,4 +27693,50 @@
 <tr><td>AURATALENTSG</td><td>🌈 (Training Provided) Events Coordinator Executive 🌈</td><td>D01 Marina</td><td>2026-11-27</td></tr>
 <tr><td>VALOR ORGANISATION PTE. LTD.</td><td>💬 Customer Engagement & Events Associate</td><td>D01 Marina</td><td>2026-11-27</td></tr>
 <tr><td>ONE01</td><td>EVENTS & CAMPAIGN ASSOCIATE 😆</td><td>Singapore</td><td>2026-11-27</td></tr>
+<tr><td>Stranger Soccer</td><td>Customer Experience And Growth Intern</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Investment & Finance Intern - Entry Level</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance Intern - No Experience Needed</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance Sales Associate (Entry Level & Internship)</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance Planner Intern</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance and Investment Intern (PS)</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>(WFH/REMOTE/HYBRID) Investment & Finance Intern</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance & Investment Intern</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance and Investment Internship</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Investment and Finance Analysis - Internship</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>AMEROPA ASIA PTE. LTD.</td><td>Trainee / Intern - Commodity Trading</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Student / ORD Personnel / Entry level - Finance and Investment</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Uni / Part-Time / Undergraduate / Internship - Finance & Investment</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Investment Analyst Associate (Entry Level & Internship)</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Flexi / Part-Time / Full-Time / Internship - Finance and Investment</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Finance & Investment Associate (Entry Level & Internship)</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Investment and Finance Internship</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>CATALYST RECRUITMENT AGENCY PTE. LTD.</td><td>Flexi Pay / Flexi Work / Finance and Investment Internship</td><td>D25 Kranji</td><td>2026-11-28</td></tr>
+<tr><td>BIZLINK CENTRE SINGAPORE LTD</td><td>Employment Support Team Outreach Intern</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>A. MENARINI SINGAPORE PTE. LTD.</td><td>Marketing Intern</td><td>Pasir Panjang</td><td>2026-11-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Sales & Customer Acquisition Trainee (Practical Coaching & Career Advancement)</td><td>Marina</td><td>2026-11-28</td></tr>
+<tr><td>ROYAL ORG PTE. LTD.</td><td>Event Outreach & Sales Trainee (Hands-On Learning & Team Encouragement)</td><td>Marina</td><td>2026-11-28</td></tr>
+<tr><td>JPT OPTO-ELECTRONICS PTE. LTD.</td><td>Software Engineer (C# – Industrial Automation)</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>MICRON SEMICONDUCTOR ASIA OPERATIONS PTE. LTD.</td><td>Engineer - PROBE Software</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>AAC TECHNOLOGIES PTE. LTD.</td><td>System Software Engineer</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>PIPO RESOURCE (SG) PTE. LTD.</td><td>Data Science Graduate (Global Payment) - 2027 Start</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>Google</td><td>Forward Deployed Engineer, Genai, Google Cloud (korean, English)</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>HALODATA INTERNATIONAL PTE. LTD.</td><td>Accounts Assistant</td><td>D05 Pasir Panjang</td><td>2026-11-28</td></tr>
+<tr><td>APPLIED SATELLITE TECHNOLOGY ASIA PTE. LTD.</td><td>Accounts Assistant</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Content Development)</td><td>Pasir Panjang</td><td>2026-11-28</td></tr>
+<tr><td>NATIONAL UNIVERSITY OF SINGAPORE</td><td>Research Assistant (Content development and partnerships)</td><td>Pasir Panjang</td><td>2026-11-28</td></tr>
+<tr><td>GAIA ANIMAL HOSPITAL PTE. LTD.</td><td>Veterinary Technicians @ Jalan Besar</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>GAIA ANIMAL HOSPITAL PTE. LTD.</td><td>Veterinary Technicians @ Holland Grove Road</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Lab Analyst (Chemistry Laboratory / Up $2800) #HJO</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>*URGENT HIRE* Looking for Laboratory Technicians !! / 6 Months, Up to $2400, West #HJY</td><td>D09 Cairnhill</td><td>2026-11-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>Lab Analyst (QA & Microbiology) - 2 shift/ 1-Year Contract #HAC</td><td>Islandwide</td><td>2026-11-28</td></tr>
+<tr><td>SCIENTEC CONSULTING PTE. LTD.</td><td>Lab Technician - Cosmetic, 1 year contract, Entry level</td><td>Sentosa Island</td><td>2026-11-28</td></tr>
+<tr><td>RECRUIT EXPRESS PTE LTD</td><td>PERM OT Scrub Nurse / Operating Theatre Staff Nurse / Plastic Surgery / Day Surgery / 5 Days Office Hours / Orchard Private Healthcare #HYT</td><td>Cairnhill</td><td>2026-11-28</td></tr>
+<tr><td>Lam Research</td><td>Field Service Engineer 1</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>Shangri-La Sydney</td><td>Technician</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>Lendlease</td><td>Technician - Shaw Tower</td><td>Central Singapore</td><td>2026-11-28</td></tr>
+<tr><td>EQUITY LOGISTICS (S) PTE. LTD.</td><td>Warehouse Assistant</td><td>Changi Airfreight Centre</td><td>2026-11-28</td></tr>
+<tr><td>PROSKILL WORKFORCE PTE. LTD.</td><td>Warehouse Assistant x 2</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>PEOPLEFIRST HR CONSULTANCY PTE. LTD.</td><td>Temp Admin Asst ( $12/hr / 5-6 months / AMK Area)</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>PRIME VALVE SOLUTIONS PTE. LTD.</td><td>Assistant</td><td>Singapore</td><td>2026-11-28</td></tr>
+<tr><td>FORTIFIED (S) PTE. LTD.</td><td>admin assistant</td><td>Singapore</td><td>2026-11-28</td></tr>
 </table>
